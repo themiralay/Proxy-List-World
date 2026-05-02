@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4607** proxies at the latest update. Usable proxies are below.
+> Scraper found **4616** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|48|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2865|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|72.11.150.178|6005|Canada|Toronto|HostPapa|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|36.95.27.225|8080|Indonesia|East Jakarta|PT. Telekomunikasi Indonesia|
-|13|38.211.24.146|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|18|181.111.164.211|999|Argentina|Dudignac|Telecom Argentina S.A|
-|19|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|119.93.198.210|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|8|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|9|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
