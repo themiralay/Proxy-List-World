@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|8|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 |17|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|18|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|19|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
-|20|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|19|45.38.143.90|10808|Finland|Helsinki|CGI GLOBAL LIMITED|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
