@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4202** proxies at the latest update. Usable proxies are below.
+> Scraper found **4197** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|426|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2507|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|3|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|4|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|6|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|10|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|11|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
-|15|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|190.242.181.61|999|Colombia|Villa Rica|Columbus Networks USA, Inc.|
-|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.82.23.118|5314|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|15|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|16|103.71.22.182|3128|Finland|Helsinki|I-servers LTD|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|187.49.83.164|53000|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|19|193.43.149.72|8080|Syria|Babīlā|Syrian Telecom|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
