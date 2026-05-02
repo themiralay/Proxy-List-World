@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|5|144.91.102.48|3128|France|Lauterbourg|Contabo GmbH|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
 |8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|9|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|144.91.102.48|3128|France|Lauterbourg|Contabo GmbH|
-|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 |16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
-|18|103.48.69.33|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|20|171.248.24.178|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
