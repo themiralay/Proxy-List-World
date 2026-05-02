@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.248.9.109|8090|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|11|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|17|103.136.170.55|8080|Indonesia|Tangerang|PT UNZA VITALI|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|180.232.171.210|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|103.248.9.109|8090|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|85.198.229.194|80|Poland|Bytom|Sileman Sp. z o.o.|
+|13|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|38.252.213.59|999|Peru|Oxapampa|Telcom Mikrotik Peru S.A.C|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|199.66.157.89|8080|United States|Odessa|SCT Broadband|
+|20|105.27.130.22|9812|South Africa|Sandton|SEACOM Limited Networks|
 
 
 
