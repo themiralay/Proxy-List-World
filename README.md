@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4635** proxies at the latest update. Usable proxies are below.
+> Scraper found **4603** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|15|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|38.19.39.126|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
+|11|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
+|12|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|13|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|14|192.232.48.28|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|17|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
+|18|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|19|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
+|20|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
 
 
 
