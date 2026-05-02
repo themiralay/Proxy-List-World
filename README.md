@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
-|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|3|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|5|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
 |15|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|17|103.76.107.3|8085|Indonesia|Patuk|PT Geka Solusi Utama|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
