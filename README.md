@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|180.180.109.189|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
 |11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.39.51.233|8085|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|14|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|15|187.102.211.253|999|Peru|Ventanilla|INTEL COMUNICACIONES PERÚ SAC|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|202.154.19.55|8080|Indonesia|Kertosono|DIGITNET|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|189.195.30.210|8080|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
+|19|46.8.252.17|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
