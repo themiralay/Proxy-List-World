@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5116** proxies at the latest update. Usable proxies are below.
+> Scraper found **5056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3188|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|12|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|13|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|45.38.23.211|1080|United States|Santa Clara|EGIHosting|
-|17|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|7|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|8|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|13|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|222.107.27.7|8050|South Korea|Gangdong-gu|Korea Telecom|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|148.222.137.99|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
