@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|133.242.16.174|3128|Japan|Chiyoda City|SAKURA Internet Inc.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
-|17|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|177.136.44.193|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|20|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|178.178.106.241|8080|Russia|Kuznechikha|PJSC MegaFon|
+|14|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|15|38.19.39.197|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|16|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|18|165.99.192.23|1111|Indonesia|Depok|PT IDN NUSANTARA NETWORK|
+|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|20|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
