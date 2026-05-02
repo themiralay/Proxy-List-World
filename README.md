@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
-|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|14|200.69.83.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|45.224.20.68|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|126.209.17.228|8080|Philippines|Manila|Infinivan Incorporated|
-|17|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|177.234.210.56|999|Ecuador|Cumandá|Ufinet Panama S.A.|
-|20|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
+|7|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|13|66.231.77.164|999|Ecuador|Cuenca|Cubotelecom Cia. Ltda.|
+|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|15|115.147.16.205|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
+|19|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
