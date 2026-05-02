@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|4|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
+|5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|202.58.77.76|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
 |10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|19|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|38.7.195.50|999|Chile|Santiago|Grupo ZGH SpA|
+|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|19|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
