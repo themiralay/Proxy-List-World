@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.10.71.50|8888|United States|Los Angeles|Zenlayer Inc|
-|6|202.47.185.2|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|13|103.155.190.90|8080|Indonesia|Kota Blitar|Trisula Media Data|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|212.112.121.130|8080|Kyrgyzstan|Bishkek|AKNET Ltd|
-|17|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|15|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|20|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
 
 
 
