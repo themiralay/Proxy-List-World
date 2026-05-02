@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.82.246.249|8080|Indonesia|Ciputat|PT Master Star Network|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|9|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|12|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|103.156.15.122|8087|Indonesia|Bojonegara|PT Lintas Jaringan Nusantara|
-|15|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|16|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|188.132.150.45|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|20|43.252.237.163|1111|Indonesia|West Jakarta|PT Usaha Adi Sanggoro|
+|6|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|11|103.102.14.51|1111|Indonesia|Rembang|FISNET|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|14|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|15|88.216.98.209|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|131.222.250.144|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
