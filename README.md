@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|4|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
 |5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|12|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|45.249.225.245|8080|Indonesia|Semboropasar|Bconn|
-|17|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|18|103.97.224.219|8181|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|19|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|20|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|9|188.132.150.47|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|10|103.84.177.124|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
+|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|200.107.142.39|3128|Peru|Huarango|Telefonica del Peru S.A.A.|
+|16|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|103.252.126.1|8080|Bangladesh|Benāpol|Mission Computer|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
 
 
 
