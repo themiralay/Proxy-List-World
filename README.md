@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|8|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|12|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|13|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|10|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 |14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.174.122.244|1111|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|16|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|17|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
