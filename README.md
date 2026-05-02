@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4477** proxies at the latest update. Usable proxies are below.
+> Scraper found **4333** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|12|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|103.120.221.129|8083|Bangladesh|Kafrul|Touhidul Islam Polash|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|188.72.43.145|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
-|19|144.91.102.48|3128|France|Lauterbourg|Contabo GmbH|
-|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|10|223.206.59.59|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|14|202.58.77.9|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|15|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
 
 
 
