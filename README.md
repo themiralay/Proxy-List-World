@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|2|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|12|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|171.248.24.178|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|103.98.117.26|8080|Indonesia|Jeneponto|TESOLCITYNET|
+|11|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|116.254.113.86|8080|Indonesia|Semarang|PT Media Sarana Data|
+|15|103.170.46.245|8080|India|Sirohi|Vanshika Itlam India PVT LTD|
+|16|102.0.25.184|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|121.101.130.173|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|19|103.143.105.138|8080|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|20|103.248.9.109|8090|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
 
 
 
