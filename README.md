@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|9|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|179.185.75.94|8080|Brazil|Brasília|TELEFÔNICA BRASIL S.A|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|200.24.130.146|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|190.52.108.8|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|20|181.78.44.63|999|Honduras|La Unión|Ufinet Honduras|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|117.247.233.62|8080|India|Rohtak|BSNL Internet|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|12|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|45.38.23.211|1080|United States|Santa Clara|EGIHosting|
+|17|90.174.128.42|3128|Spain|Madrid|Uni2|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
