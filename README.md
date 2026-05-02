@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|9|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|16|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|10|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|14|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|15|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|181.78.44.63|999|Honduras|La Unión|Ufinet Honduras|
+|20|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
 
 
 
