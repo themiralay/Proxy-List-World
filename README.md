@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4600** proxies at the latest update. Usable proxies are below.
+> Scraper found **4568** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|464|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|432|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2865|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|10|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|12|190.131.205.150|999|Colombia|Cartagena|Liberty Networks De Colombia S.A.S|
-|13|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|131.222.251.203|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|181.78.44.63|999|Honduras|La Unión|Ufinet Honduras|
+|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|12|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|13|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
