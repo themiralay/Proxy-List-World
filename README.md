@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.234.35.166|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|8|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|6|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|119.82.242.6|8080|Indonesia|Gubengairlangga|Indonesia Network Information Center|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|16|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|20|193.181.35.171|8118|Sweden|Stockholm|PVDataNet AB|
+|11|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|14|103.101.193.170|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|16|122.3.87.41|8080|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|188.132.249.232|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|19|103.234.35.166|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
