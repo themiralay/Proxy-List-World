@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|8|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|13|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|222.107.27.7|8050|South Korea|Gangdong-gu|Korea Telecom|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|148.222.137.99|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|45.38.23.211|1080|United States|Santa Clara|EGIHosting|
+|16|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|17|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|18|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|19|103.242.104.191|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
