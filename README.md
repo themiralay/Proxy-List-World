@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|13|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|4|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|5|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
 |14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|38.7.195.52|999|Chile|Santiago|Grupo ZGH SpA|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|103.227.24.36|8080|Indonesia|Krajan Wetan Wonojoyo|PT Sumber Data Indonesia|
+|16|182.53.143.200|8180|Thailand|Ko Kut|TOT Public Company Limited|
+|17|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|18|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
+|19|101.255.211.90|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
