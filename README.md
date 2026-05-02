@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|6|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|154.27.196.5|8080|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|16|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|20|88.216.98.209|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|7|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|13|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|16|58.69.217.221|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|18|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|20|38.7.195.51|999|Chile|Santiago|Grupo ZGH SpA|
 
 
 
