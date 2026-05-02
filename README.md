@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|8|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|12|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|15|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|38.250.126.225|999|Chile|Santiago|Cogent Communications|
-|19|200.69.83.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|17|160.250.130.72|3128|Vietnam|Thanh Khê|Phuong NGA MY|
+|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|84.51.0.61|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|20|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 
 
 
