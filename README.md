@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4543** proxies at the latest update. Usable proxies are below.
+> Scraper found **4348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2771|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|187.102.211.253|999|Peru|Ventanilla|INTEL COMUNICACIONES PERÚ SAC|
-|13|223.206.59.59|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|38.49.159.54|999|Mexico|Querétaro City|IENTC S de RL de CV|
+|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|16|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|200.10.30.19|999|Colombia|Pereira|Super Redes S.A.S|
-|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|17|180.180.109.189|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|19|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
