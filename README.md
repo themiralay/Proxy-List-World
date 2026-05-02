@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|14|154.27.196.5|8080|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|15|88.1.150.79|3128|Spain|Alovera|Telefonica de Espana SAU|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|112.78.134.134|7777|Indonesia|Jakarta|Biznet Networks|
-|18|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|18|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|19|126.209.17.228|8080|Philippines|Manila|Infinivan Incorporated|
+|20|185.198.27.38|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
