@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|9|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|103.175.240.87|8090|Indonesia|Banyumas|LDP|
-|13|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|14|103.23.196.21|8080|Indonesia|Sungai Penuh|PT Aneka Teguh Jaya|
-|15|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|17|103.177.199.67|1111|Indonesia|Lebaksiu|PT Eyza Kausa Sinergi Abadi|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|20|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|152.32.77.213|8095|Philippines|Caloocan|ComClark Network & Technology Corp|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|20|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
 
 
 
