@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
 |9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|13|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|36.95.142.35|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|14|177.135.190.101|8080|Brazil|Recife|TELEFÔNICA BRASIL S.A|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|18|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|19|36.66.195.148|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
 
 
 
