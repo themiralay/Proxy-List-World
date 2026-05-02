@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|13|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|14|160.238.65.5|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|15|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|62.201.217.243|40010|Iraq|Kelar|BAG|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|14|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|16|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|147.78.0.81|9443|United Arab Emirates|Muhadhdhib|ONEPROVIDER|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
