@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4333** proxies at the latest update. Usable proxies are below.
+> Scraper found **4386** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|223.206.59.59|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|14|202.58.77.9|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|15|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
-|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|20|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|18|103.172.42.175|8082|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|103.55.224.49|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
