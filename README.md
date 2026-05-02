@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|13|182.253.151.8|8080|Indonesia|Sukabumi|BIZNET|
-|14|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|15|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|11|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 |17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|18|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
