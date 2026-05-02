@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.130.106.73|83|India|Kalaīkunda|Opticom Networks Private Limited|
-|5|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|152.32.77.213|8095|Philippines|Caloocan|ComClark Network & Technology Corp|
-|11|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|12|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|7|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|72.11.150.178|6005|Canada|Toronto|HostPapa|
 |14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|15|202.183.236.220|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
 |16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|18|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
-|19|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
-|20|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|200.24.130.144|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
