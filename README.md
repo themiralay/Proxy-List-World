@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|103.48.68.242|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|16|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
-|20|38.253.88.242|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|43.230.129.230|8080|Indonesia|Legian|Internet Ini Saja|
+|14|201.234.53.33|3128|Peru|Lima|Level 3 Peru S.A|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|154.19.38.121|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|160.238.65.5|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|19|199.66.157.89|8080|United States|Odessa|SCT Broadband|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
