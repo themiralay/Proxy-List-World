@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|4|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|103.76.107.13|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|13|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|103.171.83.23|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
-|18|188.132.150.48|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
+|12|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|13|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|187.19.201.217|8080|Brazil|João Pessoa|Brisanet Servicos De Telecomunicacoes S.A|
+|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|177.234.194.234|999|Ecuador|Cumandá|Ufinet Panama S.A.|
+|20|212.252.71.9|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
 
 
 
