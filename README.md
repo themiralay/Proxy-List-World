@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|11|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|12|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
 |13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|18|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|1.0.171.213|8080|Thailand|Phuket|TOT Public Company Limited|
+|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
 
 
 
