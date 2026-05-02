@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|103.227.24.36|8080|Indonesia|Krajan Wetan Wonojoyo|PT Sumber Data Indonesia|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|18|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|19|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|13|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
+|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|15|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
