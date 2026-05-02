@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|222.107.27.7|8050|South Korea|Gangdong-gu|Korea Telecom|
-|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|14|103.126.87.251|8083|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|15|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|15|41.216.186.158|8080|Indonesia|Jakarta|FASTHOSTING|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|19|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|20|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 
 
 
