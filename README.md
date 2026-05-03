@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |12|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|18|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|19|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|20|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|14|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|20|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
 
 
 
