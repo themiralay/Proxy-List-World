@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|160.19.19.25|8080|Indonesia|Margahayukencana|PT Indo Telemedia Solusi|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|220.87.60.239|65001|South Korea|Gimpo-si|Korea Telecom|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|119.195.17.15|3056|South Korea|Changwon|Korea Telecom|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|4|45.126.250.34|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|9|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|202.152.194.190|8000|Indonesia|Grogol|PT. Bakrie Telecom Tbk|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|15|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|16|119.93.83.106|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 
 
 
