@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4763** proxies at the latest update. Usable proxies are below.
+> Scraper found **4795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|611|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|5|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|6|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|7|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|195.142.250.40|8080|Türkiye|Bursa|Superonline Iletisim Hizmetleri A.S.|
-|10|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|11|103.172.71.140|8989|Indonesia|Karangampel|AZNET|
-|12|38.183.146.25|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|157.15.93.82|8080|India|Agra|Onremote Telecom Private Limited|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
-|19|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
-|20|49.151.187.67|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|10|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|113.192.31.17|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|13|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|14|103.172.71.140|8989|Indonesia|Karangampel|AZNET|
+|15|101.255.211.109|8080|Indonesia|Jakarta|PT Remala Abadi|
+|16|181.188.203.88|999|Ecuador|Montalvo|Ufinet Panama S.A.|
+|17|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
