@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4199** proxies at the latest update. Usable proxies are below.
+> Scraper found **4317** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2630|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|6|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|38.180.62.47|10808|France|Paris|M247 Europe SRL|
 |9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|154.73.28.79|8080|Libya|Tripoli|Rawafed|
-|14|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|15|103.125.174.227|8080|Indonesia|Kota Tengah|PT Trinity Teknologi Nusantara|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|154.18.255.137|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|103.247.22.88|4317|Indonesia|Cikarang|PT wifian Solution|
-|19|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|14|154.73.28.79|8080|Libya|Tripoli|Rawafed|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|18|103.162.54.85|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|19|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
