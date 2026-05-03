@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4752** proxies at the latest update. Usable proxies are below.
+> Scraper found **4711** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3211|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|103.148.62.1|8080|India|Thane|Rae Internet Service Provider Private Limited|
 |7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|202.183.236.218|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
-|16|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|19|45.38.198.127|3128|United States|Santa Clara|Cloud Software - FZCO|
-|20|141.0.179.48|3389|Russia|Samara|SEVEREN-VOLGA|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|38.10.90.130|8084|Philippines|Iloilo City|Cogent Communications|
 
 
 
