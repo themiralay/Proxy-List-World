@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|103.76.109.123|1111|Indonesia|Andoolo|PT Mahawira Nusantara Grup|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|160.19.19.227|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
 |8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|87.255.8.73|10808|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|10|46.105.190.38|3128|France|Angers|OVH SAS|
-|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|46.105.190.38|3128|France|Angers|OVH SAS|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 |14|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
 |15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
 |17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|20|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|18|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.178.86.178|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
 
 
 
