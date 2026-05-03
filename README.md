@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4519** proxies at the latest update. Usable proxies are below.
+> Scraper found **4591** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2936|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|9|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |10|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|17|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
-|18|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|19|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|12|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
+|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|16|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|17|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.46.186.242|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
