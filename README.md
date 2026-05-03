@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
 |5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|144.31.164.134|11011|Germany|Frankfurt am Main|Play2go International Limited|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|144.31.164.134|11011|Germany|Frankfurt am Main|Play2go International Limited|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
