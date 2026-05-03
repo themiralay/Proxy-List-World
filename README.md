@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|7|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
-|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|9|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|10|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|103.124.137.68|8080|Indonesia|Ungaran|Global Media Data Prima|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|7|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|11|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
+|12|157.20.128.186|8080|Indonesia|Bojonegara|PT Citra Meta Data|
+|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|189.127.167.136|8080|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
