@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|49.147.126.167|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|7|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|85.112.71.208|8080|Lebanon|Beirut|TerraNet sal|
-|17|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|13|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|18|38.121.212.98|8080|Venezuela|Lecherías|Galanet Solution C.A|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
