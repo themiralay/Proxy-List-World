@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|13|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|20|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|87.255.8.73|10808|Russia|Khimki|BIG TELECOM CLOSED JSC|
+|7|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|8|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|9|119.18.146.65|10001|Bangladesh|Chittagong|BBTS Network|
+|10|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|15|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|16|178.159.94.76|3128|Italy|Rome|Aeza Group LLC|
+|17|193.181.35.171|8118|Sweden|Stockholm|PVDataNet AB|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
