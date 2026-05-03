@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |8|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|9|103.159.195.247|8080|Indonesia|Puger|PT Giga Digital Nusantara|
+|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
 |10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|103.191.196.219|8080|Indonesia|Jatibarang|PT Pangkalan Lintas Data|
-|13|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|103.250.70.195|50505|Bangladesh|Gaibandha|Next Online Ltd|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|103.94.251.91|8085|Indonesia|Dalududalu|PT Centronet Data Indonesia|
+|11|154.19.38.121|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|12|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|115.178.49.111|8080|Indonesia|Leuwiliang|NOC SIMAYA|
+|15|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
+|16|103.156.74.186|8080|Indonesia|Banjar Tengah|PT Trika Global Media|
+|17|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|162.255.110.107|8080|United States|Kennewick|Desert Winds Wireless|
+|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|20|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
 
 
 
