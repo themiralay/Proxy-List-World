@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |9|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|14|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|103.154.230.76|8090|Indonesia|Lamongan|DIGITNET|
+|12|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|103.138.145.130|8090|Bangladesh|Kishorganj|Neef IT Limited|
+|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |16|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|19|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|19|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
+|20|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
