@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|18|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|20|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|16|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
