@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|15.204.238.117|3128|United States|Reston|OVH SAS|
+|8|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|9|103.147.118.240|8080|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|15.204.238.117|3128|United States|Reston|OVH SAS|
+|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |14|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|17|180.191.233.145|8080|Philippines|Kauran|Globe Telecom|
+|18|190.52.110.111|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
