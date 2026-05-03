@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|11|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|6|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|9|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|103.160.182.80|1111|Indonesia|Karangpeton|PT Internusa Duta Makmur|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |13|46.105.190.38|3128|France|Angers|OVH SAS|
 |14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|19|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|20|103.30.31.217|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
