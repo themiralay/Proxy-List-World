@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
-|11|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|13|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|14|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
+|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|17|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|18|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
