@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|7|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|15|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|8|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|131.222.251.246|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|16|24.172.82.94|53281|United States|Charlotte|Spectrum|
 |17|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|18|101.255.157.6|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |20|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
 
 
