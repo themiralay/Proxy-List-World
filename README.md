@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5174** proxies at the latest update. Usable proxies are below.
+> Scraper found **5150** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3258|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|11|103.30.31.217|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|14|103.109.1.129|8080|Indonesia|Manokwari|SHANGTEL|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|103.82.23.118|5196|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|9|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|10|103.172.70.47|1111|Indonesia|Tangerang|AZNET|
+|11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|13|200.201.134.184|8787|Brazil|São Paulo|Telium TelecomunicaÔÔes Ltda|
+|14|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
+|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|75.109.189.86|8080|United States|College Station|Suddenlink Communications|
+|17|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|20|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
