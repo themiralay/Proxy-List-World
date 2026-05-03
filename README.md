@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|6|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|103.162.36.13|8080|Indonesia|Cileunyi|PT Lintas Satu Visi|
-|11|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|12|69.75.140.157|8080|United States|San Fernando|Spectrum|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
-|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|16|103.157.79.230|8080|Indonesia|Jakarta|EASTMEDIA|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|19|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
-|20|49.148.138.194|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|1|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|16|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
+|17|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|119.93.14.61|8082|Philippines|Villadolid|Philippine Long Distance Telephone Co.|
 
 
 
