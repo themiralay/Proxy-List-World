@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|12|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|13|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|14|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|193.181.35.171|8118|Sweden|Stockholm|PVDataNet AB|
-|20|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|4|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|12|160.238.65.5|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|37.111.53.31|8080|Myanmar|Yangon|Atom Myanmar Limited|
+|17|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
