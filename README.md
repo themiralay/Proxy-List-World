@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|14|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
+|7|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
+|8|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|9|37.111.53.31|8080|Myanmar|Yangon|Atom Myanmar Limited|
+|10|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|103.250.69.226|50505|Bangladesh|Bhatara|Next Online Ltd.|
+|16|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|20|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
 
 
 
