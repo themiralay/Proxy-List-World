@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|16|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|17|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|46.161.4.153|3333|Russia|St Petersburg|LLC "HORIZON"|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|121.101.133.220|7777|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|12|103.242.105.76|80|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
 
 
 
