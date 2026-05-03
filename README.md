@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
 |5|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|62.133.60.5|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|62.133.60.5|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|11|160.191.167.216|39212|Vietnam|Ho Chi Minh City|Huy Hoang Electronics and Telecommunications Company Limited|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|18|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|19|217.182.195.221|30001|France|Roubaix|OVH SAS|
-|20|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|10|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|103.147.118.240|8080|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|103.134.246.42|3172|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
+|16|38.172.130.238|999|Peru|Lima|Conex TV E.I.R.L|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|103.156.14.18|8080|Indonesia|Talang Ubi|PT Lintas Jaringan Nusantara|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
