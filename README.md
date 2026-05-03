@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|43.252.106.66|8080|Indonesia|Kudus|PT Lintas Data Prima|
-|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|89.43.134.34|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|16|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|135.125.97.184|32901|France|Wattrelos|OVH SAS|
+|11|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|14|103.191.169.148|8080|Indonesia|Taccipi|PT Sugi Bintang Jaya|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|103.247.23.28|9223|Indonesia|Purbalingga|PT wifian Solution|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
