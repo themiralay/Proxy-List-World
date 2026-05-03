@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|4|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|7|38.49.148.149|999|Mexico|Huamantla|IENTC S de RL de CV|
 |8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |11|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|103.71.162.32|8181|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|15|157.20.239.211|80|Indonesia|Sidodadi|PT Era Network Indonesia|
-|16|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|17|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|18|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|12|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
+|13|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|14|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|15|103.26.28.210|8080|Bangladesh|Patiya|Rabbit Internet|
+|16|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|89.43.133.200|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|19|103.163.13.14|1111|Indonesia|Pulo|PT Solusi Media Telekomunikasi|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
