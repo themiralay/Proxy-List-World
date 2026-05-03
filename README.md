@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|8|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|202.47.189.27|1111|Indonesia|Madiun|Lintas Data Prima, PT|
 |13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|16|181.78.44.63|999|Honduras|La Unión|Ufinet Honduras|
-|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|18|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|217.182.195.221|30003|France|Roubaix|OVH SAS|
+|14|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|119.18.147.224|10001|Bangladesh|Chittagong|BBTS Network|
+|17|38.7.195.52|999|Chile|Santiago|Grupo ZGH SpA|
+|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
