@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|101.255.122.174|3125|Indonesia|Bekasi|PT Remala Abadi|
-|12|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|15|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|103.188.169.160|7777|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|103.156.75.42|8989|Indonesia|Gianyar|PT Trika Global Media|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|45.78.79.225|1080|United States|Los Angeles|IT7 Networks Inc|
+|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|17|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|18|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|19|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|20|201.182.85.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
 
 
 
