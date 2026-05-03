@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|3|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|103.210.35.182|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|9|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|10|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|11|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|14|103.76.151.52|8181|Indonesia|Jabalan|PT. Java Digital Nusantara|
-|15|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|16|131.100.19.5|4321|Brazil|Colinas do Tocantins|Cleyton De Sales Costa - ME|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|201.20.95.226|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|20|38.7.223.128|999|Chile|Santiago|Grupo ZGH SPA|
+|7|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|8|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|9|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|121.91.60.68|8080|Pakistan|Rawalakot|CMPak Limited|
+|12|103.76.151.52|8181|Indonesia|Jabalan|PT. Java Digital Nusantara|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|15|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|16|103.87.171.139|32650|India|Jaipur|Tejays|
+|17|103.124.137.205|8080|Indonesia|Ungaran|Global Media Data Prima|
+|18|103.85.194.229|8888|Bangladesh|Dhaka|Automation System|
+|19|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|20|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
 
 
 
