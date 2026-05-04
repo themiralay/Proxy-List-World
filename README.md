@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|103.87.170.55|32650|India|Jaipur|and ROA|
-|13|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|14|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |15|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|16|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
