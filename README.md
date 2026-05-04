@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|11|103.106.115.118|8097|Indonesia|Sidorejo|SMSNET|
-|12|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|13|103.147.118.240|8080|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|14|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|135.125.97.184|34959|France|Wattrelos|OVH SAS|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|181.174.231.247|8082|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|15|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
