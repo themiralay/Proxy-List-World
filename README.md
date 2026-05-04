@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|8|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|16|103.174.123.4|8090|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|17|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|18|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|19|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|20|119.2.52.40|8080|Indonesia|Pugeran Maguwoharjo|GMEDIA|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|6|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|9|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|10|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|11|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|14|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|16|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
