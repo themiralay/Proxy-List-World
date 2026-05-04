@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|15|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|16|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|9|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|12|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|13|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|139.28.49.109|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|18|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|19|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|20|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
