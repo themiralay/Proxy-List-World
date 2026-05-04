@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|5|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|177.231.162.9|999|Mexico|Colima|Mega Cable, S.A. de C.V.|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|109.120.156.122|8090|Sweden|Stockholm|Aeza International LTD|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |15|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
 |16|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
 |17|171.234.50.203|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|18|103.227.187.3|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|124.16.102.108|26001|China|Chaowai|CNIC-CAS|
+|20|124.122.38.98|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
 
 
 
