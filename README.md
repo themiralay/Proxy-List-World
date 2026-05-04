@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|9|110.77.207.155|8080|Thailand|Bangkok|CAT-BB|
-|10|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|103.169.138.44|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
-|13|103.87.202.196|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|14|103.154.230.88|8090|Indonesia|Lamongan|DIGITNET|
-|15|201.159.111.121|8081|Mexico|General Escobedo|Administradora de Servicios de Internet Sandur S.A. de C.V.|
-|16|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|110.77.207.155|8080|Thailand|Bangkok|CAT-BB|
+|17|190.97.236.153|999|Venezuela|San Cristóbal|Viginet C.A|
+|18|202.180.21.210|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
 
 
 
