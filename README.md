@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4789** proxies at the latest update. Usable proxies are below.
+> Scraper found **4672** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3124|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
 |3|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
 |4|203.150.113.234|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|103.109.96.161|6321|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |7|103.109.96.130|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|9|77.239.112.220|1080|Netherlands|Eygelshoven|Intezio Worldwide Limited|
-|10|103.238.232.98|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|11|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
-|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|103.109.96.113|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|16|177.137.118.217|43265|Brazil|Torres|Digitotal Networks Telecomunicações ltda|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|77.239.112.220|1080|Netherlands|Eygelshoven|Intezio Worldwide Limited|
+|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
+|13|45.13.116.215|21537|France|Mathay|ABJP|
+|14|49.147.126.167|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|45.13.116.133|21537|France|Mathay|ABJP|
 |17|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|18|186.207.148.72|8787|Brazil|Rio Verde|Claro NXT Telecomunicacoes Ltda|
-|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|20|112.202.47.228|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|18|112.202.47.228|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
