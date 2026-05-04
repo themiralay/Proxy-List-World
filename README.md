@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|16|38.49.143.218|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|165.225.113.220|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|103.155.168.176|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|6|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|10|38.49.143.218|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|11|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|12|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|13|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|16|103.124.137.205|8080|Indonesia|Ungaran|Global Media Data Prima|
+|17|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|18|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|19|103.247.23.242|1111|Indonesia|Banyumas|PT wifian Solution|
+|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
 
 
 
