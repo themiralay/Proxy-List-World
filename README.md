@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|112.208.164.52|8082|Philippines|San Ildefonso|Philippine Long Distance Telephone Co.|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|16|103.169.255.194|1080|Indonesia|Banyuwangi|PT Master Star Network|
-|17|36.66.195.148|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|135.125.97.184|34959|France|Wattrelos|OVH SAS|
-|19|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|112.208.164.52|8082|Philippines|San Ildefonso|Philippine Long Distance Telephone Co.|
+|7|160.20.38.66|3125|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|165.101.222.18|8080|Bangladesh|Nawābganj|S.S.R.B Internet Service|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|16|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
