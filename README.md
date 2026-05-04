@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|3|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|4|171.234.50.203|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|5|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|6|38.123.220.70|999|Mexico|Loma Hermosa|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
-|9|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
-|10|45.167.124.204|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|12|45.239.48.102|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|15|186.96.97.154|999|Colombia|Santa María|TV AZTECA SUCURSAL COLOMBIA|
-|16|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|181.198.75.186|999|Ecuador|Guayaquil|Telconet S.A|
-|19|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|4|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|171.234.50.203|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|7|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|103.227.187.3|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|190.52.108.140|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|45.239.48.102|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 
 
 
