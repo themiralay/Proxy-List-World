@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|103.109.96.180|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|13|165.225.113.220|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|103.227.187.241|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|38.183.146.163|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|101.0.6.154|8080|Indonesia|North Jakarta|PT. Universal Broadband|
+|19|110.77.207.155|8080|Thailand|Bangkok|CAT-BB|
+|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 
 
 
