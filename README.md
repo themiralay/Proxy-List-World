@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4582** proxies at the latest update. Usable proxies are below.
+> Scraper found **4709** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2926|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|5|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|103.162.16.69|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|12|103.141.174.38|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|183.87.160.62|83|India|Mumbai|JPR Digital Pvt Ltd|
-|15|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|16|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|17|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|186.207.148.72|8787|Brazil|Rio Verde|Claro NXT Telecomunicacoes Ltda|
-|19|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|14|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|15|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
