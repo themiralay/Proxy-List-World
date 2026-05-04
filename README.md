@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|180.149.232.33|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|9|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|12|177.93.45.11|999|Colombia|Socha Viejo|TV AZTECA SUCURSAL COLOMBIA|
-|13|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|217.182.195.221|30000|France|Roubaix|OVH SAS|
-|16|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|20|82.138.42.48|443|Russia|Moscow|Summit Systems Ltd.|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|45.239.48.101|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|19|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
