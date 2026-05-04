@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|10|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|177.234.244.214|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|14|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
-|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|17|45.167.124.204|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|19|45.239.48.102|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
+|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|8|184.82.173.250|8080|Thailand|Roi Et|AIS-Fibre|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|12|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|13|38.191.213.171|999|Colombia|Villavicencio|Reintech SAS|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|38.211.76.153|999|Colombia|La Argentina|Cogent Communications|
+|18|45.239.48.102|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|190.60.61.61|999|Colombia|Baranoa|IFX NETWORKS COLOMBIA|
+|20|151.245.137.49|40000|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
