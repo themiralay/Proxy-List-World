@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
 |3|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|4|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
 |5|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
-|6|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
+|7|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
 |8|59.11.138.198|3128|South Korea|Suwon|Korea Telecom|
-|9|59.11.138.152|3128|South Korea|Suwon|Korea Telecom|
-|10|112.186.12.235|3128|South Korea|Yongin-si|Korea Telecom|
-|11|112.186.12.84|3128|South Korea|Yongin-si|Korea Telecom|
-|12|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|13|38.183.145.248|3125|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|103.247.21.254|1111|Indonesia|Gambolempuk|PT wifian Solution|
-|15|103.155.166.226|8181|Indonesia|Baturaden|PT Network Lintas Fiberindo|
-|16|103.203.234.142|3127|Indonesia|Banyumas|PT Nesta Indo Media|
-|17|103.203.234.41|3127|Indonesia|Banyumas|PT Nesta Indo Media|
-|18|103.109.173.171|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|19|103.231.236.233|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|20|160.25.237.163|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
+|9|112.186.12.235|3128|South Korea|Yongin-si|Korea Telecom|
+|10|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|11|59.11.138.152|3128|South Korea|Suwon|Korea Telecom|
+|12|112.186.12.84|3128|South Korea|Yongin-si|Korea Telecom|
+|13|112.186.105.137|3128|South Korea|Yongin-si|Korea Telecom|
+|14|160.25.237.73|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
+|15|171.234.50.203|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|16|116.12.45.122|9595|Indonesia|Jakarta|ADSNET|
+|17|103.231.236.233|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|18|160.25.237.163|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
+|19|103.189.223.38|8080|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|20|103.247.21.254|1111|Indonesia|Gambolempuk|PT wifian Solution|
 
 
 
