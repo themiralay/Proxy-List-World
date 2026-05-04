@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|2|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|11|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
-|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|103.19.58.134|8080|Indonesia|Jatibarang|BITSNET|
-|15|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|16|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|18|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|7|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |19|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 
 
 
