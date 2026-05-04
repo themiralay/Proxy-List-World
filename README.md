@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
+|2|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
+|3|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|10|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|11|103.160.202.174|3125|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.102.12.86|1111|Indonesia|Rembang|FISNET|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|16|135.125.97.184|34959|France|Wattrelos|OVH SAS|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|20|45.174.241.172|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
+|17|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|128.90.136.243|3128|The Netherlands|Amsterdam|Powerhouse Management, Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
