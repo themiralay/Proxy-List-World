@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
-|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|128.14.92.86|3128|Vietnam|Hanoi|Zenlayer Inc|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|201.159.99.37|8081|Mexico|General Escobedo|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|13|128.90.136.243|3128|The Netherlands|Amsterdam|Powerhouse Management, Inc.|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|19|181.78.44.63|999|Honduras|La Unión|Ufinet Honduras|
 |20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 
 
