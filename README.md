@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4262** proxies at the latest update. Usable proxies are below.
+> Scraper found **4267** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|483|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|488|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2777|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
-|7|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|8|59.11.138.198|3128|South Korea|Suwon|Korea Telecom|
-|9|112.186.105.137|3128|South Korea|Yongin-si|Korea Telecom|
-|10|112.186.12.235|3128|South Korea|Yongin-si|Korea Telecom|
-|11|112.186.12.84|3128|South Korea|Yongin-si|Korea Telecom|
-|12|59.11.138.152|3128|South Korea|Suwon|Korea Telecom|
-|13|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|3|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|6|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|7|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|8|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|9|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|124.120.232.230|8080|Thailand|Khlong Luang|TRUEBB|
+|13|115.87.213.90|80|Thailand|Bangkok|TRUEBB|
 |14|103.109.173.171|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|171.234.50.203|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|103.156.17.235|8818|Indonesia|Jatibarang|RSTNET|
-|19|115.87.213.90|80|Thailand|Bangkok|TRUEBB|
-|20|103.227.187.241|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|15|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
+|16|38.49.143.220|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|17|38.49.143.222|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|18|38.49.143.221|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|19|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
