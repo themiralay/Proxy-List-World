@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|8|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|103.87.170.55|32650|India|Jaipur|and ROA|
-|11|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|12|103.101.193.170|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
-|13|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|200.125.169.117|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|18|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
-|19|181.49.100.190|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|20|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|3|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|4|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|7|103.87.170.55|32650|India|Jaipur|and ROA|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
+|13|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|14|103.193.145.255|8081|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|15|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|16|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|38.49.143.222|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|20|45.174.243.144|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
 
 
 
