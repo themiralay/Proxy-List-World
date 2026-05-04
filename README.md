@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.166.158.99|8080|Indonesia|Telagaselaba|PT Timor Lintas Nusantara|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|16|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
-|19|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.38.190.196|3128|Germany|Limburg|2E TELEKOMUNIKASYON LTD STI|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|128.90.136.243|3128|The Netherlands|Amsterdam|Powerhouse Management, Inc.|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|16|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|38.191.211.236|999|Colombia|Fortul|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
