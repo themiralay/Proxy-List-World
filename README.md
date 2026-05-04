@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|6|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|7|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|5|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|6|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|7|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
 |8|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|9|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|124.120.232.230|8080|Thailand|Khlong Luang|TRUEBB|
-|13|115.87.213.90|80|Thailand|Bangkok|TRUEBB|
-|14|103.109.173.171|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|15|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
-|16|38.49.143.220|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|17|38.49.143.222|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|18|38.49.143.221|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|19|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|103.109.173.171|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|13|49.48.46.84|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|14|103.248.9.101|8097|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
+|15|223.206.57.212|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|115.87.213.90|80|Thailand|Bangkok|TRUEBB|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|186.96.160.220|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|19|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
