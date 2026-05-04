@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|14|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|15|38.49.143.218|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|16|203.175.102.22|3125|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
-|17|115.87.213.90|80|Thailand|Bangkok|TRUEBB|
-|18|122.3.126.95|8081|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|10|119.95.170.51|8082|Philippines|Bulacan|Philippine Long Distance Telephone Co.|
+|11|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|13|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|16|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 
 
 
