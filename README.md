@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4680** proxies at the latest update. Usable proxies are below.
+> Scraper found **4589** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2926|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|1.234.153.14|80|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|10|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|115.178.49.111|8080|Indonesia|Leuwiliang|NOC SIMAYA|
-|13|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|217.182.195.221|30000|France|Roubaix|OVH SAS|
-|18|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
-|19|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|20|103.109.173.171|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|9|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|10|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|11|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|12|193.43.140.230|8080|Syria|Dārayyā|Syrian Telecom|
+|13|165.225.113.220|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|15|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|38.49.143.221|999|Mexico|Tula de Allende|IENTC S de RL de CV|
 
 
 
