@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|12|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|13|203.150.113.234|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|14|202.93.244.66|1111|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|11|103.144.146.2|8080|Indonesia|Tulungagung|Lexxa Data|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|16|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|17|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|18|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 
 
 
