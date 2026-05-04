@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|12|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.31.235.183|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|15|15.204.151.145|3128|United States|Reston|OVH SAS|
-|16|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|122.3.126.95|8081|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|7|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|157.15.82.92|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|13|42.200.125.44|8080|Hong Kong|North Point|PCCW IMSBiz|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|103.228.246.220|1111|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|16|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|45.38.198.127|3128|United States|Santa Clara|Cloud Software - FZCO|
+|19|103.245.96.161|3214|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|20|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
