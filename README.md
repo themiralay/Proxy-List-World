@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|14|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|15|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|190.97.249.26|999|Venezuela|Mérida|Viginet C.A|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|11|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|15.204.151.145|3128|United States|Reston|OVH SAS|
+|15|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
 
 
 
