@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|151.245.137.49|40000|Netherlands|Amsterdam|Hostkey B.V.|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|103.156.75.49|8282|Indonesia|Gianyar|PT Trika Global Media|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|16|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|17|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|109.98.148.162|55555|Romania|Constanța|Romtelecom|
 
 
 
