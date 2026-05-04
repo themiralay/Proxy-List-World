@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|9|38.180.62.47|10808|France|Paris|M247 Europe SRL|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|38.191.213.171|999|Colombia|Villavicencio|Reintech SAS|
-|13|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|14|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
-|15|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|38.123.220.70|999|Mexico|Loma Hermosa|Cogent Communications|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|16|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|17|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|18|108.181.201.118|1234|United States|Dallas|Psychz Networks|
+|19|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
+|20|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
 
 
 
