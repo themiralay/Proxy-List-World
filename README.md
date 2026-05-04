@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|49.0.26.215|8080|Indonesia|Maduran|SIMS Jabar Banten Medianet|
-|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
-|15|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|16|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|103.109.96.246|2610|Bangladesh|Tongi|Digi Jadoo Broadband Ltd|
+|7|157.15.40.252|7777|Indonesia|Ponorogo|TRISARI|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|38.180.62.47|10808|France|Paris|M247 Europe SRL|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|12|31.56.48.253|26133|France|Paris|CGI GLOBAL LIMITED|
+|13|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|19|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
 
 
 
