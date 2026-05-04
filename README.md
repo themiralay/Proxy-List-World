@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|3|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|103.172.120.93|8080|Indonesia|Jagong|PT Digital Akses Nusantara|
-|7|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|8|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|15.204.151.145|3128|United States|Reston|OVH SAS|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|103.166.159.93|8080|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|103.162.16.45|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|14|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|15|38.95.77.85|6005|United States|Los Angeles|Cogent Communications|
-|16|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|12|15.204.151.145|3128|United States|Reston|OVH SAS|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|163.223.112.94|8080|Indonesia|Boyolali|PT Tekno Indo Jaya|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|19|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|20|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
