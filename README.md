@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
-|13|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|16|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
-|17|103.87.202.196|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|20|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 
 
 
