@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4650** proxies at the latest update. Usable proxies are below.
+> Scraper found **4735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|712|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|797|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2926|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|192.232.48.19|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|13|103.155.199.21|3128|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|14|113.192.31.165|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|15|103.157.79.230|8080|Indonesia|Jakarta|EASTMEDIA|
-|16|103.179.182.241|8070|Indonesia|Genteng|PT Cahaya Solusindo Internusa|
-|17|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|18|103.134.246.42|3172|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|3|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|4|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|2.57.218.130|8080|Georgia|Tbilisi|Multisoft LLC|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|202.58.77.76|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|38.7.195.50|999|Chile|Santiago|Grupo ZGH SpA|
+|15|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|103.122.0.52|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|17|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|18|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|19|163.223.150.21|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|20|89.43.133.151|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
 
 
 
