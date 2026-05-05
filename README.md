@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
-|8|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|9|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|13|181.78.208.227|999|Colombia|Prado-Sevilla|IFX Networks Argentina S.R.L|
-|14|5.175.151.66|8080|Iraq|Baghdad|Super Cell Network for Internet Services LTD|
-|15|163.223.112.94|8080|Indonesia|Boyolali|PT Tekno Indo Jaya|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
-|18|202.58.77.7|7777|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|157.15.67.49|8080|Indonesia|Tulungagung|TRITAMA|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|5|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|8|193.181.35.138|8118|Sweden|Stockholm|PVDataNet AB|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|11|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|14|181.114.61.17|8085|Argentina|Villa Ramallo|INTERAIR|
+|15|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
+|16|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|17|103.86.117.27|8090|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|18|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
+|19|112.208.234.164|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|20|102.0.10.6|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 
 
 
