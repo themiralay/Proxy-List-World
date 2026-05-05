@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|12|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|13|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|14|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|115.127.178.10|2565|Bangladesh|Dhaka|BRACNet Limited|
+|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
