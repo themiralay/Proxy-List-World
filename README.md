@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.157.79.58|8080|Indonesia|Jakarta|EASTMEDIA|
-|5|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|13|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|38.180.121.135|10808|Netherlands|Amsterdam|Scalaxy B.V.|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|7|103.189.11.63|3838|Bangladesh|Comilla|Digicon Telecommunication Ltd|
+|8|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
+|11|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|12|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|13|190.128.134.66|999|Paraguay|Mariano Roque Alonso|Telecel S.A.|
+|14|116.171.106.26|3443|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|103.109.96.62|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|18|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|19|103.180.118.174|6789|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|20|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
 
 
 
