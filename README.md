@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|103.155.167.149|8181|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |8|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|12|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|102.68.79.213|8080|Kenya|Nairobi|Unwired Communications Ltd|
-|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|17|202.58.77.7|7777|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|19|103.154.230.80|8090|Indonesia|Lamongan|DIGITNET|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|176.88.166.165|8080|Turkey|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|18|114.141.50.210|8080|Indonesia|Purwakarta|PT Cyberplus Media Pratama|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
