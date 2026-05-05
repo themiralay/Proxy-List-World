@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.156.75.84|8080|Indonesia|Gianyar|PT Trika Global Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|13|82.114.228.67|1080|Russia|Saratov|SCTS|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|103.156.75.84|8080|Indonesia|Gianyar|PT Trika Global Media|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|36.50.56.165|8080|Indonesia|Sawangan|PT Andromega Data Nusantara|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|104.128.138.186|1080|Germany|Frankfurt am Main|First Server Limited|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|45.13.116.133|21537|France|Mathay|ABJP|
+|15|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
