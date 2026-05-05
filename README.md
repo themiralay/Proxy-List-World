@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|1|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|193.181.35.138|8118|Sweden|Stockholm|PVDataNet AB|
-|8|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
-|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|82.114.228.67|1080|Russia|Saratov|SCTS|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|14|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|49.147.124.189|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|160.20.39.18|3125|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|49.147.120.78|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|7|103.93.93.209|8089|Indonesia|Pandaan|MYRISE|
+|8|103.76.109.74|1111|Indonesia|Utan|PT Mahawira Nusantara Grup|
+|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|10|38.194.253.114|999|Mexico|Apaseo el Alto|IENTC S de RL de CV|
+|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|38.35.247.144|999|Mexico|La Viña|Optoenlaces SA de CV|
+|14|186.96.162.207|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|107.173.211.190|3128|United States|Los Angeles|HostPapa|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
