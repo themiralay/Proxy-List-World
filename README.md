@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|34.230.54.214|1080|United States|Ashburn|Amazon.com, Inc.|
 |5|34.230.54.214|1080|United States|Ashburn|Amazon.com, Inc.|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|34.230.54.214|1080|United States|Ashburn|Amazon.com, Inc.|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|17|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|38.194.251.246|999|Mexico|Mesas de Acosta|IENTC S de RL de CV|
+|10|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
+|11|103.156.75.215|9980|Indonesia|Gianyar|PT Trika Global Media|
+|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
