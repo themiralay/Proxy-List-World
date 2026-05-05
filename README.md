@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5802** proxies at the latest update. Usable proxies are below.
+> Scraper found **6024** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|971|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|971|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|971|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|102|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1576|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|156|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3036|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|4|103.143.196.98|3125|Indonesia|Kendal|JERNIHNETWORK|
-|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|8|203.150.113.26|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|101.255.211.109|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|16|154.27.196.10|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|17|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
-|18|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
-|19|93.77.181.116|8888|Russia|Moscow|Yandex.Cloud LLC|
-|20|202.6.206.78|8082|Philippines|Surigao City|JAT I.T. SERVICES|
+|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|4|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|154.27.196.124|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|11|154.27.196.77|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|12|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|13|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|154.27.196.10|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|20|38.199.26.58|999|Colombia|Armenia|Renoca Group SRL|
 
 
 
