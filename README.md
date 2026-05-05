@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4334** proxies at the latest update. Usable proxies are below.
+> Scraper found **4392** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2761|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|9|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|116.102.38.65|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|131.222.246.244|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
-|14|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
-|15|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|9|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
+|13|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|89.43.135.9|8080|Syria|Manbij|High Speed For Internet Services L.L.C|
+|16|201.139.115.206|8082|Mexico|Puebla City|Transtelco Inc|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|19|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|20|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
 
 
 
