@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|650|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|650|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|650|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|103.169.41.58|3125|Indonesia|Medan|Telnet Indonesia|
 |5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|154.27.196.124|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|154.27.196.77|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|12|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|13|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|13|154.27.196.77|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|14|190.14.249.111|8080|Colombia|Santana|Media Commerce Partners S.A|
 |15|154.27.196.10|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|20|38.199.26.58|999|Colombia|Armenia|Renoca Group SRL|
+|16|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|17|138.124.80.181|3128|Finland|Helsinki|Global Connectivity Solutions LLP|
+|18|94.131.122.129|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|19|154.27.196.124|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
