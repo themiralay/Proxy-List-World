@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|103.246.79.146|3125|Indonesia|Randudongkal|PT Saka Media Komunika|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|38.199.88.1|999|Guatemala|Guatemala City|INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|103.35.191.173|1082|United States|Secaucus|WorkTitans B.V.|
-|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|160.22.134.32|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
+|5|203.190.55.134|8090|Indonesia|West Jakarta|PT POWER TELECOM|
+|6|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|7|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|8|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|9|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|10|160.191.130.243|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
+|11|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|12|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|13|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|17|103.51.205.95|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|20|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
 
 
 
