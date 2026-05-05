@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4426** proxies at the latest update. Usable proxies are below.
+> Scraper found **4434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|688|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2761|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|12|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|13|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|38.191.193.203|999|Colombia|Paispamba|TV&MÁS S.A.S|
-|17|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|103.155.167.149|8181|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|102.68.79.213|8080|Kenya|Nairobi|Unwired Communications Ltd|
+|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|17|202.58.77.7|7777|Indonesia|Surabaya|PT Data Buana Nusantara|
+|18|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|19|103.154.230.80|8090|Indonesia|Lamongan|DIGITNET|
 |20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
