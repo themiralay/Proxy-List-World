@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|6|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|38.46.233.146|8080|Indonesia|Salatiga|PT CYB Media Group|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|116.102.38.65|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|198.244.254.77|3128|United Kingdom|London|OVH SAS|
-|14|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
-|15|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
-|16|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.101.216.70|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|20|38.49.143.222|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|171.234.50.242|5116|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|9|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|13|116.102.38.65|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
+|15|201.139.115.206|8082|Mexico|Puebla City|Transtelco Inc|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|18|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|19|116.80.96.90|3172|Japan|Wakabayashi|InfoSphere|
+|20|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
 
 
 
