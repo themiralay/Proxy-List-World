@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|77.232.142.164|3128|Russia|Moscow|Aeza International LTD|
-|20|185.234.66.82|1082|Turkey|Izmir|WorkTitans B.V.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|146.56.182.165|3128|South Korea|Seoul|Oracle Corporation|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|103.80.214.43|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|18|46.250.242.134|8080|United Kingdom|London|Contabo Asia Private Limited|
+|19|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|20|134.209.153.66|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
