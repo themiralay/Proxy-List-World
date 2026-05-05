@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.162.16.40|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|183.98.143.134|8078|South Korea|Incheon|Korea Telecom|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.180.118.174|6789|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|188.121.168.60|8080|Slovakia|Pezinok|Slovanet a.s.|
+|16|119.18.147.224|10001|Bangladesh|Chittagong|BBTS Network|
+|17|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|18|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|116.80.93.67|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
