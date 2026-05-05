@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|37.59.110.73|80|France|Roubaix|OVH SAS|
-|10|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
