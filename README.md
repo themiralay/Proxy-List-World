@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|2|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.97.88.47|3128|Netherlands|Amsterdam|Melbikomas UAB|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|103.87.169.204|32650|India|Jaipur|and ROA|
 |12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|19|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
+|16|46.62.188.254|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|89.167.98.117|43029|Finland|Helsinki|Hetzner Online GmbH|
+|19|141.11.93.27|8080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
