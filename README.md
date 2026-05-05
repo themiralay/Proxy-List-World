@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|163.223.116.163|3128|Indonesia|Kuningan|PT Signall Network Nusantara|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
-|12|200.39.137.34|999|Chile|Valparaíso|Iconex SPA|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|45.71.186.213|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|20|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|49.147.124.189|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|9|103.76.109.74|1111|Indonesia|Utan|PT Mahawira Nusantara Grup|
+|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|11|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|12|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|13|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|198.23.189.151|59394|United States|Buffalo|Electro Nebula LLC|
+|18|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
