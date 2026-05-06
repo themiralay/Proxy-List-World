@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
 |10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|80.92.204.47|1082|Russia|Moscow|WorkTitans B.V.|
-|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|15|212.108.115.57|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|45.71.186.210|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|19|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|20|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|16|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|17|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
