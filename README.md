@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1008|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1008|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1008|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|621|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|621|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|621|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|116.80.96.162|3172|Japan|Wakabayashi|InfoSphere|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|7|154.19.39.230|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|103.156.17.237|8818|Indonesia|Ngamprah|RSTNET|
+|7|103.247.13.143|8080|Indonesia|Magelang|TERABIT|
 |8|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|117.18.20.42|8080|Indonesia|Blitar|PT ALUCIO|
-|11|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|12|103.35.191.174|1081|United States|Secaucus|WorkTitans B.V.|
-|13|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|19|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|117.18.20.42|8080|Indonesia|Blitar|PT ALUCIO|
+|12|162.255.110.107|8080|United States|Kennewick|Desert Winds Wireless|
+|13|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
+|14|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|103.154.230.246|8090|Indonesia|Lamongan|DIGITNET|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
