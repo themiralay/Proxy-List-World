@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|195.58.48.148|1080|Russia|St Petersburg|LLC Baxet|
-|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|195.58.48.148|1080|Russia|St Petersburg|LLC Baxet|
 |8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|10|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|182.160.127.126|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|182.160.121.66|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|216.106.179.216|49152|United States|Dallas|GTHost|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|182.160.127.126|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|85.117.56.43|8080|Georgia||Caucasus Online Ltd.|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
