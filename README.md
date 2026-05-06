@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|4|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|38.211.245.91|999|Argentina|Maipú|Latencia 0 SA|
-|15|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
+|2|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|58.69.250.43|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
