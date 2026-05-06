@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|989|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|989|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|989|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|702|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|702|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|702|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|7|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|8|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|9|38.123.220.52|999|Mexico|Manzana Primera la Capilla|Cogent Communications|
-|10|15.204.151.148|3128|United States|Reston|OVH SAS|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|181.119.82.55|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|18|38.199.67.10|999|Colombia|Bogotá|M&B Soluciones Peru SAC|
-|19|124.217.99.58|5050|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|20|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|11|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
