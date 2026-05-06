@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4880** proxies at the latest update. Usable proxies are below.
+> Scraper found **4921** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|256|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|260|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|651|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3016|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|13|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|186.207.148.72|8787|Brazil|Rio Verde|Claro NXT Telecomunicacoes Ltda|
-|18|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|11|103.251.232.12|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|15|200.24.130.145|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|17|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
+|20|82.114.228.67|1080|Russia|Saratov|SCTS|
 
 
 
