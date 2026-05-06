@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|967|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|967|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|967|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|703|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|703|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|703|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|5|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|6|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|7|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|8|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
-|9|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|10|117.18.20.42|8080|Indonesia|Blitar|PT ALUCIO|
-|11|203.150.128.176|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|12|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|13|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
-|14|103.227.187.19|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|15|103.35.191.174|1081|United States|Secaucus|WorkTitans B.V.|
-|16|103.147.118.67|8080|Indonesia|Boyolali|PT.Bestcamp Prima Data|
-|17|103.210.250.38|3125|Indonesia|Temanggung|PT Cmdj Network Solution|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|144.124.244.78|1080|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|45.174.243.142|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.210.250.38|3125|Indonesia|Temanggung|PT Cmdj Network Solution|
+|5|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|6|117.18.20.42|8080|Indonesia|Blitar|PT ALUCIO|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|10|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
+|11|103.247.23.28|9223|Indonesia|Purbalingga|PT wifian Solution|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|17|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|18|94.131.106.230|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|94.131.106.231|1081|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
