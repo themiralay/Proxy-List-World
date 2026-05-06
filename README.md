@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|876|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|876|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|876|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|9|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|10|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|11|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
-|12|116.12.46.243|9595|Indonesia|Jakarta|ADSNET|
-|13|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|14|180.191.232.48|5050|Philippines|San Pedro|Globe Telecom|
-|15|103.158.155.188|8080|Indonesia|Bakalan|CUBIESPOT|
-|16|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|19|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|113.192.12.24|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|7|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|8|116.12.46.243|9595|Indonesia|Jakarta|ADSNET|
+|9|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|10|107.173.42.121|7890|United States|Buffalo|HostPapa|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|103.175.202.163|8090|Indonesia|Kasarangan|PT Ameera Mega Buana|
+|13|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|14|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|180.191.232.48|5050|Philippines|San Pedro|Globe Telecom|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|126.209.17.228|8080|Philippines|Manila|Infinivan Incorporated|
 
 
 
