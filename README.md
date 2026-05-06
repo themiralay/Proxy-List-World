@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
