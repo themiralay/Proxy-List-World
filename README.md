@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|43.252.106.66|8080|Indonesia|Kudus|PT Lintas Data Prima|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|115.136.121.54|3128|South Korea|Songpa-gu|LG POWERCOMM|
-|20|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|4|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|115.136.121.54|3128|South Korea|Songpa-gu|LG POWERCOMM|
+|17|138.186.187.218|8080|Brazil|Itaquaquecetuba|AltaNet Telecom e Inf. LTDA-ME|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|20|112.198.138.29|8082|Philippines|General Trias|Globe Telecom|
 
 
 
