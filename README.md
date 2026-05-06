@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|103.247.14.221|8080|Indonesia|Magelang|TERABIT|
-|7|116.12.45.122|9595|Indonesia|Jakarta|ADSNET|
-|8|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|9|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|10|103.13.235.26|8080|Indonesia|Kota Sambas|PT Disafa Cahaya Utama|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|14|103.164.229.153|8080|Indonesia|Kudus|PT Muria Data Utama|
-|15|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|16|103.188.168.65|8080|Indonesia|Madan|PT Lintas Jaringan Nusantara|
-|17|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|18|210.79.141.138|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|6|103.171.161.96|9090|Indonesia|Cikarang|MYREPUBLIC|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|38.183.146.25|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|157.20.207.29|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|10|103.136.170.55|8080|Indonesia|Tangerang|PT UNZA VITALI|
+|11|103.13.235.26|8080|Indonesia|Kota Sambas|PT Disafa Cahaya Utama|
+|12|103.224.65.89|8080|Indonesia|Jember|BLAMBANGAN|
+|13|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|14|103.247.14.221|8080|Indonesia|Magelang|TERABIT|
+|15|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|103.164.229.153|8080|Indonesia|Kudus|PT Muria Data Utama|
+|18|210.87.125.57|8080|Indonesia|Pare|CV Brawijaya Giga Network|
+|19|103.172.197.231|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|210.79.141.138|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
 
 
 
