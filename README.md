@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.233.18|5050|Philippines|General Santos|Globe Telecom|
-|2|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|3|103.175.240.95|3125|Indonesia|Pekalongan|LDP|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|12|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|154.18.255.137|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|163.223.150.97|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|38.224.231.81|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|103.56.80.37|8080|Indonesia|Paseh|PT Jaringan Citra Mandiri|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|38.183.146.53|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|8|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|9|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|10|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|11|180.191.233.18|5050|Philippines|General Santos|Globe Telecom|
+|12|103.175.240.95|3125|Indonesia|Pekalongan|LDP|
+|13|103.231.236.234|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|14|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.147.118.67|8080|Indonesia|Boyolali|PT.Bestcamp Prima Data|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
