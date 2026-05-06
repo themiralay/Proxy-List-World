@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|10|31.56.78.170|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|16|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|103.109.96.232|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|19|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
