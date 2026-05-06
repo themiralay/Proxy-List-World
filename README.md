@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4368** proxies at the latest update. Usable proxies are below.
+> Scraper found **4293** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|512|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|437|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2583|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|2|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|11|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|12|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|103.251.232.40|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
-|15|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
-|16|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|18|103.180.126.138|8080|Indonesia|Jakarta|PT Alam Media Data|
-|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|20|116.80.49.66|3172|Japan|Wakabayashi|InfoSphere|
+|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|3|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|9|191.97.14.189|999|Colombia|Muzo|TV AZTECA SUCURSAL COLOMBIA|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|13|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|43.252.106.66|8080|Indonesia|Kudus|PT Lintas Data Prima|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
