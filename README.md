@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|1|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|12|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|13|216.106.179.216|49152|United States|Dallas|GTHost|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|82.114.228.67|1080|Russia|Saratov|SCTS|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|38.127.179.174|37234|United States|Washington|Cogent Communications|
-|20|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|103.153.62.246|8181|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|103.176.96.22|8080|Indonesia|Bekasi|PT Global Sarana Elektronika|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|16|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|17|38.210.1.180|999|Peru|Lima|Loa Network|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|188.134.85.189|8118|Russia|St Petersburg|Interzet|
 
 
 
