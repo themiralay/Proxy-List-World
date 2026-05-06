@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|12|88.216.98.199|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|13|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
+|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 |18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
 
 
 
