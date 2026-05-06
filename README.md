@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5517** proxies at the latest update. Usable proxies are below.
+> Scraper found **5540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|240|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1172|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1195|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3016|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
 |4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
-|16|182.160.106.100|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|18|188.134.85.189|8118|Russia|St Petersburg|Interzet|
-|19|182.160.106.54|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
+|14|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|94.131.106.231|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
