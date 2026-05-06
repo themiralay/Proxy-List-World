@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|38.211.245.98|999|Argentina|Maipú|Latencia 0 SA|
-|15|38.211.245.92|999|Argentina|Maipú|Latencia 0 SA|
-|16|38.211.245.105|999|Argentina|Maipú|Latencia 0 SA|
-|17|38.211.245.107|999|Argentina|Maipú|Latencia 0 SA|
-|18|38.211.245.102|999|Argentina|Maipú|Latencia 0 SA|
-|19|38.211.245.101|999|Argentina|Maipú|Latencia 0 SA|
-|20|38.211.245.43|999|Argentina|Maipú|Latencia 0 SA|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|8|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|9|103.97.140.71|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|10|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|103.118.102.98|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|13|180.191.230.134|5050|Philippines|Mandaue City|Globe Telecom|
+|14|103.131.232.9|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|15|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|103.121.199.138|62797|Indonesia|Caringin|PT Parsaoran Global Datatrans|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
