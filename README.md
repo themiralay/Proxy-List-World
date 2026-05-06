@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|216.106.179.216|49152|United States|Dallas|GTHost|
-|3|216.106.179.216|49152|United States|Dallas|GTHost|
+|1|183.98.143.134|8078|South Korea|Incheon|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|216.106.179.216|49152|United States|Dallas|GTHost|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|163.227.248.17|8181|Indonesia|Sukabumi|PT Rajasa Sinergi Komunikasi|
-|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|45.229.16.49|999|Ecuador|Babahoyo|Turbonet S.A.|
-|16|131.222.251.204|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|18|190.60.58.236|999|Colombia|Saldaña|IFX NETWORKS COLOMBIA|
-|19|190.60.47.62|999|Colombia|Malambo|IFX NETWORKS COLOMBIA|
-|20|38.191.161.254|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|88.216.98.236|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|13|216.106.179.216|49152|United States|Dallas|GTHost|
+|14|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|15|181.119.184.38|999|Ecuador|Guayaquil|IFX Networks Argentina S.R.L|
+|16|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|17|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|103.71.162.32|8181|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
+|20|223.84.151.86|30004|China|Jinrongjie|China Mobile communications corporation|
 
 
 
