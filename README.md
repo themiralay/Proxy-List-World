@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|191.97.14.189|999|Colombia|Muzo|TV AZTECA SUCURSAL COLOMBIA|
-|15|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|38.211.245.18|999|Argentina|Maipú|Latencia 0 SA|
+|10|38.211.245.130|999|Argentina|Maipú|Latencia 0 SA|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|38.211.245.92|999|Argentina|Maipú|Latencia 0 SA|
+|13|38.211.245.34|999|Argentina|Maipú|Latencia 0 SA|
+|14|38.211.245.91|999|Argentina|Maipú|Latencia 0 SA|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|38.211.245.94|999|Argentina|Maipú|Latencia 0 SA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|19|38.211.245.90|999|Argentina|Maipú|Latencia 0 SA|
+|20|115.127.176.210|2589|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
