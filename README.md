@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|694|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|694|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|694|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|769|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|769|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|769|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|9|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|10|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|16|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|7|122.52.65.132|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|9|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|10|103.162.16.40|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|13|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|14|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|18|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|19|213.220.3.38|3128|Spain|Zaragoza|YSZ TRADING CO., LIMITED|
+|20|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
 
 
 
