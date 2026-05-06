@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|5|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|58.147.186.31|3125|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
 |7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.141.174.38|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|18|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
