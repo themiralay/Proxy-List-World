@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|165.101.102.200|8088|Philippines|Quezon City|iRateNet Solutions|
+|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|11|180.191.230.134|5050|Philippines|Mandaue City|Globe Telecom|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|103.80.214.41|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|14|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|15|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|16|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|160.19.19.9|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|20|180.191.231.122|8080|Philippines|Mandaue City|Globe Telecom|
 
 
 
