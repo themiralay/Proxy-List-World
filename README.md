@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|203.150.113.182|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|18|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
 
 
 
