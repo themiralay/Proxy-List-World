@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|154.19.39.209|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|201.164.60.74|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|118.67.219.130|8080|Bangladesh|Dhaka|InterCloud Limited|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|138.59.11.209|999|Venezuela|Tinaquillo|Distribuidora Ofic Tech De Venezuela C.A.|
-|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|170.78.208.230|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|222.107.27.7|8017|South Korea|Gangdong-gu|Korea Telecom|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|45.185.241.201|999|Mexico|Nogales|NGX Networks|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|175.158.44.21|3125|Indonesia|Jakarta|CBNNAP|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|138.59.10.112|999|Venezuela|Tinaquillo|Distribuidora Ofic Tech De Venezuela C.A.|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|201.164.60.74|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
