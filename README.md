@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|13|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|186.5.94.216|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
-|16|45.228.233.78|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|19|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|20|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|15|120.28.194.47|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|16|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|18|82.114.228.67|1080|Russia|Saratov|SCTS|
+|19|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
+|20|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
 
 
 
