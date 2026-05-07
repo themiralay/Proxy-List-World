@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|203.150.113.182|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
-|11|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|14|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|89.223.122.157|3128|Russia|St Petersburg|vds|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|203.150.113.182|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
+|10|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
+|11|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
+|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
