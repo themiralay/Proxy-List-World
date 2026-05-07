@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|4|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|38.49.152.195|999|Mexico|Irapuato|IENTC S de RL de CV|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|8.243.162.34|3128|Colombia|Angelópolis|Cirion Technologies Solutions|
-|14|190.97.236.155|999|Venezuela|San Cristóbal|Viginet C.A|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 |15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
+|17|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|18|190.52.110.63|999|Venezuela|Caracas|Gold Data Colombia|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
