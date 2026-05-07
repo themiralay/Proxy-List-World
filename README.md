@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|13|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|38.127.172.7|37234|United States|Washington|Cogent Communications|
-|16|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|88.216.98.211|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|49.147.107.185|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|13|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 
 
 
