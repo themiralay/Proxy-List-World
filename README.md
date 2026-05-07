@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|9|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|14|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|15|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|82.114.228.67|1080|Russia|Saratov|SCTS|
-|18|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|3|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|4|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|5|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
