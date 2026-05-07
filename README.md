@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|103.97.231.197|8080|Indonesia|Jakarta|PT Bina Solusi Sejahtera|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|82.114.228.67|1080|Russia|Saratov|SCTS|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|16|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
