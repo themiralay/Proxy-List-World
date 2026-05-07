@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|2|182.253.109.85|8080|Indonesia|Semarang|Biznet Metronet|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|223.205.26.102|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|201.234.96.45|999|Mexico|Mexico City|Level 3 Communications, Inc.|
 |5|182.53.77.220|8080|Thailand|Phichai|TOT Public Company Limited|
-|6|58.136.87.224|8080|Thailand|Pattaya|AIS-Fibre|
-|7|182.52.66.6|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|38.7.23.201|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|103.158.242.58|83|India|Hyderabad|Willaegis Online Private Limited|
-|12|223.204.91.243|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|13|204.157.251.213|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|24.152.59.10|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|16|201.234.96.45|999|Mexico|Mexico City|Level 3 Communications, Inc.|
-|17|181.78.204.29|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|18|181.225.107.53|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|49.48.43.196|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|167.250.22.145|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|6|38.7.23.201|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
+|7|49.48.46.152|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|223.205.26.102|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|24.152.59.10|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|14|200.110.173.240|999|Colombia|Medellín|Media Commerce Partners S.A|
+|15|103.158.242.58|83|India|Hyderabad|Willaegis Online Private Limited|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|181.225.107.53|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|203.150.113.182|57322|Thailand|Ang Thong|Internet Thailand Company Ltd.|
 
 
 
