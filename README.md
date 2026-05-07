@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|1|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
 |8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|170.246.176.222|3182|Argentina|Venado Tuerto|NORBERTO CARLOS WEHRLI (INFORMÁTICA VENADO)|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|154.12.94.120|1081|Hong Kong|Mong Kok|Cogent Communications|
+|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|14|31.134.120.124|1214|Ukraine|Kyiv|FOP Demchuk Sergiy Olexandrovuch|
+|15|2.27.11.170|3128|United States|Orem|Ace Data Centers II|
+|16|190.52.108.140|999|Venezuela|Caracas|Gold Data USA Inc|
 |17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|19|38.211.245.108|999|Argentina|Maipú|Latencia 0 SA|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|43.252.238.166|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
