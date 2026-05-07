@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|103.157.79.230|8080|Indonesia|Jakarta|EASTMEDIA|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|20|103.46.186.140|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
 
 
 
