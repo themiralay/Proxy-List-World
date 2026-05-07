@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|210.87.74.236|1080|Indonesia|Bilo|PT.Global Media Data Prima|
+|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|7|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|213.35.113.150|6969|Singapore|Singapore|Oracle Corporation|
-|17|103.114.52.130|8080|Indonesia|Gatak|Proxy-registered|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|20|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
