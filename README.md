@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|6|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|31.6.42.53|8888|Switzerland|Zurich|YHC|
+|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|7|82.114.228.67|1080|Russia|Saratov|SCTS|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|103.134.245.9|3172|Indonesia|Tabanan|Wisuandha Network Globalindo|
-|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|88.216.98.221|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|16|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|19|190.237.238.26|999|Peru|Lima|TDP-GRS|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|18|176.100.39.55|3128|Germany|Frankfurt am Main|Florian Kolb|
+|19|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
