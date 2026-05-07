@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|202.46.145.57|3417|Indonesia|Jakarta|Pt Mithaharum Abadi|
-|15|180.191.230.134|5050|Philippines|Mandaue City|Globe Telecom|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|202.46.145.57|3417|Indonesia|Jakarta|Pt Mithaharum Abadi|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|19|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
