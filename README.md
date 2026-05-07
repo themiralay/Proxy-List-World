@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|20|157.10.90.47|8080|Indonesia|Ponorogo|PNGWIFI|
+|1|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|11|103.109.96.41|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|12|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|88.255.49.113|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
+|15|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
