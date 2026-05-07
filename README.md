@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5046** proxies at the latest update. Usable proxies are below.
+> Scraper found **4986** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|989|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2767|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|1|210.87.74.236|1080|Indonesia|Bilo|PT.Global Media Data Prima|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|5.161.196.81|8888|United States|Ashburn|Hetzner Online GmbH|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|5.161.196.81|8888|United States|Ashburn|Hetzner Online GmbH|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
