@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|1|121.130.199.80|24007|South Korea|Gwangjin-gu|Korea Telecom|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|5|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|10|109.120.185.119|1080|Finland|Helsinki|Aeza International LTD|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|103.132.54.18|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|20|23.224.193.46|3128|United States|Los Angeles|Cnservers LLC|
+|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|109.120.185.119|1080|Finland|Helsinki|Aeza International LTD|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|103.156.17.132|8070|Indonesia|Jatibarang|RSTNET|
+|17|185.225.40.122|8080|Syria|Qadsayyā|sy-samaweb|
+|18|103.180.126.235|8080|Indonesia|Jakarta|PT Alam Media Data|
+|19|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
