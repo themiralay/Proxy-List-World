@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|103.147.118.240|8080|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|144.31.159.23|1080|Germany|Frankfurt am Main|Netgrid Host LTD|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|144.31.159.23|1080|Germany|Frankfurt am Main|Netgrid Host LTD|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|103.106.219.213|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|38.191.200.250|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|20|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|4|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|5|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|82.114.228.67|1080|Russia|Saratov|SCTS|
+|9|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|10|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|11|88.216.98.209|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|17|200.10.28.254|999|Colombia|Manizales|Super Redes S.A.S|
+|18|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|19|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|20|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
