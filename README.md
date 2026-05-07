@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4520** proxies at the latest update. Usable proxies are below.
+> Scraper found **4427** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2649|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|2|103.247.23.228|8080|Indonesia|Temanggung|PT wifian Solution|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |7|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|8|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|10|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|103.73.193.28|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|11|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
 |12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|189.196.18.150|999|Mexico|Villa de Cos|Mega Cable, S.A. de C.V.|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|17|38.49.143.219|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|20|38.210.179.30|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|13|103.143.105.138|8080|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|201.159.126.85|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|17|122.54.119.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
+|19|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
