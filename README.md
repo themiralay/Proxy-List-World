@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|122.54.119.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|12|101.255.210.9|8090|Indonesia|Jakarta|PT Remala Abadi|
-|13|124.107.173.219|8082|Philippines|Talugtug|Philippine Long Distance Telephone Co.|
-|14|131.222.252.103|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|15|38.210.179.30|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|181.174.228.189|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|103.155.199.15|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|14|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|58.69.250.43|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|20|47.236.104.43|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
