@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|5|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|163.61.38.128|3128|India|Noida|JOY SERVICES|
-|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|8|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|152.231.27.50|999|Colombia|Aguazul|Colombiatel Telecomunicaciones|
+|15|103.233.152.18|8080|Indonesia|Banjar Medura|BIZNET|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
