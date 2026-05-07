@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4763** proxies at the latest update. Usable proxies are below.
+> Scraper found **4730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|822|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2649|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|15|122.3.207.67|8089|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|19|202.43.122.156|1111|India|Wardha|RailTel Corporation|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|12|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|13|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
+|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|19|190.9.48.193|999|Mexico|Mexicali|Konecta de Mexico, S. de R.L. de C.V.|
+|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
 
 
 
