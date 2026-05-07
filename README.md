@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|8|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|15|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|17|181.79.80.181|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|18|103.98.117.26|8080|Indonesia|Jeneponto|TESOLCITYNET|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|103.26.176.33|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|17|103.158.155.99|8080|Indonesia|Bakalan|CUBIESPOT|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
 
 
 
