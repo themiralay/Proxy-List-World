@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|17|103.175.240.87|8090|Indonesia|Banyumas|LDP|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
