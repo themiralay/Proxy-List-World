@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4171** proxies at the latest update. Usable proxies are below.
+> Scraper found **4228** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|750|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2236|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|165.101.102.200|8088|Philippines|Quezon City|iRateNet Solutions|
-|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|11|180.191.230.134|5050|Philippines|Mandaue City|Globe Telecom|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.80.214.41|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|14|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|15|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|16|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|19|160.19.19.9|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|20|180.191.231.122|8080|Philippines|Mandaue City|Globe Telecom|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|14|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|15|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|202.6.206.78|8082|Philippines|Surigao City|JAT I.T. SERVICES|
+|19|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
