@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|10|82.114.228.67|1080|Russia|Saratov|SCTS|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|8|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|103.87.171.64|32650|India|Jaipur|Tejays|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
