@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4763** proxies at the latest update. Usable proxies are below.
+> Scraper found **4728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|543|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2965|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|11|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|12|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|15|107.173.42.121|7890|United States|Buffalo|HostPapa|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|19|144.124.227.88|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|124.217.98.125|5050|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|7|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|14|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|16|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
