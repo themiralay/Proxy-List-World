@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
 |9|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|11|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|95.183.12.18|18080|Russia|Moscow|IHC|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|38.211.245.94|999|Argentina|Maipú|Latencia 0 SA|
-|20|38.191.194.18|999|Colombia|Cali|TV&MÁS S.A.S|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|13|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|14|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|18|95.183.12.18|18080|Russia|Moscow|IHC|
+|19|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
