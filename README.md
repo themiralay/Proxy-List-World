@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|3|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|15|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
-|16|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|2|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|14.199.167.175|3128|Hong Kong|So Uk Estate|Hong Kong Broadband Network Ltd|
+|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|5|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|6|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
+|7|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|8|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
 |17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|20|176.88.166.219|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
