@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|4|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|2|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|3|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|20|178.124.67.254|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|103.155.196.153|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|17|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|18|188.132.249.229|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|19|203.217.169.26|8080|Cambodia|Phnom Penh|S.I Group|
+|20|103.139.46.70|37777|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
