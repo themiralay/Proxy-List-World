@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|202.47.185.182|8090|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|5|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|11|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|13|43.252.106.66|8080|Indonesia|Kudus|PT Lintas Data Prima|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|103.93.93.170|8181|Indonesia|Kertosono|MYRISE|
 
 
 
