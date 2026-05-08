@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
 |10|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|95.183.12.18|18080|Russia|Moscow|IHC|
+|16|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|17|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
 |18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|20|103.97.140.71|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|19|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|157.10.97.12|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
 
 
 
