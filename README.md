@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
 |4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|6|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|17|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|5|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|38.7.23.201|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
