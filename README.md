@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |4|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|20|146.196.108.81|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|5|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|13|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
