@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|3|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|7|161.49.219.181|8082|Philippines|Magalang|Converge Information and Communications Technology Solutions|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|10|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
-|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|12|45.71.186.210|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
-|15|200.92.201.126|999|Mexico|San Felipe|Mega Cable, S.A. de C.V.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|180.191.231.122|8080|Philippines|Mandaue City|Globe Telecom|
-|20|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|124.107.173.219|8082|Philippines|Talugtug|Philippine Long Distance Telephone Co.|
+|14|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|15|41.216.186.47|8080|Indonesia|Jakarta|FASTHOSTING|
+|16|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
+|17|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|185.166.24.191|1981|Iraq|Sulaymaniyah|Online Company Ltd|
+|20|38.156.238.67|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
 
 
 
