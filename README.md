@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|7|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|31.131.248.48|3129|Russia|St Petersburg|JSC Selectel|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
