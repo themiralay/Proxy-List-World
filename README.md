@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4919** proxies at the latest update. Usable proxies are below.
+> Scraper found **4951** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|543|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3086|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|10|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|11|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|17|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|15|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |18|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
