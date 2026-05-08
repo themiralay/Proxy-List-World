@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
 |5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
 |9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |10|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|14|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|13|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
+|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
