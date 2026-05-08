@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5434** proxies at the latest update. Usable proxies are below.
+> Scraper found **5399** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|945|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3173|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|103.8.119.70|8080|India|Puducherry|Smart NET India PVT LTD|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|7|103.102.12.86|1111|Indonesia|Rembang|FISNET|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|38.211.245.18|999|Argentina|Maipú|Latencia 0 SA|
-|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|12|38.194.254.134|999|Mexico|Paso del Macho|IENTC S de RL de CV|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|17|38.172.160.160|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|19|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
+|16|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
 
 
 
