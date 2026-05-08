@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
 |7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|19|77.239.109.126|3128|Netherlands|Amsterdam|DpkgSoft International Limited|
+|20|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
 
 
 
