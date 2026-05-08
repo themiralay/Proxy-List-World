@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
 |4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
-|10|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|103.171.83.23|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
+|5|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|12|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|38.127.172.7|37234|United States|Washington|Cogent Communications|
 
 
 
