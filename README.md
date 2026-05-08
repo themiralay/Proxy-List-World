@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|3|137.184.0.30|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
 |5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.124.137.33|18080|Indonesia|Ungaran|Global Media Data Prima|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|38.123.213.136|999|Mexico|Mexico City|Cogent Communications|
-|16|38.49.143.218|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|17|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|18|2.27.11.170|3128|United States|Orem|Ace Data Centers II|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|14|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|15|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
