@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|103.144.18.91|8080|Indonesia|Sumberpinang|PT Gasatek Bintang Nusantara|
-|9|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
-|10|103.187.136.20|3838|Bangladesh|Hājīganj|Times Communication|
-|11|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|12|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|178.63.155.151|8978|Germany|Falkenstein|Hetzner Online GmbH|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|103.169.138.4|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|12|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|13|123.200.6.205|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
 
 
 
