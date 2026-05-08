@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|8|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|200.24.141.161|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|18|186.31.135.202|999|Colombia|Bogotá|ETB - Colombia|
+|19|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|20|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
 
 
 
