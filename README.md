@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.237.67|3128|Japan|Tokyo|Microsoft Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|178.124.67.254|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|103.125.56.83|8080|Indonesia|Bekasi|PT. Eka Mas Republik|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
