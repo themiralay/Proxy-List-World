@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|5|142.93.195.158|80|United States|North Bergen|DigitalOcean, LLC|
-|6|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|10|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|142.93.195.158|80|United States|North Bergen|DigitalOcean, LLC|
-|14|103.172.120.93|8080|Indonesia|Jagong|PT Digital Akses Nusantara|
-|15|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|16|200.69.83.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|119.93.198.210|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|4|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|5|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
+|6|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|7|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|177.229.197.94|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
+|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|15|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|16|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
 
 
 
