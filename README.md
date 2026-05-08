@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.8.119.70|8080|India|Puducherry|Smart NET India PVT LTD|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
 |5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|16|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|103.8.119.70|8080|India|Puducherry|Smart NET India PVT LTD|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|77.232.142.164|3128|Russia|Moscow|Aeza International LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|103.227.187.19|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|20|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
 
 
 
