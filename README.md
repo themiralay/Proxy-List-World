@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|14|72.56.126.80|443|Germany|Frankfurt am Main|Timeweb, LLP|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
