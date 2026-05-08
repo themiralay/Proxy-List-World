@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|16|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|15|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|170.9.253.20|8888|United States|Chicago|Oracle Corporation|
+|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|20|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
 
 
 
