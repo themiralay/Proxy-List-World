@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|150.107.141.242|8080|Indonesia|Legian|PT. Jala Lintas Media|
+|1|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|14|45.65.227.91|999|Argentina|Morón|Solution LAN S.A|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
