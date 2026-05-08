@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|5|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
 |6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
-|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 |18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|163.223.96.174|8080|Philippines|Davao City|Digital Essentials Trading|
-|20|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|19|119.93.198.210|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|20|42.200.125.44|8080|Hong Kong|North Point|PCCW IMSBiz|
 
 
 
