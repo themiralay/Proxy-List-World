@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|103.164.229.153|8080|Indonesia|Kudus|PT Muria Data Utama|
-|6|107.174.64.143|1080|United States|Buffalo|HostPapa|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|5|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|107.174.64.143|1080|United States|Buffalo|HostPapa|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|144.91.102.48|3128|France|Lauterbourg|Contabo GmbH|
-|18|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|19|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|84.201.138.232|3128|Russia|Moscow|Yandex enterprise network|
 
 
 
