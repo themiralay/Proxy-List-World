@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
 |9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|72.56.126.80|443|Germany|Frankfurt am Main|Timeweb, LLP|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|11|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|122.52.234.54|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|16|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
 |17|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
-|18|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|19|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
-|20|103.177.10.253|8080|Indonesia|Mergayu|PT Nalendra Gigantara Media|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
