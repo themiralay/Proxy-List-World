@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.156.74.163|8080|Indonesia|Banjar Tengah|PT Trika Global Media|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|11|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|95.183.12.18|18080|Russia|Moscow|IHC|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|176.117.104.178|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|18|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|20|157.15.93.82|8080|India|Agra|Onremote Telecom Private Limited|
 
 
 
