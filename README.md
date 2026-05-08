@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|4|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|154.19.39.151|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|103.209.88.74|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|18|103.158.11.209|32650|Bangladesh|Shariatpur|Ka Kha Computer|
+|19|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
