@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|12|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.145.34.10|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|14|206.42.19.65|8080|Brazil|Jaboatão dos Guararapes|Brisanet Prestacao De Servicos De Internet Ltda|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|187.188.15.249|8080|Mexico|Venustiano Carranza|Total Play Telecomunicaciones SA De CV|
-|17|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|20|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|19|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
