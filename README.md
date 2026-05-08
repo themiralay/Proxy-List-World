@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |7|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |9|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
 |15|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
-|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.156.17.227|8080|Indonesia|Jatibarang|RSTNET|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|20|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|16|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|17|157.15.40.252|7777|Indonesia|Ponorogo|TRISARI|
+|18|181.209.96.154|999|Argentina|Yuto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|103.156.75.42|8989|Indonesia|Gianyar|PT Trika Global Media|
+|20|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
 
 
 
