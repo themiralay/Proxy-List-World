@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
 |6|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
 |7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|14|176.88.166.202|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|15|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|16|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|38.19.39.15|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
-|19|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|20|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.87.202.196|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|190.97.239.21|999|Venezuela|Maracaibo||
+|13|103.148.130.50|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|14|131.222.210.168|8080|Türkiye|Antakya|Superonline Iletisim Hizmetleri A.S.|
+|15|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|103.126.87.112|1285|Indonesia|Boyolali|PT. Rasi Bintang Perkasa|
+|17|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|18|200.24.130.145|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|131.222.250.237|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
 
 
 
