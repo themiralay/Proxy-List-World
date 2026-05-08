@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|185.125.100.115|40000|Netherlands|Amsterdam|Aeza International LTD|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|11|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|95.217.103.18|4567|Finland|Helsinki|Hetzner Online GmbH|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|79.137.205.44|40000|Netherlands|Amsterdam|Aeza International LTD|
+|18|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|19|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
