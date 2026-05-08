@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5491** proxies at the latest update. Usable proxies are below.
+> Scraper found **5643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|716|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|889|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|100|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3454|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|6|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.87.202.196|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|190.97.239.21|999|Venezuela|Maracaibo||
-|13|103.148.130.50|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|14|131.222.210.168|8080|Türkiye|Antakya|Superonline Iletisim Hizmetleri A.S.|
-|15|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|103.126.87.112|1285|Indonesia|Boyolali|PT. Rasi Bintang Perkasa|
-|17|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|18|200.24.130.145|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|131.222.250.237|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
+|18|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
+|19|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|20|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
