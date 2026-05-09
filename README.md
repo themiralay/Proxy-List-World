@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|19|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|20|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
+|20|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
