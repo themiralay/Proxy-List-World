@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|27.102.134.31|1080|South Korea|Anyang-si|Daou Technology|
+|2|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|82.114.228.67|1080|Russia|Saratov|SCTS|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|185.234.66.87|1082|Turkey|Izmir|WorkTitans B.V.|
-|14|95.183.12.18|18080|Russia|Moscow|IHC|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|17|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|124.83.43.145|8080|Philippines|Valenzuela|Philippine Long Distance Telephone Co.|
-|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|17|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|18|105.159.157.35|5837|Morocco|Casablanca|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
