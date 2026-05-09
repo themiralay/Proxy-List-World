@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|129.150.53.35|3128|Singapore|Singapore|Oracle Corporation|
 |5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|185.234.64.66|1082|France|Paris|WorkTitans B.V.|
-|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|11|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|103.114.52.78|8080|Indonesia|Baki|Proxy-registered|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|13|185.234.64.66|1082|France|Paris|WorkTitans B.V.|
+|14|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|185.234.66.87|1082|Turkey|Izmir|WorkTitans B.V.|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
