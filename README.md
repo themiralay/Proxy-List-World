@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5772** proxies at the latest update. Usable proxies are below.
+> Scraper found **5822** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1111|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1161|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3310|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|161.248.117.117|8080|Indonesia|Sekupang|PT INFORMASI NUSANTARA TEKNOLOGI|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|181.119.176.171|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|8|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
 |12|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|15|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|16|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|13|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|14|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
 
 
 
