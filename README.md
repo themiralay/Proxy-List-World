@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|190.52.110.47|999|Venezuela|Caracas|Gold Data Colombia|
-|13|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|18|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|19|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|177.234.244.211|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|19|119.95.173.96|8080|Philippines|Bulacan|Philippine Long Distance Telephone Co.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
