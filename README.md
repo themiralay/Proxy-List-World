@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|180.191.234.200|9090|Philippines|Monkayo|Globe Telecom|
-|7|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|12|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|103.134.27.129|8080|Bangladesh|Dhaka|Md Abdur Rouf|
-|16|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|17|5.129.216.108|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|209.38.183.26|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|5|119.92.71.40|8080|Philippines|Ugong Norte|Philippine Long Distance Telephone Co.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|49.48.68.205|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
+|8|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|11|180.191.234.200|9090|Philippines|Monkayo|Globe Telecom|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|103.134.242.161|8080|Bangladesh|Chittagong|Winer Communication|
+|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|15|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|18|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|19|38.52.220.179|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|20|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
 
 
 
