@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|8|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
-|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|94.131.106.231|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|119.93.198.210|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|18|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
 
 
 
