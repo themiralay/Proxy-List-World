@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
 |3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|119.92.252.190|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
 
 
 
