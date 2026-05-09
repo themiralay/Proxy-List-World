@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|5|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|5|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|6|168.228.49.15|8080|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
 |7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|47.236.104.43|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|11|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|13|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|16|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|45.171.167.1|999|Peru|San Juan de Lurigancho|P & M COMUNICACIONES S.A.C.|
+|20|222.127.55.214|5050|Philippines|Lahug|INNOVE|
 
 
 
