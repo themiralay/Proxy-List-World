@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|1|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|2|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|128.14.92.94|3128|Vietnam|Hanoi|Zenlayer Inc|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|15|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|16|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
-|17|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|4|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|5|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|82.114.228.67|1080|Russia|Saratov|SCTS|
+|15|160.30.141.20|8080|Philippines|San Jose del Monte|Glercimor Network and Data Solution|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|19|174.138.171.162|8550|United States|Phoenix|Secured Servers LLC|
+|20|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
 
 
 
