@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|6|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
-|15|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|17|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|45.239.48.101|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|14|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|17|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
