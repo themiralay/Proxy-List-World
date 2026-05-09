@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|13|188.132.150.44|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.247.21.254|1111|Indonesia|Gambolempuk|PT wifian Solution|
+|17|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
 
 
 
