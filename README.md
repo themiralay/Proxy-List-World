@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|618|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|618|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|618|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|200.59.186.158|999|Venezuela|Trujillo|TotalCom Venezuela C.A.|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|12|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|103.154.77.204|1111|Indonesia|Sleman|T2NET|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|38.191.202.4|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|103.251.232.5|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|15|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
+|18|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
