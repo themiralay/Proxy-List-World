@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|4|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|5|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|12|103.140.234.188|8080|Bangladesh|Narayanganj|Subrota Biswas|
+|13|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|14|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|103.76.109.203|80|Indonesia|Utan|PT Mahawira Nusantara Grup|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|186.96.67.40|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
 
 
 
