@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
 |5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|14|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|15|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|20|112.202.47.228|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
+|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|16|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|131.222.251.91|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
