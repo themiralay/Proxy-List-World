@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|94.131.106.230|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|45.138.86.52|1433|Kenya|Nairobi|EstNOC OU|
-|19|119.93.53.24|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|119.82.242.6|8080|Indonesia|Gubengairlangga|Indonesia Network Information Center|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|109.234.39.202|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|94.131.106.230|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|77.91.65.33|1080|Georgia||Neon Core Network LLC|
 
 
 
