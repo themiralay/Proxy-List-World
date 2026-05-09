@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|27.102.134.31|1080|South Korea|Anyang-si|Daou Technology|
-|5|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|6|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|13|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|13|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|20|185.234.64.62|1082|France|Paris|WorkTitans B.V.|
 
 
 
