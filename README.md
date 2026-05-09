@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|672|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|672|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|672|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|139.162.46.62|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|180.93.35.207|7777|Vietnam|Quận Bốn|SPT|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|10|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|103.35.190.182|1081|United States|Secaucus|WorkTitans B.V.|
+|4|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
+|12|185.234.64.62|1081|France|Paris|WorkTitans B.V.|
+|13|45.10.42.95|8888|Netherlands|Amsterdam|Timeweb, LLP|
+|14|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
 |16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|17|45.10.42.95|8888|Netherlands|Amsterdam|Timeweb, LLP|
-|18|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 
 
