@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|94.131.106.231|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|9|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
-|10|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|95.183.12.18|18080|Russia|Moscow|IHC|
-|18|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
-|19|174.138.165.94|36440|United States|Phoenix|Secured Servers LLC|
-|20|93.115.18.235|8118|Netherlands|Dronten|Mvps LTD|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.35.190.182|1081|United States|Secaucus|WorkTitans B.V.|
+|5|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|94.131.106.231|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|12|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|16|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|17|45.143.94.147|40000|Russia|Moscow|MT FINANCE LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
