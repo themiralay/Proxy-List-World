@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5784** proxies at the latest update. Usable proxies are below.
+> Scraper found **5927** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1123|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1266|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3310|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|8.213.34.109|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|7|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|8|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|38.194.253.114|999|Mexico|Apaseo el Alto|IENTC S de RL de CV|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 |10|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.156.15.122|8087|Indonesia|Bojonegara|PT Lintas Jaringan Nusantara|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|11|82.114.228.67|1080|Russia|Saratov|SCTS|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|193.43.149.54|8080|Syria|Al Mulayḩah|Syrian Telecom|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|17|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|18|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|19|8.213.34.109|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
