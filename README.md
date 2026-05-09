@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|3|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|6|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|3|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |11|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
-|12|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|189.196.18.150|999|Mexico|Villa de Cos|Mega Cable, S.A. de C.V.|
-|17|212.112.121.130|8080|Kyrgyzstan|Bishkek|AKNET Ltd|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|38.127.179.107|37234|United States|Washington|Cogent Communications|
+|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|13|82.114.228.67|1080|Russia|Saratov|SCTS|
+|14|103.178.41.51|8080|Indonesia|Purwokerto|PT Cakrawala Media Data|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|91.230.65.202|8080|Russia|Moscow|Panin Kirill Evgenyevich|
+|18|177.234.217.44|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
 
 
 
