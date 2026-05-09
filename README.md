@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|154.19.39.230|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|27.102.134.31|1080|South Korea|Anyang-si|Daou Technology|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|139.162.46.62|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|121.101.129.97|8081|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|14|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|112.198.130.205|8080|Philippines|Nasugbu|Globe Telecom|
+|12|103.131.232.9|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|17|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|18|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
-|19|94.131.122.125|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|19|200.10.31.45|8081|Colombia|Pereira|Super Redes S.A.S|
+|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 
 
 
