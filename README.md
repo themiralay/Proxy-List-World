@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|43.153.182.11|7777|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|13|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
+|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|11|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|12|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|16|103.180.126.235|8080|Indonesia|Jakarta|PT Alam Media Data|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|77.91.65.33|1080|Georgia||Neon Core Network LLC|
 
 
 
