@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|6|103.35.191.244|1081|United States|Secaucus|WorkTitans B.V.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |11|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|12|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|185.234.64.62|1082|France|Paris|WorkTitans B.V.|
+|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
 |15|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
 |16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
