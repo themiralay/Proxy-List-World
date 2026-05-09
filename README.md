@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|9|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|10|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|203.150.128.118|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|20|77.91.65.33|1080|Georgia||Neon Core Network LLC|
 
 
 
