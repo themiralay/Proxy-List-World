@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.109.96.129|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|4|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|3|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|10|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 |15|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
 |16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|103.247.22.88|4317|Indonesia|Cikarang|PT wifian Solution|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|20|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
+|17|95.183.12.18|18080|Russia|Moscow|IHC|
+|18|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|19|103.247.21.254|1111|Indonesia|Gambolempuk|PT wifian Solution|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
