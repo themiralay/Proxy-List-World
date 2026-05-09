@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.102.134.31|1080|South Korea|Anyang-si|Daou Technology|
-|2|27.102.134.30|1081|South Korea|Anyang-si|Daou Technology|
-|3|27.102.134.32|1080|South Korea|Anyang-si|Daou Technology|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
+|2|27.102.134.31|1080|South Korea|Anyang-si|Daou Technology|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
 |5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|9|37.111.53.31|8080|Myanmar|Yangon|Atom Myanmar Limited|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|13|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|14|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|18|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|82.114.228.67|1080|Russia|Saratov|SCTS|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|27.102.134.32|1080|South Korea|Anyang-si|Daou Technology|
+|8|185.133.214.90|8080|Myanmar|Yangon|Global Technology Co|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|11|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|14|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|20|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
 
 
 
