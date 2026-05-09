@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5798** proxies at the latest update. Usable proxies are below.
+> Scraper found **5741** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|954|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3456|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|13|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|38.211.245.90|999|Argentina|Maipú|Latencia 0 SA|
+|2|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|3|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|8|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|105.154.0.36|30328|Morocco|Casablanca|ADSL Maroc telecom|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|177.242.132.38|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|16|103.139.46.70|37777|Indonesia|Jakarta|PT iForte Global Internet|
+|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
 
 
 
