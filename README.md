@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|94.131.122.125|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|51.15.20.32|3129|Netherlands|Haarlem|SCALEWAY|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|103.51.205.65|8080|Indonesia|Surakarta|Lintas Data Prima, PT|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|185.164.172.105|3128|The Netherlands|Amsterdam|365.partners INC|
-|17|82.114.228.67|1080|Russia|Saratov|SCTS|
-|18|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|19|185.221.214.40|1080|Russia|St Petersburg|Hostland LTD|
-|20|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
+|8|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|13|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|16|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|169.255.77.150|8865|South Africa|George|HERO TELECOMS (PTY) LTD|
+|18|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|200.110.173.240|999|Colombia|Medellín|Media Commerce Partners S.A|
 
 
 
