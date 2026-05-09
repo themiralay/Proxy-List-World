@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|41.196.16.226|1981|Egypt|New Cairo|Link Egypt (Link.NET)|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|31.15.169.77|808|Slovenia|Celje|Telemach Slovenija d.o.o.|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|119.93.64.216|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|103.35.190.182|1081|United States|Secaucus|WorkTitans B.V.|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|12|41.196.16.226|1981|Egypt|New Cairo|Link Egypt (Link.NET)|
+|13|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|16|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.242.104.151|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|77.91.65.33|1080|Georgia||Neon Core Network LLC|
 
 
 
