@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|154.44.9.15|1080|United States|Los Angeles|Cogent Communications|
-|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.155.196.47|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |9|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|10|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|10|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|13|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|5.129.227.157|3128|Netherlands|Amsterdam|Timeweb, LLP|
 |15|174.138.165.202|8230|United States|Phoenix|Secured Servers LLC|
-|16|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|17|190.61.118.114|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|20|207.230.8.75|999|Colombia|Bogotá|TV&MÁS S.A.S|
 
 
 
