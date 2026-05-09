@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6065** proxies at the latest update. Usable proxies are below.
+> Scraper found **5974** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|618|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|618|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|618|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1985|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1894|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|193|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|6|103.154.77.204|1111|Indonesia|Sleman|T2NET|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
+|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.191.202.4|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|103.251.232.5|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|8|51.15.20.32|3129|Netherlands|Haarlem|SCALEWAY|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
 |12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|15|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|18|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|14|103.165.155.161|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|15|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|45.143.94.147|40000|Russia|Moscow|MT FINANCE LLC|
+|19|185.221.214.40|1080|Russia|St Petersburg|Hostland LTD|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
