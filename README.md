@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.87.74.181|8080|Indonesia|Bilo|PT.Global Media Data Prima|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |4|49.147.107.185|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
-|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|7|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|8|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|174.138.165.180|36164|United States|Phoenix|Secured Servers LLC|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|13|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|174.138.165.106|52473|United States|Phoenix|Secured Servers LLC|
-|17|174.138.165.180|36164|United States|Phoenix|Secured Servers LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|94.131.122.125|1082|United Kingdom|Holborn|WorkTitans B.V.|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|216.106.179.216|49152|United States|Dallas|GTHost|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|18|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
