@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|4|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
-|7|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|190.97.254.254|999|Venezuela|Ocumare|Viginet C.A|
+|3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|4|181.78.208.227|999|Colombia|Prado-Sevilla|IFX Networks Argentina S.R.L|
+|5|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|6|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|7|91.233.223.147|3128|Russia|Sochi|Radist LTD|
 |8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|103.35.191.244|1081|United States|Secaucus|WorkTitans B.V.|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|12|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|17|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|103.14.2.138|2020|Indonesia|Bengkalis|MADA|
+|9|45.239.48.101|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|10|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|11|38.7.195.50|999|Chile|Santiago|Grupo ZGH SpA|
+|12|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|103.247.14.38|8080|Indonesia|Magelang|TERABIT|
+|15|110.76.145.119|8080|Indonesia|Muntilan|PT Pika Media Komunika|
+|16|45.239.48.98|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|38.211.245.34|999|Argentina|Maipú|Latencia 0 SA|
+|18|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|19|115.78.135.4|3334|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
