@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6412** proxies at the latest update. Usable proxies are below.
+> Scraper found **6425** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1751|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1764|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3310|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|5|119.92.71.40|8080|Philippines|Ugong Norte|Philippine Long Distance Telephone Co.|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|103.210.250.198|3125|Indonesia|Temanggung|PT Cmdj Network Solution|
+|4|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|49.48.68.205|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
-|8|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|11|180.191.234.200|9090|Philippines|Monkayo|Globe Telecom|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|103.134.242.161|8080|Bangladesh|Chittagong|Winer Communication|
-|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|15|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|18|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|19|38.52.220.179|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|11|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|12|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|38.7.21.116|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|15|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
+|16|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|64.181.254.251|10443|United States|San Jose|Oracle Corporation|
+|19|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|20|174.138.171.166|8944|United States|Phoenix|Secured Servers LLC|
 
 
 
