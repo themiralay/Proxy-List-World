@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5942** proxies at the latest update. Usable proxies are below.
+> Scraper found **5808** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|682|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|682|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|682|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1826|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.146.38.121|8086|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|62.140.233.192|41258|Russia|Moscow|Fryazino.net|
-|13|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|165.99.151.246|10001|Indonesia|Bogor|PT Win Akselerasi Net Indonesia|
-|18|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|19|95.183.12.18|18080|Russia|Moscow|IHC|
-|20|103.124.137.205|8080|Indonesia|Ungaran|Global Media Data Prima|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|6|103.147.230.130|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|190.52.110.47|999|Venezuela|Caracas|Gold Data Colombia|
+|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
+|17|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|18|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 
 
 
