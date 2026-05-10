@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1082|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1082|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1082|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|8|185.164.172.105|3128|The Netherlands|Amsterdam|365.partners INC|
-|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|11|103.134.242.161|8080|Bangladesh|Chittagong|Winer Communication|
-|12|72.56.126.80|443|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
+|2|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|3|103.162.54.171|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|43.153.182.11|7777|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|160.22.134.47|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|103.134.242.161|8080|Bangladesh|Chittagong|Winer Communication|
+|16|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|17|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|18|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
