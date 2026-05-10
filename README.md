@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|860|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|860|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|860|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|925|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|925|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|925|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
+|5|103.51.205.108|8090|Indonesia|Surakarta|Lintas Data Prima, PT|
+|6|103.169.138.13|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
 |7|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
-|8|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
-|9|103.166.159.115|1080|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
-|10|174.138.171.157|52463|United States|Phoenix|Secured Servers LLC|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|93.77.181.116|8888|Russia|Moscow|Yandex.Cloud LLC|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|38.127.179.42|37234|United States|Washington|Cogent Communications|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|103.136.170.55|8080|Indonesia|Tangerang|PT UNZA VITALI|
+|10|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|14|113.192.30.94|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|15|174.138.171.157|8080|United States|Phoenix|Secured Servers LLC|
+|16|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|17|158.160.212.239|8888|Russia|Moscow|Yandex.Cloud LLC|
+|18|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
