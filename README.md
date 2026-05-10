@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|885|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|885|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|885|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|713|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|713|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|713|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|103.133.27.179|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|114.141.50.211|8080|Indonesia|Purwakarta|PT Cyberplus Media Pratama|
-|6|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|19|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|20|78.134.20.48|8080|Italy|Pitigliano|NGI|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|5|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|6|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|51.15.20.32|3129|Netherlands|Haarlem|SCALEWAY|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|16|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|17|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|174.138.165.179|8789|United States|Phoenix|Secured Servers LLC|
 
 
 
