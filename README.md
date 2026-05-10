@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|640|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|640|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|640|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|7|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.164.172.105|3128|The Netherlands|Amsterdam|365.partners INC|
-|10|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|4|103.155.196.153|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|103.169.38.222|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|20|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
 
 
 
