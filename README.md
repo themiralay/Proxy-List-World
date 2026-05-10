@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
-|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|4|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|180.191.252.107|8082|Philippines|General Trias|Globe Telecom|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|15|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|17|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|121.101.129.97|8081|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|202.154.19.55|8080|Indonesia|Kertosono|DIGITNET|
+|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|77.91.65.33|1080|Georgia||Neon Core Network LLC|
 
 
 
