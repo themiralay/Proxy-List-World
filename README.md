@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5609** proxies at the latest update. Usable proxies are below.
+> Scraper found **6042** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1495|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1928|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.113.3.22|8080|Indonesia|South Tangerang|Diskominfo Tangerang Selatan|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|6|5.42.127.197|3128|Germany|Frankfurt am Main|Timeweb, LLP|
-|7|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|11|134.65.238.25|3129|Brazil|Vinhedo|Oracle Corporation|
-|12|103.172.70.195|1111|Indonesia|Karawang|AZNET|
-|13|185.221.214.40|1080|Russia|St Petersburg|Hostland LTD|
-|14|103.171.83.115|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
-|15|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
-|16|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
-|17|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|176.88.166.188|8080|Turkey|Malıköy|Superonline Iletisim Hizmetleri A.S.|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|106.0.168.138|8080|Thailand|Siao|Ministry of Education - EMISC|
+|1|27.102.134.30|1081|South Korea|Anyang-si|Daou Technology|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|7|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|8|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|95.183.12.18|18080|Russia|Moscow|IHC|
+|16|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|19|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|20|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
