@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|589|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|589|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|589|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|7|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|216.106.179.216|49152|United States|Dallas|GTHost|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|163.227.248.17|8181|Indonesia|Sukabumi|PT Rajasa Sinergi Komunikasi|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|38.194.245.215|3128|Mexico|Tlacolula de Matamoros|IENTC S de RL de CV|
-|18|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
-|19|200.10.30.19|999|Colombia|Pereira|Super Redes S.A.S|
-|20|190.60.61.204|999|Colombia|Baranoa|IFX NETWORKS COLOMBIA|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|82.114.228.67|1080|Russia|Saratov|SCTS|
+|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|13|103.109.96.180|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|14|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
+|15|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|45.174.243.128|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|17|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
+|18|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
+|19|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|20|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
 
 
 
