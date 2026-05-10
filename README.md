@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6750** proxies at the latest update. Usable proxies are below.
+> Scraper found **6678** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|818|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|818|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|818|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1820|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1748|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3516|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
-|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|124.158.144.30|8080|Indonesia|Semarang|PT iForte Global Internet|
 |9|216.106.179.216|49152|United States|Dallas|GTHost|
-|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|11|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|12|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|13|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|14|27.102.134.30|1081|South Korea|Anyang-si|Daou Technology|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|185.234.64.63|1082|France|Paris|WorkTitans B.V.|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|216.106.179.216|49152|United States|Dallas|GTHost|
+|10|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|13|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|14|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|15|216.106.179.216|49152|United States|Dallas|GTHost|
+|16|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
