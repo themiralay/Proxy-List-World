@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|8|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|186.33.57.86|8080|Colombia|Puerto Libertador|IFX Networks Argentina S.R.L|
-|14|210.87.92.54|8080|Indonesia|Tigaraksa|PT Indo Telemedia Solusi|
-|15|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
-|16|139.135.81.163|8082|Philippines|Mahayag|Dito Telecommunity Corp.|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|19|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|6|47.79.39.142|30000|Japan|Tokyo|Alibaba.com LLC|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|14|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|15|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|16|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
