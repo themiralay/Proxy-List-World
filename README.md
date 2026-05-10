@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|16|85.198.229.194|80|Poland|Bytom|Sileman Sp. z o.o.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|7|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|182.160.124.153|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|187.102.211.253|999|Peru|Ventanilla|INTEL COMUNICACIONES PERÚ SAC|
+|17|103.244.107.153|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
+|18|103.188.168.65|8080|Indonesia|Madan|PT Lintas Jaringan Nusantara|
+|19|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
