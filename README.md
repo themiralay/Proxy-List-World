@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|4|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|5|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|9|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|2|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|3|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|4|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
 |10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|11|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
 |13|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|216.106.179.216|49152|United States|Dallas|GTHost|
-|19|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|20|167.234.218.204|3389|United States|San Jose|Oracle Corporation|
+|14|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|15|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|20|222.127.55.155|8082|Philippines|Lahug|INNOVE|
 
 
 
