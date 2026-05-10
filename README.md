@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|746|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|746|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|746|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|10|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|11|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
-|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|5|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|13|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
 |20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
