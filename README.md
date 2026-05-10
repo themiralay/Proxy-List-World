@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|51.15.20.32|3129|Netherlands|Haarlem|SCALEWAY|
-|14|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|17|185.221.214.40|1080|Russia|St Petersburg|Hostland LTD|
-|18|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|6|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|10|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
+|11|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|174.138.171.162|50729|United States|Phoenix|Secured Servers LLC|
+|19|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|20|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 
 
 
