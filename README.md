@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7261** proxies at the latest update. Usable proxies are below.
+> Scraper found **7792** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|790|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|790|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|790|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|900|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|900|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|900|
 
 ## Sources
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2104|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2556|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3683|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3763|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|5|167.234.218.204|3389|United States|San Jose|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|194.87.26.121|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|12|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|13|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 
 
 
