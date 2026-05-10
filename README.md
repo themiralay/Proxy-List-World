@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|3|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
-|4|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|5|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|6|190.52.110.111|999|Venezuela|Caracas|Gold Data USA Inc|
-|7|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|190.52.108.171|999|Venezuela|Caracas|Gold Data USA Inc|
-|11|103.175.237.36|8080|Indonesia|Tempursari Wetan|PT Marva Global Telekomunikasi|
-|12|190.102.233.100|999|Chile|Santiago|Pacifico Cable SPA.|
-|13|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
-|14|124.217.72.26|8082|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
-|15|181.48.234.214|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|16|38.7.195.53|999|Chile|Santiago|Grupo ZGH SpA|
-|17|174.138.165.219|30614|United States|Phoenix|Secured Servers LLC|
-|18|36.91.220.132|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|20|102.68.79.213|8080|Kenya|Nairobi|Unwired Communications Ltd|
+|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|4|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|8|134.65.238.25|3129|Brazil|Vinhedo|Oracle Corporation|
+|9|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|160.19.19.125|8080|Indonesia|Cileungsir|PT Indo Telemedia Solusi|
+|14|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|15|95.183.12.18|18080|Russia|Moscow|IHC|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|38.242.212.16|3128|France|Lauterbourg|Contabo GmbH|
+|18|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
