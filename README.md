@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5792** proxies at the latest update. Usable proxies are below.
+> Scraper found **5526** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1527|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1438|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|352|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2713|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|202.154.37.162|8080|Indonesia|Pabyongan|RADNET|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|5|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|6|157.20.244.242|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|7|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|10|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|11|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|38.224.223.173|999|Mexico|Cunduacán|Cogent Communications|
-|14|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|15|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|112.78.181.91|3128|Indonesia|Tegal|BIZNET|
-|18|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|19|103.90.66.19|8087|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|4|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|11|38.3.162.129|999|Chile|Puente Alto|Servicios Integrales Metfy Telecom SPA|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|17|157.20.244.242|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|19|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|20|190.52.108.8|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
