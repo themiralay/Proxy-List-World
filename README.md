@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6677** proxies at the latest update. Usable proxies are below.
+> Scraper found **6683** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|739|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|739|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|739|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1746|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1752|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|215|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3516|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|27.102.134.31|1081|South Korea|Anyang-si|Daou Technology|
-|4|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
-|5|103.35.191.173|1082|United States|Secaucus|WorkTitans B.V.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|5.42.127.197|3128|Germany|Frankfurt am Main|Timeweb, LLP|
-|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|10|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|11|80.92.204.47|1082|Russia|Moscow|WorkTitans B.V.|
-|12|216.106.179.216|49152|United States|Dallas|GTHost|
-|13|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|216.106.179.216|49152|United States|Dallas|GTHost|
 |14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
-|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|20|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|5.42.127.197|3128|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|18|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|19|216.106.179.216|49152|United States|Dallas|GTHost|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
