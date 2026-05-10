@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|7|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|185.221.214.40|1080|Russia|St Petersburg|Hostland LTD|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|94.131.106.231|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|13|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|16|113.192.31.79|8099|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.132.52.196|8080|Indonesia|Kedungwuni|PT Adeaksa Indo Jayatama|
-|19|103.163.135.57|7777|Indonesia|Kalipuro|PROVITEL|
-|20|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|94.131.106.231|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|103.163.135.57|7777|Indonesia|Kalipuro|PROVITEL|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|15|46.151.29.12|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
