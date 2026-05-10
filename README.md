@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6877** proxies at the latest update. Usable proxies are below.
+> Scraper found **6923** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1804|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1850|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|184|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3763|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
+|3|45.10.70.242|8888|United States|Los Angeles|Zenlayer Inc|
 |4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|157.245.194.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|5|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
+|6|27.102.134.30|1090|South Korea|Anyang-si|Daou Technology|
+|7|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|27.102.134.32|1082|South Korea|Anyang-si|Daou Technology|
+|10|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|11|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|27.102.134.31|1081|South Korea|Anyang-si|Daou Technology|
+|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
