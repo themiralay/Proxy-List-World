@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|712|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|712|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|712|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|27.102.134.32|1081|South Korea|Anyang-si|Daou Technology|
-|8|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|9|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|11|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
-|12|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|27.102.134.31|1081|South Korea|Anyang-si|Daou Technology|
-|20|160.19.19.100|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|14|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|160.19.19.100|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|18|119.18.147.179|96|Bangladesh|Chittagong|BBTS Network|
+|19|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|20|136.244.96.236|50000|Netherlands|Amsterdam|The Constant Company|
 
 
 
