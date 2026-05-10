@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|2|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.251.232.65|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
-|5|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|6|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|9|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|11|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|15|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|17|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|20|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|1|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|2|182.253.109.89|8080|Indonesia|Semarang|Biznet Metronet|
+|3|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|12|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|131.222.210.171|8080|Türkiye|Antakya|Superonline Iletisim Hizmetleri A.S.|
+|17|38.127.172.34|37234|United States|Washington|Cogent Communications|
+|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|19|160.187.174.251|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
