@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|193.181.35.199|8118|Sweden|Stockholm|PVDataNet AB|
-|11|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
-|12|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|10|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|185.234.64.65|1081|France|Paris|WorkTitans B.V.|
 |13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|20|142.171.185.133|1080|United States|Los Angeles|Multacom Corporation|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|19|185.234.64.63|1082|France|Paris|WorkTitans B.V.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
