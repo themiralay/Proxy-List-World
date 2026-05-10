@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|103.155.190.242|8080|Indonesia|Kota Blitar|Trisula Media Data|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|38.35.247.1|999|Mexico|La Viña|Optoenlaces SA de CV|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
