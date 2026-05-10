@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
 |5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|11|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|12|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|16|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 
 
 
