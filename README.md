@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|2|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
-|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|4|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
-|10|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
-|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|16|51.15.20.32|3129|Netherlands|Haarlem|SCALEWAY|
-|17|203.28.67.74|8080|Philippines|Cebu City|Responsible Internet Sustainability Effort|
-|18|177.242.137.182|999|Mexico|Metepec|Mega Cable, S.A. de C.V.|
-|19|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|20|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|1|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|103.145.161.18|8080|Indonesia|Pangkalan Balai|PT. Indonesia Comnets Plus|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|193.181.35.199|8118|Sweden|Stockholm|PVDataNet AB|
+|7|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|77.91.65.33|1080|Georgia||Neon Core Network LLC|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|38.210.20.245|999|Mexico|Tapachula|Jaime Gonzalez Galvan|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|17|38.211.245.108|999|Argentina|Maipú|Latencia 0 SA|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|38.211.76.203|999|Colombia|San Agustín|Cogent Communications|
+|20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 
 
 
