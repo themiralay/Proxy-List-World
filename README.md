@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6709** proxies at the latest update. Usable proxies are below.
+> Scraper found **6571** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1756|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1618|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|237|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3516|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|11|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |18|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 |19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
