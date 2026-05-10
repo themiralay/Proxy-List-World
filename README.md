@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5942** proxies at the latest update. Usable proxies are below.
+> Scraper found **5945** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|749|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|749|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|749|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|242|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1630|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|187|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|5|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|6|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|7|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
-|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|11|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|103.109.96.246|2610|Bangladesh|Tongi|Digi Jadoo Broadband Ltd|
-|14|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|15|103.109.96.161|6321|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|20|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|5|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|27.102.134.32|1082|South Korea|Anyang-si|Daou Technology|
+|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|13|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|14|27.102.134.31|1090|South Korea|Anyang-si|Daou Technology|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|18|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|103.178.86.10|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
 
 
 
