@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|981|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|981|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|981|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|216.106.179.216|49152|United States|Dallas|GTHost|
-|10|195.58.48.148|1080|Russia|St Petersburg|LLC Baxet|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|13|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|216.106.179.216|49152|United States|Dallas|GTHost|
-|16|77.91.65.33|1080|Georgia||Neon Core Network LLC|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|20|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|3|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|6|103.124.137.205|8080|Indonesia|Ungaran|Global Media Data Prima|
+|7|103.178.86.10|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
+|8|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|10|113.192.12.24|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|11|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
+|12|202.154.19.153|8080|Indonesia|Kertosono|DIGITNET|
+|13|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|16|103.19.78.242|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
+|17|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|38.199.30.57|999|Colombia|Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|20|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 
 
 
