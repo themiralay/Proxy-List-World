@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|154.19.39.230|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|14.241.133.207|8080|Vietnam|Tra Que Vegetable Village|VNPT|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|113.192.12.24|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|5|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
 |11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|13|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|14|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
