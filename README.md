@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.53.77.179|8050|Indonesia|Bangil|INTI|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|6|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
-|7|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|216.106.179.216|49152|United States|Dallas|GTHost|
+|4|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|10|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |15|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
-|16|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|80.92.204.47|1082|Russia|Moscow|WorkTitans B.V.|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|182.253.109.36|8080|Indonesia|Semarang|Biznet Metronet|
+|18|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
