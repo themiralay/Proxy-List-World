@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|164.90.201.255|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |14|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|15|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
