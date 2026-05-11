@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |2|121.130.199.80|24007|South Korea|Gwangjin-gu|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |11|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|20|101.255.122.82|8090|Indonesia|Bekasi|PT Remala Abadi|
+|12|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
