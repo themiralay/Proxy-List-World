@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|17|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|13|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
