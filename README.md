@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6369** proxies at the latest update. Usable proxies are below.
+> Scraper found **6341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1855|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1827|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3060|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
 |3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|45.77.246.231|80|Singapore|Singapore|The Constant Company|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
-|15|179.1.146.21|999|Peru|Sicuani|Internexa Peru S.A|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|180.191.231.47|8080|Philippines|Mandaue City|Globe Telecom|
+|7|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|45.77.246.231|80|Singapore|Singapore|The Constant Company|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|16|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
