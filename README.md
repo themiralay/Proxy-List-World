@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|15|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|20|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
+|2|103.122.67.135|8080|Indonesia|Kedalon|PT. Jinom Network Indonesia|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|49.49.77.54|8888|Thailand|Si Songkhram|Triple T Broadband Public Company Limited|
+|6|202.93.245.54|8080|Indonesia|Sidoarjo|DWPNAP|
+|7|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|193.181.35.87|8118|Sweden|Stockholm|PVDataNet AB|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|18|186.207.148.72|8787|Brazil|Rio Verde|Claro NXT Telecomunicacoes Ltda|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
 
 
 
