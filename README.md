@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|144.124.227.88|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|9|82.114.228.67|1080|Russia|Saratov|SCTS|
-|10|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|11|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
-|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|13|103.81.194.126|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|14|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|15|202.154.18.25|8080|Indonesia|Babat|DIGITNET|
-|16|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|9|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|103.142.69.169|8885|Bangladesh|Magura District|MIR INFO SYSTEMS LTD.|
+|12|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|13|131.153.163.26|34671|United States|Ashburn|Secured Servers LLC|
+|14|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|45.71.186.214|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
+|18|128.14.92.88|3128|Vietnam|Hanoi|Zenlayer Inc|
+|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
