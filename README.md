@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|38.46.233.146|8080|Indonesia|Salatiga|PT CYB Media Group|
-|4|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|10|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|15|103.155.198.73|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|103.53.77.179|8050|Indonesia|Bangil|INTI|
-|18|58.69.117.149|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|19|38.49.148.149|999|Mexico|Huamantla|IENTC S de RL de CV|
-|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|2|116.80.46.21|3172|Japan|Wakabayashi|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
+|20|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
 
 
 
