@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|4|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|3|36.92.104.123|8000|Indonesia|Tirtopuro|Telekomunikasi Indonesia|
+|4|103.71.162.17|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
 |5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|103.35.191.244|1081|United States|Secaucus|WorkTitans B.V.|
+|8|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|9|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
 |15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|18|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|19|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
