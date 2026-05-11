@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|122.54.226.216|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|10|27.102.134.30|1080|South Korea|Anyang-si|Daou Technology|
-|11|45.71.186.214|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|13|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|200.24.130.147|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|38.156.72.42|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|174.138.165.78|51299|United States|Phoenix|Secured Servers LLC|
-|20|196.216.134.71|8865|South Africa|Mahikeng|HERO TELECOMS (PTY) LTD|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
+|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|12|122.54.226.216|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|13|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|14|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|202.46.145.57|3417|Indonesia|Jakarta|Pt Mithaharum Abadi|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|103.154.152.104|8090|Indonesia|Bogor|MORATELINDONAP|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
