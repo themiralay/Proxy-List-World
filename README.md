@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8298** proxies at the latest update. Usable proxies are below.
+> Scraper found **8185** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3014|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2901|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3769|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|4|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|103.102.12.134|1111|Indonesia|Rembang|FISNET|
 |10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|94.131.122.125|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
