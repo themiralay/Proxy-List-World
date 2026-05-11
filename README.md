@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|103.156.74.186|8080|Indonesia|Banjar Tengah|PT Trika Global Media|
-|10|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.155.198.163|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
 |11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|15|101.255.211.109|8080|Indonesia|Jakarta|PT Remala Abadi|
-|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|18|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
