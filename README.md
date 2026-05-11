@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|8|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
-|19|167.234.218.204|3389|United States|San Jose|Oracle Corporation|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|180.148.25.190|3128|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|181.119.105.155|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
