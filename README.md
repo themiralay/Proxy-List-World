@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.150.128.127|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|4|103.109.96.180|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |8|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|9|174.138.171.162|8550|United States|Phoenix|Secured Servers LLC|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|174.138.171.162|8550|United States|Phoenix|Secured Servers LLC|
-|17|181.111.164.210|999|Argentina|Dudignac|Telecom Argentina S.A|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|38.123.220.108|999|Mexico|Manzana Sexta Parte Centro|Cogent Communications|
-|20|182.160.113.198|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
