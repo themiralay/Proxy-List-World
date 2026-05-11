@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|7|121.101.129.103|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|8|103.162.63.226|8082|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|9|174.138.165.253|8254|United States|Phoenix|Secured Servers LLC|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|7|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|43.224.171.232|8182|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|18|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
