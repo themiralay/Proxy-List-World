@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|6|103.166.158.99|8080|Indonesia|Telagaselaba|PT Timor Lintas Nusantara|
+|7|103.165.155.161|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|8|103.93.93.209|8089|Indonesia|Pandaan|MYRISE|
+|9|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|11|103.51.205.65|8080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|12|117.18.20.42|8080|Indonesia|Blitar|PT ALUCIO|
+|13|43.224.171.232|8182|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|14|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 |15|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|16|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|20|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|18|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|158.101.113.18|80|United States|Ashburn|Oracle Corporation|
 
 
 
