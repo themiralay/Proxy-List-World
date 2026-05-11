@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|12|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|160.19.146.179|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|15|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|11|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|185.196.182.22|8080|Albania|Krumë|shqiponjaisp.al LLC|
+|17|154.19.39.230|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|18|160.19.146.179|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|19|38.19.39.109|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|20|47.79.39.142|30000|Japan|Tokyo|Alibaba.com LLC|
 
 
 
