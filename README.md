@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|5|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|3|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |14|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|17|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|18|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
