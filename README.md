@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|918|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|918|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|918|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|894|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|894|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|894|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|6|103.93.93.170|8181|Indonesia|Kertosono|MYRISE|
-|7|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|8|103.165.229.172|8080|Indonesia|Tebet Barat|PT iForte Global Internet|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|8|23.224.193.43|3128|United States|Los Angeles|Cnservers LLC|
+|9|23.224.193.44|3128|United States|Los Angeles|Cnservers LLC|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|16|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|23.224.193.45|3128|United States|Los Angeles|Cnservers LLC|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|178.63.155.151|8978|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
