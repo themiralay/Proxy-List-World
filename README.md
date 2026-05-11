@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|202.159.35.84|9933|Indonesia|Jakarta|PT IndoInternet|
-|18|174.138.165.218|8251|United States|Phoenix|Secured Servers LLC|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|82.114.228.67|1080|Russia|Saratov|SCTS|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
+|19|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
 
 
 
