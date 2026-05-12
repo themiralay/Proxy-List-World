@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|174.138.165.253|37892|United States|Phoenix|Secured Servers LLC|
-|17|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|38.211.245.105|999|Argentina|Maipú|Latencia 0 SA|
-|20|103.247.22.15|1111|Indonesia|Cikarang|PT wifian Solution|
+|7|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
+|8|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|9|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|121.147.253.205|3104|South Korea|Gwangsan-gu|Korea Telecom|
 
 
 
