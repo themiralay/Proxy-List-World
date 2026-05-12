@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|904|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|904|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|904|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|736|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|736|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|736|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.237.67|3128|Japan|Tokyo|Microsoft Corporation|
-|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|203.175.102.221|3128|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
-|6|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |11|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|37.59.110.73|80|France|Roubaix|OVH SAS|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|80.234.104.229|3128|Russia|Oktyabr'sk|Commerce Network|
+|15|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|17|103.122.60.213|8080|India|Gajuwaka|Vizag Broadband Communications Pvt Ltd|
+|18|45.189.116.209|999|Peru|Lima|Conex TV E.I.R.L|
+|19|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|20|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
