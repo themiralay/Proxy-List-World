@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|990|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|990|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|990|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|180.191.252.107|8082|Philippines|General Trias|Globe Telecom|
-|3|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|4|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|5|103.239.23.133|3125|Indonesia|Karanglo|PT Foura Inti Sinergi|
-|6|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
-|7|101.255.122.82|8090|Indonesia|Bekasi|PT Remala Abadi|
-|8|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|9|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|1|157.120.38.97|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
+|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|45.13.116.168|21537|France|Mathay|ABJP|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|17|124.217.77.49|8082|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
-|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|18|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
