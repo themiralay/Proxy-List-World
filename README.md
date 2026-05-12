@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|693|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|693|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|693|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|12|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|15|82.114.228.67|1080|Russia|Saratov|SCTS|
+|16|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|17|202.47.65.146|3129|Indonesia|Pancur Biru Lestari II|PT Filltech Antar Nusa|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|103.174.123.4|8090|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
