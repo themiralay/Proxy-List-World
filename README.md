@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|8|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|9|38.41.12.89|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|10|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|6|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|10|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
 |11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|181.79.86.161|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|12|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|13|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
 |14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
-|17|202.62.84.210|53281|India|Greater Noida|CityOnline Services Ltd|
-|18|38.191.161.154|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
-|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|20|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
+|15|66.231.77.135|8080|Ecuador|Cuenca|Cubotelecom Cia. Ltda.|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|45.170.128.125|999|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|19|182.160.124.54|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|38.49.148.149|999|Mexico|Huamantla|IENTC S de RL de CV|
 
 
 
