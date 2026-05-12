@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|701|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|701|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|701|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.58.77.214|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
+|7|103.63.26.231|1111|Indonesia|Probolinggo|PT Global Media Data Prima|
 |8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|9|103.106.218.123|8081|Indonesia|Pandaan|PT. ARTHA LINTAS DATA MANDIRI|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
 |19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
