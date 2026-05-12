@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5268** proxies at the latest update. Usable proxies are below.
+> Scraper found **5233** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3320|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|4|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 |7|86.109.3.24|10000|United States|Chicago|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|14|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
-|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|17|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|8|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|38.123.220.108|999|Mexico|Manzana Sexta Parte Centro|Cogent Communications|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|209.62.196.68|8080|United States|Cut Off|EATEL|
+|17|38.123.220.52|999|Mexico|Manzana Primera la Capilla|Cogent Communications|
+|18|45.71.186.211|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
+|20|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
 
 
 
