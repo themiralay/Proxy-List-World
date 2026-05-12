@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|123.20.23.133|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|14|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|20|169.255.77.150|8865|South Africa|George|HERO TELECOMS (PTY) LTD|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|13|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
+|14|223.205.79.89|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|15|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|16|200.69.83.205|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|190.109.120.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
