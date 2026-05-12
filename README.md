@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1066|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1066|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1066|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|878|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|878|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|878|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|5|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
+|6|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 |14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |15|185.221.237.57|8443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|182.52.229.165|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
 |20|82.114.228.67|1080|Russia|Saratov|SCTS|
 
 
