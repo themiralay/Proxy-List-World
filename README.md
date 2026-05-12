@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.174.237.107|8080|Indonesia|Pamanukan|PT Global Erasiber Teknologi|
-|4|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|5|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
-|6|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
-|7|103.87.202.196|8080|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|8|103.171.245.157|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|9|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|13|45.174.243.145|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
-|16|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|19|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|14.241.231.13|8080|Vietnam|Ho Chi Minh City|VNPT|
+|2|103.242.107.122|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|3|103.247.22.15|1111|Indonesia|Cikarang|PT wifian Solution|
+|4|180.191.232.48|5050|Philippines|San Pedro|Globe Telecom|
+|5|36.50.92.145|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|103.183.8.59|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|7|103.247.23.28|9223|Indonesia|Purbalingga|PT wifian Solution|
+|8|103.190.170.144|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
+|11|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
+|12|103.97.140.226|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|13|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
+|14|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|15|202.58.73.10|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|103.236.142.18|8080|Indonesia|Pati Regency|PT. Jaringan Internet Tayu|
+|17|103.184.54.165|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
+|18|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|19|103.76.105.182|8080|Indonesia|Makassar|PT Citra Prima Media|
+|20|103.154.230.88|8090|Indonesia|Lamongan|DIGITNET|
 
 
 
