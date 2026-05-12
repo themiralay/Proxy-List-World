@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|103.189.250.121|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|103.26.28.210|8080|Bangladesh|Patiya|Rabbit Internet|
-|14|202.138.240.249|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|20|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|8|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
+|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|14|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
