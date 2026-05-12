@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9731** proxies at the latest update. Usable proxies are below.
+> Scraper found **9876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3614|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3759|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|409|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4508|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
 |2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|3|203.175.102.221|3128|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|45.10.70.247|8888|United States|Los Angeles|Zenlayer Inc|
-|6|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|45.10.70.247|8888|United States|Los Angeles|Zenlayer Inc|
-|8|103.165.155.195|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|9|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
-|11|103.122.65.54|8080|Indonesia|Banjar Dauhmarga|PT. Jinom Network Indonesia|
-|12|103.189.116.20|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|15|103.172.71.140|8989|Indonesia|Karangampel|AZNET|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|103.57.39.120|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|10|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|11|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
+|12|171.235.161.185|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|14|103.172.71.140|8989|Indonesia|Karangampel|AZNET|
+|15|103.227.187.177|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|16|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|18|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|20|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
 
 
 
