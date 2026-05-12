@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.122.64.163|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|19|138.117.84.168|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|15|103.227.186.68|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|103.86.117.27|8090|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|94.131.106.230|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 
 
 
