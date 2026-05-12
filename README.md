@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|103.51.205.65|8080|Indonesia|Surakarta|Lintas Data Prima, PT|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|19|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|103.251.8.255|8282|Indonesia|Ubud|PT Trika Global Media|
+|15|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|18|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
