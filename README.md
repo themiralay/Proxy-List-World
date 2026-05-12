@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|45.81.131.217|8888|United States|Los Angeles|Zenlayer Inc|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|45.81.131.217|8888|United States|Los Angeles|Zenlayer Inc|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|8|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|19|115.147.16.205|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|20|38.46.233.250|3127|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
