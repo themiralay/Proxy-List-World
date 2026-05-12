@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
 |3|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|4|123.20.13.201|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|9|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|202.58.73.6|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
