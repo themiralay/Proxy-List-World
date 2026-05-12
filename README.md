@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|103.229.185.157|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|45.38.198.127|3128|United States|Santa Clara|Cloud Software - FZCO|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|162.248.166.17|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|20|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
 
 
 
