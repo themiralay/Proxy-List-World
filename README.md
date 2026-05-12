@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|202.5.36.66|8085|Bangladesh|Dhaka|BBTS-NEW|
+|7|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|8|37.59.110.73|80|France|Roubaix|OVH SAS|
 |9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|37.59.110.73|80|France|Roubaix|OVH SAS|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 |11|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|13|213.220.3.38|3128|Spain|Zaragoza|YSZ TRADING CO., LIMITED|
-|14|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|15|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|16|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
-|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
