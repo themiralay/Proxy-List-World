@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|103.153.62.246|8181|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|101.32.243.189|80|Singapore|Singapore|Aceville Pte.ltd|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|10|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|38.210.1.180|999|Peru|Lima|Loa Network|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
 
 
 
