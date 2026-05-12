@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.4.76.105|8080|Indonesia|Parung|PT Khazanah Net Indonesia|
-|7|103.93.93.209|8089|Indonesia|Pandaan|MYRISE|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
-|20|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|103.124.137.205|8080|Indonesia|Ungaran|Global Media Data Prima|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|14|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
+|15|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
