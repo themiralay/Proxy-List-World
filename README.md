@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1632|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1632|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|174.138.165.253|8254|United States|Phoenix|Secured Servers LLC|
-|7|103.171.183.255|1111|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|185.221.237.57|443|Germany|Frankfurt am Main|BitCommand LLC|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|18|174.138.165.189|33481|United States|Phoenix|Secured Servers LLC|
-|19|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|220.121.143.33|3128|South Korea|Paju-si|Korea Telecom|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|64.227.174.134|9090|India|Bengaluru|DigitalOcean, LLC|
+|8|103.154.146.58|8080|Indonesia|Surabaya|MORATELINDONAP|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
