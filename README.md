@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|867|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|867|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|867|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|6|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |10|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.190.108.204|3128|Indonesia|Bojen Kulon|PT Pandawa Lintas Media|
-|14|103.174.123.4|8090|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|15|190.2.209.62|999|Colombia|Mesetas|TV AZTECA SUCURSAL COLOMBIA|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|20|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
 
 
 
