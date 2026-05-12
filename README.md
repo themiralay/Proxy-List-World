@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6578** proxies at the latest update. Usable proxies are below.
+> Scraper found **6686** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1695|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1803|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3612|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|123.20.13.201|10007|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|103.180.126.235|8080|Indonesia|Jakarta|PT Alam Media Data|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|123.20.57.187|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|123.20.57.187|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
-|17|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
