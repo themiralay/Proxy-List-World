@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|2|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|183.76.137.110|8080|Japan|Osaka|ASAHI Net, Inc.|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |5|203.175.102.221|3128|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
-|6|45.10.70.247|8888|United States|Los Angeles|Zenlayer Inc|
-|7|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|9|103.187.86.34|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|10|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|12|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|45.10.70.247|8888|United States|Los Angeles|Zenlayer Inc|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|103.180.123.229|8181|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|14|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
