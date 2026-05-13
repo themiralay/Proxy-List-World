@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|8|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|9|144.31.132.20|3128|Finland|Helsinki|Chsl ONE LTD|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|120.28.197.130|8080|Philippines|Davao City|Globe Telecom|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|14|45.175.137.253|999|Chile|Cabrero|INGENIERÍA EN INFORMÁTICA MADENET SPA|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|103.120.76.182|8070|Indonesia|Serang|PT Haci Telekomunikasi Indonesia|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|20|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
