@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
-|8|174.138.162.253|8001|United States|Phoenix|Secured Servers LLC|
-|9|103.165.247.74|8080|Indonesia|Taman|PT Maxindo Mitra Solusi|
-|10|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
-|11|174.138.161.210|8001|United States|Phoenix|Secured Servers LLC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|64.176.6.165|13920|Chile|Santiago|The Constant Company|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|174.138.162.194|8001|United States|Phoenix|Secured Servers LLC|
+|1|103.165.247.74|8080|Indonesia|Taman|PT Maxindo Mitra Solusi|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
+|4|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|174.138.168.90|31415|United States|Phoenix|Secured Servers LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|9|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|113.192.1.34|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|186.148.47.254|999|Chile|Santiago|TELEFÓNICA CHILE S.A.|
+|15|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|174.138.161.210|8001|United States|Phoenix|Secured Servers LLC|
+|18|174.138.162.251|8001|United States|Phoenix|Secured Servers LLC|
+|19|212.252.71.9|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|20|83.212.72.114|3128|Greece|Athens|OKEANOS Hosted VM's|
 
 
 
