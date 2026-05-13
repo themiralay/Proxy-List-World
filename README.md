@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4669** proxies at the latest update. Usable proxies are below.
+> Scraper found **4655** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1107|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1093|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2256|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|49.146.63.102|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|4|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|5|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
+|5|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
 |6|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|7|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
-|10|174.138.168.78|8001|United States|Phoenix|Secured Servers LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|174.138.168.77|33022|United States|Phoenix|Secured Servers LLC|
-|15|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
-|17|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|174.138.168.90|8202|United States|Phoenix|Secured Servers LLC|
+|8|174.138.168.90|8202|United States|Phoenix|Secured Servers LLC|
+|9|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|12|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|13|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
+|14|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
+|20|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
