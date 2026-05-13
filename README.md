@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.154.77.36|1111|Indonesia|Sleman|T2NET|
-|2|174.138.174.142|55952|United States|Phoenix|Secured Servers LLC|
-|3|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|174.138.170.59|8001|United States|Phoenix|Secured Servers LLC|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
-|10|174.138.161.205|32731|United States|Phoenix|Secured Servers LLC|
-|11|174.138.161.205|32731|United States|Phoenix|Secured Servers LLC|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|14|174.138.161.211|8001|United States|Phoenix|Secured Servers LLC|
-|15|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
-|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|174.138.163.50|8001|United States|Phoenix|Secured Servers LLC|
-|19|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
+|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|3|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|4|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|7|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|8|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
+|9|174.138.168.94|8254|United States|Phoenix|Secured Servers LLC|
+|10|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|16|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|20|174.138.161.210|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
