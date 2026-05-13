@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|174.138.168.90|8202|United States|Phoenix|Secured Servers LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|8|174.138.168.90|8202|United States|Phoenix|Secured Servers LLC|
-|9|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|13|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|174.138.168.74|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.170.45|8230|United States|Phoenix|Secured Servers LLC|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|186.151.95.58|999|Guatemala|Guatemala City|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|174.138.168.78|8001|United States|Phoenix|Secured Servers LLC|
+|4|174.138.162.197|8254|United States|Phoenix|Secured Servers LLC|
+|5|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|8|174.138.168.76|24939|United States|Phoenix|Secured Servers LLC|
+|9|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|14|174.138.170.46|8001|United States|Phoenix|Secured Servers LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|18|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
 |20|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
 
 
