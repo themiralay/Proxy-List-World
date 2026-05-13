@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.61.216.63|60808|Taiwan|Wugu District|Chunghwa Telecom Co., Ltd.|
-|3|124.243.150.41|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|203.175.102.210|8080|Indonesia|Banjarnegara|PT. Mitra Kita Brilian|
-|7|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.156.96.31|8088|Indonesia|East Luwu Regency|PT Karya Panca Telekomunikasi|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|6|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.178.86.93|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|14|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
 |15|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
 |16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|18|165.99.192.5|1111|Indonesia|Depok|PT IDN NUSANTARA NETWORK|
-|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|103.22.99.43|8085|Indonesia|Magetan|KHALISTAGROUP|
+|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|19|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|203.175.102.221|3128|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
 
 
 
