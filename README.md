@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|174.138.168.90|8001|United States|Phoenix|Secured Servers LLC|
-|3|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|4|180.191.230.134|5050|Philippines|Mandaue City|Globe Telecom|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
-|9|174.138.170.59|8001|United States|Phoenix|Secured Servers LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
-|14|174.138.168.74|8202|United States|Phoenix|Secured Servers LLC|
-|15|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
-|17|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|5|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|6|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
+|7|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|8|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|12|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
+|13|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.168.92|58186|United States|Phoenix|Secured Servers LLC|
+|20|174.138.170.43|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
