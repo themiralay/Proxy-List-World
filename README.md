@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.73.45|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
-|14|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|103.51.205.117|8090|Indonesia|Surakarta|Lintas Data Prima, PT|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|4|43.133.73.45|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|174.138.171.157|51523|United States|Phoenix|Secured Servers LLC|
+|19|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
