@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|7|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|8|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|20|103.120.76.182|8070|Indonesia|Serang|PT Haci Telekomunikasi Indonesia|
+|5|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|6|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
+|9|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
+|10|103.51.205.100|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|14|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|15|117.247.233.62|8080|India|Rohtak|BSNL Internet|
+|16|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|17|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|18|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|113.192.12.24|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|20|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
 
 
 
