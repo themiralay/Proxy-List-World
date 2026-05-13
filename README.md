@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|744|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|744|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|744|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|180.191.22.27|8082|Philippines|Cabanatuan City|Globe Telecom|
-|4|110.235.136.71|8081|Philippines|Quezon City|RADIUS TELECOMS, INC.|
-|5|154.19.39.220|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|6|202.58.77.214|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|10|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|115.136.121.54|3128|South Korea|Songpa-gu|LG POWERCOMM|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|110.235.136.71|8081|Philippines|Quezon City|RADIUS TELECOMS, INC.|
+|4|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|9|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|13|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|14|115.136.121.54|3128|South Korea|Songpa-gu|LG POWERCOMM|
+|15|103.218.183.133|8080|Indonesia|Metro|PT Inhqi Media Infotek|
+|16|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 
 
 
