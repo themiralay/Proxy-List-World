@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|203.150.128.30|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|4|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|5|38.127.172.7|37234|United States|Washington|Cogent Communications|
-|6|154.12.231.32|80|United States|St Louis|Cogent Communications|
-|7|38.127.172.34|37234|United States|Washington|Cogent Communications|
-|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|154.12.231.32|80|United States|St Louis|Cogent Communications|
-|12|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|203.150.128.30|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|5|47.77.216.82|1080|United States|Minkler|Alibaba.com LLC|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|7|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|13|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 |15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|17|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|18|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|16|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|103.171.183.255|1111|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
 
 
 
