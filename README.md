@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|174.138.168.92|38902|United States|Phoenix|Secured Servers LLC|
-|5|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
-|6|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|9|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
-|10|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
-|11|174.138.161.211|8001|United States|Phoenix|Secured Servers LLC|
-|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|13|174.138.168.92|38902|United States|Phoenix|Secured Servers LLC|
-|14|174.138.161.163|8001|United States|Phoenix|Secured Servers LLC|
-|15|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
-|17|174.138.162.197|55880|United States|Phoenix|Secured Servers LLC|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|174.138.161.210|8001|United States|Phoenix|Secured Servers LLC|
-|20|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
+|5|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
+|6|174.138.170.60|8001|United States|Phoenix|Secured Servers LLC|
+|7|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
+|8|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
+|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
+|12|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|13|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
+|14|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|15|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
+|16|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
+|17|174.138.168.92|53536|United States|Phoenix|Secured Servers LLC|
+|18|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
