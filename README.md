@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|585|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|585|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|585|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.138.168.74|50231|United States|Phoenix|Secured Servers LLC|
-|2|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
-|5|174.138.168.94|54093|United States|Phoenix|Secured Servers LLC|
-|6|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
-|7|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|174.138.163.50|31401|United States|Phoenix|Secured Servers LLC|
-|10|174.138.161.211|8001|United States|Phoenix|Secured Servers LLC|
-|11|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
-|12|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
-|13|174.138.168.90|8109|United States|Phoenix|Secured Servers LLC|
-|14|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|15|174.138.162.253|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.162.252|8001|United States|Phoenix|Secured Servers LLC|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
+|4|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|5|103.165.229.172|8080|Indonesia|Tebet Barat|PT iForte Global Internet|
+|6|174.138.174.142|51952|United States|Phoenix|Secured Servers LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|174.138.161.188|8001|United States|Phoenix|Secured Servers LLC|
+|9|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|103.183.8.135|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|12|174.138.174.141|56369|United States|Phoenix|Secured Servers LLC|
+|13|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|14|103.46.186.161|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
+|15|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|16|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|17|174.138.161.214|8001|United States|Phoenix|Secured Servers LLC|
+|18|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|19|38.183.146.57|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
