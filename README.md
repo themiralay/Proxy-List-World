@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.73.45|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|4|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
-|10|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|15|103.171.183.255|1111|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.133.73.45|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|7|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
+|8|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|91.144.30.145|8080|Syria|Damascus|STE Public Data Network Backbone and LIR|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|144.31.52.77|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
