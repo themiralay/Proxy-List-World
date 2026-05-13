@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.191.169.148|8080|Indonesia|Taccipi|PT Sugi Bintang Jaya|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|199.247.29.193|50000|Netherlands|Amsterdam|The Constant Company, LLC|
-|5|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|6|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|8|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|9|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
 |10|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|11|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|12|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|13|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|14|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|15|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|17|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|18|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|19|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|20|202.58.77.214|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|11|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|15|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|18|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
