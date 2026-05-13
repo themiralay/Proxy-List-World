@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5181** proxies at the latest update. Usable proxies are below.
+> Scraper found **5166** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1074|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1059|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2800|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |5|185.186.140.165|1080|Russia|Moscow|Kontel LLC|
 |6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|7|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|8|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|193.233.245.157|1080|United Kingdom|City of London|OOO FREEnet Group|
-|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
-|15|103.141.174.38|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|16|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
-|20|210.87.74.71|8080|Indonesia|Bilo|PT.Global Media Data Prima|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.154.230.246|8090|Indonesia|Lamongan|DIGITNET|
+|13|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|38.199.66.10|999|Colombia|Bogotá|M&B Soluciones Peru SAC|
+|18|38.49.143.220|999|Mexico|Tula de Allende|IENTC S de RL de CV|
+|19|190.97.236.155|999|Venezuela|San Cristóbal|Viginet C.A|
+|20|103.97.140.226|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
 
 
 
