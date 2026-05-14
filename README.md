@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|174.138.162.194|8001|United States|Phoenix|Secured Servers LLC|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|216.106.179.216|49152|United States|Dallas|GTHost|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|174.138.161.189|8001|United States|Phoenix|Secured Servers LLC|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|174.138.161.188|8001|United States|Phoenix|Secured Servers LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|19|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
-|20|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
+|1|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
+|13|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
+|14|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|174.138.168.78|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
+|20|181.119.66.165|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
