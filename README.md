@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|3|119.93.172.135|8080|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|180.191.232.119|8080|Philippines|San Pedro|Globe Telecom|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|5|103.169.255.205|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
+|8|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 |17|82.114.228.67|1080|Russia|Saratov|SCTS|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|186.148.160.8|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
