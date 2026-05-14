@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5559** proxies at the latest update. Usable proxies are below.
+> Scraper found **5665** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1218|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2996|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3102|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
-|8|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
-|9|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|10|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|11|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|12|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
-|13|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|4|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|8|174.138.161.188|8001|United States|Phoenix|Secured Servers LLC|
+|9|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|10|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|11|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |14|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|15|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|19|174.138.162.194|8001|United States|Phoenix|Secured Servers LLC|
-|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|31.15.169.77|808|Slovenia|Celje|Telemach Slovenija d.o.o.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
