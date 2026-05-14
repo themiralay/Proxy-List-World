@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5508** proxies at the latest update. Usable proxies are below.
+> Scraper found **5605** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1350|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1447|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2856|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|8|163.223.78.171|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
-|16|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|19|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|20|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|101.255.209.250|3128|Indonesia|Jakarta|PT Remala Abadi|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|8.243.126.136|8801|Peru|Ventanilla|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|11|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|12|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|17|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|18|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|19|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
 
 
 
