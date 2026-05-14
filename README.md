@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|7|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|202.58.77.235|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|12|182.160.106.11|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|1|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|2|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
+|8|174.138.168.92|8001|United States|Phoenix|Secured Servers LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|11|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|12|174.138.161.165|8185|United States|Phoenix|Secured Servers LLC|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 |15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
-|18|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|20|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|16|174.138.161.163|8001|United States|Phoenix|Secured Servers LLC|
+|17|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
+|18|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
