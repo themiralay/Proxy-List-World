@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|174.138.170.46|8001|United States|Phoenix|Secured Servers LLC|
-|13|157.20.233.184|8080|Indonesia|Kendal|PT Applewifi Selalu Lancar|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.99.27.130|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
-|19|179.43.159.98|1095|Switzerland|Rümlang|Private Layer INC|
-|20|124.6.168.26|8282|Philippines|Lahug|INNOVE|
+|1|101.32.243.189|80|Singapore|Singapore|Aceville Pte.ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|64.176.6.165|13920|Chile|Santiago|The Constant Company|
+|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|18|174.138.161.189|8001|United States|Phoenix|Secured Servers LLC|
+|19|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|20|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
