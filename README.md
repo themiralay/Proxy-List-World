@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|174.138.168.90|8001|United States|Phoenix|Secured Servers LLC|
-|12|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|13|174.138.170.62|8001|United States|Phoenix|Secured Servers LLC|
-|14|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
-|15|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|16|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|45.77.246.231|80|Singapore|Singapore|The Constant Company|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|174.138.161.205|38116|United States|Phoenix|Secured Servers LLC|
+|8|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
+|9|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|10|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|11|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|12|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|174.138.170.61|51734|United States|Phoenix|Secured Servers LLC|
+|18|174.138.162.197|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
+|20|103.161.171.238|8080|Vietnam|Hanoi|VINABISON|
 
 
 
