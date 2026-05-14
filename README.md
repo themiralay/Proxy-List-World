@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|8|103.130.70.253|83|India|Siliguri|Siliguri Meghrekha Net Services Pvt. Ltd|
-|9|201.71.24.65|8082|Brazil|Pesqueira|TESSI - Serviços de Telecomunicação Ltda|
-|10|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|11|34.100.228.239|10808|India|Mumbai|Google LLC|
-|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|13|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|16|45.239.48.98|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|18|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|8|174.138.168.78|8202|United States|Phoenix|Secured Servers LLC|
+|9|203.175.102.221|3128|Indonesia|Kutamangu|PT. Mitra Kita Brilian|
+|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|193.43.149.85|8080|Syria|Al Mulayḩah|Syrian Telecom|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|123.20.55.81|10031|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|174.138.168.78|8202|United States|Phoenix|Secured Servers LLC|
+|20|174.138.161.189|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
