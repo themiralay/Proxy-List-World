@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|728|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|728|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|728|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|174.138.168.74|8202|United States|Phoenix|Secured Servers LLC|
+|2|174.138.170.59|36717|United States|Phoenix|Secured Servers LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|6|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|5|38.49.133.178|999|Mexico|Silao|IENTC S de RL de CV|
+|6|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
 |7|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|8|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|9|174.138.168.77|55933|United States|Phoenix|Secured Servers LLC|
-|10|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|174.138.168.77|55933|United States|Phoenix|Secured Servers LLC|
-|14|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|103.193.144.1|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|9|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
+|10|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|11|119.18.147.139|10001|Bangladesh|Chittagong|BBTS Network|
+|12|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|167.234.218.204|3389|United States|San Jose|Oracle Corporation|
+|15|103.145.34.9|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|16|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|17|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|19|103.251.232.5|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|20|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
 
