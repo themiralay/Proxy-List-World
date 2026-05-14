@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|2|103.185.43.242|8080|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.172.120.93|8080|Indonesia|Jagong|PT Digital Akses Nusantara|
-|5|119.93.252.134|1452|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|6|103.61.16.9|8097|Indonesia|Suryabakti|TWINSDATAPRATAMA|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|10|174.138.168.74|32692|United States|Phoenix|Secured Servers LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
-|17|103.155.196.153|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|174.138.168.75|38422|United States|Phoenix|Secured Servers LLC|
-|20|174.138.161.211|8001|United States|Phoenix|Secured Servers LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.156.15.129|8080|Indonesia|Garisul|PT Lintas Jaringan Nusantara|
+|3|103.236.143.55|8080|Indonesia|Jembul Kulon|PT. Jaringan Internet Tayu|
+|4|103.106.219.213|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|10|103.141.244.139|8080|Indonesia|Kahala|PT PATRIA LINTAS JAYA|
+|11|174.138.161.220|30286|United States|Phoenix|Secured Servers LLC|
+|12|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|13|174.138.162.250|8001|United States|Phoenix|Secured Servers LLC|
+|14|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
+|15|146.196.98.50|37777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|16|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|18|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|19|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|20|103.175.245.205|8080|Bangladesh|Rāmganj|Orange Communication|
 
 
 
