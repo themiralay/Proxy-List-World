@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|167.234.218.204|3389|United States|San Jose|Oracle Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|180.191.252.107|8082|Philippines|General Trias|Globe Telecom|
-|14|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
-|15|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|174.138.162.35|8001|United States|Phoenix|Secured Servers LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|103.97.140.71|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|11|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|38.127.179.159|37234|United States|Washington|Cogent Communications|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
+|19|180.191.233.145|8080|Philippines|Kauran|Globe Telecom|
+|20|89.169.168.25|3128|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
