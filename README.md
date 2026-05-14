@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1081|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1081|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1081|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|932|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|932|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|932|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|103.156.15.105|1111|Indonesia|Bojonegara|PT Lintas Jaringan Nusantara|
-|6|123.20.23.133|10009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|159.13.44.239|8080|Australia|Sydney|Oracle Corporation|
-|8|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|9|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|10|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|11|174.138.162.252|36764|United States|Phoenix|Secured Servers LLC|
-|12|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|13|174.138.162.204|8001|United States|Phoenix|Secured Servers LLC|
-|14|174.138.168.78|64931|United States|Phoenix|Secured Servers LLC|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|19|174.138.170.62|8109|United States|Phoenix|Secured Servers LLC|
-|20|110.232.92.49|8080|Indonesia|Ciparay|PT. Media Antar Nusa|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|103.171.182.59|8080|Indonesia|Sukabumi|PT Hayat Teknologi Informatika|
+|3|103.18.79.189|8082|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|174.138.168.90|8109|United States|Phoenix|Secured Servers LLC|
+|6|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
+|7|174.138.170.62|8109|United States|Phoenix|Secured Servers LLC|
+|8|174.138.168.75|38422|United States|Phoenix|Secured Servers LLC|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
+|14|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
+|15|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|174.138.162.204|8001|United States|Phoenix|Secured Servers LLC|
+|17|174.138.170.58|8001|United States|Phoenix|Secured Servers LLC|
+|18|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|174.138.162.35|8001|United States|Phoenix|Secured Servers LLC|
+|20|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
 
 
 
