@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|6|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
-|7|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
-|15|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|174.138.170.60|8001|United States|Phoenix|Secured Servers LLC|
+|5|45.131.97.224|1081|Russia|Moscow|JSC Selectel|
+|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|103.169.149.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
+|9|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|10|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
