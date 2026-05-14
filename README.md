@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
-|12|23.185.200.94|37514|United States|Boulder|Fastnet Data Inc|
-|13|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
-|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|18|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
-|19|38.19.39.248|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
-|20|45.146.243.133|1080|Hong Kong|Tseung Kwan O|Mejiro Network Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|4|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|5|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
+|6|116.254.113.85|8080|Indonesia|Semarang|PT Media Sarana Data|
+|7|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|8|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
+|9|45.71.186.211|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|13|77.239.109.126|3128|Netherlands|Amsterdam|DpkgSoft International Limited|
+|14|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|190.60.47.62|999|Colombia|Malambo|IFX NETWORKS COLOMBIA|
 
 
 
