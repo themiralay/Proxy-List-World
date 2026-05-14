@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|3|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|12|194.59.247.34|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|17|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
-|18|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|19|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|20|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|5|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
+|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|38.211.245.92|999|Argentina|Maipú|Latencia 0 SA|
+|18|174.138.168.74|8001|United States|Phoenix|Secured Servers LLC|
+|19|38.211.245.94|999|Argentina|Maipú|Latencia 0 SA|
+|20|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
 
 
 
