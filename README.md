@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|711|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|711|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|711|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|174.138.161.165|8254|United States|Phoenix|Secured Servers LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|174.138.162.194|8001|United States|Phoenix|Secured Servers LLC|
-|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|7|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|174.138.170.61|8001|United States|Phoenix|Secured Servers LLC|
-|10|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|82.114.228.67|1080|Russia|Saratov|SCTS|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|174.138.168.74|54759|United States|Phoenix|Secured Servers LLC|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|17|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|174.138.168.77|55045|United States|Phoenix|Secured Servers LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|174.138.170.60|8001|United States|Phoenix|Secured Servers LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|174.138.168.94|8254|United States|Phoenix|Secured Servers LLC|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|174.138.174.140|8001|United States|Phoenix|Secured Servers LLC|
+|9|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|84.252.73.103|1080|Russia|Moscow|First Server Limited|
+|11|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|103.160.40.250|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|18|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
+|20|202.154.19.55|8080|Indonesia|Kertosono|DIGITNET|
 
 
 
