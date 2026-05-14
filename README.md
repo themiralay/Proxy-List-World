@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|104.248.149.186|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|7|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|174.138.168.78|8001|United States|Phoenix|Secured Servers LLC|
+|8|93.77.181.116|8888|Russia|Moscow|Yandex.Cloud LLC|
 |9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|11|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
-|12|152.32.93.105|8082|Philippines|Makati City|Converge Information and Communications Technology Solutions|
+|10|23.27.6.196|3128|United States|Ashburn|Cyclone Servers|
+|11|2.27.49.175|3128|Poland|Warsaw|Netshield LTD|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 |13|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|14|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|2.27.49.175|3128|Poland|Warsaw|Netshield LTD|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|103.109.96.193|8080|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|19|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
