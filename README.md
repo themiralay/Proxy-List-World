@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|741|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|741|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|741|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.134|3172|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|6|174.138.168.90|8109|United States|Phoenix|Secured Servers LLC|
-|7|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|8|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|174.138.162.36|8941|United States|Phoenix|Secured Servers LLC|
-|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|14|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
-|15|174.138.174.140|30764|United States|Phoenix|Secured Servers LLC|
-|16|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
-|17|174.138.170.43|8001|United States|Phoenix|Secured Servers LLC|
-|18|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|19|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
-|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.136.170.55|8080|Indonesia|Tangerang|PT UNZA VITALI|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|5|119.18.147.139|10001|Bangladesh|Chittagong|BBTS Network|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|174.138.168.91|51574|United States|Phoenix|Secured Servers LLC|
+|8|174.138.161.163|8001|United States|Phoenix|Secured Servers LLC|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|13|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|14|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
+|19|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
+|20|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
