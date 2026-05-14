@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|933|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|933|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|933|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.81.195.150|3125|Indonesia|Cileungsir|PT Rtiga Global Media|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|174.138.170.62|8109|United States|Phoenix|Secured Servers LLC|
-|5|174.138.168.90|50899|United States|Phoenix|Secured Servers LLC|
-|6|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|174.138.161.211|63448|United States|Phoenix|Secured Servers LLC|
-|9|174.138.162.250|8001|United States|Phoenix|Secured Servers LLC|
-|10|174.138.162.194|52615|United States|Phoenix|Secured Servers LLC|
-|11|103.97.140.142|8080|Indonesia|Cibodas|PT Jembatan Data Pangrango|
-|12|174.138.168.77|36024|United States|Phoenix|Secured Servers LLC|
-|13|174.138.162.250|8001|United States|Phoenix|Secured Servers LLC|
-|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
-|16|174.138.161.214|33216|United States|Phoenix|Secured Servers LLC|
-|17|103.172.23.70|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|18|174.138.162.252|8001|United States|Phoenix|Secured Servers LLC|
-|19|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
-|20|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|119.93.14.61|8082|Philippines|Villadolid|Philippine Long Distance Telephone Co.|
+|4|174.138.161.202|38761|United States|Phoenix|Secured Servers LLC|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|174.138.162.238|8254|United States|Phoenix|Secured Servers LLC|
+|8|113.192.31.206|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|9|174.138.170.59|8001|United States|Phoenix|Secured Servers LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|13|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
+|14|174.138.174.170|60001|United States|Phoenix|Secured Servers LLC|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|174.138.162.35|8001|United States|Phoenix|Secured Servers LLC|
+|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|20|174.138.162.238|8254|United States|Phoenix|Secured Servers LLC|
 
 
 
