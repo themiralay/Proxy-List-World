@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5770** proxies at the latest update. Usable proxies are below.
+> Scraper found **5692** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|563|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|563|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|563|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1482|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1404|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|174.138.168.76|8001|United States|Phoenix|Secured Servers LLC|
-|3|103.28.113.22|8080|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|200.125.169.116|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|6|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|14|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|15|185.82.99.210|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
-|18|94.131.122.128|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|19|205.235.1.37|999|Ecuador|Guayaquil|Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.|
-|20|103.167.171.147|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|1|116.80.50.64|3172|Japan|Wakabayashi|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|7|157.20.229.225|8080|India|Agra|Windnet Pvt Ltd|
+|8|103.158.242.58|83|India|Hyderabad|Willaegis Online Private Limited|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|14|103.39.70.252|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|15|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|174.138.162.197|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|20|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
