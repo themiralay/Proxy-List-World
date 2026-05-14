@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|865|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|865|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|865|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|2|183.91.88.226|8087|Indonesia|Central Jakarta|PT Aplikanusa Lintasarta|
-|3|103.162.17.207|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|4|103.169.39.255|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
-|5|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|6|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
-|7|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|8|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|9|174.138.168.94|37220|United States|Phoenix|Secured Servers LLC|
-|10|38.49.133.226|999|Mexico|Silao|IENTC S de RL de CV|
-|11|174.138.162.236|8001|United States|Phoenix|Secured Servers LLC|
-|12|174.138.161.205|54473|United States|Phoenix|Secured Servers LLC|
-|13|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|14|103.169.132.70|8080|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|15|174.138.168.91|36579|United States|Phoenix|Secured Servers LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|19|103.109.96.161|6321|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
-|20|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|4|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
+|5|38.49.133.226|999|Mexico|Silao|IENTC S de RL de CV|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|8|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
+|9|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|10|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|11|174.138.170.62|54756|United States|Phoenix|Secured Servers LLC|
+|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|13|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|17|174.138.168.77|38052|United States|Phoenix|Secured Servers LLC|
+|18|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|174.138.168.74|8202|United States|Phoenix|Secured Servers LLC|
 
 
 
