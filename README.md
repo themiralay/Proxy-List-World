@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|174.138.161.163|8254|United States|Phoenix|Secured Servers LLC|
-|10|174.138.170.62|8109|United States|Phoenix|Secured Servers LLC|
-|11|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|174.138.161.202|51384|United States|Phoenix|Secured Servers LLC|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|174.138.170.60|8001|United States|Phoenix|Secured Servers LLC|
-|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|174.138.162.197|8001|United States|Phoenix|Secured Servers LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|182.160.113.198|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|103.102.12.134|1111|Indonesia|Rembang|FISNET|
+|11|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|12|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|13|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|174.138.161.162|8001|United States|Phoenix|Secured Servers LLC|
+|19|36.94.149.149|8090|Indonesia|Cipinang Melayu|PT. Telekomunikasi Indonesia|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
