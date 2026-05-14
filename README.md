@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|5|174.138.168.90|8001|United States|Phoenix|Secured Servers LLC|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|216.106.179.216|49152|United States|Dallas|GTHost|
+|5|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|6|216.106.179.216|49152|United States|Dallas|GTHost|
 |7|174.138.168.92|8001|United States|Phoenix|Secured Servers LLC|
 |8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|103.119.63.144|8080|Indonesia|Bogor|MYREPUBLIC|
-|12|212.108.115.38|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|15|174.138.162.238|8254|United States|Phoenix|Secured Servers LLC|
-|16|174.138.161.188|8001|United States|Phoenix|Secured Servers LLC|
-|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|13|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|174.138.174.139|8001|United States|Phoenix|Secured Servers LLC|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|20|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
