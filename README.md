@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|2|103.228.246.220|1111|Indonesia|Ponorogo|PT Giga Patra Multimedia|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
-|8|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
-|9|174.138.162.197|8001|United States|Phoenix|Secured Servers LLC|
-|10|103.39.70.252|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|11|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
-|12|103.180.126.235|8080|Indonesia|Jakarta|PT Alam Media Data|
-|13|174.138.174.142|8001|United States|Phoenix|Secured Servers LLC|
-|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|15|190.93.229.38|999|Chile|Talagante|Makronet Consulting Tecnologia E Informatica Limitada|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
+|6|38.75.82.221|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|11|174.138.161.188|8001|United States|Phoenix|Secured Servers LLC|
+|12|174.138.174.173|8001|United States|Phoenix|Secured Servers LLC|
+|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|174.138.161.205|8001|United States|Phoenix|Secured Servers LLC|
+|19|174.138.163.50|8001|United States|Phoenix|Secured Servers LLC|
+|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 
 
 
