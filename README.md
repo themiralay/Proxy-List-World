@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.99|3172|Japan|Wakabayashi|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
-|13|181.119.105.155|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
-|16|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
-|17|195.208.3.50|1080|Russia|Moscow|Domain names registrar REG.RU|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|20|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|7|87.120.205.164|444|Germany|Frankfurt am Main|WAIcore Ltd|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|182.160.124.153|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|84.201.138.232|3128|Russia|Moscow|Yandex enterprise network|
+|16|174.138.161.202|8001|United States|Phoenix|Secured Servers LLC|
+|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|174.138.174.138|8001|United States|Phoenix|Secured Servers LLC|
+|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
