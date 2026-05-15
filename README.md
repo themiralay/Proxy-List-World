@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|42.114.173.42|1111|Vietnam|Hanoi|FPT Telecom Company|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.191.254.134|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
-|12|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|13|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|45.162.132.157|999|Chile|Puente Alto|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
-|16|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|17|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|18|190.94.213.234|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|154.27.200.31|999|Mexico|Molcaxac|Cogent Communications|
+|15|38.123.220.52|999|Mexico|Manzana Primera la Capilla|Cogent Communications|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
+|18|38.211.245.35|999|Argentina|Maipú|Latencia 0 SA|
+|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|20|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
