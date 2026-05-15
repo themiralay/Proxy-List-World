@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|160.19.18.99|8080|Indonesia|Cigunung|PT Indo Telemedia Solusi|
-|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|7|103.146.54.25|8080|Bangladesh|Tongi|Md. Sohel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
 |13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|16|176.208.93.34|8989|Russia|Belgorod|PJSC Rostelecom|
-|17|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|18|176.197.149.62|10801|Russia|Polysayevo|Goodline.info|
-|19|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|157.20.128.29|8080|Indonesia|Sukamaju|PT Citra Meta Data|
+|15|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|16|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
+|17|45.77.246.231|80|Singapore|Singapore|The Constant Company|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
 
 
 
