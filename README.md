@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|10|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
-|11|38.183.146.163|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|174.138.168.78|8001|United States|Phoenix|Secured Servers LLC|
-|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
-|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|20|103.154.152.104|8090|Indonesia|Bogor|MORATELINDONAP|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|88.1.150.79|3128|Spain|Alovera|Telefonica de Espana SAU|
+|7|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
+|8|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|174.138.168.74|8001|United States|Phoenix|Secured Servers LLC|
+|11|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
+|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|13|174.138.168.75|8001|United States|Phoenix|Secured Servers LLC|
+|14|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|15|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
+|16|174.138.174.172|8001|United States|Phoenix|Secured Servers LLC|
+|17|195.62.50.17|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|18|174.138.162.35|8001|United States|Phoenix|Secured Servers LLC|
+|19|38.191.203.229|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|174.138.162.35|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
