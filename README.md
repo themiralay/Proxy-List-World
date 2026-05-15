@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|6|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
+|6|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
 |7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|176.197.149.62|10801|Russia|Polysayevo|Goodline.info|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
-|12|209.14.112.97|999|Colombia|Cogua|Cogent Communications|
-|13|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|14|38.49.143.221|999|Mexico|Tula de Allende|IENTC S de RL de CV|
-|15|174.138.168.74|8001|United States|Phoenix|Secured Servers LLC|
-|16|45.71.186.214|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|176.197.149.62|10801|Russia|Polysayevo|Goodline.info|
+|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|12|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
 |18|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|19|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|38.7.195.51|999|Chile|Santiago|Grupo ZGH SpA|
+|20|179.43.159.98|1095|Switzerland|Rümlang|Private Layer INC|
 
 
 
