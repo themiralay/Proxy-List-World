@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|1|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |4|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|216.106.179.216|49152|United States|Dallas|GTHost|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|13|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|14|216.106.179.216|49152|United States|Dallas|GTHost|
-|15|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
-|16|176.197.149.62|10801|Russia|Polysayevo|Goodline.info|
-|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|103.141.244.139|8080|Indonesia|Kahala|PT PATRIA LINTAS JAYA|
-|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|5|160.238.65.2|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|6|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|7|103.169.254.9|8080|Indonesia|Madiun|PT Master Star Network|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|15|157.20.128.186|8080|Indonesia|Bojonegara|PT Citra Meta Data|
+|16|174.138.162.37|8001|United States|Phoenix|Secured Servers LLC|
+|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|18|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|144.124.227.88|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
