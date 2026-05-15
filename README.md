@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|5.188.38.52|3128|Russia|Khabarovsk|EdgeCenter LLC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|157.120.37.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
 |6|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|45.174.175.242|999|Mexico|Paraiso|Javier Tamayo Garcia|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|19|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|10|103.160.205.12|8081|Indonesia|Pendaleman|PRIME|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|41.216.186.197|80|Indonesia|Jakarta|FASTHOSTING|
+|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|15|103.151.227.130|8080|Indonesia|Bandung|URBANACCESS|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
