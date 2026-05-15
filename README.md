@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|4|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|5|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
-|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|10|103.169.254.75|6080|Indonesia|Ciputat|PT Master Star Network|
-|11|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|12|38.199.26.58|999|Colombia|Armenia|Renoca Group SRL|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|38.211.245.131|999|Argentina|Maipú|Latencia 0 SA|
-|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|16|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|180.191.59.251|8081|Philippines|Tarlac City|Globe Telecom|
-|19|38.7.195.51|999|Chile|Santiago|Grupo ZGH SpA|
-|20|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|38.46.233.248|3127|Indonesia|Boyolali|PT CYB Media Group|
+|7|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|16|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|17|103.247.23.215|8080|Indonesia|Kroya|PT wifian Solution|
+|18|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|19|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
 
 
 
