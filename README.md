@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|8|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|186.192.15.26|5445|Brazil|Manhuaçu|RG SILVEIRA LTDA|
-|17|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|18|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|19|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|200.10.31.45|8081|Colombia|Pereira|Super Redes S.A.S|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|203.175.103.201|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|9|103.174.122.173|8085|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|10|103.83.80.70|8080|India|Dhanpuri|Syntego Technologies India Private Limited|
+|11|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|16|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|182.160.124.153|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|36.88.137.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|131.255.227.104|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
 
 
 
