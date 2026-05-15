@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|2|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|107.175.85.198|1080|United States|Buffalo|HostPapa|
 |7|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|8|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
-|9|90.174.128.42|3128|Spain|Madrid|Uni2|
-|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|89.43.133.42|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|124.6.168.26|8282|Philippines|Lahug|INNOVE|
+|15|188.132.249.234|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|49.146.246.251|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
