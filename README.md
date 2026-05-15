@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.255.132.210|1111|Indonesia|Banjarnegara|Sarana Kawan Setia|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|6|38.41.12.91|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|13|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|14|176.197.149.62|10801|Russia|Polysayevo|Goodline.info|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|17|115.136.121.54|3128|South Korea|Songpa-gu|LG POWERCOMM|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|103.155.190.250|8080|Indonesia|Kota Blitar|Trisula Media Data|
 
 
 
