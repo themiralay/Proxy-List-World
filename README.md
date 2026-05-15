@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|2|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|174.138.162.237|8001|United States|Phoenix|Secured Servers LLC|
-|5|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
-|6|103.125.174.23|8181|Indonesia|Sunggal|PT Trinity Teknologi Nusantara|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|6|103.102.12.86|1111|Indonesia|Rembang|FISNET|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|9|181.119.105.155|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|188.132.249.234|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|11|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|14|191.97.14.189|999|Colombia|Muzo|TV AZTECA SUCURSAL COLOMBIA|
-|15|27.147.235.238|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|38.211.245.115|999|Argentina|Maipú|Latencia 0 SA|
+|13|38.211.245.35|999|Argentina|Maipú|Latencia 0 SA|
+|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|15|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|16|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|38.123.220.190|8080|Mexico|Loma Hermosa|Cogent Communications|
+|19|38.250.126.225|999|Chile|Santiago|Cogent Communications|
+|20|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
