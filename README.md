@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5740** proxies at the latest update. Usable proxies are below.
+> Scraper found **5846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1097|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3477|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
-|9|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|10|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|11|174.138.168.77|8001|United States|Phoenix|Secured Servers LLC|
-|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.162.54.178|8090|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|13|205.209.64.21|8080|Syria|Al-Qamishli|RCell LLC|
 |14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|16|174.138.161.187|8001|United States|Phoenix|Secured Servers LLC|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|119.93.83.106|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|19|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|20|38.127.172.139|37234|United States|Washington|Cogent Communications|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|181.78.234.84|999|Colombia|Uribia|IFX Networks Argentina S.R.L|
+|19|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
