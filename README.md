@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.144.146.5|8080|Indonesia|Tulungagung|Lexxa Data|
-|8|94.131.122.128|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|102.129.170.123|37234|United States|New York|networld communications SRL|
-|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|20|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|7|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|8|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|11|190.14.249.111|8080|Colombia|Santana|Media Commerce Partners S.A|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|38.127.179.159|37234|United States|Washington|Cogent Communications|
+|14|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|15|161.248.117.117|8080|Indonesia|Sekupang|PT INFORMASI NUSANTARA TEKNOLOGI|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|20|89.43.133.42|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
 
 
 
