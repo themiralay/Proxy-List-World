@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|6|43.200.179.23|80|South Korea|Seoul|Amazon.com, Inc.|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|11|160.25.223.14|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
-|12|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|1|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|43.200.179.23|80|South Korea|Seoul|Amazon.com, Inc.|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|160.19.18.99|8080|Indonesia|Cigunung|PT Indo Telemedia Solusi|
+|15|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|202.47.87.5|9090|Vietnam|Cửa Nam|KIENPHONGITS|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|49.146.246.251|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|20|115.187.29.25|89|Indonesia|Muhajirin|PT Lintas Jaringan Mandiri|
+|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 
 
 
