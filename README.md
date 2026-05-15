@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|113.192.12.24|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|6|102.129.170.123|37234|United States|New York|networld communications SRL|
-|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|8|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|12|38.191.200.174|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|15|174.138.168.90|8001|United States|Phoenix|Secured Servers LLC|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|7|146.56.164.121|3128|South Korea|Seoul|Oracle Corporation|
+|8|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|11|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
+|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|181.225.77.101|999|Colombia|Medellín|Media Commerce Partners S.A|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
