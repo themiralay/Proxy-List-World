@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|103.169.255.205|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|201.144.20.238|3128|Mexico|Mexico City|UNINET|
-|5|216.106.179.216|49152|United States|Dallas|GTHost|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|174.138.174.171|8001|United States|Phoenix|Secured Servers LLC|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
-|17|46.8.252.21|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|18|157.66.26.151|3128|Vietnam|Go Vap|Trumvps Company Limited|
-|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|4|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|5|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|12|103.165.157.206|8088|Indonesia|Taman|MEGADATA-ISP|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|45.134.39.140|3333|Germany|Frankfurt am Main|Smartnet Limited|
+|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|17|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|200.24.130.144|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|103.242.105.70|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|20|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
 
 
 
