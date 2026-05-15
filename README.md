@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|10|117.247.233.62|8080|India|Rohtak|BSNL Internet|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|14|103.160.40.254|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|16|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|17|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
+|7|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.85.53.64|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
+|13|37.230.57.121|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|14|174.138.161.220|8001|United States|Phoenix|Secured Servers LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
 |18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|20|201.76.9.115|8080|Brazil|Tubarão|Contato Internet EIRELI|
 
 
 
