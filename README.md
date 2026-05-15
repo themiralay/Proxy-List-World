@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|11|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
-|12|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|13|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|14|131.222.210.36|8080|Türkiye|Antakya|Superonline Iletisim Hizmetleri A.S.|
-|15|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|217.76.46.230|8080|Russia|Moscow|OOO NIIR-RadioNet|
-|18|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|10|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
+|18|103.251.232.12|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
 |19|182.253.221.147|8080|Indonesia|Jakarta|Biznet Networks|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
 
 
 
