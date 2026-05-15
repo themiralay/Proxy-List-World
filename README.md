@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|2|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|9|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|10|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|11|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|114.9.55.102|1111|Indonesia|Jeneponto|PT. INDOSAT Tbk|
-|13|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
-|14|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|15|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|16|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
-|17|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|18|103.193.144.15|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|19|38.183.146.97|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|15|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|18|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
+|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|185.200.37.245|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
