@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5052** proxies at the latest update. Usable proxies are below.
+> Scraper found **5047** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3185|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|11|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
-|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|4|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|188.129.255.58|8080|Georgia|Tbilisi|Caucasus Online LLC|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 |14|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|15|181.119.105.155|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|191.5.38.6|54121|Brazil|Santo Antônio do Monte|Sempre Telecomunicacoes Ltda|
-|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|200.24.130.144|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|163.227.168.130|8080|Indonesia|Kendal|PT Fiber Bahana Tatamitra Solusi|
+|18|175.158.63.166|1111|Indonesia|West Jakarta|CBNNAP|
+|19|103.66.197.2|8080|Indonesia|Serpong|PT. Mora Telematika Indonesia|
+|20|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
 
 
 
