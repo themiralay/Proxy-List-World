@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|5|45.77.246.231|80|Singapore|Singapore|The Constant Company|
-|6|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|7|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|8|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|9|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|10|83.97.79.114|8443|Spain|Madrid|BlueVPS OU|
-|11|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|12|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
-|13|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|124.158.144.30|8080|Indonesia|Semarang|PT iForte Global Internet|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
-|19|158.160.212.239|8888|Russia|Moscow|Yandex.Cloud LLC|
-|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|9|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
+|18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|19|38.10.91.117|8084|Philippines|Iloilo City|Cogent Communications|
+|20|103.238.232.98|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
 
 
 
