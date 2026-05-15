@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
-|11|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|12|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|17|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|19|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|20|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|13|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|14|123.200.6.206|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|45.174.243.192|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|16|180.191.233.145|8080|Philippines|Kauran|Globe Telecom|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|38.211.245.35|999|Argentina|Maipú|Latencia 0 SA|
+|19|38.199.71.83|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|119.93.139.196|8082|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
 
 
 
