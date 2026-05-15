@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.37.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|5.188.38.52|3128|Russia|Khabarovsk|EdgeCenter LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|7|103.156.14.13|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
-|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|12|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|13|171.4.4.59|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|190.93.224.32|999|Peru|Lima|FICOM TELECOMUNICACIONES|
-|19|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|20|174.138.168.90|8001|United States|Phoenix|Secured Servers LLC|
+|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|6|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|158.160.212.239|8888|Russia|Moscow|Yandex.Cloud LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
