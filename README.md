@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|168.138.109.191|3128|Australia|Sydney|Oracle Corporation|
-|3|205.172.57.171|3128|United States|New York|HOSTKEY|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|168.138.109.191|3128|Australia|Sydney|Oracle Corporation|
+|4|205.172.57.171|3128|United States|New York|HOSTKEY|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|205.172.57.171|3128|United States|New York|HOSTKEY|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|38.19.47.114|999|Colombia|Barranquilla|Cogent Communications|
-|19|115.127.44.14|4432|Bangladesh|Dhaka|BRACNet Limited|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|13|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|154.27.196.134|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
