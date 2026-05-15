@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|7|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|174.138.161.220|59165|United States|Phoenix|Secured Servers LLC|
-|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|12|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|16|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|7|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|103.242.105.65|7200|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|10|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|11|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|103.133.25.149|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|189.196.18.150|999|Mexico|Villa de Cos|Mega Cable, S.A. de C.V.|
+|19|103.173.138.201|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|20|190.97.249.30|999|Venezuela|Mérida|Viginet C.A|
 
 
 
