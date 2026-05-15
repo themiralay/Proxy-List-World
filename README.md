@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.174.175.26|999|Mexico|Paraiso|Javier Tamayo Garcia|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|4|126.209.16.60|8082|Philippines|Manila|Infinivan Incorporated|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
-|7|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|13|205.172.57.171|3128|United States|New York|HOSTKEY|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|9|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|126.209.16.60|8082|Philippines|Manila|Infinivan Incorporated|
+|11|205.172.57.171|3128|United States|New York|HOSTKEY|
+|12|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
 |14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|190.235.185.198|999|Peru|Chafán Grande|TDP-GRS|
-|18|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|38.49.148.149|999|Mexico|Huamantla|IENTC S de RL de CV|
+|15|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|20|107.175.85.198|1080|United States|Buffalo|HostPapa|
 
 
 
