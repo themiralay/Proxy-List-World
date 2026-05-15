@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|3|20.171.155.180|3128|United States|Phoenix|Microsoft Corporation|
-|4|139.162.46.62|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|20.171.155.180|3128|United States|Phoenix|Microsoft Corporation|
-|9|103.165.157.247|8088|Indonesia|Taman|MEGADATA-ISP|
-|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|94.131.122.128|1082|United Kingdom|Holborn|WorkTitans B.V.|
-|13|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
-|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|194.87.83.113|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|16|45.13.116.183|21537|France|Mathay|ABJP|
-|17|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|2|47.238.78.190|1080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|192.73.243.98|3128|United States|Miami|NetActuate, Inc|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|103.247.23.215|8080|Indonesia|Kroya|PT wifian Solution|
+|12|192.73.243.98|3128|United States|Miami|NetActuate, Inc|
+|13|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|14|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|18|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|93.43.251.159|80|Italy|Turin|Fastweb Networks|
 
 
 
