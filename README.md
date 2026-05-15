@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5632** proxies at the latest update. Usable proxies are below.
+> Scraper found **5598** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3279|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|106.0.158.114|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|9|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|174.138.174.170|8001|United States|Phoenix|Secured Servers LLC|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
-|18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|19|38.10.91.117|8084|Philippines|Iloilo City|Cogent Communications|
-|20|103.238.232.98|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|5|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|6|160.19.41.34|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
+|7|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|8|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|9|212.224.88.212|443|Germany|Neu-Isenburg|Ultahost, Inc.|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|174.138.174.141|8001|United States|Phoenix|Secured Servers LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|20|160.25.223.14|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
 
 
 
