@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|49.144.21.128|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |5|181.225.77.101|999|Colombia|Medellín|Media Commerce Partners S.A|
-|6|203.28.67.74|8080|Philippines|Cebu City|Responsible Internet Sustainability Effort|
-|7|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|8|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|9|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 |12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|19|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
-|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|103.162.16.224|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|38.252.213.59|999|Peru|Oxapampa|Telcom Mikrotik Peru S.A.C|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
 
 
 
