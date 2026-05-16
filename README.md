@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|125.26.99.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|5|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |9|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|49.49.91.151|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
