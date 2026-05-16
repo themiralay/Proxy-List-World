@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|4|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|5|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|62.103.66.18|3128|Greece|Athens|OTEnet|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|38.19.39.244|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|20|103.131.19.42|8181|Indonesia|Batang|PT Global Media Data Prima|
 
 
 
