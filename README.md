@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.134.85.167|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|5|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|5.129.223.50|3128|Russia|Moscow|JSC "TIMEWEB"|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|3|103.134.85.167|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|5.129.223.50|3128|Russia|Moscow|JSC "TIMEWEB"|
+|8|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|19|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
