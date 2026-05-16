@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5560** proxies at the latest update. Usable proxies are below.
+> Scraper found **5765** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1070|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1205|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3209|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|112.163.160.93|3128|South Korea|Jinju|Korea Telecom|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|49.144.25.216|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|6|103.227.187.241|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|7|49.144.21.128|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.158.62.130|8080|Bangladesh|Maulavi Bāzār|SEARCH IT|
-|10|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|190.93.229.38|999|Chile|Talagante|Makronet Consulting Tecnologia E Informatica Limitada|
-|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|17|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|179.1.182.20|999|Colombia|Villavieja|Internexa S.a. E.S.P|
-|20|186.148.47.253|999|Chile|Santiago|TELEFÓNICA CHILE S.A.|
+|1|103.75.117.114|3128|Hong Kong|Tseung Kwan O|BrainStorm Network|
+|2|49.144.29.62|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|3|148.135.116.20|8118|United States|Los Angeles|Multacom Corporation|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|49.144.21.128|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|7|36.50.56.11|8818|Indonesia|Bogor|PT Andromega Data Nusantara|
+|8|49.144.25.216|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|9|119.93.139.196|8082|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|10|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|12|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|119.93.169.230|8087|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|15|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|17|45.174.241.241|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|149.62.191.202|3128|Italy|Turin|HOST-VDC|
+|20|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
 
 
 
