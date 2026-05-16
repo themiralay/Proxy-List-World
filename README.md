@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
-|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|83.97.79.114|8443|Spain|Madrid|BlueVPS OU|
-|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|182.160.124.214|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|17|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|18|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
+|8|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|9|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|137.184.0.30|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
+|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
