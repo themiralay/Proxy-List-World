@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|10|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|11|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|212.252.71.20|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|16|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|17|103.87.169.200|32650|India|Jaipur|and ROA|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|58.147.189.63|8081|Indonesia|Pemangkat|PT Transhybrid Communication|
+|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|103.87.169.200|32650|India|Jaipur|and ROA|
+|10|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|14|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
