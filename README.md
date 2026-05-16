@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|20|38.211.245.98|999|Argentina|Maipú|Latencia 0 SA|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|58.69.61.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|174.138.168.90|8254|United States|Phoenix|Secured Servers LLC|
+|14|43.153.39.251|1080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
+|20|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 
 
 
