@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|5|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|6|103.153.202.0|8181|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
-|7|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|103.189.250.121|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|13|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|17|103.188.173.66|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|18|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|189.196.45.158|999|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.171.182.59|8080|Indonesia|Sukabumi|PT Hayat Teknologi Informatika|
+|4|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|103.203.233.130|8585|Indonesia|Malang|PT Inti Data Guna|
+|7|192.232.48.24|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|14|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|15|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|16|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|103.171.31.172|8080|Indonesia|Jakarta|MORATELINDONAP|
+|19|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
