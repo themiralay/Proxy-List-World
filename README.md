@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|49.49.91.151|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
-|8|185.103.252.20|3128|Germany|Frankfurt am Main|First Server Limited|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|11|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|17|200.10.31.45|8081|Colombia|Pereira|Super Redes S.A.S|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|6|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|7|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|14|49.147.124.188|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
