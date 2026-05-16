@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.133.27.179|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|4|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
-|5|49.49.91.151|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|185.191.106.0|8081|Italy|Milan|Mywic Costumers|
-|11|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|12|101.255.137.49|80|Indonesia|Karawang|PT Remala Abadi|
-|13|45.229.17.163|999|Ecuador|Baba|Turbonet S.A.|
-|14|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|103.148.130.50|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|49.49.91.151|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
+|5|163.223.116.85|8080|Indonesia|Kuningan|PT Signall Network Nusantara|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|38.75.82.213|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|103.148.51.221|8090|Bangladesh|Ujalpur|C Net Broadband|
+|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
 
 
 
