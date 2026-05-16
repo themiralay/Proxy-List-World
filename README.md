@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.82.93.98|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|85.208.87.111|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|176.235.182.69|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|8|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|148.135.116.20|8118|United States|Los Angeles|Multacom Corporation|
+|12|167.99.173.119|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|185.103.252.20|3128|Germany|Frankfurt am Main|First Server Limited|
+|17|103.175.240.71|1080|Indonesia|Pekalongan|LDP|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
