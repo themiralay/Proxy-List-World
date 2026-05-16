@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
 |6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|103.16.73.49|9108|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|180.148.25.190|3128|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
-|12|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|18|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|82.114.228.67|1080|Russia|Saratov|SCTS|
+|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|16|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|103.174.122.79|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 
 
 
