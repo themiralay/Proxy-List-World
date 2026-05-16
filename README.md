@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|4|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|6|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|7|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
 |8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|201.220.112.98|999|Chile|Santiago|Telefonica del Sur S.A.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|195.175.29.38|9090|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|14|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
+|15|42.114.172.179|2045|Vietnam|Hanoi|FPT Telecom Company|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
