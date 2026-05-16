@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|19|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|13|45.185.72.83|3128|Brazil|Cotia|Winet Brasil|
+|14|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
