@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4261** proxies at the latest update. Usable proxies are below.
+> Scraper found **4186** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|621|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2391|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.58.77.131|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|9|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|12|182.160.115.43|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|14|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|15|179.49.237.12|999|Chile|Santiago|Sitelco SPA|
-|16|103.203.234.105|3127|Indonesia|Banyumas|PT Nesta Indo Media|
-|17|188.190.177.47|8989|Ukraine|Khmelnytskyi|Global Technology Ukraine Ltd|
-|18|163.223.78.171|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|38.7.195.55|999|Chile|Santiago|Grupo ZGH SpA|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
