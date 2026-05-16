@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.37.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|8|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|162.255.110.107|8080|United States|Kennewick|Desert Winds Wireless|
-|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|13|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|14|190.97.239.40|999|Venezuela|Maracaibo||
-|15|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A|
-|16|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|18|38.10.91.115|8084|Philippines|Iloilo City|Cogent Communications|
-|19|154.126.213.5|8080|South Africa|Potchefstroom|JENNY Network|
-|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|7|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|8|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|42.114.172.179|2045|Vietnam|Hanoi|FPT Telecom Company|
+|10|78.109.34.192|8080|Russia|Irkutsk|MTS Irkutsk|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|14|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|16|103.228.246.171|8080|Indonesia|Kebonsari|PT Giga Patra Multimedia|
+|17|190.97.246.194|999|Venezuela|Higuerote|Viginet C.A|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|38.46.233.250|3127|Indonesia|Boyolali|PT CYB Media Group|
+|20|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
