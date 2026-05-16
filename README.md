@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|82.114.228.67|1080|Russia|Saratov|SCTS|
-|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|16|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|4|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
