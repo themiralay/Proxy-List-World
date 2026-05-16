@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.13.44.239|8080|Australia|Sydney|Oracle Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|10|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|14|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
-|17|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|42.114.172.179|2075|Vietnam|Hanoi|FPT Telecom Company|
-|20|31.56.78.134|7777|Indonesia|Jakarta|PT Perwira Media Solusi|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|216.106.179.216|49152|United States|Dallas|GTHost|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|216.106.179.216|49152|United States|Dallas|GTHost|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|103.109.96.180|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
 
 
 
