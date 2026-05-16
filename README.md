@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|104.248.149.186|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 |8|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
 |9|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|10|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|12|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|223.25.110.185|8080|Indonesia|Purbalingga|SinergiNet|
+|12|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|13|185.103.252.20|3128|Germany|Frankfurt am Main|First Server Limited|
 |14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|89.43.132.254|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|20|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|202.6.206.2|8082|Philippines|Surigao City|JAT I.T. SERVICES|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
