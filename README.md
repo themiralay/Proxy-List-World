@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5611** proxies at the latest update. Usable proxies are below.
+> Scraper found **5615** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1051|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1055|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3209|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|49.144.29.62|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|3|154.19.39.111|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|4|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
-|5|49.144.25.216|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|6|160.187.174.114|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|7|49.144.21.128|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|8|148.135.116.20|8118|United States|Los Angeles|Multacom Corporation|
-|9|119.93.169.230|8087|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|10|103.184.54.9|8080|Indonesia|Curahnongko|PT Proxi Jaringan Nusantara|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|14|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
-|15|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|38.211.245.35|999|Argentina|Maipú|Latencia 0 SA|
-|18|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|49.144.29.62|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|4|103.159.194.209|7777|Indonesia|Ketanggungan|PT Giga Digital Nusantara|
+|5|175.100.34.177|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|103.124.137.78|8080|Indonesia|Ungaran|Global Media Data Prima|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|11|103.247.23.120|1111|Indonesia|Purbalingga|PT wifian Solution|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|180.191.231.19|8082|Philippines|Mandaue City|Globe Telecom|
+|14|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|15|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|121.101.131.8|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
