@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.66.12.225|8080|India|Tirunelveli|Alacriy Net System Service Private Limited|
-|4|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|103.153.42.121|3125|Indonesia|East Jakarta|Universitas Binawan|
-|9|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|16|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|38.127.179.236|37234|United States|Washington|Cogent Communications|
-|19|103.194.175.51|7777|Indonesia|Sempu|MYNET|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|179.43.159.98|1080|Switzerland|Rümlang|Private Layer INC|
+|6|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
+|19|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
