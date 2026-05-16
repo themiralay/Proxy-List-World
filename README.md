@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|192.210.140.36|7913|United States|Dallas|HostPapa|
-|17|192.210.140.36|7913|United States|Dallas|HostPapa|
-|18|38.191.200.250|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|13|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|110.232.85.2|6060|Indonesia|Medan|PT Mandala Lintas Nusa|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
 |19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 
 
 
