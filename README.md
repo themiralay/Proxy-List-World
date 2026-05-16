@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|180.191.231.19|8082|Philippines|Mandaue City|Globe Telecom|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|148.135.116.20|8118|United States|Los Angeles|Multacom Corporation|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|3|121.101.131.8|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.97.140.127|3125|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|6|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|45.173.12.140|1994|Colombia|San Gil|Atenea Telecomunicaciones|
-|12|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
-|13|149.62.191.202|3128|Italy|Turin|HOST-VDC|
-|14|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|15|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|49.144.29.62|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|19|176.12.73.250|3128|Kazakhstan|Almaty|Netfire TEC|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|180.191.231.19|8082|Philippines|Mandaue City|Globe Telecom|
+|15|103.80.214.21|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|18|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|19|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
+|20|181.233.50.233|8787|Ecuador|Loja|Optilink CIA Ltda|
 
 
 
