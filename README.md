@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.177.153.42|8080|Indonesia|Pameungpeuk|PT Beibi Cemerlang Indonesia|
-|7|192.210.140.36|7913|United States|Dallas|HostPapa|
-|8|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|103.177.153.42|8080|Indonesia|Pameungpeuk|PT Beibi Cemerlang Indonesia|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|9|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |11|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|12|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|13|192.210.140.36|7913|United States|Dallas|HostPapa|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
