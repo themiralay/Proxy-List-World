@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|5|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|12|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|115.147.171.114|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.167.192.85|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
+|4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|11|167.71.196.178|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|113.11.127.179|64300|Bangladesh|Jessore|BDCOM Online Limited|
+|13|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|14|160.238.65.4|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|15|160.238.65.6|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
+|19|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
