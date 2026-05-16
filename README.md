@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|7|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
-|10|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|103.154.77.80|1111|Indonesia|Sleman|T2NET|
-|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|209.250.253.81|443|Netherlands|Amsterdam|The Constant Company, LLC|
-|17|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|18|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|103.61.16.92|8080|Indonesia|Suryabakti|TWINSDATAPRATAMA|
+|3|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|4|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|5|38.210.201.72|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|6|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|7|103.154.77.80|1111|Indonesia|Sleman|T2NET|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|10|3.15.206.211|1080|United States|Dublin|Amazon.com, Inc.|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|38.252.213.59|999|Peru|Oxapampa|Telcom Mikrotik Peru S.A.C|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|18|38.75.82.213|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|107.175.85.198|1080|United States|Buffalo|HostPapa|
 
 
 
