@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.134.85.167|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|13|42.114.172.179|2088|Vietnam|Hanoi|FPT Telecom Company|
-|14|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|15|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|103.134.85.167|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
+|3|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|14|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|15|42.114.172.179|2083|Vietnam|Hanoi|FPT Telecom Company|
+|16|186.96.74.144|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|103.125.174.23|8181|Indonesia|Sunggal|PT Trinity Teknologi Nusantara|
+|19|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
