@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|10|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|3|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|4|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
+|9|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|10|201.159.102.17|8081|Mexico|General Escobedo|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|11|103.166.9.26|8080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|12|174.138.168.91|8001|United States|Phoenix|Secured Servers LLC|
+|13|179.1.236.18|999|Colombia|Medellín|Internexa S.a. E.S.P|
+|14|43.245.85.46|808|Nepal|Patan|Vianet|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|38.7.195.51|999|Chile|Santiago|Grupo ZGH SpA|
 
 
 
