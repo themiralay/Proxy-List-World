@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |5|87.120.222.214|444|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|15|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
-|17|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
-|18|89.111.181.247|1080|Russia|Moscow|JSC "RU-CENTER"|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|174.138.168.94|8001|United States|Phoenix|Secured Servers LLC|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|38.52.220.58|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|12|43.153.39.251|1080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|159.13.44.239|8080|Australia|Sydney|Oracle Corporation|
+|19|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
