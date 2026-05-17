@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|103.245.96.161|3214|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
-|13|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|11|103.227.24.36|8080|Indonesia|Krajan Wetan Wonojoyo|PT Sumber Data Indonesia|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|5.129.223.50|3128|Russia|Moscow|JSC "TIMEWEB"|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|103.165.157.206|8088|Indonesia|Taman|MEGADATA-ISP|
+|19|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|20|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
 
 
 
