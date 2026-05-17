@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|10|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
 |11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|18|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|200.10.30.19|999|Colombia|Pereira|Super Redes S.A.S|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|17|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|38.127.179.159|37234|United States|Washington|Cogent Communications|
+|20|200.10.30.163|999|Colombia|Pereira|Super Redes S.A.S|
 
 
 
