@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|7|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.227.187.241|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|10|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|12|5.10.230.93|8080|Iraq|Baghdad|SatGate Company for Trading of Computers Systems and Communications Appliances|
-|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|14|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|15|38.7.195.53|999|Chile|Santiago|Grupo ZGH SpA|
-|16|43.251.116.162|7890|United States|Los Angeles|Zenlayer Inc|
-|17|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|18|177.234.244.139|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|19|154.27.196.13|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|20|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|8|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|15|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|18|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|19|38.211.245.83|999|Argentina|Maipú|Latencia 0 SA|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
