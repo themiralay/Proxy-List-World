@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4223** proxies at the latest update. Usable proxies are below.
+> Scraper found **4228** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2490|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|16|51.161.50.166|3128|Canada|Vaughan|OVH SAS|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|51.161.50.166|3128|Canada|Vaughan|OVH SAS|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|82.114.228.67|1080|Russia|Saratov|SCTS|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|131.222.246.204|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
