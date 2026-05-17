@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|13|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|18|109.224.242.120|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
-|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|3|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|10|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|103.154.222.58|1111|Indonesia|Leuwiliang|MORATELINDONAP|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|181.78.198.7|8080|Ecuador|Ventanas|Ufinet Panama S.A.|
+|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|18|202.46.144.49|3317|Indonesia|Jakarta|Pt Mithaharum Abadi|
+|19|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|20|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
