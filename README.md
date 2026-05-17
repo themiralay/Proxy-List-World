@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|45.174.175.26|999|Mexico|Paraiso|Javier Tamayo Garcia|
-|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|7|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|8|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|16|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|38.19.39.213|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|18|38.253.88.242|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|19|38.75.82.210|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|20|43.251.116.162|7890|United States|Los Angeles|Zenlayer Inc|
 
 
 
