@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4786** proxies at the latest update. Usable proxies are below.
+> Scraper found **4837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|728|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2837|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|13|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|6|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|10|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|11|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|13|38.191.204.104|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|181.78.234.84|999|Colombia|Uribia|IFX Networks Argentina S.R.L|
+|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|122.54.226.216|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|182.253.221.147|8080|Indonesia|Jakarta|Biznet Networks|
+|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 
 
 
