@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|36.68.150.7|3128|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|13|38.252.213.67|999|Peru|La Merced|Telcom Mikrotik Peru S.A.C|
-|14|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|119.18.147.118|8080|Bangladesh|Chittagong|BBTS Network|
-|17|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|202.62.84.210|53281|India|Greater Noida|CityOnline Services Ltd|
+|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|119.18.147.118|8080|Bangladesh|Chittagong|BBTS Network|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
