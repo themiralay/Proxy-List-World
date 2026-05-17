@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.247.21.254|1111|Indonesia|Gambolempuk|PT wifian Solution|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|10|209.14.113.2|999|Colombia|Quebradanegra|Cogent Communications|
-|11|45.239.48.100|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|103.174.214.206|8090|Bangladesh|Kafrul|IP Communications Limited|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|187.102.195.55|999|Colombia|Bogotá|Wircom S.P.A.|
-|15|181.78.234.84|999|Colombia|Uribia|IFX Networks Argentina S.R.L|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|16|45.239.48.100|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|18|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
