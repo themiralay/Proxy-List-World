@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|6|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|16|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|17|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|38.211.245.18|999|Argentina|Maipú|Latencia 0 SA|
-|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|20|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
+|11|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|15|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|18|43.251.116.162|7890|United States|Los Angeles|Zenlayer Inc|
+|19|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|20|190.90.121.77|8080|Colombia|Buenaventura|Internexa S.a. E.S.P|
 
 
 
