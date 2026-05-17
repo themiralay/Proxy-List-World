@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4992** proxies at the latest update. Usable proxies are below.
+> Scraper found **5039** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|808|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3256|✅|
@@ -39,8 +39,8 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
@@ -48,17 +48,17 @@ Click the file format that you want and copy the URL.
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |9|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|10|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|210.61.216.63|60808|Taiwan|Wugu District|Chunghwa Telecom Co., Ltd.|
-|13|202.58.77.131|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|19|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|12|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|15|103.227.187.3|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|16|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
