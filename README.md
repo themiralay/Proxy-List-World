@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|94.131.122.128|1082|United Kingdom|Holborn|WorkTitans B.V.|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|160.238.65.2|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|16|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
 |18|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
 
 
 
