@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|10|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|9|157.66.57.98|8080|Indonesia|Tanahwangko|YADICA|
+|10|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
 |11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|14|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|179.1.125.24|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
+|17|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|103.191.129.90|8080|Indonesia|Depok|PT Metro Ring Bersama|
 
 
 
