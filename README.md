@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|12|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|13|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|14|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|15|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|20|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.167.31.156|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|103.188.169.202|7777|Indonesia|Purwakarta|PT Lintas Jaringan Nusantara|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|19|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
