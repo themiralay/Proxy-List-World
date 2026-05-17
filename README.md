@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|192.210.140.36|7913|United States|Dallas|HostPapa|
-|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|192.210.140.36|7913|United States|Dallas|HostPapa|
-|10|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|14|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|157.66.57.98|8080|Indonesia|Tanahwangko|YADICA|
-|20|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|14|80.249.131.121|1080|Russia|St Petersburg|JSC Selectel|
+|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|17|119.18.147.139|10001|Bangladesh|Chittagong|BBTS Network|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
