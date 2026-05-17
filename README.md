@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
 |5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|11|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|15|174.138.168.93|8001|United States|Phoenix|Secured Servers LLC|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|186.148.160.8|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|38.127.179.133|37234|United States|Washington|Cogent Communications|
-|20|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|6|185.71.196.92|1080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|7|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|5.129.223.50|3128|Russia|Moscow|JSC "TIMEWEB"|
+|14|38.210.201.163|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|15|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|188.132.221.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
 
 
 
