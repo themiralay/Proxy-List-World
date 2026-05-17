@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|3|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|8|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|12|82.114.228.67|1080|Russia|Saratov|SCTS|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|203.76.120.118|8080|Bangladesh|Tangail|Link3 Technologies Limited|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|157.10.184.111|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
 
 
 
