@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|13|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|14|128.14.92.88|3128|Vietnam|Hanoi|Zenlayer Inc|
-|15|103.172.121.28|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|115.147.16.205|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|12|80.249.131.121|1080|Russia|St Petersburg|JSC Selectel|
+|13|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|14|159.192.102.249|8080|Thailand|Bang Khae|National Telecom Public Company Limited|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|49.49.91.151|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
+|17|5.75.139.30|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
 
 
