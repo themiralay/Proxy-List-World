@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |9|192.210.140.36|7913|United States|Dallas|HostPapa|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|15|193.43.159.165|8080|Syria|Al Mulayḩah|Syrian Telecom|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
-|19|114.141.54.221|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|20|116.171.106.26|3443|China|Jinrongjie|China Unicom CHINA169 Network|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
