@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |8|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|14|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|19|119.235.19.25|8080|Indonesia|Bandung|PT Inet Global Indo|
-|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|18|65.109.125.111|8443|Finland|Helsinki|Hetzner Online GmbH|
+|19|43.251.116.162|7890|United States|Los Angeles|Zenlayer Inc|
+|20|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
