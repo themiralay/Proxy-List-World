@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4042** proxies at the latest update. Usable proxies are below.
+> Scraper found **3944** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|130|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|91|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2196|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |2|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
-|5|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|5|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
 |8|47.237.75.107|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|10|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|13|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|14|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|19|161.117.225.78|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|10|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|11|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|12|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|13|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|16|182.160.124.83|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|20|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
 
 
 
