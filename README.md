@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.7.4.131|6565|Bangladesh|Natore|HPLink NT|
-|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|5|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|11|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|12|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|13|160.250.130.72|3128|Vietnam|Thanh Khê|Phuong NGA MY|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|17|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|45.177.16.132|999|Paraguay|Ciudad del Este|MSW S.A.|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|216.106.179.216|49152|United States|Dallas|GTHost|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|4|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|5|103.235.153.2|3889|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|6|103.26.176.25|8090|Indonesia|Banjar Galiran|PT Lintas Jaringan Nusantara|
+|7|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|10|182.253.109.115|8080|Indonesia|Semarang|Biznet Metronet|
+|11|103.7.4.131|6565|Bangladesh|Natore|HPLink NT|
+|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|103.189.251.17|8080|Indonesia|Pasinan Barat|PT Pandawa Lima Java Network|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|18|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|19|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
