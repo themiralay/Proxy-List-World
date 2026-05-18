@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 |14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|16|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
-|17|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|124.106.116.34|1337|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|20|190.238.171.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
 
 
 
