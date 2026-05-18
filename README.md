@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|45.174.243.192|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|14|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|15|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|16|103.188.173.66|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|18|160.25.119.101|8181|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
-|19|103.245.96.161|3214|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|157.20.82.11|3128|Vietnam|Vinhomes Ocean Park|Interdigi Joint Stock Company|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|103.97.140.127|3125|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
