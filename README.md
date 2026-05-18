@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.76.252|7779|Japan|Wakabayashi|InfoSphere|
-|2|167.179.101.174|8890|Japan|Minamishinagawa|The Constant Company, LLC|
-|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|4|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
-|5|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.52.134.234|36463|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|10|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
-|13|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|43.153.79.124|38888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
+|5|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
+|7|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|13|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
+|14|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.52.134.234|36463|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|17|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
 |19|47.237.75.107|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|119.28.139.53|65533|Hong Kong|Hong Kong|ComsenzNet|
 
 
 
