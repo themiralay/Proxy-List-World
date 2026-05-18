@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4229** proxies at the latest update. Usable proxies are below.
+> Scraper found **4157** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|521|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|91|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|7|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|12|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
-|15|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|1|167.179.101.174|8890|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|13|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
 |16|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|17|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|19|8.215.83.168|8100|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|182.160.124.83|50000|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
