@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3803** proxies at the latest update. Usable proxies are below.
+> Scraper found **3835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|115.147.254.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|3|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|4|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|12|38.10.90.118|8084|Philippines|Iloilo City|Cogent Communications|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|42.200.125.44|8080|Hong Kong|North Point|PCCW IMSBiz|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|115.147.254.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |13|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |14|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|103.124.137.150|20|Indonesia|Purworejo|Global Media Data Prima|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|139.28.49.207|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|17|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|45.133.107.246|81|Russia|Tul'skiy|Art-net LLC|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
 
 
 
