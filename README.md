@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|3|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|2|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
+|3|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
-|6|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|104.168.96.172|1888|United States|Santa Clara|HostPapa|
-|9|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.101.113.238|1688|Indonesia|Jakarta|Google LLC|
-|11|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|5|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|104.168.96.172|1888|United States|Santa Clara|HostPapa|
+|7|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|9|34.101.113.238|1688|Indonesia|Jakarta|Google LLC|
+|10|43.153.51.135|8008|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|104.168.96.172|1888|United States|Santa Clara|HostPapa|
 |13|43.153.51.135|8008|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.51.135|8008|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|16|161.117.225.78|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|17|103.189.251.17|8080|Indonesia|Pasinan Barat|PT Pandawa Lima Java Network|
-|18|103.167.171.149|7778|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|19|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|15|161.117.225.78|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|16|180.191.52.65|2001|Philippines|Tarlac City|Globe Telecom|
+|17|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
