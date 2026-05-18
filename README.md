@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 |6|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|9|36.50.56.105|8818|Indonesia|Bogor|PT Andromega Data Nusantara|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|187.216.229.150|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|103.180.122.64|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|119.15.84.74|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|9|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|11|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|95.165.30.170|8180|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|17|94.131.122.129|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|159.100.20.206|27866|Germany|Frankfurt am Main|Ultahost, Inc.|
 
 
 
