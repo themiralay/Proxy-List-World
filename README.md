@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
 |6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |7|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
 |8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|38.210.201.96|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
-|12|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|200.201.134.184|8787|Brazil|São Paulo|Telium TelecomunicaÔÔes Ltda|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|181.225.77.101|999|Colombia|Medellín|Media Commerce Partners S.A|
-|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|9|103.177.153.18|8080|Indonesia|Pameungpeuk|PT Beibi Cemerlang Indonesia|
+|10|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|11|38.127.172.139|37234|United States|Washington|Cogent Communications|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|14|38.210.201.144|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|38.210.201.96|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|17|103.19.58.134|8080|Indonesia|Jatibarang|BITSNET|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|103.84.177.124|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
