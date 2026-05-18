@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3695** proxies at the latest update. Usable proxies are below.
+> Scraper found **3860** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|474|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2165|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|5|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|7|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|10|103.141.244.139|8080|Indonesia|Kahala|PT PATRIA LINTAS JAYA|
-|11|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
-|12|115.127.181.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|16|103.131.19.42|8181|Indonesia|Batang|PT Global Media Data Prima|
-|17|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|6|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|216.106.179.216|49152|United States|Dallas|GTHost|
+|9|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|10|38.127.172.219|37234|United States|Washington|Cogent Communications|
+|11|163.223.78.171|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|115.147.254.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|38.210.201.92|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
 |18|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|38.210.201.92|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.171.183.153|8080|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
 
 
 
