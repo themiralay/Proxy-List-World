@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|3|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|4|181.198.75.186|999|Ecuador|Guayaquil|Telconet S.A|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|7|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|9|124.107.15.43|8082|Philippines|Baliuag|Philippine Long Distance Telephone Co.|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|12|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|146.196.98.146|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|11|103.155.198.142|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|12|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|103.247.23.117|4317|Indonesia|Purbalingga|PT wifian Solution|
+|16|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|17|38.211.24.146|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.84.177.36|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|45.90.46.109|3128|Russia|Bryansk|BitWeb LLC|
 
 
 
