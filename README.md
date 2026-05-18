@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|5|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|13|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A|
-|14|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|17|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|7|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|82.114.228.67|1080|Russia|Saratov|SCTS|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|12|115.147.39.121|8181|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|16|80.249.131.121|1080|Russia|St Petersburg|JSC Selectel|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|38.75.82.220|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
