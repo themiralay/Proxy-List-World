@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|122.54.226.216|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|4|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|9|103.125.16.12|8080|Indonesia|Kresek|JAVAMEDIA|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|12|103.143.8.126|8089|India|Mumbai|Promptnet Broadband Pvt Ltd|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|103.190.113.126|9000|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|18|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|20|103.178.41.69|8080|Indonesia|Purwokerto|PT Cakrawala Media Data|
+|7|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|11|43.153.39.251|1080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|14|103.84.177.36|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|16|202.183.236.218|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
+|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|18|182.160.124.174|9669|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|38.75.82.220|999|Dominican Republic|Santo Domingo|Cogent Communications|
 
 
 
