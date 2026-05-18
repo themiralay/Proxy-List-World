@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4043** proxies at the latest update. Usable proxies are below.
+> Scraper found **4047** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|65|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|525|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|170.83.242.76|999|Paraguay|Asunción|Ufinet Panama S.A.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|17|38.252.213.66|999|Peru|Perené|Telcom Mikrotik Peru S.A.C|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|124.108.19.6|9292|India|Mān|Advantus Corporate Infoserv Private Ltd|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|7|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|103.171.245.157|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|12|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.203.233.130|8585|Indonesia|Malang|PT Inti Data Guna|
+|15|119.28.51.157|3128|Hong Kong|Hong Kong|ComsenzNet|
+|16|103.119.63.144|8080|Indonesia|Bogor|MYREPUBLIC|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|18|176.88.191.254|8080|Turkey|Malıköy|Superonline Iletisim Hizmetleri A.S.|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|181.225.96.171|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
