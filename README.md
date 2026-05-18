@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
 |4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|5|121.148.239.82|3080|South Korea|Seo-gu|Korea Telecom|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|8|160.250.130.72|3128|Vietnam|Thanh Khê|Phuong NGA MY|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|11|157.15.122.57|3125|Indonesia|Banjarbaru|Nex+|
-|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|213.178.250.33|8080|Syria|Damascus|SCS|
-|16|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|17|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|18|115.127.181.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|8|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|38.183.212.8|999|Venezuela|Turmero|WISP TECNOGER, C.A|
+|15|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|18|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
