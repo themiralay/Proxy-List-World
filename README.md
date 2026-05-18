@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|8|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |9|103.134.85.167|3128|Indonesia|Babakanloa|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|10|103.171.182.59|8080|Indonesia|Sukabumi|PT Hayat Teknologi Informatika|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|13|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|14|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|15|131.222.250.44|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|16|107.175.85.198|1080|United States|Buffalo|HostPapa|
+|17|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|104.207.139.62|1080|United States|Elk Grove Village|The Constant Company|
+|19|103.147.152.12|1095|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|20|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
 
 
 
