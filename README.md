@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|103.169.38.222|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|11|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|12|202.93.244.66|1111|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|15|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|16|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|82.114.228.67|1080|Russia|Saratov|SCTS|
-|18|180.149.232.33|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|199.38.85.122|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|7|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|8|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
+|14|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
+|15|103.114.52.78|8080|Indonesia|Baki|Proxy-registered|
+|16|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|19|201.182.150.184|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|20|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
