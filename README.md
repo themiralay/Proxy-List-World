@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|1|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
 |3|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.237.75.107|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|13|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|15|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|16|8.215.83.168|8100|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|20|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
+|4|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|5|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|6|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|27.66.196.233|16000|Vietnam|Hanoi|Viettel Group|
+|9|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
+|16|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|17|34.150.121.210|1688|Hong Kong|Hong Kong|Google LLC|
+|18|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|47.237.75.107|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
