@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4384** proxies at the latest update. Usable proxies are below.
+> Scraper found **4273** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|755|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.228.246.132|6070|Indonesia|Caruban|PT Giga Patra Multimedia|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|6|161.117.225.78|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|149.129.221.162|8100|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|9|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|14|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|15|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
+|9|161.117.225.78|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|10|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|43.153.79.124|38888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|202.154.18.20|9122|Indonesia|Babat|DIGITNET|
+|14|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|15|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|207.148.124.152|6868|Singapore|Singapore|Choopa|
+|18|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|20|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
