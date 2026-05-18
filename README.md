@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4065** proxies at the latest update. Usable proxies are below.
+> Scraper found **4093** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|101|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|819|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|102|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|846|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2165|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|11|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|103.255.151.169|8080|Pakistan|Karachi|Delta Networks|
-|13|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|14|103.38.101.194|1111|Indonesia|Tulangan Utara|LAXONET|
-|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|19|113.192.31.206|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|20|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|4|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|118.97.137.66|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|11|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|13|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|103.114.52.78|8080|Indonesia|Baki|Proxy-registered|
+|15|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
+|16|38.19.39.182|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|103.180.126.235|8080|Indonesia|Jakarta|PT Alam Media Data|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
 
 
 
