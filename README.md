@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|103.99.136.66|8080|Indonesia|Nagrog|PT Jelajah Kreasi Informatika|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|36.67.114.94|8187|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|16|200.10.30.160|999|Colombia|Pereira|Super Redes S.A.S|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|20|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|15.204.151.143|3128|United States|Reston|OVH SAS|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|31.169.125.55|3128|United States|Secaucus|Baykov Ilya Sergeevich|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|16|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|131.222.252.101|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
