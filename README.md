@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|216.106.179.216|49152|United States|Dallas|GTHost|
-|9|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
-|10|38.127.172.219|37234|United States|Washington|Cogent Communications|
-|11|163.223.78.171|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|115.147.254.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|5|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
+|8|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|193.160.209.58|1080|Russia|St Petersburg|JSC "TIMEWEB"|
 |14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|38.210.201.92|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
-|18|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.171.183.153|8080|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
+|15|38.210.1.180|999|Peru|Lima|Loa Network|
+|16|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
+|17|122.54.147.110|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|19|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|20|38.19.39.246|999|Mexico|Santa Cruz Huitziltepec|Cogent Communications|
 
 
 
