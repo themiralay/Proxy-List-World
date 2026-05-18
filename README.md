@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|5|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|6|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|103.16.72.157|9108|Bangladesh|Dhaka|BDCOM Online Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|13|107.175.85.198|1080|United States|Buffalo|HostPapa|
-|14|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|15|103.39.70.248|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|103.178.176.14|8080|India|Noida|Megatel Networks Private Limited|
-|20|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|12|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|13|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|14|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|15|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|103.171.240.198|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.227.187.19|6090|Indonesia|Kendalrejo|PT Master Star Network|
 
 
 
