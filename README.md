@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4328** proxies at the latest update. Usable proxies are below.
+> Scraper found **4360** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|859|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2496|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|7|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|10|103.125.154.225|8080|India|Tirupur|Live Fibernet|
-|11|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
-|12|103.227.187.241|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|13|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
-|18|200.24.130.147|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|181.78.17.131|999|Colombia|Andalucía|IFX Networks Argentina S.R.L|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|103.161.69.233|2698|Bangladesh|Chittagong|MiME|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|9|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|10|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|144.31.52.77|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|144.31.52.77|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
