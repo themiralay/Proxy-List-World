@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|45.81.130.12|8888|United States|Los Angeles|Zenlayer Inc|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|185.40.77.94|1080|Russia|Somovo|Limited Liability Company "DataHarbour"|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|45.81.130.12|8888|United States|Los Angeles|Zenlayer Inc|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|43.156.90.221|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|10|45.81.130.12|8888|United States|Los Angeles|Zenlayer Inc|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|103.158.155.125|8080|Indonesia|Bakalan|CUBIESPOT|
+|13|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|14|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|103.147.152.12|1080|Germany|Frankfurt am Main|RedSwitches Pty LTD.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|45.81.130.12|8888|United States|Los Angeles|Zenlayer Inc|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
