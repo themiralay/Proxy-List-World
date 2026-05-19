@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|11|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
-|12|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|15|116.80.76.252|7779|Japan|Wakabayashi|InfoSphere|
-|16|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|19|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|190.60.45.51|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|13|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|161.117.231.88|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|16|45.229.17.130|999|Ecuador|Vinces|Turbonet S.A.|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
