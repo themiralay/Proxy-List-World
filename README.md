@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|185.253.61.251|3310|Latvia|Riga|Telenet SIA|
-|9|193.181.35.132|8118|Sweden|Stockholm|PVDataNet AB|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|12|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|115.127.181.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|103.125.36.120|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|17|203.175.103.9|3125|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|18|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|19|161.117.231.88|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|20|190.52.110.95|999|Venezuela|Caracas|Gold Data USA Inc|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|27.66.196.233|16000|Vietnam|Hanoi|Viettel Group|
+|9|185.253.61.251|3310|Latvia|Riga|Telenet SIA|
+|10|115.127.181.114|6969|Bangladesh|Dhaka|BRACNet Limited|
+|11|38.75.82.218|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|15|79.106.108.156|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|88.247.219.68|3310|Turkey|Ankara|Turk Telekomunikasyon A.S|
 
 
 
