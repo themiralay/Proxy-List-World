@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |4|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|163.223.78.171|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|13|103.166.90.70|64999|Indonesia|Bekasi|PT Regynet Data Solusindo|
-|14|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|15|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|17|157.20.207.29|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|18|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|16|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|17|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|20|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
 
 
 
