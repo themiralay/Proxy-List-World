@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|27.65.51.61|4005|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.22.94.223|2025|Hong Kong|Hong Kong|NetLab Global|
 |4|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
 |5|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|103.172.70.47|1111|Indonesia|Tangerang|AZNET|
-|7|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
-|10|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|103.247.23.187|8080|Indonesia|Purbalingga|PT wifian Solution|
-|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
+|12|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|13|157.20.207.115|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|14|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
+|19|85.98.92.248|3310|Turkey|Izmir|Turk Telekomunikasyon A.S|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
