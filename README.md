@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|38.22.94.223|2025|Hong Kong|Hong Kong|NetLab Global|
 |3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|182.52.17.21|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|183.98.143.134|8059|South Korea|Incheon|Korea Telecom|
-|13|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|82.114.228.67|1080|Russia|Saratov|SCTS|
-|17|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|38.22.94.223|2025|Hong Kong|Hong Kong|NetLab Global|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|38.22.94.223|2025|Hong Kong|Hong Kong|NetLab Global|
+|13|103.76.105.126|8080|Indonesia|Makassar|PT Citra Prima Media|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|182.52.17.21|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|113.192.31.225|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|20|85.98.92.248|3310|Turkey|Izmir|Turk Telekomunikasyon A.S|
 
 
 
