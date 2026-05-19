@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|6|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |11|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|12|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
