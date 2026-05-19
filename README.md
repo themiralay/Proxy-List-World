@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4651** proxies at the latest update. Usable proxies are below.
+> Scraper found **5064** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1001|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|110|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2488|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2920|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|216.106.179.216|49152|United States|Dallas|GTHost|
+|1|74.208.192.81|3129|United States|Kansas City|IONOS SE|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
 |4|138.2.105.231|8100|Singapore|Singapore|Oracle Corporation|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|7|74.208.192.81|3129|United States|Kansas City|IONOS SE|
-|8|216.106.179.216|49152|United States|Dallas|GTHost|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|11|207.148.124.152|6868|Singapore|Singapore|Choopa|
-|12|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|103.175.240.71|1080|Indonesia|Pekalongan|LDP|
-|16|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|5|104.168.96.172|1888|United States|Santa Clara|HostPapa|
+|6|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|7|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|185.253.61.251|3310|Latvia|Riga|Telenet SIA|
+|12|38.211.24.146|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|13|154.223.188.202|1194|Hong Kong|Hong Kong|ChangLian Network Technology Co., Limited|
+|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|15|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|18|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
 
 
 
