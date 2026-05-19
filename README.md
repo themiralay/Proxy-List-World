@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|103.210.160.62|7789|China|Guangzhou|China Unicom Guangdong IP network|
-|4|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|9|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|38.183.146.191|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.210.160.62|7789|China|Guangzhou|China Unicom Guangdong IP network|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|14|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
 |15|3.15.187.17|1080|United States|Dublin|Amazon.com, Inc.|
-|16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|17|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|5.129.223.50|3128|Russia|Moscow|JSC "TIMEWEB"|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
 
 
 
