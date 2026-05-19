@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4287** proxies at the latest update. Usable proxies are below.
+> Scraper found **4285** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2580|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
 |7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|9|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|12|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|130.49.171.75|1080|Uzbekistan|Tashkent|Servercore UZ|
+|8|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|11|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |15|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|115.147.171.114|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|18|144.79.177.134|8090|Indonesia|Selat Panjang|PT GORO DIGITAL NUSANTARA|
-|19|85.105.189.174|1953|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|20|103.158.129.106|57413|Indonesia|Bogor|PT Maxindo Mitra Solusi|
+|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|17|203.76.120.118|8080|Bangladesh|Tangail|Link3 Technologies Limited|
+|18|94.131.122.129|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|19|31.202.49.61|33761|Ukraine|Kharkiv|Maxnet LLC|
+|20|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
