@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|8|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|103.165.123.109|8080|Indonesia|Bogor|PT iForte Global Internet|
-|17|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
-|18|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|27.66.196.233|16000|Vietnam|Hanoi|Viettel Group|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|38.127.179.186|37234|United States|Washington|Cogent Communications|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|103.164.195.21|8080|Indonesia|Tangerang|PT iForte Global Internet|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|17|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|18|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
 
 
 
