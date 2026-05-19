@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 |11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|85.100.40.241|34036|Türkiye|Izmir|Turk Telekomunikasyon A.S|
-|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|20|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|5.129.248.58|3128|Russia|Novosibirsk|Adman LLC|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|213.14.159.39|1453|Türkiye|Istanbul|Broadband|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|38.127.179.236|37234|United States|Washington|Cogent Communications|
+|20|85.100.40.241|34036|Türkiye|Izmir|Turk Telekomunikasyon A.S|
 
 
 
