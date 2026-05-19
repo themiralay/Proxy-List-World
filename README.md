@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4287** proxies at the latest update. Usable proxies are below.
+> Scraper found **4206** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|95|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2417|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|133.130.90.75|4343|Japan|Chiyoda City|interQ|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
 |9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|12|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|13|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|14|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|15|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|103.66.12.225|8080|India|Tirunelveli|Alacriy Net System Service Private Limited|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|130.49.171.75|1080|Uzbekistan|Tashkent|Servercore UZ|
+|11|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|13|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|16|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|19|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
