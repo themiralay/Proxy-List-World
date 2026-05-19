@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|14|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|15|94.241.169.176|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|18|78.186.118.164|3311|Türkiye|Ankara|Turk Telekomunikasyon A.S|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|12|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|15|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|78.186.118.164|3311|Türkiye|Ankara|Turk Telekomunikasyon A.S|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|88.248.130.191|3311|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
 
 
 
