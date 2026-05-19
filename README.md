@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|4|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|8|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|11|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|1|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|2|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |13|185.21.15.206|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|154.27.201.131|999|Mexico|Molcaxac|Cogent Communications|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|103.97.140.64|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|36.92.106.41|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|58.147.186.131|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|19|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
+|20|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
 
 
 
