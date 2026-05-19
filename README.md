@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|4|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
+|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|3|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|146.196.98.146|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|11|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|165.101.230.77|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|13|182.160.115.43|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|15|116.80.76.252|7779|Japan|Wakabayashi|InfoSphere|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|38.7.195.49|999|Chile|Santiago|Grupo ZGH SpA|
-|18|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|19|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
-|20|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|10|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|185.105.89.139|1080|Russia|Moscow|First Server Limited|
+|13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|120.28.220.169|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|85.100.40.241|34036|Türkiye|Izmir|Turk Telekomunikasyon A.S|
+|18|116.80.76.252|7779|Japan|Wakabayashi|InfoSphere|
+|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
