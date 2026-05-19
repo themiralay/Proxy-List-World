@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
+|9|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|13|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|203.76.120.118|8080|Bangladesh|Tangail|Link3 Technologies Limited|
+|20|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
