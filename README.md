@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.217.126.41|8100|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|5|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|8|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|9|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|4|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|103.247.23.187|8080|Indonesia|Purbalingga|PT wifian Solution|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|11|47.239.203.126|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|103.143.39.97|1111|India|Mumbai|Allied It Infrastructure And Services Pvt Ltd|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|19|91.144.30.93|8080|Syria|Damascus|STE Public Data Network Backbone and LIR|
-|20|103.156.75.49|8282|Indonesia|Gianyar|PT Trika Global Media|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|188.132.221.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|38.75.82.211|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|16|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
