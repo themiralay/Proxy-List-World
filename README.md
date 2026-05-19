@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|82.114.228.67|1080|Russia|Saratov|SCTS|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|16|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|17|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
+|18|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|20|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
 
 
 
