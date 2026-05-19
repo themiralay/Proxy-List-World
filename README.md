@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
+|7|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|10|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|11|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|13|154.90.38.11|8890|Malaysia|Kuala Lumpur|Kaopu Cloud HK Limited|
-|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|17|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
