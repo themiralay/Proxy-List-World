@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|2|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|3|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|4|104.168.96.172|1888|United States|Santa Clara|HostPapa|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|104.168.96.172|1888|United States|Santa Clara|HostPapa|
+|7|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
 |8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|104.168.96.172|1888|United States|Santa Clara|HostPapa|
-|14|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
-|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|16|38.75.82.216|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|17|103.76.105.126|8080|Indonesia|Makassar|PT Citra Prima Media|
-|18|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|19|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|9|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|104.168.96.172|1888|United States|Santa Clara|HostPapa|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|19|27.66.196.233|16000|Vietnam|Hanoi|Viettel Group|
+|20|94.131.122.129|1082|United Kingdom|Holborn|WorkTitans B.V.|
 
 
 
