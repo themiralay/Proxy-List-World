@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.90.238|9527|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
-|11|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|179.48.25.1|8095|Brazil|Timon|Viana Telecom LTDA|
-|19|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|7|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|12|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|13|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|18|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
