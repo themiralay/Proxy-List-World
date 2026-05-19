@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|6|103.87.171.169|32650|India|Jaipur|Tejays|
-|7|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|8|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
-|13|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|192.81.129.252|3136|United States|Fremont|Akamai Technologies, Inc.|
-|20|168.194.0.249|252|Mexico|Nuevo Laredo|Aire Cable S.A. de C.V.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|8|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|9|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
 
 
 
