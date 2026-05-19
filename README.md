@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.10|3172|Japan|Wakabayashi|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|103.210.160.62|7789|China|Guangzhou|China Unicom Guangdong IP network|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
 |7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|10|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|11|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|15|103.23.196.21|8080|Indonesia|Sungai Penuh|PT Aneka Teguh Jaya|
-|16|113.192.31.17|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|78.186.118.164|3311|Türkiye|Ankara|Turk Telekomunikasyon A.S|
-|19|159.65.7.198|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|11|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|103.76.105.126|8080|Indonesia|Makassar|PT Citra Prima Media|
+|16|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|17|161.117.86.53|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
+|18|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|78.186.118.164|3311|Türkiye|Ankara|Turk Telekomunikasyon A.S|
 
 
 
