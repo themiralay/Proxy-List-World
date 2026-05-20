@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|2|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|3|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|5|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|6|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|10|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|11|151.237.84.9|8080|Bulgaria|Kardzhali|Netroniks EOOD|
-|12|95.165.30.170|8180|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|13|2.27.12.26|3128|United States|Orem|Ace Data Centers II|
-|14|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|15|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
-|18|77.110.107.80|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
