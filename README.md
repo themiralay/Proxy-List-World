@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5004** proxies at the latest update. Usable proxies are below.
+> Scraper found **4996** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|244|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|95|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3113|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|221.155.210.184|3128|South Korea|Guri-si|Korea Telecom|
-|3|152.42.232.233|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|70.39.178.66|8080|United States|Los Angeles|NetLab Global|
-|6|1.54.186.167|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|42.117.188.252|8080|Vietnam|Hanoi|FPT Telecom Company|
-|9|180.193.207.39|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|11|42.115.171.247|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|70.39.178.66|8080|United States|Los Angeles|NetLab Global|
-|14|172.235.28.186|3012|India|Chennai|Akamai Technologies, Inc.|
-|15|194.195.116.99|3010|India|Mumbai|Akamai Technologies, Inc.|
-|16|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|20|138.197.54.38|8080|United States|Clifton|DigitalOcean, LLC|
+|1|59.4.178.196|3010|South Korea|Geoje|Korea Telecom|
+|2|221.152.192.177|3010|South Korea|Geoje-si|Korea Telecom|
+|3|59.4.178.169|3010|South Korea|Geoje|Korea Telecom|
+|4|43.155.238.7|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|183.104.73.247|3012|South Korea|Tongyeong|Korea Telecom|
+|6|118.39.182.160|3010|South Korea|Geoje|Korea Telecom|
+|7|119.195.40.110|3012|South Korea|Geoje|Korea Telecom|
+|8|119.199.64.208|3010|South Korea|Geoje-si|Korea Telecom|
+|9|107.191.52.85|3128|Japan|Minamishinagawa|Choopa|
+|10|43.129.74.100|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.129.31.208|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|221.167.91.190|3010|South Korea|Suyeong-gu|Korea Telecom|
+|13|47.237.113.217|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|23.95.31.25|3128|United States|Los Angeles|HostPapa|
+|15|198.47.44.156|3128|Canada|Vancouver|Novus Entertainment Inc.|
+|16|183.104.73.184|3012|South Korea|Tongyeong|Korea Telecom|
+|17|188.166.189.178|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|65.181.8.54|8080|Philippines|Manila|Space Exploration Technologies Corporation|
+|19|171.4.185.126|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|20|103.246.79.182|8080|Indonesia|Randudongkal|PT Saka Media Komunika|
 
 
 
