@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
+|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|10|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|154.58.138.227|8080|Indonesia|Purbalingga|MEGADATA-ISP|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |15|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|19|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|20|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|16|88.248.130.191|3311|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|177.73.155.246|999|Colombia|Cajibío|Dobleclick Software E Ingeneria|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
