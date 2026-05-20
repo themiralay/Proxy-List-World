@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|122.52.107.138|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|6|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|9|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|113.192.30.43|8090|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|12|103.156.233.63|8080|Indonesia|Cicurug|MULTIMEDIALINKTECH|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|103.90.66.19|8087|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|15|103.81.175.218|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|165.101.102.205|8088|Philippines|Quezon City|iRateNet Solutions|
+|1|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|9|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|12|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
+|14|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|15|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|19|8.217.214.66|50000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
 
 
 
