@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|5|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|11|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|2|103.22.99.26|8080|Indonesia|Magetan|KHALISTAGROUP|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|202.58.77.7|7777|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|37.230.57.112|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|17|154.27.196.13|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|18|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|154.126.213.5|8080|South Africa|Potchefstroom|JENNY Network|
+|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|14|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|15|114.141.50.210|8080|Indonesia|Purwakarta|PT Cyberplus Media Pratama|
+|16|120.28.220.169|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|89.43.135.9|8080|Syria|Manbij|High Speed For Internet Services L.L.C|
 
 
 
