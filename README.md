@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|8|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|16|131.255.227.104|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
-|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|1|202.137.8.149|8080|Indonesia|Bogor|LINKNET|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|8|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|10|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|16|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
+|20|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
 
 
 
