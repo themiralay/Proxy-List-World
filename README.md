@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.155.210.184|3128|South Korea|Guri-si|Korea Telecom|
-|2|152.42.232.233|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|70.39.178.66|8080|United States|Los Angeles|NetLab Global|
-|6|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|42.112.214.119|3128|Vietnam|Hanoi|FPT Telecom Company|
-|8|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|9|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|103.253.244.104|8080|Indonesia|Jakarta|PT Dewa Bisnis Digital|
-|11|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
-|12|103.167.156.202|8084|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|13|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
-|14|70.39.178.66|8080|United States|Los Angeles|NetLab Global|
-|15|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|172.235.28.186|3012|India|Chennai|Akamai Technologies, Inc.|
-|17|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
-|18|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|19|211.114.234.14|3128|South Korea|Jungnang-gu|Korea Telecom|
-|20|221.146.13.51|3128|South Korea|Jungnang-gu|Korea Telecom|
+|2|218.152.109.18|3128|South Korea|Seoul|Korea Telecom|
+|3|125.129.39.110|3128|South Korea|Seoul|Korea Telecom|
+|4|125.129.69.208|3128|South Korea|Seongdong-gu|Korea Telecom|
+|5|211.114.234.14|3128|South Korea|Jungnang-gu|Korea Telecom|
+|6|221.146.13.51|3128|South Korea|Jungnang-gu|Korea Telecom|
+|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
+|9|152.42.232.233|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|70.39.178.66|8080|United States|Los Angeles|NetLab Global|
+|11|8.219.124.90|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|42.112.214.119|3128|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.115.171.247|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|16|103.253.244.104|8080|Indonesia|Jakarta|PT Dewa Bisnis Digital|
+|17|180.193.207.39|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|42.117.188.252|8080|Vietnam|Hanoi|FPT Telecom Company|
+|19|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
 
 
 
