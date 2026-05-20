@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4426** proxies at the latest update. Usable proxies are below.
+> Scraper found **4456** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|649|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2536|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|2|154.83.17.38|3128|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|3|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
-|4|203.111.253.114|3125|Indonesia|Karawang|PT Wifian Global Nusantara|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|27.64.73.70|3010|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|171.7.19.96|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|15|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
-|16|103.81.175.137|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|17|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|223.204.127.29|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|81.26.177.197|8080|Russia|Murmansk|OOO ComLine|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|154.83.17.38|3128|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|11|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|12|171.7.19.96|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|49.48.54.55|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|15|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|16|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
+|17|103.81.175.141|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|18|49.49.6.190|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|20|223.204.127.29|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 
 
 
