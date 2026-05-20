@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.238.152|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|5|36.78.150.248|8080|Indonesia|Sambas|PT. TELKOM INDONESIA|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|168.235.80.215|3010|United States|Piscataway|InMotion Hosting|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|221.155.210.184|3128|South Korea|Guri-si|Korea Telecom|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|12|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|15|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|17|107.151.233.178|3128|United States|Los Angeles|VpsQuan L.L.C.|
-|18|109.122.194.241|8080|Poland|Warsaw|OVH SAS|
-|19|190.61.63.106|8080|Colombia|Barrancabermeja||
-|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|10|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
+|11|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|14|168.235.80.215|3010|United States|Piscataway|InMotion Hosting|
+|15|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|48.200.11.54|8080|United States|Quincy|Microsoft Corporation|
+|18|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|20|107.151.233.178|3128|United States|Los Angeles|VpsQuan L.L.C.|
 
 
 
