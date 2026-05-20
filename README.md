@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|6|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|18|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
+|13|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|103.245.16.133|8080|Indonesia|Utan|PT Quantum Tera Network|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
