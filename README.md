@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4379** proxies at the latest update. Usable proxies are below.
+> Scraper found **4440** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|221|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2496|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|217.160.162.25|8888|Germany|Berlin|IONOS SE|
+|1|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|141.148.170.136|3128|United States|Phoenix|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|13|85.208.87.111|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
 |15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|103.109.96.196|8080|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|69.164.251.114|8080|United States|Dallas|Interserver, Inc|
+|17|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
+|20|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
 
 
 
