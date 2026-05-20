@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.83.17.38|3128|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|5|38.226.241.242|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|11|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|12|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|14|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|15|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|16|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|17|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|171.7.19.96|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|91.54.53.156|3128|Germany|Ulm|Deutsche Telekom AG|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.155.206.118|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|4|154.82.84.208|3128|Hong Kong|Hong Kong|Tcloudnet|
+|5|43.132.225.207|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|163.128.198.18|8080|Australia|Brisbane|ERX|
+|9|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|10|182.253.151.34|8080|Indonesia|Sukabumi|BIZNET|
+|11|138.252.158.7|8080|Indonesia|Kebumen|PT Server Nusantara Sejahtera|
+|12|103.171.241.2|8080|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
+|13|198.98.57.207|3128|United States|New York|FranTech Solutions|
+|14|112.78.32.50|8080|Indonesia|Semarang|PT Media Sarana Data|
+|15|36.68.24.115|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|16|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|17|103.232.20.66|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|118.172.156.88|8080|Thailand|Lat Lum Kaeo|TOT Public Company Limited|
+|20|124.120.141.86|8080|Thailand|Bangkok|TRUEBB|
 
 
 
