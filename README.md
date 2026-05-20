@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|38.210.201.56|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|6|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|49.147.127.181|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|18|193.23.209.44|3128|Germany|Frankfurt am Main|Inyc Holding Limited|
+|19|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
