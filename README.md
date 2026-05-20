@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
-|6|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|116.80.76.254|7779|Japan|Wakabayashi|InfoSphere|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|15|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|91.84.125.92|8888|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|13|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|217.160.162.25|8888|Germany|Berlin|IONOS SE|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|103.109.96.196|8080|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
