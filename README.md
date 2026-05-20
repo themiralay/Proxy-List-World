@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|2|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|3|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|7|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|8|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|13|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
+|10|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|11|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|17|74.208.192.81|3129|United States|Kansas City|IONOS SE|
 |18|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.56.206.48|1604|Indonesia|Jakarta|Argon Data Communication|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
