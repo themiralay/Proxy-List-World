@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|157.10.184.201|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
-|6|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|150.107.246.22|8080|India|Surat|Infrastruktur STARNET|
-|8|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|14|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|2|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|4|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|171.4.4.59|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|43.130.126.146|6688|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|13|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
+|14|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 |17|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|18|47.241.32.135|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|19|190.60.34.250|999|Colombia|Andalucía|IFX NETWORKS COLOMBIA|
-|20|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|114.31.15.190|2024|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|84.244.119.36|23500|Czechia|Votice|BlueTone-CRa|
+|20|210.87.74.236|1080|Indonesia|Bilo|PT.Global Media Data Prima|
 
 
 
