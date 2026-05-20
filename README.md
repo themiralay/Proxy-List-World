@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|6|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|7|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|8|160.25.155.35|7778|Indonesia|Kuningan|Indonesia Network Information Center|
-|9|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|74.208.192.81|3129|United States|Kansas City|IONOS SE|
-|13|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|14|74.208.192.81|3129|United States|Kansas City|IONOS SE|
-|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|103.71.162.41|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|20|103.76.105.126|8080|Indonesia|Makassar|PT Citra Prima Media|
+|4|74.208.192.81|3129|United States|Kansas City|IONOS SE|
+|5|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|8|74.208.192.81|3129|United States|Kansas City|IONOS SE|
+|9|124.217.99.58|5050|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|10|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|131.153.163.26|55910|United States|Ashburn|Secured Servers LLC|
+|13|131.153.163.26|55910|United States|Ashburn|Secured Servers LLC|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|185.189.54.77|3310|Türkiye|Bursa|Hipernet Telekomunikasyon Bilisim Sanayi VE Ticaret Limited Sirketi|
+|19|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
+|20|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
 
 
 
