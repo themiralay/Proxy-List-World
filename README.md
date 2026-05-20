@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|4|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|5|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|7|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|181.119.97.24|999|Ecuador|Quito|IFX Networks Argentina S.R.L|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|17|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|18|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
-|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|20|38.75.82.217|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|7|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|8|8.217.214.66|50000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|10|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|14|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|103.220.23.131|7777|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|16|193.43.159.164|8080|Syria|Al Mulayḩah|Syrian Telecom|
+|17|202.179.69.216|58080|India|Pune|Ankhnet|
+|18|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
