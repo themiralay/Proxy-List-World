@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|4|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|7|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|9|74.208.192.81|3129|United States|Kansas City|IONOS SE|
-|10|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|19|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|8.219.124.90|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
 
 
 
