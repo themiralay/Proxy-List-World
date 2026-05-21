@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4521** proxies at the latest update. Usable proxies are below.
+> Scraper found **4614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|252|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|497|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|13|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|14|43.135.181.83|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|38.19.39.48|999|Mexico|Tepexi|Cogent Communications|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|20|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|9|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|193.181.35.213|8118|Sweden|Stockholm|PVDataNet AB|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|18|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|19|103.203.233.130|8585|Indonesia|Malang|PT Inti Data Guna|
+|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
 
 
 
