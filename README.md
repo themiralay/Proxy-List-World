@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|2|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|3|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|9|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|14|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|15|103.147.77.204|8080|Indonesia|Madiun|TRIDATA|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|18|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|149.126.168.216|3128|Russia|Moscow|Harvestr|
+|13|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
 |19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|103.147.77.204|8080|Indonesia|Madiun|TRIDATA|
 
 
 
