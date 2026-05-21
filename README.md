@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
 |4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
 |6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|172.235.28.186|3012|India|Chennai|Akamai Technologies, Inc.|
-|11|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|15|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|16|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|172.235.28.186|3012|India|Chennai|Akamai Technologies, Inc.|
+|9|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|10|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|133.130.90.75|4343|Japan|Chiyoda City|interQ|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|195.123.221.46|8081|Netherlands|Amsterdam|Green Floid LLC|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|17|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|18|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|19|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
