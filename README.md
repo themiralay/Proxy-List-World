@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|13|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|17|103.81.175.216|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|18|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|4|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|10|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|199.38.85.122|40028|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
 
 
 
