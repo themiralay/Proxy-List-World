@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|3|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|1|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|64.90.1.178|8080|Hong Kong|Hong Kong|NetLab Global|
 |4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.90.1.178|8080|Hong Kong|Hong Kong|NetLab Global|
-|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|10|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|62.169.28.60|9091|France|Lauterbourg|Contabo GmbH|
+|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|157.22.231.253|1080|Russia|Moscow|AdminVPS OOO|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|18|221.120.218.66|8080|Pakistan|Tandlianwala|PTCL ITI Lahore 11|
 |19|45.80.231.251|3128|Sweden|Stockholm|Aeza International LTD|
 |20|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
 
