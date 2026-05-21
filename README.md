@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4506** proxies at the latest update. Usable proxies are below.
+> Scraper found **4531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|245|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|11|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|12|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|203.190.55.134|8090|Indonesia|West Jakarta|PT POWER TELECOM|
-|14|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|15|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|16|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|17|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|167.61.202.55|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|10|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|11|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|14|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|201.182.242.4|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
+|16|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|202.46.153.107|8080|Indonesia|Denpasar|PT Blip Integrator Provider|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|23.230.14.90|8080|Australia|Sydney|OVH SAS|
 
 
 
