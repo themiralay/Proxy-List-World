@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|5|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
 |6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|11|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|149.126.168.216|3128|Russia|Moscow|Harvestr|
+|13|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
+|15|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
 |16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|17|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|19|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|17|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|18|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
 |20|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
