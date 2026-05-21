@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|10|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|157.20.82.11|3128|Vietnam|Vinhomes Ocean Park|Interdigi Joint Stock Company|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|16|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|17|103.168.254.26|1111|Indonesia|Pecangaan|PT Fahasa Tri Data|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|14|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|131.153.163.234|63885|United States|Ashburn|Secured Servers LLC|
+|17|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
 |18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|172.235.28.186|3012|India|Chennai|Akamai Technologies, Inc.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|131.153.163.234|63885|United States|Ashburn|Secured Servers LLC|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
