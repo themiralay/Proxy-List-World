@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4801** proxies at the latest update. Usable proxies are below.
+> Scraper found **4802** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|723|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|1|43.167.10.240|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |3|150.230.103.47|9091|Japan|Tokyo|Oracle Corporation|
-|4|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|5|121.174.186.199|8080|South Korea|Gangseo-gu|Korea Telecom|
-|6|217.142.251.16|9000|Japan|Osaka|Oracle Corporation|
-|7|64.90.1.178|8080|Hong Kong|Hong Kong|NetLab Global|
-|8|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|10|154.223.51.114|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|11|45.135.119.169|9091|Hong Kong|Tsim Sha Tsui|Xnnet LLC|
-|12|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
-|13|178.128.115.66|9091|Singapore|Singapore|DigitalOcean, LLC|
-|14|149.248.37.215|9000|United States|Kent|The Constant Company|
-|15|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|16|202.8.29.90|8080|Indonesia|Batam|PT MULTI MEDIA ACCESS|
-|17|66.240.236.210|3128|United States|San Diego|CariNet, Inc.|
-|18|216.75.6.245|3128|United States|San Diego|CariNet, Inc.|
-|19|216.75.6.244|3128|United States|San Diego|CariNet, Inc.|
-|20|216.75.6.246|3128|United States|San Diego|CariNet, Inc.|
+|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|5|64.90.1.178|8080|Hong Kong|Hong Kong|NetLab Global|
+|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|7|121.174.186.199|8080|South Korea|Gangseo-gu|Korea Telecom|
+|8|45.135.119.169|9091|Hong Kong|Tsim Sha Tsui|Xnnet LLC|
+|9|154.223.51.114|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|10|149.248.37.215|9000|United States|Kent|The Constant Company|
+|11|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|12|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|13|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|14|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|15|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|20|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
 
 
 
