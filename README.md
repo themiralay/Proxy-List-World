@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|6|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|6|104.194.144.249|80|United States|Sheridan|FranTech Solutions|
+|7|83.171.227.44|3128|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
 |10|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|11|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|12|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|14|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
-|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|20|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|13|138.2.90.82|8100|Singapore|Singapore|Oracle Corporation|
+|14|199.38.85.122|40028|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|19|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 
 
 
