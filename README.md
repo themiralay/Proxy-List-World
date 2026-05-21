@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|36.70.35.47|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|11|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|17|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|221.155.210.184|3128|South Korea|Guri-si|Korea Telecom|
+|2|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|9|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|168.235.80.215|3010|United States|Piscataway|InMotion Hosting|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|17|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
