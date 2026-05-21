@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|7|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |8|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|13|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|14|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
-|15|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|17|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|19|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|20|193.181.35.102|8118|Sweden|Stockholm|PVDataNet AB|
+|9|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|8.218.153.104|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|8.219.194.60|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|149.126.168.216|3128|Russia|Moscow|Harvestr|
+|18|81.26.177.197|8080|Russia|Murmansk|OOO ComLine|
+|19|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|20|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
 
 
 
