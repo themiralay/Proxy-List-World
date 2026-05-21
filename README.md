@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|7|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|8|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|9|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|10|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|15|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|103.75.184.181|3128|Vietnam|Dich Vong|Inet software one member company limited|
-|20|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|10|149.126.168.216|3128|Russia|Moscow|Harvestr|
+|11|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|103.168.254.26|1111|Indonesia|Pecangaan|PT Fahasa Tri Data|
+|16|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.75.184.181|3128|Vietnam|Dich Vong|Inet software one member company limited|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
