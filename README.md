@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4423** proxies at the latest update. Usable proxies are below.
+> Scraper found **4394** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|257|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|255|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|100|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2610|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|3|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
 |4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|7|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|9|82.22.175.77|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|10|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
-|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|12|46.30.46.133|3128|Netherlands|Amsterdam|EUROBYTE|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|16|31.172.78.12|3128|Netherlands|Rotterdam|Fornex Hosting S.L.|
-|17|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|18|149.126.168.216|3128|Russia|Moscow|Harvestr|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|11|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|14|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|108.75.132.171|8080|United States|San Diego|AT&T Enterprises, LLC|
+|18|190.235.185.26|999|Peru|Guadalupe|TDP-GRS|
 |19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|149.126.168.216|3128|Russia|Moscow|Harvestr|
 
 
 
