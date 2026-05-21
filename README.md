@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4475** proxies at the latest update. Usable proxies are below.
+> Scraper found **4495** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|418|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|438|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
 |2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|5|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|6|154.19.39.133|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|9|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|10|38.35.247.135|999|Mexico|La Viña|Optoenlaces SA de CV|
-|11|23.230.14.90|8080|Australia|Sydney|OVH SAS|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|19|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
+|5|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|6|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|11|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|12|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|14|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
+|19|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|20|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
