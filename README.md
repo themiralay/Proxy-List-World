@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4586** proxies at the latest update. Usable proxies are below.
+> Scraper found **4475** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|418|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|5|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|6|154.19.39.133|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
 |7|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|8|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|9|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|10|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
-|15|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
-|16|103.156.17.149|8818|Indonesia|Jatibarang|RSTNET|
-|17|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|95.214.123.147|8080|Hungary|Kecskemét|Deltakon Kft.|
-|19|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|9|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|10|38.35.247.135|999|Mexico|La Viña|Optoenlaces SA de CV|
+|11|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|19|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
