@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|7|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|149.126.168.216|3128|Russia|Moscow|Harvestr|
 |8|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|147.139.141.104|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|14|149.126.168.216|3128|Russia|Moscow|Harvestr|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|17|147.45.41.112|1080|Austria|Vienna|Aeza International LTD|
-|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|19|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|10|65.109.190.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|23.230.14.90|8080|Australia|Sydney|OVH SAS|
+|14|5.252.33.13|2025|Germany|Frankfurt am Main|StormWall s.r.o.|
+|15|82.114.228.67|1080|Russia|Saratov|SCTS|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|20|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
