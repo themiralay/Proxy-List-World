@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
 |2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.217.78.60|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|49.147.119.62|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|10|104.194.144.249|80|United States|Sheridan|FranTech Solutions|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|16|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|8.218.174.172|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|8.210.138.49|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|6|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|104.194.144.249|80|United States|Sheridan|FranTech Solutions|
+|10|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|14|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|15|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|16|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|103.80.214.169|8888|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
 
 
 
