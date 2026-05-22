@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|116.80.50.112|3128|Japan|Wakabayashi|InfoSphere|
-|3|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|10|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|194.87.196.108|3128|Russia|St Petersburg|LLC Baxet|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|138.2.90.82|8100|Singapore|Singapore|Oracle Corporation|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|1|116.80.50.112|3128|Japan|Wakabayashi|InfoSphere|
+|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|9|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|10|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|178.156.191.101|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|13|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|17|194.87.196.108|3128|Russia|St Petersburg|LLC Baxet|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
