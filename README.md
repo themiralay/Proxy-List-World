@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|6|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|1|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|9|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|13|169.40.6.114|3128|Latvia|Riga|SIA VEESP|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|174.138.162.34|8080|United States|Phoenix|Secured Servers LLC|
-|16|120.28.193.165|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|17|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.13.237.201|3128|Germany|Estenfeld|Florian Kolb|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|190.97.226.89|999|Venezuela|Rubio|Viginet C.A|
+|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|9|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|154.44.9.201|3012|United States|Los Angeles|Cogent Communications|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|154.44.9.201|3012|United States|Los Angeles|Cogent Communications|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
