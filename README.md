@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 |9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|133.130.90.75|4343|Japan|Chiyoda City|interQ|
 |13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|17|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|20.93.198.131|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
