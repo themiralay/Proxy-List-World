@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|2|150.230.103.47|9091|Japan|Tokyo|Oracle Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|7|103.122.65.242|8080|Indonesia|Banjar Dauhmarga|PT. Jinom Network Indonesia|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |9|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
 |12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|15|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|16|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
 |17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|20|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|42.117.188.252|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
