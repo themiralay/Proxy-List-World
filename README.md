@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5493** proxies at the latest update. Usable proxies are below.
+> Scraper found **5494** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|277|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|278|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|144.24.84.140|7890|South Korea|Chuncheon|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|9|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|45.89.106.12|80|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|45.89.106.12|80|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
 |15|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|16|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
-|20|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
