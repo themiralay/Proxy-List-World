@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|8.210.48.83|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|15|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|62.169.28.60|9091|France|Lauterbourg|Contabo GmbH|
-|19|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|20|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|4|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|5|169.197.182.33|8080|United States|Plano|Share and Make Aware LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|13|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|38.76.191.133|1080|Hong Kong|Kwai Chung|Cogent Communications|
+|17|169.197.182.33|8080|United States|Plano|Share and Make Aware LLC|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|200.76.28.114|3128|Mexico|Colonia Lázaro Cárdenas|Alestra, S. de R.L. de C.V.|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
