@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5522** proxies at the latest update. Usable proxies are below.
+> Scraper found **5523** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|277|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|278|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|889|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|179|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|1|133.130.90.75|4343|Japan|Chiyoda City|interQ|
 |2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
 |3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|12|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|8|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
 |17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 |18|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
 
 
 
