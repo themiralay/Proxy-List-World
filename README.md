@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|150.230.103.47|9091|Japan|Tokyo|Oracle Corporation|
-|5|20.2.221.52|3456|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|8|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|9|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|13|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|20|89.58.50.94|11140|Germany|Nuremberg|netcup GmbH|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|154.223.51.114|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|6|47.243.206.29|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|8|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|15|47.241.16.163|8100|Singapore|Singapore|Alibaba Cloud LLC|
+|16|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
