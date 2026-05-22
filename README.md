@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|559|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|559|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|559|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|8.210.132.233|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
 |7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|11|45.117.163.134|3128|Vietnam|Liên Quan|VTDC|
-|12|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|15|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
-|16|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
-|20|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|8|103.157.78.85|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|9|74.208.192.81|3129|United States|Kansas City|IONOS SE|
+|10|163.128.198.18|8080|Australia|Brisbane|ERX|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|112.78.32.50|8080|Indonesia|Semarang|PT Media Sarana Data|
+|13|103.188.174.7|8080|Indonesia|Semarang|PT. Fiber Networks Indonesia|
+|14|49.48.66.22|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|101.51.131.47|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|38.123.220.59|999|Mexico|Loma Hermosa|Cogent Communications|
+|19|38.226.241.242|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|20|58.136.175.152|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
