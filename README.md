@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.95.240.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|54.181.1.71|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|2|18.183.24.23|1080|Japan|Tokyo|Amazon Technologies Inc.|
 |3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|54.181.1.71|1080|South Korea|Seoul|Amazon Technologies Inc.|
 |5|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
-|6|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
-|7|35.212.206.106|1080|United States|The Dalles|Google LLC|
-|8|66.63.163.48|1080|United States|Los Angeles|HostPapa|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|3.106.214.140|1080|Australia|Sydney|Amazon Technologies Inc.|
-|11|52.15.163.119|1080|United States|Dublin|Amazon.com, Inc.|
-|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|13|3.136.86.157|1080|United States|Dublin|Amazon.com, Inc.|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|35.212.206.106|1080|United States|The Dalles|Google LLC|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|35.183.199.44|1080|Canada|Toronto|Amazon Technologies Inc.|
-|19|18.118.165.174|1080|United States|Dublin|Amazon.com, Inc.|
-|20|66.63.163.48|1080|United States|Los Angeles|HostPapa|
+|6|13.209.2.193|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|7|45.192.97.75|1080|Hong Kong|Hong Kong|Vapeline Technology|
+|8|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|18.142.238.40|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|10|35.212.206.106|1080|United States|The Dalles|Google LLC|
+|11|216.36.108.129|1080|United States|Pleasanton|GTT Communications Inc.|
+|12|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
+|14|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|15|18.142.244.160|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|16|66.63.163.48|1080|United States|Los Angeles|HostPapa|
+|17|3.106.214.140|1080|Australia|Sydney|Amazon Technologies Inc.|
+|18|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
