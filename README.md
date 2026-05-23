@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.187.14|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|3.101.38.238|1080|United States|San Jose|Amazon.com, Inc.|
-|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|6|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.230.6.35|1080|United States|Ashburn|Amazon.com, Inc.|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|12|3.101.38.238|1080|United States|San Jose|Amazon.com, Inc.|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|15|47.242.163.146|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|87.120.222.214|4444|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|13.52.78.5|1080|United States|San Jose|Amazon.com, Inc.|
+|8|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|15.222.9.110|1080|Canada|Toronto|Amazon Technologies Inc.|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|3.81.83.184|1080|United States|Ashburn|Amazon Technologies Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|14|15.206.146.34|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|138.2.78.251|8100|Singapore|Singapore|Oracle Corporation|
 
 
 
