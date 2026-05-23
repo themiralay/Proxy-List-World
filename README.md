@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.196.32.214|1080|United States|Ashburn|Amazon.com, Inc.|
-|2|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|3|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|54.196.32.214|1080|United States|Ashburn|Amazon.com, Inc.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|34.245.216.175|1080|Ireland|Dublin|Amazon Technologies Inc.|
-|8|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
-|9|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|10|34.250.131.137|1080|Ireland|Dublin|Amazon Technologies Inc.|
-|11|103.36.10.79|1010|Indonesia|Kota Serang|PT Awinet Global Mandiri|
-|12|202.154.18.11|9091|Indonesia|Babat|DIGITNET|
-|13|18.203.135.182|1080|Ireland|Dublin|Amazon Technologies Inc.|
-|14|131.222.252.100|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|15|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
-|16|103.30.31.217|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|17|34.207.214.8|1080|United States|Ashburn|Amazon.com, Inc.|
-|18|63.182.217.41|1080|Germany|Frankfurt am Main|Amazon.com|
-|19|13.221.24.109|1080|United States|Ashburn|Amazon.com, Inc.|
-|20|3.122.101.220|1080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
+|4|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|5|54.224.215.110|1080|United States|Ashburn|Amazon.com, Inc.|
+|6|54.91.81.211|1080|United States|Ashburn|Amazon.com, Inc.|
+|7|3.82.92.22|1080|United States|Ashburn|Amazon Technologies Inc.|
+|8|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
+|9|3.81.83.184|1080|United States|Ashburn|Amazon Technologies Inc.|
+|10|3.142.187.159|1080|United States|Dublin|Amazon.com, Inc.|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|13|54.224.215.110|1080|United States|Ashburn|Amazon.com, Inc.|
+|14|3.142.187.159|1080|United States|Dublin|Amazon.com, Inc.|
+|15|54.91.81.211|1080|United States|Ashburn|Amazon.com, Inc.|
+|16|35.183.93.234|1080|Canada|Toronto|Amazon Technologies Inc.|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|89.19.211.221|1080|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
