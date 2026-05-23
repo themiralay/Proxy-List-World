@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|124.40.56.10|3128|Japan|Chiyoda City|CDS Global Cloud Co., Ltd|
 |2|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 |3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|4|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
 |5|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
 |6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|8.210.161.8|8100|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|111.92.88.27|3128|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
-|15|155.212.229.76|3128|Latvia|Riga|RETN Limited|
-|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|17|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|18|168.138.171.204|8100|Singapore|Singapore|Oracle Corporation|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|13|38.75.82.218|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
+|16|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|205.215.247.164|3128|United States|Baltimore|Port Networks, Inc.|
 
 
 
