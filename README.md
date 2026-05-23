@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.95.240.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|124.40.56.10|3128|Japan|Chiyoda City|CDS Global Cloud Co., Ltd|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|18.181.187.14|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|13.59.199.172|1080|United States|Dublin|Amazon.com, Inc.|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|13|18.118.165.174|1080|United States|Dublin|Amazon.com, Inc.|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|19|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|20|15.222.65.78|1080|Canada|Toronto|Amazon Technologies Inc.|
+|1|124.40.56.10|3128|Japan|Chiyoda City|CDS Global Cloud Co., Ltd|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|54.95.240.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|3.96.191.140|1080|Canada|Toronto|Amazon Technologies Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|18.118.165.174|1080|United States|Dublin|Amazon.com, Inc.|
+|12|3.27.194.134|1080|Australia|Sydney|Amazon Technologies Inc.|
+|13|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|14|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|17|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|20|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
