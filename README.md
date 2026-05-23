@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.67.217.8|1080|South Korea|Chuncheon|Oracle Corporation|
 |3|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
-|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|7|43.202.165.234|1080|South Korea|Seoul|Amazon.com, Inc.|
-|8|170.106.111.221|1080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|10|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|12|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
-|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|14|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|15|103.56.80.61|8282|Indonesia|Banjaran|PT Jaringan Citra Mandiri|
-|16|13.58.108.85|1080|United States|Dublin|Amazon.com, Inc.|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
+|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|6|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|7|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|10|103.56.80.61|8282|Indonesia|Banjaran|PT Jaringan Citra Mandiri|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|170.106.111.221|1080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|104.131.163.228|1080|United States|Clifton|DigitalOcean, LLC|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|54.80.254.15|1080|United States|Ashburn|Amazon.com, Inc.|
 |18|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|19|157.20.207.141|3128|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|34.207.214.8|1080|United States|Ashburn|Amazon.com, Inc.|
+|20|3.140.184.16|1080|United States|Dublin|Amazon.com, Inc.|
 
 
 
