@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|734|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|734|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|734|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.59.95|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|1|18.182.30.83|1080|Japan|Tokyo|Amazon Technologies Inc.|
 |2|13.112.127.133|1080|Japan|Tokyo|Amazon Technologies Inc|
-|3|54.238.166.124|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|4|56.155.117.150|1080|Japan|Osaka|Amazon.com, Inc.|
-|5|18.182.25.60|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|6|18.182.30.83|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|7|56.155.21.75|1080|Japan|Osaka|Amazon.com, Inc.|
-|8|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
-|9|15.168.9.3|1080|Japan|Osaka|Amazon Technologies Inc.|
-|10|16.184.12.247|1080|South Korea|Seoul|Amazon.com, Inc.|
-|11|13.125.240.195|1080|South Korea|Seoul|Amazon Technologies Inc.|
-|12|15.165.11.189|1080|South Korea|Seoul|Amazon Technologies Inc.|
-|13|3.35.7.133|1080|South Korea|Seoul|Amazon.com, Inc.|
-|14|16.184.41.26|1080|South Korea|Seoul|Amazon.com, Inc.|
-|15|47.129.35.59|1080|Singapore|Singapore|Amazon Technologies Inc|
-|16|18.140.65.143|1080|Singapore|Singapore|Amazon.com, Inc.|
-|17|16.184.3.64|1080|South Korea|Seoul|Amazon.com, Inc.|
-|18|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|19|13.213.41.202|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|20|18.142.55.40|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|3|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
+|4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|56.155.117.150|1080|Japan|Osaka|Amazon.com, Inc.|
+|6|54.238.166.124|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|7|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
+|8|15.168.9.220|1080|Japan|Osaka|Amazon Technologies Inc.|
+|9|16.184.12.247|1080|South Korea|Seoul|Amazon.com, Inc.|
+|10|16.184.3.64|1080|South Korea|Seoul|Amazon.com, Inc.|
+|11|3.112.59.95|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|12|3.35.242.248|1080|South Korea|Seoul|Amazon.com, Inc.|
+|13|56.155.21.75|1080|Japan|Osaka|Amazon.com, Inc.|
+|14|18.182.25.60|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|15|3.35.7.133|1080|South Korea|Seoul|Amazon.com, Inc.|
+|16|13.125.240.195|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|18.138.58.69|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|19|15.165.71.55|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|20|54.180.161.229|1080|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
