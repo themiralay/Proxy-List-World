@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|103.54.169.36|3125|Indonesia|Teluk Kuantan|PT Kuantan Net Akses|
 |4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|6|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|19|72.56.67.25|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|20|167.17.176.215|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|5|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|13|167.17.176.215|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|72.56.67.25|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|138.2.92.70|8100|Singapore|Singapore|Oracle Corporation|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
