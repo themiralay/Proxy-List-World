@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5404** proxies at the latest update. Usable proxies are below.
+> Scraper found **5319** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|721|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3284|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|56.155.105.155|1080|Japan|Osaka|Amazon.com, Inc.|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
-|4|152.67.217.8|1080|South Korea|Chuncheon|Oracle Corporation|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|43.202.165.234|1080|South Korea|Seoul|Amazon.com, Inc.|
-|10|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
-|11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|12|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|13|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|14|104.131.163.228|1080|United States|Clifton|DigitalOcean, LLC|
-|15|3.144.180.75|1080|United States|Dublin|Amazon.com, Inc.|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
-|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|19|65.1.84.141|1080|India|Mumbai|Amazon.com|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.67.217.8|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|6|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|13.55.6.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|12|99.79.62.185|1080|Canada|Toronto|Amazon.com, Inc.|
+|13|3.144.180.75|1080|United States|Dublin|Amazon.com, Inc.|
+|14|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|52.221.178.237|1080|Singapore|Singapore|Amazon.com, Inc.|
+|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 
 
 
