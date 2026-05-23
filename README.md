@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|657|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|657|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|657|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.67.217.8|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|18.141.223.215|1080|Singapore|Singapore|Amazon.com, Inc.|
-|4|18.140.58.38|1080|Singapore|Singapore|Amazon.com, Inc.|
-|5|54.67.17.136|1080|United States|San Jose|Amazon.com, Inc.|
-|6|54.183.5.61|1080|United States|San Jose|Amazon.com, Inc.|
-|7|14.250.75.234|1080|Vietnam|Hanoi|VNPT|
-|8|14.250.75.217|1080|Vietnam|Hanoi|VNPT|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|54.215.195.229|1080|United States|San Jose|Amazon.com, Inc.|
-|11|18.142.236.222|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|12|13.229.230.20|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|13|18.140.59.104|1080|Singapore|Singapore|Amazon.com, Inc.|
-|14|54.153.77.81|1080|United States|San Jose|Amazon.com, Inc.|
-|15|54.219.174.246|1080|United States|San Jose|Amazon.com, Inc.|
-|16|204.236.187.240|1080|United States|San Jose|Amazon.com, Inc.|
-|17|3.86.106.116|1080|United States|Ashburn|Amazon Technologies Inc.|
-|18|13.213.28.40|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|19|3.35.225.102|1080|South Korea|Seoul|Amazon.com, Inc.|
-|20|3.142.187.159|1080|United States|Dublin|Amazon.com, Inc.|
+|1|43.133.220.96|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|3.112.59.95|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|13.208.240.89|1080|Japan|Osaka|Amazon Technologies Inc.|
+|5|18.183.29.244|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|6|16.184.12.165|1080|South Korea|Seoul|Amazon.com, Inc.|
+|7|15.164.174.212|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|8|54.250.248.42|1080|Japan|Tokyo|Amazon.com, Inc.|
+|9|56.155.117.230|1080|Japan|Osaka|Amazon.com, Inc.|
+|10|13.125.240.195|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|11|47.129.41.232|1080|Singapore|Singapore|Amazon Technologies Inc|
+|12|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
+|13|16.184.41.26|1080|South Korea|Seoul|Amazon.com, Inc.|
+|14|54.169.60.96|1080|Singapore|Singapore|Amazon.com, Inc.|
+|15|3.0.90.100|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|16|3.106.214.140|1080|Australia|Sydney|Amazon Technologies Inc.|
+|17|47.129.38.102|1080|Singapore|Singapore|Amazon Technologies Inc|
+|18|18.141.223.215|1080|Singapore|Singapore|Amazon.com, Inc.|
+|19|13.213.41.202|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|54.153.50.64|1080|United States|San Jose|Amazon.com, Inc.|
 
 
 
