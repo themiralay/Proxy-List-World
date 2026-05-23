@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5107** proxies at the latest update. Usable proxies are below.
+> Scraper found **5291** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3059|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|12|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|167.17.176.215|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|161.117.231.88|8100|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|103.169.254.75|6080|Indonesia|Ciputat|PT Master Star Network|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|12|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|13|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|18|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.180.145.117|443|United States|Dallas|Scalaxy B.V.|
 
 
 
