@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.220.96|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|43.207.144.236|1080|Japan|Tokyo|Amazon.com, Inc.|
-|5|16.184.41.229|1080|South Korea|Seoul|Amazon.com, Inc.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|18.142.244.160|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|8|16.184.28.1|1080|South Korea|Seoul|Amazon.com, Inc.|
-|9|15.164.208.55|1080|South Korea|Seoul|Amazon Technologies Inc.|
-|10|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
-|11|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|12|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|3.35.242.248|1080|South Korea|Seoul|Amazon.com, Inc.|
-|14|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|15|3.112.55.149|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|18.142.236.222|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|18|13.158.77.225|1080|Japan|Tokyo|Amazon.com|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|18.138.58.69|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|1|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|13.230.145.113|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|165.154.243.94|1080|Taiwan|Taipei City|Scloud Pte Ltd|
+|6|192.238.143.177|1080|Hong Kong|Central|Antbox Networks Limited|
+|7|43.207.144.236|1080|Japan|Tokyo|Amazon.com, Inc.|
+|8|45.81.130.110|8888|United States|Los Angeles|Zenlayer Inc|
+|9|16.184.41.229|1080|South Korea|Seoul|Amazon.com, Inc.|
+|10|15.164.208.55|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|11|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|12|16.184.28.1|1080|South Korea|Seoul|Amazon.com, Inc.|
+|13|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
+|14|18.138.58.69|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|15|18.142.236.222|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|16|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|13.215.251.251|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|18|15.165.11.189|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|19|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|20|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
 
 
 
