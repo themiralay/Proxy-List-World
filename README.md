@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|4|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
-|5|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|6|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|7|54.184.22.107|1081|United States|Portland|Amazon.com, Inc.|
+|8|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
 |9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|43.205.211.184|1080|India|Mumbai|Amazon.com, Inc.|
-|12|18.117.80.200|1080|United States|Dublin|Amazon.com, Inc.|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|3.142.187.159|1080|United States|Dublin|Amazon.com, Inc.|
 |13|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|14|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|15|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
-|16|43.207.144.236|1080|Japan|Tokyo|Amazon.com, Inc.|
-|17|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|19|3.81.92.146|1080|United States|Ashburn|Amazon Technologies Inc.|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|3.106.127.201|1080|Australia|Sydney|Amazon Technologies Inc.|
+|17|3.136.86.157|1080|United States|Dublin|Amazon.com, Inc.|
+|18|34.207.124.29|1080|United States|Ashburn|Amazon.com, Inc.|
+|19|207.57.132.136|1080|United States|Los Angeles|NTT America|
+|20|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
 
 
 
