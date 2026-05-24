@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|7|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|8|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|4|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|7|116.80.76.253|7779|Japan|Wakabayashi|InfoSphere|
+|8|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|11|185.172.131.158|443|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
-|13|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|89.19.211.221|1080|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|62.60.230.214|8080|Sweden|Stockholm|Aeza International LTD|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|10|89.19.211.221|1080|Germany|Frankfurt am Main|Timeweb, LLP|
+|11|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|15|185.172.131.158|443|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|16|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
+|17|62.60.230.214|8080|Sweden|Stockholm|Aeza International LTD|
 |18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|19|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 
 
 
