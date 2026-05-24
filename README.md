@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|5|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|3.143.110.123|1080|United States|Dublin|Amazon.com, Inc.|
-|9|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|15|3.35.242.248|1080|South Korea|Seoul|Amazon.com, Inc.|
-|16|15.134.129.192|1080|Australia|Sydney|Amazon.com, Inc.|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|3.107.102.186|1080|Australia|Sydney|Amazon Technologies Inc.|
-|19|3.110.105.252|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|1|16.184.28.1|1080|South Korea|Seoul|Amazon.com, Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|16.184.3.64|1080|South Korea|Seoul|Amazon.com, Inc.|
+|4|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|9|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|15.134.129.192|1080|Australia|Sydney|Amazon.com, Inc.|
+|16|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|16.176.169.238|1080|Australia|Sydney|Amazon.com, Inc.|
+|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 
 
 
