@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|3|18.141.223.215|1080|Singapore|Singapore|Amazon.com, Inc.|
-|4|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|3.25.208.154|1080|Australia|Sydney|Amazon Technologies Inc.|
-|8|18.117.242.87|1080|United States|Dublin|Amazon.com, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|14|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|15|3.35.7.133|1080|South Korea|Seoul|Amazon.com, Inc.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|17|3.82.92.22|1080|United States|Ashburn|Amazon Technologies Inc.|
-|18|3.144.180.75|1080|United States|Dublin|Amazon.com, Inc.|
-|19|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|20|35.183.100.172|1080|Canada|Toronto|Amazon Technologies Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|45.192.97.75|1080|Hong Kong|Hong Kong|Vapeline Technology|
+|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|54.250.248.42|1080|Japan|Tokyo|Amazon.com, Inc.|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|18.141.223.215|1080|Singapore|Singapore|Amazon.com, Inc.|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|11|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|12|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
+|13|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|18|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
+|19|3.128.33.131|1080|United States|Dublin|Amazon.com, Inc.|
+|20|13.231.249.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
