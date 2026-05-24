@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|742|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|742|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|742|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|13.231.249.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|54.250.248.42|1080|Japan|Tokyo|Amazon.com, Inc.|
+|4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|5|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|6|54.169.60.96|1080|Singapore|Singapore|Amazon.com, Inc.|
+|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|34.227.76.146|1080|United States|Ashburn|Amazon.com, Inc.|
-|10|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|13|3.14.68.142|1080|United States|Dublin|Amazon.com, Inc.|
-|14|98.93.112.139|1080|United States|Ashburn|Amazon.com|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
-|17|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|18|3.88.38.211|1080|United States|Ashburn|Amazon Technologies Inc.|
-|19|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
+|10|18.212.119.185|1080|United States|Ashburn|Amazon.com, Inc.|
+|11|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
+|12|3.140.184.16|1080|United States|Dublin|Amazon.com, Inc.|
+|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|13.235.238.137|1080|India|Mumbai|Amazon Technologies Inc.|
+|17|18.208.148.213|1080|United States|Ashburn|Amazon.com, Inc.|
+|18|38.35.247.141|999|Mexico|La Viña|Optoenlaces SA de CV|
+|19|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|20|207.57.132.136|1080|United States|Los Angeles|NTT America|
 
 
 
