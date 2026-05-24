@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|742|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|742|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|742|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|944|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|944|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|944|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
-|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|12|52.221.178.237|1080|Singapore|Singapore|Amazon.com, Inc.|
-|13|103.132.53.17|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|14|54.206.223.62|1080|Australia|Sydney|Amazon.com, Inc.|
-|15|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|16|35.182.94.69|1080|Canada|Toronto|Amazon Technologies Inc.|
-|17|13.223.52.14|1080|United States|Ashburn|Amazon.com, Inc.|
-|18|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
-|19|207.57.132.136|1080|United States|Los Angeles|NTT America|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|13.231.249.59|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|3|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|133.130.90.75|4343|Japan|Chiyoda City|interQ|
+|6|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|8|15.164.242.220|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|15.165.71.55|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|11|161.248.117.117|8080|Indonesia|Sekupang|PT INFORMASI NUSANTARA TEKNOLOGI|
+|12|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|162.255.110.22|8080|United States|Kennewick|Desert Winds Wireless|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|103.120.76.50|8080|Indonesia|Kabupaten Tangerang|PT Haci Telekomunikasi Indonesia|
+|16|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
+|17|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|18|3.35.242.248|1080|South Korea|Seoul|Amazon.com, Inc.|
+|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
