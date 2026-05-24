@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5551** proxies at the latest update. Usable proxies are below.
+> Scraper found **5902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1281|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1153|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|264|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3098|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3566|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|4|3.35.7.133|1080|South Korea|Seoul|Amazon.com, Inc.|
-|5|3.0.90.100|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|6|13.57.229.19|1080|United States|San Jose|Amazon.com, Inc.|
-|7|18.142.236.222|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|8|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|9|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|13.211.1.107|1080|Australia|Sydney|Amazon Technologies Inc.|
-|11|18.140.58.38|1080|Singapore|Singapore|Amazon.com, Inc.|
-|12|16.176.159.122|1080|Australia|Sydney|Amazon.com, Inc.|
-|13|54.79.13.242|1080|Australia|Sydney|Amazon Corporate Services Pty Ltd, Amazon.com, Inc.|
-|14|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
-|15|3.136.86.157|1080|United States|Dublin|Amazon.com, Inc.|
-|16|13.125.240.195|1080|South Korea|Seoul|Amazon Technologies Inc.|
-|17|207.57.132.136|1080|United States|Los Angeles|NTT America|
-|18|34.207.124.29|1080|United States|Ashburn|Amazon.com, Inc.|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|9|8.219.124.90|8100|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|14|13.201.28.159|1080|India|Mumbai|Amazon.com, Inc.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|193.160.223.163|1080|Germany|Frankfurt am Main|23M GmbH|
+|17|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|63.35.182.25|1080|Ireland|Dublin|Amazon.com|
+|19|18.142.244.160|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|185.172.131.158|443|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
 
 
 
