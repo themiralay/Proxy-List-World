@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5687** proxies at the latest update. Usable proxies are below.
+> Scraper found **5531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|971|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|210|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3566|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|4|18.140.58.38|1080|Singapore|Singapore|Amazon.com, Inc.|
-|5|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
-|6|54.169.60.96|1080|Singapore|Singapore|Amazon.com, Inc.|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|3.90.237.47|1080|United States|Ashburn|Amazon Technologies Inc.|
-|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|54.80.96.7|1080|United States|Ashburn|Amazon.com, Inc.|
-|14|216.36.108.129|1080|United States|Pleasanton|GTT Communications Inc.|
-|15|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
-|16|3.82.92.22|1080|United States|Ashburn|Amazon Technologies Inc.|
-|17|52.14.22.181|1080|United States|Dublin|Amazon.com, Inc.|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|8|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|9|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|10|104.131.163.228|1080|United States|Clifton|DigitalOcean, LLC|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|35.173.132.170|1080|United States|Ashburn|Amazon.com, Inc.|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|3.110.33.44|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
+|17|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 
 
 
