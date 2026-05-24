@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|8|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|9|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|10|104.131.163.228|1080|United States|Clifton|DigitalOcean, LLC|
-|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|12|35.173.132.170|1080|United States|Ashburn|Amazon.com, Inc.|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|3.110.33.44|1080|India|Mumbai|Amazon Technologies Inc.|
-|16|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
-|17|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|6|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|8|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|9|3.0.90.100|1080|Singapore|Singapore|Amazon Technologies Inc.|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
+|12|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
+|14|54.91.81.211|1080|United States|Ashburn|Amazon.com, Inc.|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
+|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|16.176.159.122|1080|Australia|Sydney|Amazon.com, Inc.|
+|19|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|20|18.118.206.180|1080|United States|Dublin|Amazon.com, Inc.|
 
 
 
