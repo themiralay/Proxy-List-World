@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|633|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|633|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|633|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.144.236|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|52.221.178.237|1080|Singapore|Singapore|Amazon.com, Inc.|
-|4|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|6|3.107.102.186|1080|Australia|Sydney|Amazon Technologies Inc.|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|3.110.190.199|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|13.125.240.195|1080|South Korea|Seoul|Amazon Technologies Inc.|
-|10|3.106.127.201|1080|Australia|Sydney|Amazon Technologies Inc.|
-|11|13.211.1.107|1080|Australia|Sydney|Amazon Technologies Inc.|
-|12|34.204.68.38|1080|United States|Ashburn|Amazon.com, Inc.|
-|13|154.27.196.34|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|14|3.88.38.211|1080|United States|Ashburn|Amazon Technologies Inc.|
-|15|13.201.34.64|1080|India|Mumbai|Amazon.com, Inc.|
-|16|13.231.95.107|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|17|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
-|18|18.133.238.111|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|20|5.129.216.108|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|1|15.165.71.55|1080|South Korea|Seoul|Amazon Technologies Inc.|
+|2|3.25.70.195|1080|Australia|Sydney|Amazon Technologies Inc.|
+|3|3.25.208.154|1080|Australia|Sydney|Amazon Technologies Inc.|
+|4|3.110.33.44|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|18.208.148.213|1080|United States|Ashburn|Amazon.com, Inc.|
+|7|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|3.110.190.199|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|13.55.6.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|11|16.184.3.64|1080|South Korea|Seoul|Amazon.com, Inc.|
+|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|5.129.216.108|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|45.195.200.93|8080|Netherlands|Amsterdam|BitCommand LLC|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|19|103.113.152.73|14158|Bangladesh|Dhaka|Md Ziaul Huque|
+|20|103.139.126.211|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 
 
 
