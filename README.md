@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.248.42|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|3.112.55.149|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|52.63.44.236|1080|Australia|Sydney|Amazon.com, Inc.|
-|8|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|9|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|54.250.248.42|1080|Japan|Tokyo|Amazon.com, Inc.|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |10|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|3.145.192.203|1080|United States|Dublin|Amazon.com, Inc.|
 |12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|14|13.201.28.159|1080|India|Mumbai|Amazon.com, Inc.|
-|15|18.188.40.160|1080|United States|Dublin|Amazon.com, Inc.|
-|16|16.176.159.122|1080|Australia|Sydney|Amazon.com, Inc.|
-|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|18|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|3.109.152.4|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|13.250.100.203|1080|Singapore|Singapore|Amazon.com, Inc.|
+|15|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|16|13.55.6.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|17|99.79.62.185|1080|Canada|Toronto|Amazon.com, Inc.|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|52.66.207.170|1080|India|Mumbai|Amazon Technologies Inc.|
+|20|65.1.84.141|1080|India|Mumbai|Amazon.com|
 
 
 
