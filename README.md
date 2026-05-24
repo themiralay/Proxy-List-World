@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|680|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|680|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|680|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|13.55.39.12|1080|Australia|Sydney|Amazon Technologies Inc.|
-|7|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|13.230.145.113|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|11|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|18.116.29.196|1080|United States|Dublin|Amazon.com, Inc.|
-|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|18.117.80.200|1080|United States|Dublin|Amazon.com, Inc.|
-|17|98.92.11.61|1080|United States|Ashburn|Amazon.com|
-|18|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|19|3.107.102.186|1080|Australia|Sydney|Amazon Technologies Inc.|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|56.155.105.155|1080|Japan|Osaka|Amazon.com, Inc.|
+|4|13.230.145.113|1080|Japan|Tokyo|Amazon Technologies Inc.|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|11|103.28.113.22|8080|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|12|16.176.159.122|1080|Australia|Sydney|Amazon.com, Inc.|
+|13|34.207.214.8|1080|United States|Ashburn|Amazon.com, Inc.|
+|14|54.91.81.211|1080|United States|Ashburn|Amazon.com, Inc.|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|17|54.224.215.110|1080|United States|Ashburn|Amazon.com, Inc.|
+|18|147.139.141.179|8100|Indonesia|Jakarta|Alibaba Cloud LLC|
+|19|3.136.86.157|1080|United States|Dublin|Amazon.com, Inc.|
+|20|129.151.130.247|1111|United Arab Emirates|Masdar City|Oracle Corporation|
 
 
 
