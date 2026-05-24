@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5946** proxies at the latest update. Usable proxies are below.
+> Scraper found **5864** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1366|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1284|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3417|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|54.184.22.107|1081|United States|Portland|Amazon.com, Inc.|
+|6|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|221.146.13.114|3128|South Korea|Jungnang-gu|Korea Telecom|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|13.230.145.113|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|11|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
-|12|18.188.40.160|1080|United States|Dublin|Amazon.com, Inc.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|54.91.81.211|1080|United States|Ashburn|Amazon.com, Inc.|
-|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|13.57.34.72|1080|United States|San Jose|Amazon.com, Inc.|
+|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|102.129.170.53|37234|United States|New York|networld communications SRL|
+|16|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|17|13.239.54.89|1080|Australia|Sydney|Amazon Technologies Inc.|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|38.65.94.102|1080|United States|Los Angeles|Cogent Communications|
+|20|18.117.80.200|1080|United States|Dublin|Amazon.com, Inc.|
 
 
 
