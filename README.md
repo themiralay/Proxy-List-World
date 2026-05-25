@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
 |4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
-|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|11|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|12|54.209.244.97|1080|United States|Ashburn|Amazon.com, Inc.|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|163.123.141.20|1080|United States|New York|Des Equity LLC|
+|9|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
 |13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|163.123.141.20|1080|United States|New York|Des Equity LLC|
-|17|3.94.126.172|1080|United States|Ashburn|Amazon Technologies Inc.|
-|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|19|54.209.244.97|1080|United States|Ashburn|Amazon.com, Inc.|
-|20|45.195.200.93|8080|Netherlands|Amsterdam|BitCommand LLC|
+|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|163.123.141.20|1080|United States|New York|Des Equity LLC|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|18|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|19|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|20|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
 
 
 
