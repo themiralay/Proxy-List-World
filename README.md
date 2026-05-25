@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|7|3.90.237.47|1080|United States|Ashburn|Amazon Technologies Inc.|
+|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|34.207.214.8|1080|United States|Ashburn|Amazon.com, Inc.|
+|12|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
-|16|85.192.28.199|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|19|44.202.44.38|1080|United States|Ashburn|Amazon.com|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|45.195.200.93|8080|Netherlands|Amsterdam|BitCommand LLC|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|157.180.107.168|1080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
