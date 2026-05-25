@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5211** proxies at the latest update. Usable proxies are below.
+> Scraper found **5107** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1117|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|211|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2839|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|103.189.197.43|7778|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|147.161.246.246|11692|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|1|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|2|186.246.1.7|1080|United States|Fort Lauderdale|Globenet Cabos Submarinos America Inc|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|5|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|6|103.250.69.226|50505|Bangladesh|Bhatara|Next Online Ltd.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|45.89.106.12|80|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|9|103.82.23.118|5347|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |12|147.161.246.246|11692|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|185.41.152.110|3128|France|Valenciennes|global|
-|18|58.147.186.131|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|19|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
-|20|152.53.118.18|8888|Germany|Nuremberg|netcup GmbH|
+|13|204.168.203.63|9100|Finland|Helsinki|Hetzner Online GmbH|
+|14|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|15|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|16|131.153.163.234|37281|United States|Ashburn|Secured Servers LLC|
+|17|62.60.230.214|8080|Sweden|Stockholm|Aeza International LTD|
+|18|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|20|181.119.105.157|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
