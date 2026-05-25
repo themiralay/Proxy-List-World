@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|554|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|554|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|554|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|56.155.105.155|1080|Japan|Osaka|Amazon.com, Inc.|
-|2|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|18.141.223.215|1080|Singapore|Singapore|Amazon.com, Inc.|
-|4|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|5|43.207.178.67|1080|Japan|Tokyo|Amazon.com, Inc.|
-|6|43.207.144.236|1080|Japan|Tokyo|Amazon.com, Inc.|
-|7|103.26.176.25|8090|Indonesia|Banjar Galiran|PT Lintas Jaringan Nusantara|
-|8|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|9|54.86.196.146|1080|United States|Ashburn|Amazon.com, Inc.|
-|10|3.93.64.29|1080|United States|Ashburn|Amazon Technologies Inc.|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|205.204.73.60|8080|Canada|Montreal|eStruxture Data Centers Inc.|
-|13|13.211.1.107|1080|Australia|Sydney|Amazon Technologies Inc.|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|35.180.204.112|1080|France|Paris|Amazon Technologies Inc.|
-|16|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|3.88.38.211|1080|United States|Ashburn|Amazon Technologies Inc.|
-|18|181.63.33.136|8080|Colombia|Cali|Telmex Colombia S.A.|
-|19|3.69.148.57|1080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|54.215.198.5|1080|United States|San Jose|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
+|5|119.92.71.40|8080|Philippines|Ugong Norte|Philippine Long Distance Telephone Co.|
+|6|16.176.169.238|1080|Australia|Sydney|Amazon.com, Inc.|
+|7|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
+|8|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
+|9|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|13.211.1.107|1080|Australia|Sydney|Amazon Technologies Inc.|
+|12|54.80.254.15|1080|United States|Ashburn|Amazon.com, Inc.|
+|13|13.236.178.177|1080|Australia|Sydney|Amazon Technologies Inc.|
+|14|35.173.132.170|1080|United States|Ashburn|Amazon.com, Inc.|
+|15|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
+|16|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
+|17|54.154.124.158|1080|Ireland|Dublin|Amazon.com, Inc.|
+|18|3.128.33.131|1080|United States|Dublin|Amazon.com, Inc.|
+|19|77.163.47.213|3128|Netherlands|Amsterdam|KPN B.V.|
+|20|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
