@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
 |4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|14.250.74.15|1081|Vietnam|Hanoi|VNPT|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|15|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|17|85.192.28.199|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|18|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|20|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|11|103.155.168.165|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|13|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|14|202.137.8.148|8080|Indonesia|Bogor|LINKNET|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|17|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|98.70.243.25|8080|India|Pune|Microsoft Corporation|
 
 
 
