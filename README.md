@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|5|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|8|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|45.207.215.101|1080|Hong Kong|Hong Kong|Vapeline Technology|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|85.192.28.199|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|20|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|10|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|3.94.126.172|1080|United States|Ashburn|Amazon Technologies Inc.|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|17|62.60.230.214|8080|Sweden|Stockholm|Aeza International LTD|
+|18|45.195.200.93|8080|Netherlands|Amsterdam|BitCommand LLC|
+|19|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
