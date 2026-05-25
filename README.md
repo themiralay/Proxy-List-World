@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|54.221.177.134|1080|United States|Ashburn|Amazon Technologies Inc.|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|99.79.62.185|1080|Canada|Toronto|Amazon.com, Inc.|
-|10|3.144.180.75|1080|United States|Dublin|Amazon.com, Inc.|
-|11|63.35.182.25|1080|Ireland|Dublin|Amazon.com|
-|12|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|13|62.60.230.214|8080|Sweden|Stockholm|Aeza International LTD|
-|14|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|3.144.180.75|1080|United States|Dublin|Amazon.com, Inc.|
-|17|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|8|54.178.224.204|1080|Japan|Tokyo|Amazon.com, Inc.|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|15.134.129.192|1080|Australia|Sydney|Amazon.com, Inc.|
+|11|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|43.205.130.23|1080|India|Mumbai|Amazon.com, Inc.|
+|15|99.79.62.185|1080|Canada|Toronto|Amazon.com, Inc.|
+|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|3.109.152.4|1080|India|Mumbai|Amazon Technologies Inc.|
+|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
