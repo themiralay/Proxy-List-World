@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.55.149|1080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|13.215.251.251|1080|Singapore|Singapore|Amazon Technologies Inc.|
-|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|8|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|11|202.154.18.8|8880|Indonesia|Babat|DIGITNET|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|103.125.36.120|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|14|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
-|15|35.183.99.149|1080|Canada|Toronto|Amazon Technologies Inc.|
-|16|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|19|3.109.152.4|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|2|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
+|6|13.57.34.72|1080|United States|San Jose|Amazon.com, Inc.|
+|7|104.248.149.186|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|3.142.187.159|1080|United States|Dublin|Amazon.com, Inc.|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|3.128.33.131|1080|United States|Dublin|Amazon.com, Inc.|
+|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|54.67.14.85|1080|United States|San Jose|Amazon.com, Inc.|
+|16|13.57.34.72|1080|United States|San Jose|Amazon.com, Inc.|
+|17|85.192.28.199|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|18|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|19|13.211.167.70|1080|Australia|Sydney|Amazon Technologies Inc.|
+|20|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
 
 
 
