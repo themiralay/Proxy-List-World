@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|3|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|163.123.141.20|1080|United States|New York|Des Equity LLC|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|14|163.123.141.20|1080|United States|New York|Des Equity LLC|
-|15|185.172.131.158|443|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|16|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|45.195.200.93|8080|Netherlands|Amsterdam|BitCommand LLC|
-|19|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.61.142|1080|Singapore|Singapore|Aceville Pte.ltd|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|8|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|9|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|163.123.141.20|1080|United States|New York|Des Equity LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|16|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 
 
 
