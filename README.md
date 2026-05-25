@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5423** proxies at the latest update. Usable proxies are below.
+> Scraper found **5447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|36|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1367|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1391|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|197|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2923|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|35.78.100.14|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
-|5|119.92.71.40|8080|Philippines|Ugong Norte|Philippine Long Distance Telephone Co.|
-|6|16.176.169.238|1080|Australia|Sydney|Amazon.com, Inc.|
-|7|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
-|8|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
-|9|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|13.211.1.107|1080|Australia|Sydney|Amazon Technologies Inc.|
-|12|54.80.254.15|1080|United States|Ashburn|Amazon.com, Inc.|
-|13|13.236.178.177|1080|Australia|Sydney|Amazon Technologies Inc.|
-|14|35.173.132.170|1080|United States|Ashburn|Amazon.com, Inc.|
-|15|35.173.211.86|1080|United States|Ashburn|Amazon.com, Inc.|
-|16|54.161.62.222|1080|United States|Ashburn|Amazon.com, Inc.|
-|17|54.154.124.158|1080|Ireland|Dublin|Amazon.com, Inc.|
-|18|3.128.33.131|1080|United States|Dublin|Amazon.com, Inc.|
-|19|77.163.47.213|3128|Netherlands|Amsterdam|KPN B.V.|
-|20|54.157.28.162|1080|United States|Ashburn|Amazon.com, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|6|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
+|8|103.156.14.165|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
+|9|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|10|103.188.169.93|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|11|117.18.20.102|8081|Indonesia|Blitar|PT ALUCIO|
+|12|16.176.159.122|1080|Australia|Sydney|Amazon.com, Inc.|
+|13|34.227.76.146|1080|United States|Ashburn|Amazon.com, Inc.|
+|14|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|15|52.66.207.170|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|17|34.227.76.146|1080|United States|Ashburn|Amazon.com, Inc.|
+|18|110.232.92.49|8080|Indonesia|Ciparay|PT. Media Antar Nusa|
+|19|18.175.118.186|1080|United Kingdom|London|Amazon Technologies Inc.|
+|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
 
 
 
