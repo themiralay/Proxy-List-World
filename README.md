@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|54.215.198.5|1080|United States|San Jose|Amazon.com, Inc.|
 |7|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|8|18.140.58.38|1080|Singapore|Singapore|Amazon.com, Inc.|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|11|202.57.25.42|8080|Indonesia|Semarang|announced of WINET|
-|12|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|14|3.140.184.16|1080|United States|Dublin|Amazon.com, Inc.|
-|15|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|20|103.154.152.104|8090|Indonesia|Bogor|MORATELINDONAP|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|202.8.29.90|8080|Indonesia|Batam|PT MULTI MEDIA ACCESS|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|98.91.209.69|1080|United States|Ashburn|Amazon.com|
+|15|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|54.215.198.5|1080|United States|San Jose|Amazon.com, Inc.|
+|18|34.204.68.38|1080|United States|Ashburn|Amazon.com, Inc.|
+|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|20|18.171.243.207|1080|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
