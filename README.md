@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
+|3|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
 |4|43.165.172.131|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
 |6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|8|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
-|9|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|11|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
-|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|9|216.36.108.129|1080|United States|Pleasanton|GTT Communications Inc.|
+|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
+|13|157.254.188.28|8080|United States|Willow Park|Cloudnium LLC|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
+|20|18.212.119.185|1080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
