@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|47.80.79.232|8080|Philippines|Manila|Alibaba.com LLC|
-|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|8|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|20|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|17|2.26.17.28|8888|United States|Orem|Ace Data Centers II|
+|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
