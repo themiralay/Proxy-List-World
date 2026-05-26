@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.212.167.186|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|43.133.61.142|1080|Singapore|Singapore|Aceville Pte.ltd|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|11|2.26.17.28|8888|United States|Orem|Ace Data Centers II|
+|12|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|13|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|14|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
+|18|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.15.178.39|3128|Bosnia and Herzegovina|Sarajevo|WorkTitans B.V.|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+
 
 
 ## Contributing
