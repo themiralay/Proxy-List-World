@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5475** proxies at the latest update. Usable proxies are below.
+> Scraper found **5474** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1000|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3154|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|174.138.163.50|31631|United States|Phoenix|Secured Servers LLC|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|12|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|13|174.138.163.50|31631|United States|Phoenix|Secured Servers LLC|
-|14|131.153.163.238|53356|United States|Ashburn|Secured Servers LLC|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|17|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|20|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|8|174.138.163.50|31631|United States|Phoenix|Secured Servers LLC|
+|9|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|10|174.138.163.50|31631|United States|Phoenix|Secured Servers LLC|
+|11|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|15|131.153.163.238|8254|United States|Ashburn|Secured Servers LLC|
+|16|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
+|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|20|174.138.163.52|34084|United States|Phoenix|Secured Servers LLC|
 
 
 
