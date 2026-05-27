@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6609** proxies at the latest update. Usable proxies are below.
+> Scraper found **6790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|692|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|692|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|692|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|736|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|736|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|736|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1648|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1829|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3622|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|3|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |5|174.138.161.206|32614|United States|Phoenix|Secured Servers LLC|
 |6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|174.138.165.148|31614|United States|Phoenix|Secured Servers LLC|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|174.138.161.206|32614|United States|Phoenix|Secured Servers LLC|
-|15|174.138.165.148|31614|United States|Phoenix|Secured Servers LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|9|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|174.138.161.206|32614|United States|Phoenix|Secured Servers LLC|
+|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
