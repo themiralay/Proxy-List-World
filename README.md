@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|6|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|8.212.167.28|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|174.138.168.76|9293|United States|Phoenix|Secured Servers LLC|
-|11|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|14|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|5|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|10|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|11|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|8.212.167.28|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|78.17.34.238|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|20|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 
 
 
