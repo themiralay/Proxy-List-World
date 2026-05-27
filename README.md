@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5387** proxies at the latest update. Usable proxies are below.
+> Scraper found **5417** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|881|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|960|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|152|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3154|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|4|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 |6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|8|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|9|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|10|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|11|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|13|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|45.15.178.39|3128|Bosnia and Herzegovina|Sarajevo|WorkTitans B.V.|
-|16|42.112.214.119|3128|Vietnam|Hanoi|FPT Telecom Company|
-|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|78.17.34.238|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
-|19|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|8|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|103.132.52.229|8080|Indonesia|Kajen|PT Adeaksa Indo Jayatama|
+|10|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|18|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
+|19|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
 
 
 
