@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6904** proxies at the latest update. Usable proxies are below.
+> Scraper found **6805** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|783|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|783|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|783|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1901|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1802|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|181|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3622|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|3|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|116.80.48.138|3172|Japan|Wakabayashi|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|4|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|174.138.165.84|34643|United States|Phoenix|Secured Servers LLC|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|193.227.129.213|8220|United States|Bend|Tier.Net Technologies LLC|
-|14|193.106.248.67|3128|United States|Miami|GTHost|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|174.138.163.53|31544|United States|Phoenix|Secured Servers LLC|
-|17|174.138.161.204|8142|United States|Phoenix|Secured Servers LLC|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|174.138.165.84|34643|United States|Phoenix|Secured Servers LLC|
+|11|193.106.248.67|3128|United States|Miami|GTHost|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|174.138.161.204|31280|United States|Phoenix|Secured Servers LLC|
+|15|174.138.165.84|34643|United States|Phoenix|Secured Servers LLC|
+|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|193.106.248.67|3128|United States|Miami|GTHost|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
