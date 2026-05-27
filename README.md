@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|112.203.113.66|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|5|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|6|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|78.17.34.238|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|178.130.41.157|7890|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|8|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|9|112.203.113.66|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 
 
 
