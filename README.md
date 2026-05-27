@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6285** proxies at the latest update. Usable proxies are below.
+> Scraper found **6286** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|802|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|802|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|802|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|797|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|797|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|797|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1284|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|164|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3638|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|43.133.61.142|1080|Singapore|Singapore|Aceville Pte.ltd|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|7|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|122.52.107.138|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
 |14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|68.183.93.236|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|18|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|19|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
