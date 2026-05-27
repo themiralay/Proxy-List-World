@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|5|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|161.248.190.90|8080|Philippines|Trento|Gemstar Cable TV - Agusan Del SUR|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|15|24.2.219.66|8080|United States|Weston|Comcast Cable Communications, LLC|
-|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|17|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
-|20|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|133.130.90.75|4343|Japan|Chiyoda City|interQ|
+|8|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|9|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|10|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|12|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|18|24.2.219.66|8080|United States|Weston|Comcast Cable Communications, LLC|
+|19|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 
 
 
