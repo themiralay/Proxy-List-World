@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|726|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|726|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|726|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|216.106.179.216|49152|United States|Dallas|GTHost|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|9|216.106.179.216|49152|United States|Dallas|GTHost|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|12|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|79.117.134.12|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|15|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|15|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|16|43.133.61.142|1080|Singapore|Singapore|Aceville Pte.ltd|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
