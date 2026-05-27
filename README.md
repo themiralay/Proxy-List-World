@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|7|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|14|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|3|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|19|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
