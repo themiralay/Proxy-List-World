@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|624|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|624|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|624|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|182.253.135.211|3128|Indonesia|Central Jakarta|Biznet Metronet|
-|6|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|7|157.20.207.29|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|11|157.20.233.184|8080|Indonesia|Kendal|PT Applewifi Selalu Lancar|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|142.171.87.189|7890|United States|Los Angeles|Multacom Corporation|
+|8|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |12|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|14|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|18|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|20|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 
 
 
