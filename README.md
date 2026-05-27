@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6354** proxies at the latest update. Usable proxies are below.
+> Scraper found **6508** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|711|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|711|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|711|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1651|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1805|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|142|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3361|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|174.138.169.212|56131|United States|Phoenix|Secured Servers LLC|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|174.138.165.147|37891|United States|Phoenix|Secured Servers LLC|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|17|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|19|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|20|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
+|14|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
