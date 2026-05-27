@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6001** proxies at the latest update. Usable proxies are below.
+> Scraper found **6333** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1331|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|164|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3638|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|18|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|20|195.123.240.71|3128|United States|Los Angeles|Green Floid LLC|
+|4|216.106.179.216|49152|United States|Dallas|GTHost|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|9|216.106.179.216|49152|United States|Dallas|GTHost|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|79.117.134.12|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|15|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 
 
 
