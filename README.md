@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|18|98.70.243.25|8080|India|Pune|Microsoft Corporation|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|11|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
+|12|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|16|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|19|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|20|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
 
 
 
