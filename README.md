@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6218** proxies at the latest update. Usable proxies are below.
+> Scraper found **6001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1216|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|164|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3638|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|2|8.212.167.28|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|12|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|31.3.227.133|3128|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|17|79.117.134.12|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|20|78.153.139.115|1080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|98.70.243.25|8080|India|Pune|Microsoft Corporation|
+|18|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|20|195.123.240.71|3128|United States|Los Angeles|Green Floid LLC|
 
 
 
