@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|9|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|38.127.172.34|37234|United States|Washington|Cogent Communications|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|15|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|103.113.152.73|14158|Bangladesh|Dhaka|Md Ziaul Huque|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|12|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|15|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|19|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
