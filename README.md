@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|4|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|5|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|4|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|12|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|16|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|17|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|18|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|147.45.156.45|3128|Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
