@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|12|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|14|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|15|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|12|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|13|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|14|147.45.156.45|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
 |18|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
 |19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 
 
 
