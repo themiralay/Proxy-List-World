@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1030|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1030|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1030|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|42.112.214.119|3128|Vietnam|Hanoi|FPT Telecom Company|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|174.138.161.195|8220|United States|Phoenix|Secured Servers LLC|
-|13|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|16|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
-|17|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|18|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|2.26.97.98|8080|Finland|Helsinki|Ace Data Centers II|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|146.56.164.121|3128|South Korea|Seoul|Oracle Corporation|
+|3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|49.151.191.167|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|9|49.151.191.227|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|16|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|195.123.233.101|3128|United States|Secaucus|Green Floid LLC|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|103.147.230.17|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
 
 
 
