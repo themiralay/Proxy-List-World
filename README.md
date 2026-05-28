@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|18|124.121.2.155|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|19|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
 
 
 
