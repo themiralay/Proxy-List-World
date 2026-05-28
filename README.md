@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7732** proxies at the latest update. Usable proxies are below.
+> Scraper found **7787** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1039|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|112|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5436|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|7|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|12|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|13|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|16|147.45.156.45|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|17|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|20|103.81.175.223|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|6|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|11|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|17|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|18|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|19|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|20|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
 
 
 
