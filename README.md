@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|8|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|9|14.143.222.113|10175|India|Chennai|Tata Communications Limited|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|8|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|12|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 |13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|14|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|15|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
-|16|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|19|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|147.45.156.45|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|160.25.196.30|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|16|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|17|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 
 
 
