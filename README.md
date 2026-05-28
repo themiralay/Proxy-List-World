@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|573|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|4|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
 |10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|13|180.191.231.149|5050|Philippines|Mandaue City|Globe Telecom|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|27.71.52.4|1455|Vietnam|Cẩm Lệ|Viettel Group|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
 
 
 
