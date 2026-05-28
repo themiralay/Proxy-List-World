@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11158** proxies at the latest update. Usable proxies are below.
+> Scraper found **11190** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1625|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1625|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1385|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3936|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|2|210.217.61.73|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.172.71.107|1111|Indonesia|Karawang|AZNET|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|69.167.149.104|3128|United States|Lansing|Liquid Web, L.L.C|
-|12|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|13|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|17|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
-|18|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|133.130.90.75|4343|Japan|Chiyoda City|interQ|
+|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|210.217.61.73|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|103.172.71.107|1111|Indonesia|Karawang|AZNET|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|103.93.93.100|8081|Indonesia|Kertosono|MYRISE|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
