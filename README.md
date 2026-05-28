@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7682** proxies at the latest update. Usable proxies are below.
+> Scraper found **7667** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|765|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|765|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|765|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|921|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|921|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|921|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2542|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|208|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3685|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|45.32.192.240|9000|United States|Dallas|Choopa|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|11|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|148.230.4.146|999|Mexico|Naranjos|Digy Networks|
+|3|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|8|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|11|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |13|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|16|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|20|130.49.218.108|1080|Russia|Moscow|LLC Vpsville|
+|14|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|130.49.218.108|1080|Russia|Moscow|LLC Vpsville|
+|17|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|18|121.174.186.199|8080|South Korea|Gangseo-gu|Korea Telecom|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
