@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|10|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|15|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+
 
 
 ## Contributing
