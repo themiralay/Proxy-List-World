@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7676** proxies at the latest update. Usable proxies are below.
+> Scraper found **7475** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5436|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |7|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|8|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|9|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|11|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|19|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|9|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|10|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|11|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
 
 
 
