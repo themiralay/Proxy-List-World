@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7470** proxies at the latest update. Usable proxies are below.
+> Scraper found **7262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|879|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|879|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|879|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|976|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|976|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|976|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3043|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2835|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|183|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3044|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.67.84.58|8088|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
-|4|195.123.233.101|3128|United States|Secaucus|Green Floid LLC|
-|5|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|6|130.49.218.108|1080|Russia|Moscow|LLC Vpsville|
-|7|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|8|174.138.165.75|8142|United States|Phoenix|Secured Servers LLC|
-|9|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|10|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|11|185.234.66.87|1082|Turkey|Izmir|WorkTitans B.V.|
-|12|78.17.34.238|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|89.22.238.232|8080|Sweden|Stockholm|xorek.cloud International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|77.221.149.55|3128|United States|Charlotte|Aeza International LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|174.138.165.75|8142|United States|Phoenix|Secured Servers LLC|
-|20|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|1|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|4|103.51.205.108|8090|Indonesia|Surakarta|Lintas Data Prima, PT|
+|5|174.138.165.149|32439|United States|Phoenix|Secured Servers LLC|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|103.67.84.58|8088|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|8|174.138.165.148|51703|United States|Phoenix|Secured Servers LLC|
+|9|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|10|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|14|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|16|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|17|45.15.178.39|3128|Bosnia and Herzegovina|Sarajevo|WorkTitans B.V.|
+|18|174.138.165.182|8109|United States|Phoenix|Secured Servers LLC|
+|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
