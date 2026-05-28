@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|203.205.49.2|10019|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|7|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|8|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|216.106.179.216|49152|United States|Dallas|GTHost|
+|12|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |17|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
