@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7361** proxies at the latest update. Usable proxies are below.
+> Scraper found **7342** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|418|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|399|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5436|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|4|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|5|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|6|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|7|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 |8|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|11|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|12|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|185.244.41.78|1080|Russia|Moscow|Kontel LLC|
-|17|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
-|18|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|19|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|20|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
+|9|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|11|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|46.101.57.56|9000|United Kingdom|Slough|DigitalOcean, LLC|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|185.244.41.78|1080|Russia|Moscow|Kontel LLC|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
 
 
 
