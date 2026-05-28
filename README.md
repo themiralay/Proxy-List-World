@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1005|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1005|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1005|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|940|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|940|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|940|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|4|149.248.37.215|9000|United States|Kent|The Constant Company|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|10|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|11|128.90.43.42|8118|Canada|Toronto|Paradise Networks LLC|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|89.22.238.232|8080|Sweden|Stockholm|xorek.cloud International LTD|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|103.67.84.58|8088|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|6|77.110.114.79|8080|United States|Charlotte|Aeza International LTD|
+|7|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|8|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|9|78.17.65.155|1080|Finland|Helsinki|RCS Technologies FZE LLC|
+|10|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|11|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|12|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|78.17.34.238|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
+|15|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|45.90.217.104|1080|Russia|Moscow|First Server Limited|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|89.22.238.232|8080|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
