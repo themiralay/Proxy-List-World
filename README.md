@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|650|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|650|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|650|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
-|7|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
-|16|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
-|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|18|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|103.52.115.171|3128|Indonesia|Cicurug|PT. Cloud Hosting Indonesia|
+|11|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|103.155.130.241|8080|India|Selu|Haash Media|
+|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
