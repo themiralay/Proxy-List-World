@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|13|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|19|160.19.17.43|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
-|20|185.234.66.87|1082|Turkey|Izmir|WorkTitans B.V.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
+|15|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|16|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|17|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
