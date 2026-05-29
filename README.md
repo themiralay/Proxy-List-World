@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.118.129|10101|Japan|Chiyoda City|InfoSphere|
-|2|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|3|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|12|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|11|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|12|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |13|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
-|14|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|15|72.56.90.169|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
