@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|12|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|15|104.168.153.19|3128|United States|Seattle|Hostwinds LLC.|
-|16|45.15.178.39|3128|Bosnia and Herzegovina|Sarajevo|WorkTitans B.V.|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|9|101.255.148.2|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
