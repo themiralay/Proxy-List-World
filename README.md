@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|17|94.131.122.125|1081|United Kingdom|Holborn|WorkTitans B.V.|
-|18|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|1|43.167.171.63|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|7|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|103.239.23.133|3125|Indonesia|Karanglo|PT Foura Inti Sinergi|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|143.244.140.119|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
