@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|640|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|640|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|640|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|9|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|7|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|8|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|15|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|103.171.182.59|8080|Indonesia|Sukabumi|PT Hayat Teknologi Informatika|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|17|180.191.124.201|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|103.179.252.229|1111|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|20|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
