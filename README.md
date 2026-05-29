@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|193.123.250.39|1080|South Korea|Seoul|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|14|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|169.40.6.114|3128|Latvia|Riga|SIA VEESP|
-|19|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|8|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|17|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
+|18|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|19|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
