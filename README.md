@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5465** proxies at the latest update. Usable proxies are below.
+> Scraper found **5410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1124|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|128|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3013|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|133.130.90.75|4343|Japan|Chiyoda City|interQ|
-|13|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|20|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
 
 
 
