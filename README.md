@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|649|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|649|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|649|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 |2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|8|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|18|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|19|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|3|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
+|4|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|5|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|6|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|103.39.70.68|1452|Indonesia|Sambas|PT Gateway media Zafira|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 
 
 
