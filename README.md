@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|636|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|636|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|636|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.245.85.78|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|43.133.42.58|1080|Singapore|Singapore|Aceville Pte.ltd|
-|7|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|14|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|121.174.186.199|8080|South Korea|Gangseo-gu|Korea Telecom|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 
 
 
