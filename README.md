@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
-|11|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
-|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|13|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|14|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|18|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|31.6.42.76|8888|Switzerland|Zurich|YHC|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|16|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
+|19|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
