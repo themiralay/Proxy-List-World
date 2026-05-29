@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|3|159.65.5.53|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|11|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |13|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|14|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
-|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|104.194.9.31|8888|United States|Piscataway|ReliableSite.Net LLC|
+|19|185.234.66.87|1082|Turkey|Izmir|WorkTitans B.V.|
+|20|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
 
 
 
