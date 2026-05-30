@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|3|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|16|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|20|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
+|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
+|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|19|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
+|20|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
 
 
 
