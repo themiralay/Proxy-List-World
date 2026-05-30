@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|141.148.212.89|7890|India|Mumbai|Oracle Corporation|
-|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
-|17|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|14|185.17.57.179|8080|France|Paris|VOIP Telecom SAS|
+|15|185.17.57.178|8080|France|Paris|VOIP Telecom SAS|
+|16|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|19|141.148.212.89|7890|India|Mumbai|Oracle Corporation|
+|20|178.253.23.244|8080|Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
