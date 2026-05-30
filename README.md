@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.238.152|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|4|117.6.77.217|1009|Vietnam|Hanoi|VIETTEL|
-|5|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|15|107.155.15.86|1080|Japan|Tokyo|Zenlayer Inc|
-|16|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|154.18.255.102|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|103.165.253.125|8080|Indonesia|Tebet Barat|PT Pelangi Communication Network|
+|6|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|7|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|10|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|20|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 
 
 
