@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 |2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|9|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|7|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
-|13|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|18|170.106.119.23|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|14|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|15|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|19|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
+|20|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
 
 
 
