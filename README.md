@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|4|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|8.217.214.66|50001|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|14|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|20|169.40.6.114|3128|Latvia|Riga|SIA VEESP|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|10|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|11|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|14|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|18|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
+|19|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
