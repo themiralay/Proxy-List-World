@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5092** proxies at the latest update. Usable proxies are below.
+> Scraper found **5118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2603|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|4|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|5|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|9|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|10|101.255.211.109|8080|Indonesia|Jakarta|PT Remala Abadi|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|17|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|2|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|3|154.18.239.181|8085|Singapore|Singapore|Cogent Communications|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|103.174.131.49|3128|India|Indore|DATAPARADISE|
+|9|103.174.131.200|3128|India|Indore|DATAPARADISE|
+|10|103.174.131.163|3128|India|Indore|DATAPARADISE|
+|11|103.174.131.214|3128|India|Indore|DATAPARADISE|
+|12|103.174.131.237|3128|India|Indore|DATAPARADISE|
+|13|103.174.131.227|3128|India|Indore|DATAPARADISE|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|103.174.131.175|3128|India|Indore|DATAPARADISE|
+|16|103.247.22.77|4357|Indonesia|Cikarang|PT wifian Solution|
+|17|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|19|103.174.131.249|3128|India|Indore|DATAPARADISE|
+|20|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
 
 
 
