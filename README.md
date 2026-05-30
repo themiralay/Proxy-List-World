@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.79.244|3172|Japan|Wakabayashi|InfoSphere|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|8.217.214.66|50000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|17|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|16|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 
 
 
