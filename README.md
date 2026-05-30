@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|103.20.184.66|1111|Indonesia|Pancur Biru Lestari II|PT 3D Tech|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|16|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|14|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|16|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|18|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
