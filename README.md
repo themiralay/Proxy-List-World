@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|3|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|9|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|103.174.131.174|3128|India|Indore|DATAPARADISE|
-|14|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|20|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|11|103.174.131.174|3128|India|Indore|DATAPARADISE|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|103.174.131.189|3128|India|Indore|DATAPARADISE|
+|18|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|19|103.174.131.194|3128|India|Indore|DATAPARADISE|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
