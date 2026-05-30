@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|9|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|103.97.140.96|8080|Indonesia|Ciwaru|PT Jembatan Data Pangrango|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|15|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|103.68.233.142|8097|Indonesia|Caringin|PT OREN ABADI SAKTI|
-|19|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|113.183.203.29|5110|Vietnam|Ấp Phước Tĩnh|VNPT|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 |20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 
 
