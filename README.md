@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|5|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|140.227.118.129|10101|Japan|Chiyoda City|InfoSphere|
+|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
 |11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|14|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|20|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|17|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
