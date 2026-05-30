@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|5|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|128.90.43.42|8118|Canada|Toronto|Paradise Networks LLC|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|20|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|117.6.77.217|1009|Vietnam|Hanoi|VIETTEL|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|8.217.214.66|50002|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|128.90.43.42|8118|Canada|Toronto|Paradise Networks LLC|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|128.90.43.42|8118|Canada|Toronto|Paradise Networks LLC|
+|20|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
 
 
 
