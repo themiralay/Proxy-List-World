@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|117.6.77.217|1009|Vietnam|Hanoi|VIETTEL|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|14|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|18|72.56.90.169|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|19|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|72.56.90.169|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|18|47.82.0.163|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|72.56.90.169|3128|Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
