@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5043** proxies at the latest update. Usable proxies are below.
+> Scraper found **6097** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1331|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2603|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3470|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.227.118.129|10101|Japan|Chiyoda City|InfoSphere|
 |3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|9|203.205.49.2|10156|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
 |10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|12|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|14|121.174.186.199|8080|South Korea|Gangseo-gu|Korea Telecom|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|72.56.90.169|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|14|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|185.234.64.65|1082|France|Paris|WorkTitans B.V.|
+|19|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|20|103.156.17.217|8818|Indonesia|Jatibarang|RSTNET|
 
 
 
