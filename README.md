@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|3|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|9|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
-|10|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|145.241.117.33|8888|United Arab Emirates|Dubai|Oracle Corporation|
 |11|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|15|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|17|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|18|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|19|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
