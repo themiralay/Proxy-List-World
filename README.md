@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5093** proxies at the latest update. Usable proxies are below.
+> Scraper found **5303** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1176|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1386|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2603|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.118.129|10101|Japan|Chiyoda City|InfoSphere|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
 |12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
-|17|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|20|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|13|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|14|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|20|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
