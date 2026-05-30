@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|3|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|117.6.77.217|1009|Vietnam|Hanoi|VIETTEL|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|14|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|18|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|1|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|10|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|15|38.180.78.54|10001|Brazil|São Paulo|M247 Europe SRL|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|20.82.16.221|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|19|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|20|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
