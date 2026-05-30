@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|9|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|11|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|12|185.47.131.108|8000|Spain|Madrid|Ginernet S.L.|
-|13|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|94.247.231.172|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|9|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|15|185.47.131.108|8000|Spain|Madrid|Ginernet S.L.|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
+|18|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|20|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
 
 
 
