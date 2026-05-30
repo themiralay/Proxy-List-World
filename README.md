@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|4|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|7|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|3|103.93.93.207|8181|Indonesia|Kertosono|MYRISE|
+|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|5|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|6|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|7|103.68.233.142|8097|Indonesia|Caringin|PT OREN ABADI SAKTI|
+|8|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
 |12|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|13|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|14|199.38.85.123|40010|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|17|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|19|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|13|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|5.230.39.119|8080|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|19|45.15.178.39|3128|Bosnia and Herzegovina|Sarajevo|WorkTitans B.V.|
+|20|38.180.78.54|10001|Brazil|São Paulo|M247 Europe SRL|
 
 
 
