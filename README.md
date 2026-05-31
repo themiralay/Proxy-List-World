@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7728** proxies at the latest update. Usable proxies are below.
+> Scraper found **7557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|2011|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|2011|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1977|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1977|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2191|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|23|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2017|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|822|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3795|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|47.82.154.200|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.82.151.107|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.178.242|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.154.69|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.151.82|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.178.164|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.151.43|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.154.194|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.180.109|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.151.91|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.178.197|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.79.249.53|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.178.203|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.79.249.213|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.178.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.145.130|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.180.70|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.145.45|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.180.16|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.82.152.98|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.154.125|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.145.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.154.75|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.0.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.178.143|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.154.56|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.152.226|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.180.53|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.145.233|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.154.200|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.154.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.154.202|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.178.187|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.178.168|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.178.97|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.154.180|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.151.249|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.178.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
