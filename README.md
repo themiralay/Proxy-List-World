@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|3325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|3325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|3236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|3236|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.82.180.86|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.82.180.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.82.144.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|47.82.176.203|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.152.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.152.250|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.151.1|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.145.63|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.151.15|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.152.253|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.154.237|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.176.172|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.161.132|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.79.255.225|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.145.170|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.178.145|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.152.68|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.149.192|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.178.74|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.82.154.111|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.82.151.10|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.152.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.145.99|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.151.160|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.152.156|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.154.61|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.145.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.145.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.145.119|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.151.235|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.151.156|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.154.234|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.151.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.145.233|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.146.83|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.145.207|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.79.249.213|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.149.54|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.178.238|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
