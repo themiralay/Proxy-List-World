@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|875|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|875|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|875|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|771|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|771|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|771|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.82.0.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.0.87|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.154.124|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.0.156|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.180.131|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.180.78|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.0.167|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.180.175|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.145.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.152.250|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.0.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.152.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.82.0.12|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.154.7|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.154.29|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.180.71|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.152.199|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.145.187|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.82.0.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.0.167|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.0.219|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.0.169|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.154.29|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.0.165|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.0.87|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.0.156|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.154.188|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.151.185|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.0.114|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.145.20|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.154.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.180.78|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.180.131|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.152.121|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.145.104|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
