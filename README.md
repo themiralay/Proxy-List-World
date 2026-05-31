@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7383** proxies at the latest update. Usable proxies are below.
+> Scraper found **7583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1886|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1886|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|2037|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|2037|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -22,7 +22,7 @@ Click the file format that you want and copy the URL.
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
+|[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.82.152.76|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.82.145.221|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.82.145.190|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.152.231|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.152.92|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.82.154.35|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.180.230|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.154.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.145.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.154.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.145.228|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.180.59|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.151.189|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.82.145.12|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.180.119|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.154.144|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.154.12|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.0.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.82.0.193|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.82.145.228|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.145.98|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.154.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.178.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.180.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.152.76|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.152.220|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.178.60|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.145.132|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.154.161|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.154.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.152.92|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.154.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.154.12|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.145.94|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.152.47|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|47.82.154.39|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
