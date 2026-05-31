@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6339** proxies at the latest update. Usable proxies are below.
+> Scraper found **6263** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|740|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|740|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|740|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1529|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1419|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3442|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
-|3|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.82.0.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.0.83|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.154.247|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|47.82.0.186|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|103.85.52.73|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|16|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|17|157.20.207.141|3128|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|47.82.0.159|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.0.83|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|11|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.0.148|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.0.86|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.0.132|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.0.186|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.0.245|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.0.193|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.0.91|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.0.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.0.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
