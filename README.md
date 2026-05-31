@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|3907|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|3907|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|3559|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|3559|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|3|47.82.152.108|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.151.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.79.249.234|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.161.179|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.149.226|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.180.186|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.160.231|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.180.47|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.0.169|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.152.226|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.160.59|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.151.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.82.178.159|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.144.199|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.146.120|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
-|19|47.82.145.106|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.154.16|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|47.82.146.46|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.145.222|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.146.150|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.146.99|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.178.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.0.86|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.152.36|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.154.170|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.180.147|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.154.15|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.0.107|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.176.80|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.180.80|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.149.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.152.68|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.151.175|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.152.200|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.144.86|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.165.93|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
