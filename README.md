@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6298** proxies at the latest update. Usable proxies are below.
+> Scraper found **6137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1488|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1327|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3442|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.76.31.2|8181|Indonesia|Pekanbaru|PT Umzah Sukses Jaringan Andalan|
-|3|47.82.0.156|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.0.186|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.0.148|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.0.83|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.0.159|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.0.2|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.0.107|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.0.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.0.201|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.0.178|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|15|47.82.0.86|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|47.82.0.72|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.82.0.234|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.0.76|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.0.169|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.0.137|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.0.132|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.0.87|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.0.193|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.0.79|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.0.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.0.114|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|43.155.208.105|80|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.82.0.167|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.0.94|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|47.82.0.91|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.0.237|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.0.245|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
