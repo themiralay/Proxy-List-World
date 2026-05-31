@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1990|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1990|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.82.152.23|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.82.145.199|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.154.28|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.0.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.152.108|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.145.121|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.180.63|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.180.74|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.180.228|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.180.230|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.82.180.199|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.82.180.251|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.82.180.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.154.66|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.152.15|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.180.71|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.180.142|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.180.51|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.82.0.210|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.180.142|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.154.95|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.82.145.41|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.82.152.185|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.82.145.199|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.82.152.144|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|47.82.145.208|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.82.154.213|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.82.145.232|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.82.154.172|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.82.0.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.82.152.74|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.82.0.241|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.82.180.185|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.82.180.48|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.82.180.119|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|47.82.152.231|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.82.180.5|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
