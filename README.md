@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|3|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|4|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|5|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|9|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|3|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|7|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|45.236.44.94|8080|Peru|Lima|ON EMPRESAS S.A.C.|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|54.236.138.231|18080|United States|Ashburn|Amazon.com, Inc.|
+|16|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|103.228.246.220|1111|Indonesia|Ponorogo|PT Giga Patra Multimedia|
 |18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|19|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|20|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|91.217.33.161|8080|Slovakia|Trnava|AIRNET s.r.o.|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
