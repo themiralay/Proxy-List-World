@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|13|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|14|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
-|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|16|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|202.8.29.90|8080|Indonesia|Batam|PT MULTI MEDIA ACCESS|
+|6|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
+|7|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|9|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|15|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
+|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
 
 
 
