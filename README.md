@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|167.99.173.119|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|3|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|4|167.99.173.119|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|167.99.173.119|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|9|167.99.173.119|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
 |12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|199.38.85.122|40014|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|19|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|14|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|18|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
