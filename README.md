@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|664|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|664|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|664|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|47.82.145.130|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.82.165.71|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.82.182.220|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.152.68|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.82.161.31|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.82.145.239|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.82.146.119|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.82.145.123|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.82.149.71|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.82.152.205|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|47.82.176.164|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.82.160.221|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.82.145.207|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.82.152.194|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.82.165.60|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.82.151.129|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.82.145.107|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|14|45.89.111.139|1081|United Kingdom|City of London|WorkTitans B.V.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|94.176.3.223|8080|Netherlands|Amsterdam|Hostkey B.V.|
+|19|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|20|38.180.78.54|10001|Brazil|São Paulo|M247 Europe SRL|
 
 
 
