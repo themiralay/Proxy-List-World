@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|2|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|3|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|103.174.131.227|3128|India|Indore|DATAPARADISE|
-|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|20|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
+|2|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|13|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
 
 
 
