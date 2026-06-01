@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|16|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|17|45.89.111.179|1081|United Kingdom|City of London|WorkTitans B.V.|
-|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|19|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|16|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|18|45.89.111.19|1082|United Kingdom|City of London|WorkTitans B.V.|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
 
 
 
