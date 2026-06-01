@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5046** proxies at the latest update. Usable proxies are below.
+> Scraper found **4973** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|935|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|861|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.238.152|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|11|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|12|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
-|14|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|16|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|17|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|203.205.49.2|10179|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|7|213.108.3.58|3128|Russia|Moscow|e-Style ISP LLC|
+|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|12|2.27.51.203|8080|Finland|Helsinki|Chsl ONE LTD|
+|13|38.180.78.54|10001|Brazil|São Paulo|M247 Europe SRL|
+|14|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
+|15|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|18|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
 |19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 
 
 
