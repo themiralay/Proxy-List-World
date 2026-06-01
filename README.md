@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5036** proxies at the latest update. Usable proxies are below.
+> Scraper found **5057** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|3|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|4|103.16.72.157|9108|Bangladesh|Dhaka|BDCOM Online Limited|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|103.118.102.98|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|7|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|10|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|11|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|12|202.43.162.2|8080|Indonesia|North Jakarta|Dwi Tunggal Putra|
-|13|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.125.56.83|8080|Indonesia|Bekasi|PT. Eka Mas Republik|
-|17|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
-|18|131.222.251.50|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|19|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|20|110.232.85.86|6060|Indonesia|Medan|PT Mandala Lintas Nusa|
+|3|116.80.48.144|3172|Japan|Wakabayashi|InfoSphere|
+|4|116.80.64.44|3172|Japan|Wakabayashi|InfoSphere|
+|5|157.66.2.100|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|103.141.150.147|8080|Indonesia|Bandung|PRIMACOM|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|11|163.227.183.19|8085|Indonesia|Blitar|PT Oofydi Media Group|
+|12|82.114.228.67|1080|Russia|Saratov|SCTS|
+|13|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|59.66.24.75|6382|China|Haidian|China Education and Research Network Center|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|178.63.155.151|8942|Germany|Falkenstein|Hetzner Online GmbH|
+|18|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
+|19|2.27.51.203|8080|Finland|Helsinki|Chsl ONE LTD|
+|20|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
 
 
 
