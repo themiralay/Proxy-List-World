@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4391** proxies at the latest update. Usable proxies are below.
+> Scraper found **4617** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|881|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2689|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
 |2|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
 |3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|8|203.205.49.2|10107|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
 |9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
 |10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|12|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|13|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
-|16|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|17|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|18|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|19|4.221.164.109|80|South Africa|Johannesburg|Microsoft Corporation|
+|20|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
