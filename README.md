@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|11|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|12|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|13|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|15|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|18|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|12|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|13|101.255.209.249|3128|Indonesia|Jakarta|PT Remala Abadi|
+|14|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|19|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|20|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
 
 
 
