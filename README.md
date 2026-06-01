@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|5|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
-|17|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|10|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|16|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|17|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
 
 
 
