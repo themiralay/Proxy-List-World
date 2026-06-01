@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4505** proxies at the latest update. Usable proxies are below.
+> Scraper found **4476** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2689|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 |3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|12|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|13|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|14|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|103.111.136.82|34564|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|59.66.133.42|6518|China|Haidian|China Education and Research Network Center|
-|19|157.66.16.68|8686|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|6|103.224.55.154|8090|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|13|116.80.48.138|3172|Japan|Wakabayashi|InfoSphere|
+|14|4.221.164.109|80|South Africa|Johannesburg|Microsoft Corporation|
+|15|103.156.17.132|8070|Indonesia|Jatibarang|RSTNET|
+|16|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
+|17|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
+|18|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|176.118.196.3|8080|Russia|Nizhnyaya Salda|Svinin Mihail Yurievich|
+|20|222.127.55.155|8082|Philippines|Lahug|INNOVE|
 
 
 
