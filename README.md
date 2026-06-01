@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4616** proxies at the latest update. Usable proxies are below.
+> Scraper found **4568** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|92|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|833|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|93|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2689|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|116.80.64.44|3172|Japan|Wakabayashi|InfoSphere|
+|1|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|2|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
 |3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|7|103.17.140.87|8080|Vietnam|Nghia Do|HICLOUDHN|
-|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|9|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|103.88.211.163|8080|Indonesia|Pamulang|ICONPLN|
-|12|79.117.37.49|8118|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|13|38.191.194.27|999|Colombia|Cali|TV&MÁS S.A.S|
-|14|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|157.66.2.100|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
-|20|103.169.255.202|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|5|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|177.93.45.11|999|Colombia|Socha Viejo|TV AZTECA SUCURSAL COLOMBIA|
+|14|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|15|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|16|176.118.196.3|8080|Russia|Nizhnyaya Salda|Svinin Mihail Yurievich|
+|17|103.135.48.30|8089|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|18|160.19.19.170|3125|Indonesia|Subang|PT Indo Telemedia Solusi|
+|19|202.58.77.76|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
+|20|103.151.17.201|8080|India|Aurangabad|Riyaz Internet Service Private Limited|
 
 
 
