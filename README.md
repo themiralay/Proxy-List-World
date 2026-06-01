@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5090** proxies at the latest update. Usable proxies are below.
+> Scraper found **5104** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|87|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|765|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|84|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|85.198.100.232|3128|Russia|Moscow|Beget LLC|
-|3|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|116.80.48.146|3172|Japan|Wakabayashi|InfoSphere|
+|1|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|2|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|6|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|7|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
 |8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|14|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|15|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|16|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|18|45.174.241.241|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
-|19|38.199.71.79|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|185.109.80.41|8080|Iran|Bushehr|Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|13|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|15|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
 
 
 
