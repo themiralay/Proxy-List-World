@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|54.236.138.231|18080|United States|Ashburn|Amazon.com, Inc.|
-|7|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|8|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|9|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|10|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
-|11|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
-|12|2.26.97.98|8080|Finland|Helsinki|Ace Data Centers II|
-|13|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
-|14|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
-|15|103.118.102.98|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|103.242.104.150|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|3|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|103.177.199.97|1111|Indonesia|Lebaksiu|PT Eyza Kausa Sinergi Abadi|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|54.236.138.231|18080|United States|Ashburn|Amazon.com, Inc.|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|11|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|12|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|13|176.222.54.139|8080|Netherlands|Amsterdam|SAS Neo Services|
+|14|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|16|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|17|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|18|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|19|89.22.225.204|8080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
 
 
 
