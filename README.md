@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|3|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|4|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|6|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|9|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|10|186.167.112.91|999|Venezuela|Valencia|Corporacion Digitel C.A|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|18|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|2|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|3|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|10|103.170.46.245|8080|India|Sirohi|Vanshika Itlam India PVT LTD|
+|11|103.224.55.154|8090|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|12|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|17|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|UFINET Guatemala S. A|
+|18|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
