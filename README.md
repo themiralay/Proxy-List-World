@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.238.152|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|43.167.238.152|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|11|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
-|12|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
-|13|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|18|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|19|2.27.51.203|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|65.109.178.5|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|45.89.111.19|1082|United Kingdom|City of London|WorkTitans B.V.|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
