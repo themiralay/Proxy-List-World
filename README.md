@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
-|8|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|7|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|8|107.150.97.83|3128|United States|Los Angeles|Zenlayer Inc|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|103.97.224.219|8181|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
