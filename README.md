@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|3|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|102.129.170.224|37234|United States|New York|networld communications SRL|
-|10|203.205.49.2|10117|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|13|38.183.145.83|3125|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|103.102.12.134|1111|Indonesia|Rembang|FISNET|
-|16|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|18|38.180.78.54|10001|Brazil|São Paulo|M247 Europe SRL|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|1|193.233.137.130|1081|Russia|Moscow|OOO FREEnet Group|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|46.101.57.56|9057|United Kingdom|Slough|DigitalOcean, LLC|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|8|103.99.27.130|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|9|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|10|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|11|103.247.14.38|8080|Indonesia|Magelang|TERABIT|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|194.33.35.139|8080|Netherlands|Amsterdam|Aeza International LTD|
+|14|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|15|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|144.31.132.196|8080|Finland|Helsinki|Chsl ONE LTD|
+|19|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
