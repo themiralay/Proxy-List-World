@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |5|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 |7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|10|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|12|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|13|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|14|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
-|15|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|16|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|178.236.244.216|8080|Finland|Helsinki|xorek.cloud International LTD|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
