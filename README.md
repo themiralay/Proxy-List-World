@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5034** proxies at the latest update. Usable proxies are below.
+> Scraper found **5035** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|111|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1105|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.144|3172|Japan|Wakabayashi|InfoSphere|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|4|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|111.92.88.27|3128|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|103.67.80.153|8080|Indonesia|Cicurug|PT Komunikasi Profesional Indonesia|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|17|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|8|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
+|14|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|186.246.1.7|1080|United States|Fort Lauderdale|Globenet Cabos Submarinos America Inc|
+|20|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
 
 
 
