@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|1|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|4|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|11|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|15|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|18|103.132.52.229|8080|Indonesia|Kajen|PT Adeaksa Indo Jayatama|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
 
 
 
