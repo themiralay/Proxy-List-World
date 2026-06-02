@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|116.80.64.44|3172|Japan|Wakabayashi|InfoSphere|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|116.80.64.44|3172|Japan|Wakabayashi|InfoSphere|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|6|202.137.8.149|8080|Indonesia|Bogor|LINKNET|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|10|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
 |11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|43.155.31.216|50002|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.89.111.139|1081|United Kingdom|City of London|WorkTitans B.V.|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|85.192.29.229|8888|Netherlands|Amsterdam|Aeza International LTD|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|16|45.89.111.139|1082|United Kingdom|City of London|WorkTitans B.V.|
+|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|18|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|45.89.111.179|1082|United Kingdom|City of London|WorkTitans B.V.|
 
 
 
