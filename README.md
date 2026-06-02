@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|1|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
 |2|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
 |5|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|104.168.96.172|1888|United States|Santa Clara|HostPapa|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|10|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|14|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|17|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|18|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|176.126.83.165|1080|Italy|Florence|BrainStorm Network, Inc|
+|6|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|14|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|16|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
+|17|176.126.83.165|1080|Italy|Florence|BrainStorm Network, Inc|
+|18|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
+|19|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|20|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
