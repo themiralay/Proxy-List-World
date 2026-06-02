@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5065** proxies at the latest update. Usable proxies are below.
+> Scraper found **5089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|113|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1114|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1138|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|115|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2823|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|7|18.220.96.25|3128|United States|Dublin|Amazon.com, Inc.|
-|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|8|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|9|18.220.96.25|3128|United States|Dublin|Amazon.com, Inc.|
+|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|18.220.96.25|3128|United States|Dublin|Amazon.com, Inc.|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|19|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|14|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
+|15|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|18|45.12.62.218|8081|The Netherlands|Eygelshoven|MHost LLC|
+|19|18.220.96.25|3128|United States|Dublin|Amazon.com, Inc.|
+|20|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
 
 
 
