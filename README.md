@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|37.16.9.4|3128|France|Paris|Fly.io, Inc.|
-|3|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|49.146.56.55|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|103.155.196.46|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|68.183.204.195|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|17|45.12.62.218|8081|The Netherlands|Eygelshoven|MHost LLC|
-|18|34.131.199.144|8080|India|New Delhi|Google LLC|
-|19|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|20|119.18.147.224|10001|Bangladesh|Chittagong|BBTS Network|
+|12|45.12.62.218|8081|The Netherlands|Eygelshoven|MHost LLC|
+|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|14|83.171.224.165|8080|Finland|Helsinki|Oy Crea Nova Hosting Solution Ltd|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|19|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
+|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
