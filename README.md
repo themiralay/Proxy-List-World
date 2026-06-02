@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
 |4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|45.89.111.19|1082|United Kingdom|City of London|WorkTitans B.V.|
-|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|94.131.122.125|1081|United Kingdom|Holborn|WorkTitans B.V.|
-|16|34.131.199.144|8080|India|New Delhi|Google LLC|
-|17|185.234.64.65|1081|France|Paris|WorkTitans B.V.|
-|18|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|18.216.125.189|3128|United States|Dublin|Amazon.com, Inc.|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|43.166.144.208|8080|United States|Ashburn|Aceville Pte.ltd|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|18.216.125.189|3128|United States|Dublin|Amazon.com, Inc.|
+|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
