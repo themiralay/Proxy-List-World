@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|103.161.130.161|8080|Indonesia|Sepatan|PT Jaringan Internet Nusantara|
+|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|103.157.78.102|8080|Indonesia|Jakarta|PT Super Media Indonesia|
 |9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |11|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|45.89.106.12|80|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|18|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
