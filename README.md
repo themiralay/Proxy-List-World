@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|5|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|13|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|5|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|6|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|7|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
+|8|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
+|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|20|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
 
 
 
