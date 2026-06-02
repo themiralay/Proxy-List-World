@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|9|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|10|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|34.131.199.144|8080|India|New Delhi|Google LLC|
-|15|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|17|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|15.204.151.145|3128|United States|Reston|OVH SAS|
+|16|115.187.29.25|89|Indonesia|Muhajirin|PT Lintas Jaringan Mandiri|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|20|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 
 
 
