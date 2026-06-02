@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|2|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|4|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|103.81.175.218|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|35.155.242.164|8080|United States|Portland|Amazon.com, Inc.|
 |11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|20|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|12|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|19|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
 
 
 
