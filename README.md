@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|2|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|2.26.3.33|8080|United States|Orem|Ace Data Centers II|
-|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|17|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|18|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
