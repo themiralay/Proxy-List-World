@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|5|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|23.95.248.200|10808|United States|Los Angeles|HostPapa|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|23.95.248.200|10808|United States|Los Angeles|HostPapa|
 |16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|125.230.234.123|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|19|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|20|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
 
 
 
