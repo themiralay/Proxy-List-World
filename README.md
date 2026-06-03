@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|192.206.202.1|8080|United States|Española|Black Mesa Wireless, LLC.|
-|3|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|4|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|8|192.206.202.1|8080|United States|Española|Black Mesa Wireless, LLC.|
-|9|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|10|173.255.243.81|8888|United States|Fremont|Akamai Technologies, Inc.|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|15|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|173.255.243.81|8888|United States|Fremont|Akamai Technologies, Inc.|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|15|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|17|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
