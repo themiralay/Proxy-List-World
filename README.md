@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|49.147.79.142|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
-|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|15|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|16|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
