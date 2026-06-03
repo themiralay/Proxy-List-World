@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|4|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |6|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|204.152.198.34|8080|United States|Los Angeles|HostPapa|
-|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|204.152.198.34|8080|United States|Los Angeles|HostPapa|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|154.219.96.175|1080|Hong Kong|Hong Kong|cognetcloud INC|
-|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|204.152.198.246|7890|United States|Los Angeles|HostPapa|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|94.156.114.124|8080|Germany|Frankfurt am Main|Play2go International Limited|
 
 
 
