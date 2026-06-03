@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4749** proxies at the latest update. Usable proxies are below.
+> Scraper found **4728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1022|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1001|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2483|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|5|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|12|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
-|15|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|17|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|19|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
+|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|4|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
+|7|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|14|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
+|15|72.56.246.250|1080|Russia|Moscow|JSC "TIMEWEB"|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|19|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|20|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
