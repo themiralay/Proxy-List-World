@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|9|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|45.89.111.19|1082|United Kingdom|City of London|WorkTitans B.V.|
-|16|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|190.2.214.66|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|1|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|149.88.81.247|80|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
