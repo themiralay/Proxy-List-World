@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4265** proxies at the latest update. Usable proxies are below.
+> Scraper found **4239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2365|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|7|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|149.88.81.247|80|Hong Kong|Kwai Chung|cognetcloud INC|
-|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|19|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
