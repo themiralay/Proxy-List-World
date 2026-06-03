@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|7|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|8|103.179.253.11|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|15|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|17|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|173.255.243.81|8888|United States|Fremont|Akamai Technologies, Inc.|
 
 
 
