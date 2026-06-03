@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.180.59.181|80|Japan|Tokyo|Amazon Technologies Inc.|
-|2|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|43.134.141.85|80|Singapore|Singapore|Aceville Pte.ltd|
 |4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|9|111.92.88.27|3128|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|13|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|14|173.255.243.81|8888|United States|Fremont|Akamai Technologies, Inc.|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|36.50.92.176|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|17|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|19|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
-|20|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|16|103.137.35.2|80|Indonesia|Bandung|PT Parsaoran Global Datatrans|
+|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
