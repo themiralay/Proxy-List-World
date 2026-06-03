@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|3|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
-|4|161.153.62.49|1080|United States|Phoenix|Oracle Corporation|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|10|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|11|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|186.33.40.17|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|7|23.95.248.200|10808|United States|Los Angeles|HostPapa|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|13|23.95.248.200|10808|United States|Los Angeles|HostPapa|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|125.230.235.218|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|20|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 
 
 
