@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|2|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
-|4|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
-|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|11|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
-|14|84.247.171.137|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|16|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|188.127.224.164|2080|Russia|Moscow|LLC Smart Ape|
-|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|1|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
+|11|68.183.53.204|3128|United States|Clifton|DigitalOcean, LLC|
+|12|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|68.183.53.204|3128|United States|Clifton|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|65.109.206.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|20|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
