@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|3|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|49.147.111.153|8082|Philippines|Tubod|Philippine Long Distance Telephone Co.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
-|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|43.155.31.216|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|15|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|88.99.148.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
+|19|45.89.111.19|1082|United Kingdom|City of London|WorkTitans B.V.|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
