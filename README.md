@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.232.107.6|2080|South Korea|Bupyeong-gu|Korea Telecom|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.232.107.6|2080|South Korea|Bupyeong-gu|Korea Telecom|
+|3|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|72.11.144.141|8080|United States|San Jose|HostPapa|
 |15|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|18|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|16|72.11.144.141|8080|United States|San Jose|HostPapa|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|20|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
 
 
 
