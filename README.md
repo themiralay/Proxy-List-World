@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|17|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|11|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|116.104.252.1|2095|Vietnam|Hanoi|Viettel Group|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |19|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
