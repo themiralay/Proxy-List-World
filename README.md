@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|116.104.252.1|2095|Vietnam|Hanoi|Viettel Group|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|16|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
-|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|3|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|14|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|15|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|16|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|17|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|18|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|19|185.182.65.64|1080|Russia|Moscow|Citytelecom LLC|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
