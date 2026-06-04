@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|203.232.107.6|2080|South Korea|Bupyeong-gu|Korea Telecom|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|103.118.224.19|5678|Indonesia|Jakarta|CBN|
-|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|11|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
-|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|192.3.20.150|3128|United States|Los Angeles|HostPapa|
+|4|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
+|5|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|6|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|9|103.53.77.179|8050|Indonesia|Bangil|INTI|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|14|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|17|186.96.97.154|999|Colombia|Santa María|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|20|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 
 
 
