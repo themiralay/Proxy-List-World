@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|103.159.195.193|3125|Indonesia|Puger|PT Giga Digital Nusantara|
-|17|130.185.123.54|8443|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|20|116.104.252.1|2095|Vietnam|Hanoi|Viettel Group|
 
 
 
