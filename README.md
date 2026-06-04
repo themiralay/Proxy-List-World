@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.232.107.6|2080|South Korea|Bupyeong-gu|Korea Telecom|
-|5|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.153.62.214|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|6|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|7|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
 |14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|16|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
-|17|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|19|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
