@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|5|5.104.81.34|10250|Japan|Shinagawa|Contabo Asia Private Limited|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|18|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
