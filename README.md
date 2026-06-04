@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|3|45.168.238.193|8443|Mexico|San Juan del Río|Wantelco SAS de CV|
-|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|14|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|138.124.18.198|8080|Sweden|Stockholm|Aeza International LTD|
-|17|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|19|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.155.214.75|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|16|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|138.124.18.198|8080|Sweden|Stockholm|Aeza International LTD|
+|19|178.236.244.215|8080|Finland|Helsinki|xorek.cloud International LTD|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
