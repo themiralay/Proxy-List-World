@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|2.27.50.150|8080|Finland|Helsinki|Chsl ONE LTD|
-|20|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|43.157.39.120|8081|Germany|Frankfurt am Main|Shenzhen Tencent Computer Systems Company Limited|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
