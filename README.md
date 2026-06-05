@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|91.107.154.204|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|14|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|91.107.154.204|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
