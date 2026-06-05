@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|113.192.12.28|8181|Indonesia|Cipari|PT Parsaoran Global Datatrans|
-|3|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
-|17|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|18|160.238.65.6|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 |20|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
 
 
