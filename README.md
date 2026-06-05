@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|754|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|754|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|754|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|8|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|16|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|15|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|17|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|18|103.81.175.218|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|19|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
