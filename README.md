@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |3|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|8|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
-|18|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|20|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
 
 
 
