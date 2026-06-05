@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|5|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|193.17.95.100|3128|Netherlands|Amsterdam|Hostkey B.V.|
-|16|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|17|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
-|18|45.89.111.179|1081|United Kingdom|City of London|WorkTitans B.V.|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
+|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|14|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|15|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|16|45.89.111.179|1081|United Kingdom|City of London|WorkTitans B.V.|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|45.67.15.11|8080|Sweden|Stockholm|Hostup AB|
+|19|45.151.106.141|8080|The Netherlands|Eygelshoven|MHost LLC|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
