@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|785|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|785|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|785|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|872|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|872|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|872|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|5|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|10|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
-|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|103.81.175.218|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|2|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|3|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|6|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|182.253.109.69|8080|Indonesia|Semarang|Biznet Metronet|
+|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|167.99.147.45|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|20|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
 
 
 
