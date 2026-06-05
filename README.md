@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4950** proxies at the latest update. Usable proxies are below.
+> Scraper found **4906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|842|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2755|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|3|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
-|6|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|3|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |9|5.104.81.34|10250|Japan|Shinagawa|Contabo Asia Private Limited|
-|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|13|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|17|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|18|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|19|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
+|20|103.167.171.147|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
 
 
 
