@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
-|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|13|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |15|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|150.241.70.128|8080|Finland|Helsinki|xorek.cloud International LTD|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
