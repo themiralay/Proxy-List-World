@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|3|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|171.100.88.113|3128|Thailand|Pak Kret|True Internet Corporation CO. Ltd.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |17|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|20|66.240.236.210|3128|United States|San Diego|CariNet, Inc.|
+|18|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
