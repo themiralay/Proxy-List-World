@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|18.180.59.181|80|Japan|Tokyo|Amazon Technologies Inc.|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|3|175.198.235.18|3128|South Korea|Bucheon-si|Korea Telecom|
+|4|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|16|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|17|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|18|45.151.106.141|8080|The Netherlands|Eygelshoven|MHost LLC|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|94.158.244.245|1080|United States|Bend|MivoCloud SRL|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|130.185.120.99|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
