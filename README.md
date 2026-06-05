@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1051|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1051|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1051|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|759|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|759|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|759|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|13|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
-|19|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|9|111.90.139.202|1080|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|13|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
