@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|791|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|791|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|791|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|750|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|750|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|750|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|202.58.77.76|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
 |11|223.204.177.91|3128|Thailand|Pattani|Triple T Broadband Public Company Limited|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|13|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
-|18|182.253.143.3|8080|Indonesia|Semarang|Biznet Networks|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|45.89.106.116|1082|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
 
 
 
