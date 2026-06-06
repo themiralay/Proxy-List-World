@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |4|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|5|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|9|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|10|91.209.135.29|8080|Georgia||Cloud Hosting Solutions, Limited.|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|14|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|5|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|7|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|8|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|9|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
+|10|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|12|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|13|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |15|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|20|200.10.30.5|8083|Colombia|Pereira|Super Redes S.A.S|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|18|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|19|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|20|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
 
 
 
