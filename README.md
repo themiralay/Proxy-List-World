@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4449** proxies at the latest update. Usable proxies are below.
+> Scraper found **4453** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|117|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2541|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|138.124.93.170|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|12|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|17|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
-|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|19|187.72.215.33|3128|Brazil|Uberaba|ALGAR TELECOM S/A|
-|20|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|2|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|3|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|4|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|7|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|103.169.148.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
+|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|14|130.49.171.75|1080|Uzbekistan|Tashkent|Servercore UZ|
+|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|216.236.30.14|7443|Hong Kong|Tsim Sha Tsui|Eons Data Communications Limited|
+|18|38.127.172.34|37234|United States|Washington|Cogent Communications|
+|19|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|20|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
 
 
 
