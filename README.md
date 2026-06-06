@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|4|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|7|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|8|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
-|9|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|10|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|112.203.213.104|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|15|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|16|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|17|210.201.86.72|8080|Taiwan|Taipei|Asia Pacific On-line Service Inc.|
-|18|155.212.217.19|8118|Russia|St Petersburg|Beget LLC|
-|19|103.36.10.79|1010|Indonesia|Kota Serang|PT Awinet Global Mandiri|
-|20|89.43.135.18|8080|Syria|Manbij|High Speed For Internet Services L.L.C|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|11|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|15|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|16|187.72.215.33|3128|Brazil|Uberaba|ALGAR TELECOM S/A|
+|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|20|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
