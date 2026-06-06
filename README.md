@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|3|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |5|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|6|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|7|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|6|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
+|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|8|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |11|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
-|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|103.231.177.120|5020|Bangladesh|Dhaka|Sayed Farhad Ahmed|
-|15|216.236.30.14|7443|Hong Kong|Tsim Sha Tsui|Eons Data Communications Limited|
-|16|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|17|49.51.244.112|8888|United States|Santa Clara|OPHL|
-|18|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|19|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|20|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|14|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|15|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|16|38.7.195.51|999|Chile|Santiago|Grupo ZGH SpA|
+|17|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|19|45.71.186.211|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 
 
 
