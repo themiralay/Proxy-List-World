@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |3|74.113.233.217|3128|Japan|Chiyoda City|CLOUDWEBMANAGE-TY|
-|4|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|18|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|19|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|49.151.178.128|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
