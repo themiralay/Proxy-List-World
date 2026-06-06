@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|5|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|3|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |6|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|9|79.117.37.49|8118|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|10|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|11|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
-|12|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|13|187.72.215.33|3128|Brazil|Uberaba|ALGAR TELECOM S/A|
-|14|49.51.244.112|8888|United States|Santa Clara|OPHL|
-|15|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
-|18|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|7|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
+|14|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
+|15|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|16|124.105.36.193|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|18|45.89.106.12|80|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
 |19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|20|103.39.51.130|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
