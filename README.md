@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|9|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|7|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|8|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|13|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|14|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|16|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|17|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
-|18|109.195.238.36|8080|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|19|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
-|20|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|11|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|12|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|18|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|19|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
 
 
 
