@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|563|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|563|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|563|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|9|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|10|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|16|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|3|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|9|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|15|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|20|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
 
 
 
