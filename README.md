@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|14|62.60.245.126|8080|The Netherlands|Amsterdam|NetCrafters OU|
-|15|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|18|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
-|19|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|19|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
