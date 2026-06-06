@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5590** proxies at the latest update. Usable proxies are below.
+> Scraper found **5559** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|913|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|130|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3284|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|14|144.31.70.112|3128|Netherlands|Amsterdam|U1 DIGITAL SERVICES LTD|
-|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|16|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|17|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|18|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|19|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|20|54.87.42.167|8080|United States|Ashburn|Amazon.com, Inc.|
+|1|74.113.233.217|3128|Japan|Chiyoda City|CLOUDWEBMANAGE-TY|
+|2|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|103.169.132.14|3128|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|11|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|103.80.214.43|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|130.49.218.108|1080|Russia|Moscow|LLC Vpsville|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|144.31.70.112|3128|Netherlands|Amsterdam|U1 DIGITAL SERVICES LTD|
+|18|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
 
 
 
