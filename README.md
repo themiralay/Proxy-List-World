@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4666** proxies at the latest update. Usable proxies are below.
+> Scraper found **4827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|868|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2541|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|7|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|8|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|49.147.124.207|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|2|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|6|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
+|13|138.124.93.170|3128|Germany|Frankfurt am Main|Aeza International LTD|
+|14|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|15|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|16|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|18|216.236.30.14|7443|Hong Kong|Tsim Sha Tsui|Eons Data Communications Limited|
+|19|72.11.144.141|8080|United States|San Jose|HostPapa|
+|20|85.198.100.232|3128|Russia|Moscow|Beget LLC|
 
 
 
