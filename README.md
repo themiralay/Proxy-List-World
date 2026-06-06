@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|16|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|18|62.60.245.126|8080|The Netherlands|Amsterdam|NetCrafters OU|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|216.236.30.14|7443|Hong Kong|Tsim Sha Tsui|Eons Data Communications Limited|
+|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|11|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|18|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
