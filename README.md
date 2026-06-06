@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|169.197.182.33|8080|United States|Plano|Share and Make Aware LLC|
-|9|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|10|119.148.47.235|1048|Bangladesh|Dhaka|Agni Systems Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|16|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
-|17|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|5|119.148.47.235|1048|Bangladesh|Dhaka|Agni Systems Limited|
+|6|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|10|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|11|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|16|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|19|188.127.242.83|8080|Russia|Moscow|LLC Smart Ape|
+|20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
 
 
 
