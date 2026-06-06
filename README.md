@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|2|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|206.135.55.224|999|Mexico|Ixmiquilpan|GTT Americas|
-|7|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|11|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
-|14|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|185.72.147.144|443|Russia|Moscow|SPRINTHOST.RU LLC|
-|17|188.127.242.83|8080|Russia|Moscow|LLC Smart Ape|
-|18|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|112.203.213.104|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|5|57.128.103.215|3128|France|Gravelines|OVH SAS|
+|6|174.138.3.101|8443|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
+|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|13|182.253.40.39|8080|Indonesia|Bekasi|BIZNET|
+|14|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|16|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|112.198.200.44|8082|Philippines|Nasugbu|Globe Telecom|
+|18|176.235.182.69|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|19|49.0.27.205|8080|Indonesia|Tunggul|SIMS Jabar Banten Medianet|
+|20|216.9.225.157|3128|United States|New York|DC HOST Inc|
 
 
 
