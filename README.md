@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|43.160.249.13|9007|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|174.138.3.101|8443|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|16|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|18|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|19|62.60.245.126|8080|The Netherlands|Amsterdam|NetCrafters OU|
+|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
