@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
-|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|14|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|15|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|202.154.18.26|8080|Indonesia|Babat|DIGITNET|
+|18|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|19|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
 
 
 
