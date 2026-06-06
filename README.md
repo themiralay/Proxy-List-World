@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4871** proxies at the latest update. Usable proxies are below.
+> Scraper found **4777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3024|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
-|8|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|14|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|16|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|17|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
-|19|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|20|94.54.168.129|3310|Türkiye|Denizli|TURKSAT|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|4|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|5|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|9|138.124.93.170|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|11|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|12|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|190.97.254.254|999|Venezuela|Ocumare|Viginet C.A|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|18|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|154.27.196.250|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|20|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
