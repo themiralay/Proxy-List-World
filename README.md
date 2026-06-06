@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|8|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|13|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|15|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|19|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
-|20|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|3|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|5|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|6|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|45.159.79.101|3128|United States|Fremont|ZhouyiSat Communications|
+|8|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|157.66.2.100|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|10|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|11|45.89.106.12|8080|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
+|12|45.159.79.101|3128|United States|Fremont|ZhouyiSat Communications|
+|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|14|185.233.82.50|8080|Finland|Helsinki|First Server Limited|
+|15|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|182.253.38.179|3128|Indonesia|Bekasi|BIZNET|
+|19|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
+|20|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
