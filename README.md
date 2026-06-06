@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|6|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|43.129.246.233|18080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|9|192.3.106.247|3128|United States|Dallas|HostPapa|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|72.11.144.141|8080|United States|San Jose|HostPapa|
-|17|72.11.144.141|8080|United States|San Jose|HostPapa|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|147.45.226.234|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|12|72.11.144.141|8080|United States|San Jose|HostPapa|
+|13|72.11.144.141|8080|United States|San Jose|HostPapa|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|192.3.106.247|3128|United States|Dallas|HostPapa|
+|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 
 
 
