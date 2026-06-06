@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|171.247.158.101|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|10|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|11|119.148.47.235|1048|Bangladesh|Dhaka|Agni Systems Limited|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|18|112.78.134.134|7777|Indonesia|Jakarta|Biznet Networks|
-|19|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|4|169.197.182.33|8080|United States|Plano|Share and Make Aware LLC|
+|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|138.124.93.170|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|216.236.30.14|7443|Hong Kong|Tsim Sha Tsui|Eons Data Communications Limited|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|82.29.132.6|8443|United States|El Segundo|Hosteons Pte. Ltd.|
+|18|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|19|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|20|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
 
 
 
