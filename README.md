@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|9|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|14|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|15|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|19|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|10|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|13|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
+|14|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
+|15|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|16|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|17|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|20|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
 
 
 
