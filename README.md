@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|697|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|697|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|697|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|12|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
-|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|14|103.81.175.218|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|15|157.66.4.51|33892|Indonesia|Surabaya|PT Era Global Nusindo|
+|2|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|3|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|20|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|2.26.3.66|8080|United States|Orem|Ace Data Centers II|
+|20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
 
 
 
