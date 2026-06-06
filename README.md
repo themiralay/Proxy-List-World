@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|2|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|3|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
 |4|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
-|6|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|7|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
-|8|85.202.160.152|5555|Germany|Frankfurt am Main|Ambyre LLC|
-|9|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|10|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
-|11|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
-|12|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|14|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
-|15|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|16|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|17|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|19|150.241.100.167|8443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|138.124.93.170|3128|Germany|Frankfurt am Main|Aeza International LTD|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|15|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|16|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|17|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|18|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
 |20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
