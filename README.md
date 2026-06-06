@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|9|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
-|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|9|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|14|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|174.138.3.101|8443|Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
