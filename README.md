@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|1|18.181.150.57|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|58.147.186.131|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|9|103.81.175.223|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|15|141.148.200.249|1080|India|Mumbai|Oracle Corporation|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|18|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|138.124.93.170|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|20|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|4|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|7|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|13|43.153.158.48|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
