@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4728** proxies at the latest update. Usable proxies are below.
+> Scraper found **4630** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|481|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2872|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|1|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|192.99.8.15|8850|Canada|Montreal|OVH SAS|
 |6|13.201.56.14|3128|India|Mumbai|Amazon.com, Inc.|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|14|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|9|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
 |15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|17|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
-|18|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
-|19|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|20|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|38.127.172.94|37234|United States|Washington|Cogent Communications|
+|18|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|19|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
