@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|2|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|9|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|18|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|49.147.124.207|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|4|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|6|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|72.11.144.141|8080|United States|San Jose|HostPapa|
+|10|72.11.144.141|8080|United States|San Jose|HostPapa|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|85.202.160.161|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|14|85.202.160.152|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|15|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|16|85.202.160.162|5555|Germany|Frankfurt am Main|Ambyre LLC|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|38.127.179.42|37234|United States|Washington|Cogent Communications|
+|19|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|20|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
