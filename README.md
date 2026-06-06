@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|6|72.11.144.141|8080|United States|San Jose|HostPapa|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|11|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|1|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|165.22.99.36|8002|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|14|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|17|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 
 
 
