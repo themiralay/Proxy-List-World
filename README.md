@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|9|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|10|58.187.104.56|2105|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|147.45.75.124|8080|Sweden|Stockholm|Aeza International LTD|
-|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|19|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|193.168.48.14|3128|Russia|St Petersburg|BEGET.RU|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|6|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|10|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|15|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|16|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|17|94.54.168.129|3310|Türkiye|Denizli|TURKSAT|
+|18|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
