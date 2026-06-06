@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
-|13|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|4|208.67.248.60|3128|United States|Plano|VIRTBIZ Internet Services|
+|5|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
+|6|208.67.248.58|3128|United States|Plano|VIRTBIZ Internet Services|
+|7|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|82.29.132.6|8443|United States|El Segundo|Hosteons Pte. Ltd.|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|13|85.192.29.60|3128|Netherlands|Amsterdam|Aeza International LTD|
+|14|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|45.159.79.101|3128|United States|Fremont|ZhouyiSat Communications|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|208.67.248.59|3128|United States|Plano|VIRTBIZ Internet Services|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
