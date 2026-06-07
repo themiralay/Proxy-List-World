@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|699|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|699|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|699|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|789|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|789|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|789|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|4|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|43.160.249.13|9007|Singapore|Singapore|Aceville Pte.ltd|
-|8|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|9|103.172.71.113|1111|Indonesia|Tangerang|AZNET|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|13|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|18|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|19|139.5.189.229|8888|Bangladesh|Dhaka|Digital Connectivity Limited|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|5|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|6|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|7|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|103.172.71.113|1111|Indonesia|Tangerang|AZNET|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|12|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|13|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|103.102.14.33|8080|Indonesia|Rembang|FISNET|
+|16|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|17|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|20|103.203.233.130|8585|Indonesia|Malang|PT Inti Data Guna|
 
 
 
