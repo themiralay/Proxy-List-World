@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.97|3172|Japan|Wakabayashi|InfoSphere|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|107.174.210.60|7890|United States|Los Angeles|HostPapa|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|7|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|10|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|20|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
