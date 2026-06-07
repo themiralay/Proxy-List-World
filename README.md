@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|58.187.104.56|2104|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|62.210.136.222|3128|France|Paris|Scaleway SAS|
-|11|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|12|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|13|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|14|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|2.26.68.177|8080|United States|Orem|Ace Data Centers II|
-|17|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|19|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|107.174.210.60|7890|United States|Los Angeles|HostPapa|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|62.210.136.222|3128|France|Paris|Scaleway SAS|
+|14|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
+|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|2.26.68.177|8080|United States|Orem|Ace Data Centers II|
+|19|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|20|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
 
 
 
