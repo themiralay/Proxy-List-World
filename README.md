@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|14|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|18|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
-|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|8|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|15|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 
 
 
