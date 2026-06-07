@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|18|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|19|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|11|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|15|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
