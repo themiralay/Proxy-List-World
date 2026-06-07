@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|4|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|5|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|8|36.50.205.70|8080|Indonesia|Pasarkemis|PT Beibi Cemerlang Indonesia|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|14|216.9.225.157|3128|United States|New York|DC HOST Inc|
 |15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |16|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|17|194.13.80.204|3128|Germany|Nuremberg|netcup GmbH|
-|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|19|2.26.68.177|8080|United States|Orem|Ace Data Centers II|
-|20|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|89.127.196.71|3128|Ireland|Dublin|IBIS|
+|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|2.26.68.177|8080|United States|Orem|Ace Data Centers II|
 
 
 
