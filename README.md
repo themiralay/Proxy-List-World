@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|10|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|18|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|158.160.211.3|1080|Russia|Moscow|Yandex.Cloud LLC|
+|16|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|18|178.17.132.179|10808|Russia|Zheleznogorsk|Signal Service|
+|19|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 
 
 
