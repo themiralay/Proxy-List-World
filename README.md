@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|8|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
-|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|1|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|157.15.62.20|1080|Indonesia|Malang|AMAN ISP Customer Malang|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|13|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |14|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|15|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|188.120.227.46|3128|Russia|Moscow|JSC IOT|
-|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|20|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|18|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
