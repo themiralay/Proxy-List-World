@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|156.224.76.20|1234|Hong Kong|Hong Kong|Akile LTD|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |5|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|6|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|7|107.174.210.60|7890|United States|Los Angeles|HostPapa|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|156.224.76.20|1234|Hong Kong|Hong Kong|Akile LTD|
+|11|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|17|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|18|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|49.49.43.242|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|16|49.49.23.135|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|17|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|18|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
