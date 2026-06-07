@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|107.174.210.60|7890|United States|Los Angeles|HostPapa|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|110.172.62.196|8080|Japan|Atsugi|TOKAI Communications Corporation|
-|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |11|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|172.234.65.27|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|17|58.187.104.56|2104|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|38.123.220.147|999|Mexico|Loma Hermosa|Cogent Communications|
+|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|18|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|19|185.103.103.156|1080|Sweden|Stockholm|Aeza International LTD|
 |20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
