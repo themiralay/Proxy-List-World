@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|518|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|518|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|518|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|12|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|13|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|20|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|8|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|15|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|16|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|17|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 
 
 
