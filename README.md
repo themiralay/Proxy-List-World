@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
-|4|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
-|5|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|11|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|18|104.207.76.99|3128|Singapore|Singapore|Namecheap, Inc.|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|144.31.70.112|3128|Netherlands|Amsterdam|U1 DIGITAL SERVICES LTD|
+|1|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|4|157.66.3.34|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|5|101.32.100.83|8080|Japan|Chiyoda City|Aceville Pte.ltd|
+|6|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|7|23.224.193.43|3128|United States|Los Angeles|Cnservers LLC|
+|8|23.224.193.45|3128|United States|Los Angeles|Cnservers LLC|
+|9|23.224.193.46|3128|United States|Los Angeles|Cnservers LLC|
+|10|23.224.193.44|3128|United States|Los Angeles|Cnservers LLC|
+|11|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|144.31.73.173|3128|Germany|Frankfurt am Main|U1 DIGITAL SERVICES LTD|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|18|23.224.193.44|3128|United States|Los Angeles|Cnservers LLC|
+|19|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|20|85.198.96.76|1080|Russia|Moscow|Beget LLC|
 
 
 
