@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |3|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|160.22.25.6|1212|Indonesia|Kudus|PT Giga Media Internet|
-|10|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.169.130.130|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|9|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|15|212.118.42.203|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|45.90.99.24|80|Germany|Estenfeld|Florian Kolb|
+|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|20|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
