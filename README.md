@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|701|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|701|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|701|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|759|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|759|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|759|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|165.22.99.36|8002|Singapore|Singapore|DigitalOcean, LLC|
-|3|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|4|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|182.52.102.97|8080|Thailand|Pattaya|TOT Public Company Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|17|45.90.99.24|80|Germany|Estenfeld|Florian Kolb|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|89.22.230.26|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|10|182.52.102.97|8080|Thailand|Pattaya|TOT Public Company Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|103.155.65.194|8080|Indonesia|Dusun Desa Handapherang|PT Media Access Telematika|
+|15|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|210.87.92.82|8080|Indonesia|Bangil|PT Indo Telemedia Solusi|
+|20|43.133.42.58|1080|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
