@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|116.80.64.13|3172|Japan|Wakabayashi|InfoSphere|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|18|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|19|185.103.103.156|1080|Sweden|Stockholm|Aeza International LTD|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|8|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
