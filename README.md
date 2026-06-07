@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|13|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|15|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
-|16|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|9|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
+|10|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|15|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|20|158.160.211.3|1080|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
