@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|896|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|896|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|896|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|891|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|891|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|891|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
 |4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|8|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|9|103.134.222.170|8080|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|13|175.141.161.224|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
+|5|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|10|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|103.134.222.170|8080|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|15|175.141.161.224|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 |16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|17|36.50.205.70|8080|Indonesia|Pasarkemis|PT Beibi Cemerlang Indonesia|
+|18|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|107.174.210.60|7890|United States|Los Angeles|HostPapa|
 
 
 
