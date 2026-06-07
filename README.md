@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|749|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|749|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|749|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|763|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|763|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|763|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
-|9|192.99.8.15|8850|Canada|Montreal|OVH SAS|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.155.65.194|8080|Indonesia|Dusun Desa Handapherang|PT Media Access Telematika|
-|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|118.217.107.148|8888|South Korea|Gangnam-gu|SK Broadband Co Ltd|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|165.22.99.36|8002|Singapore|Singapore|DigitalOcean, LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|18|43.156.175.175|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|192.99.8.15|8850|Canada|Montreal|OVH SAS|
+|20|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
