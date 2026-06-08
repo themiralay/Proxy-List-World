@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
+|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
 |2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|123.58.219.150|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|103.155.65.194|8080|Indonesia|Dusun Desa Handapherang|PT Media Access Telematika|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
+|8|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|202.182.124.155|443|Japan|Minamishinagawa|The Constant Company, LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|17|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|20|153.76.117.174|8081|United States|Atlanta|NCR Voyix Corporation|
+|19|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|20|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
