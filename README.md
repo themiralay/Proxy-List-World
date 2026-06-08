@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4636** proxies at the latest update. Usable proxies are below.
+> Scraper found **4633** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|113|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|112|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2579|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|2|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.53.168.219|6789|United States|Manassas|netcup GmbH|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|171.238.103.114|2059|Vietnam|Hanoi|Viettel Corporation|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|19|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|152.53.168.219|6789|United States|Manassas|netcup GmbH|
+|10|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|14|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
