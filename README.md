@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|4|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|103.14.231.214|3168|Indonesia|Tulangbawang|PT Internet Corp Ltd|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|38.65.174.107|999|Mexico|Amealco de Bonfil|Wantelco SAS de CV|
-|10|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|2|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|9|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
 |13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|179.60.53.26|999|Ecuador|Machala|Stealth Telecom del Ecuador|
-|18|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|212.118.38.225|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|38.41.0.116|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|16|212.118.38.225|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
