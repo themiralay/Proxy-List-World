@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|123.200.8.170|10000|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|13.210.139.44|3128|Australia|Sydney|Amazon Technologies Inc.|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|216.75.6.245|3128|United States|San Diego|CariNet, Inc.|
-|17|103.210.35.182|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|18|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|19|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|14|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|15|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|16|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
+|17|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|18|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|45.13.116.196|21537|France|Mathay|ABJP|
 
 
 
