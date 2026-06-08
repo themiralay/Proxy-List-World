@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4009** proxies at the latest update. Usable proxies are below.
+> Scraper found **4253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|101|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2335|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2579|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|45.159.79.101|3128|United States|Fremont|ZhouyiSat Communications|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|19|45.159.79.101|3128|United States|Fremont|ZhouyiSat Communications|
-|20|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|1|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|16|45.67.139.123|8080|France|Paris|YottaSrc|
+|17|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|18|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|19|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
