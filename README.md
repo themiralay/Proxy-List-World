@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
-|2|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|89.127.207.174|18080|Ireland|Dublin|IBIS|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|10|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
+|18|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|20|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
 
 
 
