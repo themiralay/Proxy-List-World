@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
 |9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|14|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|16|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|14|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|15|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
+|16|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 |17|45.67.139.117|8080|France|Paris|YottaSrc|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|20|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|19|45.67.139.123|8080|France|Paris|YottaSrc|
+|20|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
 
 
 
