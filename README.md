@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|7|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|10|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|11|193.124.57.14|443|Czechia|Veselí nad Lužnicí|SmartApe OU|
-|12|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|13|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|17|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
-|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|45.67.139.117|8080|France|Paris|YottaSrc|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|123.58.219.150|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|13|193.124.57.14|443|Czechia|Veselí nad Lužnicí|SmartApe OU|
+|14|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|15|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|45.67.139.123|8080|France|Paris|YottaSrc|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
 
 
 
