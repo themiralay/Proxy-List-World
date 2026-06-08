@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|19|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|20|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
+|16|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|4.221.164.109|80|South Africa|Johannesburg|Microsoft Corporation|
+|19|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|20|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
 
 
 
