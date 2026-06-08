@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5222** proxies at the latest update. Usable proxies are below.
+> Scraper found **5104** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|118|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1391|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1273|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2672|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|2|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.96.250|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.96.251|3172|Japan|Wakabayashi|InfoSphere|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|201.77.108.156|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|38.58.174.150|999|Mexico|San Mateo el Viejo|Cogent Communications|
-|10|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|11|189.193.225.86|999|Mexico|Salina Cruz|Mega Cable, S.A. de C.V.|
-|12|103.156.16.89|8818|Indonesia|Indramayu|RSTNET|
-|13|163.227.144.80|8080|Bangladesh|Nowlamary|Bright Technologies Limited|
-|14|103.159.96.158|3127|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|15|192.232.48.26|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|16|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|17|190.131.205.147|999|Colombia|Cartagena|Liberty Networks De Colombia S.A.S|
-|18|190.52.110.177|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|1|45.8.114.19|3334|Japan|Tokyo|xTom Japan Corporation|
+|2|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|12|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|13|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
