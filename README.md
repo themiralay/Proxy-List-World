@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |8|45.8.114.19|3334|Japan|Tokyo|xTom Japan Corporation|
 |9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|191.101.190.201|8089|Singapore|Singapore|PT Perwira Media Solusi|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|115.147.58.42|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|16|103.175.202.190|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
-|17|154.58.138.230|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|18|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|19|49.48.65.32|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
-|20|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|157.20.207.38|8080|Indonesia|Cibungur|PT Erajaya Telco Indonesia|
+|12|160.22.90.18|8080|Indonesia|Cirebon|PT Lintas Data Kita|
+|13|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|16|49.48.117.45|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 
 
 
