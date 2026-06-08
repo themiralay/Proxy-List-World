@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|116.104.250.118|2102|Vietnam|Hanoi|Viettel Group|
-|8|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|9|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|38.183.144.94|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|15|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|8|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|12|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|13|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|15|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|16|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|17|176.126.70.31|8080|Sweden|Stockholm|HostHatch|
+|18|209.141.35.94|28017|United States|Las Vegas|FranTech Solutions|
+|19|45.67.139.123|8080|France|Paris|YottaSrc|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
