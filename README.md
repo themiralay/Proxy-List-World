@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5570** proxies at the latest update. Usable proxies are below.
+> Scraper found **5523** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|149|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1440|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1393|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|146|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2903|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|202.182.124.155|443|Japan|Minamishinagawa|The Constant Company, LLC|
 |3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|202.182.124.155|443|Japan|Minamishinagawa|The Constant Company, LLC|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|103.153.149.136|8080|Indonesia|Weleri|JARINGANKU|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|171.238.103.114|2059|Vietnam|Hanoi|Viettel Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|103.174.122.88|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|202.165.94.170|8082|Myanmar|Ye|Telecom International Myanmar Company Limited|
-|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|18|116.104.252.1|2102|Vietnam|Hanoi|Viettel Group|
-|19|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|103.171.255.114|8080|Indonesia|Sleman|ZKI|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|19|45.67.139.123|8080|France|Paris|YottaSrc|
+|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
 
 
 
