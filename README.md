@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|5|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|6|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
-|9|107.174.210.60|7890|United States|Los Angeles|HostPapa|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|16|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|188.40.250.20|8118|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
