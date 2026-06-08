@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4467** proxies at the latest update. Usable proxies are below.
+> Scraper found **4326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|178|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|179|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|142|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2178|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
 |2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.172.121.51|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|19|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|11|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|18|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|171.238.103.114|2059|Vietnam|Hanoi|Viettel Corporation|
 
 
 
