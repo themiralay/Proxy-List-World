@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5200** proxies at the latest update. Usable proxies are below.
+> Scraper found **5141** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1142|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1083|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2903|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|4|103.156.17.217|8818|Indonesia|Jatibarang|RSTNET|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|202.182.124.155|443|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|16|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
-|17|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
-|18|103.119.67.27|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|11|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|38.183.144.94|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|18|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|20|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
 
 
 
