@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|559|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|559|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|559|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
+|1|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |3|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|4|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|5|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|12|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
-|13|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
-|14|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|89.127.207.174|18080|Ireland|Dublin|IBIS|
-|19|18.156.91.133|8118|Germany|Frankfurt am Main|Amazon.com, Inc.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|103.106.119.217|8081|Bangladesh|Thakurgaon|Earth-TEL|
+|14|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|104.168.62.69|3128|United States|Buffalo|HostPapa|
+|16|3.15.197.47|3128|United States|Dublin|Amazon.com, Inc.|
+|17|103.171.255.109|8080|Indonesia|Sleman|ZKI|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
