@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4318** proxies at the latest update. Usable proxies are below.
+> Scraper found **4466** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|657|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|805|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2579|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|2|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|13|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|15|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|45.67.139.123|8080|France|Paris|YottaSrc|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|14|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|15|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|16|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|17|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 
 
 
