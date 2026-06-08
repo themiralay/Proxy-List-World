@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4765** proxies at the latest update. Usable proxies are below.
+> Scraper found **4994** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|118|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|934|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1163|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2672|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.250|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.96.251|3172|Japan|Wakabayashi|InfoSphere|
-|4|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|5|116.80.48.136|3172|Japan|Wakabayashi|InfoSphere|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|103.106.78.194|7979|Indonesia|Karet Kuningan|PT Quantum Tera Multimedia|
+|1|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.96.251|3172|Japan|Wakabayashi|InfoSphere|
+|3|116.80.96.250|3172|Japan|Wakabayashi|InfoSphere|
+|4|116.80.48.136|3172|Japan|Wakabayashi|InfoSphere|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|7|103.168.149.52|8181|Indonesia|Sarimatondang|TORSADA|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |9|101.255.208.102|8090|Indonesia|Jakarta|PT Remala Abadi|
-|10|103.145.34.99|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|103.106.78.194|7979|Indonesia|Karet Kuningan|PT Quantum Tera Multimedia|
+|11|103.231.236.91|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
 |12|103.168.149.60|8181|Indonesia|Pematangsiantar|TORSADA|
-|13|103.144.18.95|8080|Indonesia|Sumberdangdang|PT Gasatek Bintang Nusantara|
-|14|103.168.149.52|8181|Indonesia|Sarimatondang|TORSADA|
-|15|103.161.195.170|7777|Indonesia|Singosari|PT Java Media Grup|
-|16|116.12.45.165|9595|Indonesia|Jakarta|ADSNET|
-|17|103.231.236.91|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|18|116.12.45.162|9595|Indonesia|Jakarta|ADSNET|
-|19|103.156.16.89|8818|Indonesia|Indramayu|RSTNET|
-|20|103.156.16.189|8818|Indonesia|Indramayu|RSTNET|
+|13|103.236.142.41|8080|Indonesia|Pati Regency|PT. Jaringan Internet Tayu|
+|14|103.161.195.170|7777|Indonesia|Singosari|PT Java Media Grup|
+|15|103.156.16.189|8818|Indonesia|Indramayu|RSTNET|
+|16|116.12.45.162|9595|Indonesia|Jakarta|ADSNET|
+|17|116.12.45.163|9595|Indonesia|Jakarta|ADSNET|
+|18|116.12.45.165|9595|Indonesia|Jakarta|ADSNET|
+|19|184.82.19.96|8080|Thailand|Chiang Mai|AIS-Fibre|
+|20|201.77.108.156|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
 
 
 
