@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5148** proxies at the latest update. Usable proxies are below.
+> Scraper found **5089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|173|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1186|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|175|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1125|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2715|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|62.133.62.207|1082|France|Paris|Global Connectivity Solutions LLP|
+|7|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
 |8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|10|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|11|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|9|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|10|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|11|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |12|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
-|15|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|45.67.139.123|8080|France|Paris|YottaSrc|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|17|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|19|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
