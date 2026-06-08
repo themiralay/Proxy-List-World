@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|8|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|9|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|15|192.3.106.247|3128|United States|Dallas|HostPapa|
-|16|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|192.3.106.247|3128|United States|Dallas|HostPapa|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|4|207.211.161.235|8888|United States|Chicago|Oracle Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|9|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|10|103.13.204.84|8082|Indonesia|Jontro|PT JARINGANKU SARANA NUSANTARA|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|14|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|15|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|17|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|19|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|20|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
