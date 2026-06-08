@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.42.58|1080|Singapore|Singapore|Aceville Pte.ltd|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|103.173.72.25|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|6|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
-|7|103.81.175.223|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
-|8|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|9|103.133.27.179|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|17|45.67.139.123|8080|France|Paris|YottaSrc|
-|18|175.111.96.154|3128|Indonesia|Jatimulyo|PT Wifipedia Sinergi Telematika|
-|19|109.167.130.186|8080|Russia|St Petersburg|JSC "ER-Telecom Holding"|
-|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|1|116.80.96.250|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
+|3|116.80.96.251|3172|Japan|Wakabayashi|InfoSphere|
+|4|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|5|116.80.48.136|3172|Japan|Wakabayashi|InfoSphere|
+|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|103.106.78.194|7979|Indonesia|Karet Kuningan|PT Quantum Tera Multimedia|
+|9|101.255.208.102|8090|Indonesia|Jakarta|PT Remala Abadi|
+|10|103.145.34.99|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|103.168.149.60|8181|Indonesia|Pematangsiantar|TORSADA|
+|13|103.144.18.95|8080|Indonesia|Sumberdangdang|PT Gasatek Bintang Nusantara|
+|14|103.168.149.52|8181|Indonesia|Sarimatondang|TORSADA|
+|15|103.161.195.170|7777|Indonesia|Singosari|PT Java Media Grup|
+|16|116.12.45.165|9595|Indonesia|Jakarta|ADSNET|
+|17|103.231.236.91|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|18|116.12.45.162|9595|Indonesia|Jakarta|ADSNET|
+|19|103.156.16.89|8818|Indonesia|Indramayu|RSTNET|
+|20|103.156.16.189|8818|Indonesia|Indramayu|RSTNET|
 
 
 
