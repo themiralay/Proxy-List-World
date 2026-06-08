@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|8|210.140.46.72|1234|Japan|Chiyoda City|IDC Frontier Inc.|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|8|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
 |12|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|17|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
+|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
 
 
 
