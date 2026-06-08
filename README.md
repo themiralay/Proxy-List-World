@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|2|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|9|45.67.139.117|8080|France|Paris|YottaSrc|
-|10|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|11|62.210.136.222|3128|France|Paris|Scaleway SAS|
-|12|45.67.139.123|8080|France|Paris|YottaSrc|
-|13|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
-|16|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|17|117.55.203.161|8899|Netherlands|Amsterdam|PUSHPKT OU|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|117.55.203.162|8899|Netherlands|Amsterdam|PUSHPKT OU|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|8|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|11|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|12|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|13|117.55.203.162|8899|Netherlands|Amsterdam|PUSHPKT OU|
+|14|117.55.203.161|8899|Netherlands|Amsterdam|PUSHPKT OU|
+|15|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|20|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
 
 
 
