@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
 |5|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|12|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|14|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|15|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|116.104.252.1|2113|Vietnam|Hanoi|Viettel Group|
-|20|45.67.139.117|8080|France|Paris|YottaSrc|
+|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 
 
 
