@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.48|3172|Japan|Wakabayashi|InfoSphere|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|3|116.80.50.48|3172|Japan|Wakabayashi|InfoSphere|
+|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|5|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|185.4.132.222|3128|Greece|Koropí|TOPHOST-VPS|
-|16|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|17|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|19|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|136.0.3.35|1234|United States|Los Angeles|Ace Data Centers II|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|107.172.139.2|3128|United States|Buffalo|HostPapa|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|107.172.139.2|3128|United States|Buffalo|HostPapa|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|20|69.110.57.227|8118|United States|Vista|AT&T Enterprises, LLC|
 
 
 
