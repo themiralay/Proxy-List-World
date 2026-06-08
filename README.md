@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|193.124.57.14|443|Czechia|Veselí nad Lužnicí|SmartApe OU|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|20|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|8|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|11|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|12|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|13|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
+|14|164.92.165.209|18080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|194.87.235.167|7890|Russia|Korolyov|JSC Mediasoft ekspert|
+|16|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|17|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|18|45.32.192.240|9000|United States|Dallas|Choopa|
+|19|85.105.165.223|3310|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|20|103.191.169.218|1111|Indonesia|Bulukumba|PT Sugi Bintang Jaya|
 
 
 
