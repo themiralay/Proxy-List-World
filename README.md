@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|9|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|1|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
+|2|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|8|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|11|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |12|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|13|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
 |14|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|15|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|16|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|18|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
 |19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|103.180.118.207|1080|Indonesia|Mojoagung|PT Persada Data Multimedia|
 
 
 
