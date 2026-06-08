@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|3|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|7|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|8|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|45.67.139.117|8080|France|Paris|YottaSrc|
-|11|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|12|36.50.92.145|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|14|45.67.139.123|8080|France|Paris|YottaSrc|
-|15|209.141.35.94|28017|United States|Las Vegas|FranTech Solutions|
-|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|188.225.58.59|443|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|141.11.243.30|3128|The Netherlands|Eygelshoven|Ferdinand Zink trading as Tube-Hosting|
-|20|119.235.19.10|8080|Indonesia|Bandung|PT Inet Global Indo|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|9|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|10|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|45.67.139.117|8080|France|Paris|YottaSrc|
+|13|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|103.31.45.203|8090|Indonesia|Medan|PT. Media Antar Nusa|
+|18|185.233.186.88|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|20|176.126.70.31|8080|Sweden|Stockholm|HostHatch|
 
 
 
