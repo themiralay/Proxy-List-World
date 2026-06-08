@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|45.116.14.87|8080|Japan|Osaka|xTom Limited|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|1|45.116.14.87|8080|Japan|Osaka|xTom Limited|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|4|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|5|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|103.14.231.214|3168|Indonesia|Tulangbawang|PT Internet Corp Ltd|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|116.104.252.1|2059|Vietnam|Hanoi|Viettel Group|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
 |13|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|19|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|62.133.62.184|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|115.147.39.121|8181|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
 
