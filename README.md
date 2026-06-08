@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|3.90.0.161|8000|United States|Ashburn|Amazon Technologies Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|10|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|193.124.57.14|443|Czechia|Veselí nad Lužnicí|SmartApe OU|
-|13|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|15|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|17|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|20|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|10|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|11|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|14|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|4.221.164.109|9443|South Africa|Johannesburg|Microsoft Corporation|
+|18|147.45.78.89|1080|United States|Charlotte|Aeza International LTD|
+|19|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|20|165.227.133.230|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
