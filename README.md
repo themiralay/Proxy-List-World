@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|3|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|5|154.37.218.84|18080|Hong Kong|Hong Kong|NetLab Global|
-|6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
+|3|154.37.218.84|18080|Hong Kong|Hong Kong|NetLab Global|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
+|7|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|8|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
 |9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|15|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|20|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|10|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|15|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 
 
 
