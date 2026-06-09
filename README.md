@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|4|54.183.217.62|3128|United States|San Jose|Amazon.com, Inc.|
+|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|2|54.183.217.62|3128|United States|San Jose|Amazon.com, Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|54.183.217.62|3128|United States|San Jose|Amazon.com, Inc.|
-|10|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|12|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|16|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|6|129.153.7.7|60000|United States|Ashburn|Oracle Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|9|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|54.183.217.62|3128|United States|San Jose|Amazon.com, Inc.|
+|12|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|150.241.65.193|8080|Sweden|Stockholm|Intezio Worldwide Limited|
+|19|65.109.181.66|1080|Finland|Helsinki|Hetzner Online GmbH|
+|20|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
 
 
 
