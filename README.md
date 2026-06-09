@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|4|95.169.2.91|3128|United States|Los Angeles|IT7 Networks Inc|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|12|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|13|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|2.26.92.56|3128|United States|Orem|Ace Data Centers II|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|95.169.2.91|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 |16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|150.241.65.193|1080|Sweden|Stockholm|Intezio Worldwide Limited|
+|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
