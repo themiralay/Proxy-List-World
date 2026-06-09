@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
-|12|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|171.238.103.114|2059|Vietnam|Hanoi|Viettel Corporation|
-|15|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|18|65.109.181.66|1080|Finland|Helsinki|Hetzner Online GmbH|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|6|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|13|45.67.139.123|8080|France|Paris|YottaSrc|
+|14|47.239.126.54|6001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
 
 
 
