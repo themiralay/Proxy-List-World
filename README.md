@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4533** proxies at the latest update. Usable proxies are below.
+> Scraper found **4534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|755|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2593|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|10|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|14|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
-|15|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|45.67.139.123|8080|France|Paris|YottaSrc|
-|18|150.241.65.193|1080|Sweden|Stockholm|Intezio Worldwide Limited|
-|19|103.69.90.214|8083|India|Mumbai|Allied IT Infrastructure and Services PVT LTD|
-|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|15|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
