@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|3|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|7|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|8|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|11|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|14|49.150.48.142|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
-|15|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|78.17.4.36|8080|Finland|Helsinki|Snowd Security OU|
-|18|87.251.66.76|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|31.40.204.188|443|Türkiye|Istanbul|Fiba Cloud Operation Company, LLC|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|7|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
+|8|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|150.241.65.193|8080|Sweden|Stockholm|Intezio Worldwide Limited|
+|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|18|38.127.179.236|37234|United States|Washington|Cogent Communications|
+|19|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
 
 
 
