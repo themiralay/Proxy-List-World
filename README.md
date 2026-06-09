@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|117.55.203.162|8899|Netherlands|Amsterdam|PUSHPKT OU|
-|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|16|117.55.203.161|8899|Netherlands|Amsterdam|PUSHPKT OU|
-|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|18|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|19|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|1|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
+|2|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|43.160.236.170|8118|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|14|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|117.55.203.161|8899|Netherlands|Amsterdam|PUSHPKT OU|
+|20|117.55.203.162|8899|Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
