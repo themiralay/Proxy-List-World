@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|43.160.236.170|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|18|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|18|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|144.31.151.17|8080|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|150.241.65.193|8080|Sweden|Stockholm|Intezio Worldwide Limited|
+|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 
 
 
