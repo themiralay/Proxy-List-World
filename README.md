@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |2|116.80.63.160|3172|Japan|Wakabayashi|InfoSphere|
 |3|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
-|4|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
 |5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|9|203.30.9.8|8443|Australia|Brisbane|Southern Phone Company Ltd|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
 |11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|35.91.66.153|3128|United States|Portland|Amazon.com, Inc.|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|35.91.66.153|3128|United States|Portland|Amazon.com, Inc.|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 |19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|20|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
