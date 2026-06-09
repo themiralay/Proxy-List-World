@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|14|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
-|15|103.157.117.238|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|5|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|6|42.2.4.163|1080|Hong Kong|Central|PCCW IMS Limited|
+|7|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |18|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|19|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
