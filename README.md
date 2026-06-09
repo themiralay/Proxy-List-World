@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.160|3172|Japan|Wakabayashi|InfoSphere|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|45.10.69.98|8888|United States|Los Angeles|Zenlayer Inc|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|6|35.91.66.153|3128|United States|Portland|Amazon.com, Inc.|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|45.10.69.98|8888|United States|Los Angeles|Zenlayer Inc|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|14|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|8.210.93.183|8213|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|35.91.66.153|3128|United States|Portland|Amazon.com, Inc.|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|116.80.63.160|3172|Japan|Wakabayashi|InfoSphere|
+|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|43.160.236.170|8118|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|35.91.66.153|3128|United States|Portland|Amazon.com, Inc.|
+|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|15|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|216.9.225.157|3128|United States|New York|DC HOST Inc|
+|19|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|20|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
 
 
 
