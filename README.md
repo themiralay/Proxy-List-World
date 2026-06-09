@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|3|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
 |6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
 |15|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|19|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|167.86.95.198|3128|Germany|Nuremberg|Contabo GmbH|
+|20|103.166.254.222|3124|Indonesia|Pekanbaru|PT Instanet Media Nusantara|
 
 
 
