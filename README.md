@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|10|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|4|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
+|11|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|91.217.149.240|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|16|144.31.151.17|8080|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|19|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 
 
 
