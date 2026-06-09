@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4527** proxies at the latest update. Usable proxies are below.
+> Scraper found **4439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|213|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|621|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2755|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2593|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|2|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|7|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
-|8|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|150.241.65.193|8080|Sweden|Stockholm|Intezio Worldwide Limited|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|38.127.179.236|37234|United States|Washington|Cogent Communications|
-|19|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
+|2|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|154.9.26.4|8888|United States|Los Angeles|NetLab Global|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|43.228.215.32|8080|Singapore|Singapore|Atlantic.net, Inc.|
+|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
