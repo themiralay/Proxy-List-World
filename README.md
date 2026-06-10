@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.231|3172|Japan|Wakabayashi|InfoSphere|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|116.80.48.236|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.50.231|3172|Japan|Wakabayashi|InfoSphere|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|11|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|2.26.92.56|3128|United States|Orem|Ace Data Centers II|
-|14|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|107.150.61.226|8886|United States|Kansas City|Nocix, LLC|
-|16|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|17|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|144.31.156.131|1080|Finland|Helsinki|Play2go International Limited|
-|20|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|10|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|147.45.170.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|14|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|89.127.207.174|18080|Ireland|Dublin|IBIS|
+|19|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
 
 
 
