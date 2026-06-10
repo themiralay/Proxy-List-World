@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.248|3172|Japan|Wakabayashi|InfoSphere|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |6|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|16|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|13|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|18|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 
 
 
