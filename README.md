@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
 |8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|12|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
 |15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|16|116.12.45.163|9595|Indonesia|Jakarta|ADSNET|
+|17|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|18|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|20|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
 
 
 
