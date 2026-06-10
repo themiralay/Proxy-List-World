@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4319** proxies at the latest update. Usable proxies are below.
+> Scraper found **4351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|116|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2489|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.184|3172|Japan|Wakabayashi|InfoSphere|
-|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|4|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|14|89.127.207.174|18080|Ireland|Dublin|IBIS|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
-|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|19|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
-|20|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|1|52.185.184.73|8561|Japan|Tokyo|Microsoft Corporation|
+|2|116.80.64.184|3172|Japan|Wakabayashi|InfoSphere|
+|3|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|5|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|11|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|41.216.191.200|8080|Indonesia|Jakarta|Perwira|
+|14|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|19|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
