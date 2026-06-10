@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
 |10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|14|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
-|18|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|19|150.241.65.193|1080|Sweden|Stockholm|Intezio Worldwide Limited|
-|20|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
+|11|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
+|18|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
 
 
 
