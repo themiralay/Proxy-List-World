@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
 |2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|4|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|14|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|62.133.62.231|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|14|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|167.88.164.6|3129|United States|Dallas|RouterHosting LLC|
+|17|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|18|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|20|103.72.89.15|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
 
 
 
