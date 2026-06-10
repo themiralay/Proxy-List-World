@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|9|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|13|23.166.168.29|2080|United States|Frankfort|Fastnet Data Inc|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
 |15|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
+|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|23.166.168.29|2080|United States|Frankfort|Fastnet Data Inc|
 |18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|5.75.199.246|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
 |20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
 
 
