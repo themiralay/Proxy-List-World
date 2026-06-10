@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.184|3172|Japan|Wakabayashi|InfoSphere|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|9|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
 |11|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|12|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|12|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|14|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|5.75.199.246|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |16|217.154.155.115|8080|Germany|Berlin|IONOS SE|
 |17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|19|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 
 
 
