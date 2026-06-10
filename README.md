@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.165.141.4|8888|Israel|Tel Aviv|Google LLC|
-|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|144.31.156.131|1080|Finland|Helsinki|Play2go International Limited|
-|16|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|20|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|6|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|13|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|16|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|17|34.165.141.4|8888|Israel|Tel Aviv|Google LLC|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
 
 
 
