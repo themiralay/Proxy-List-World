@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
-|2|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
 |3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|10|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|10|154.27.196.19|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
 |11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
 |15|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|38.127.172.243|37234|United States|Washington|Cogent Communications|
-|18|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
-|19|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|62.133.62.3|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|20|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
 
 
 
