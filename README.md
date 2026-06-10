@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5476** proxies at the latest update. Usable proxies are below.
+> Scraper found **5448** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|559|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|559|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|559|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|237|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1101|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3105|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|85.121.51.40|9091|Romania|Bucharest|M247 Europe SRL|
+|1|116.80.78.13|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.96.251|3172|Japan|Wakabayashi|InfoSphere|
+|3|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |4|43.160.236.170|8118|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|6|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|210.152.100.149|1234|Japan|Kitakyushu|TokyoNet|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|103.171.233.130|8080|Bangladesh|Chittagong|TS Network|
-|13|216.9.225.157|3128|United States|New York|DC HOST Inc|
-|14|103.17.215.9|8089|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|19|139.135.82.186|8080|Philippines|Tudela|Dito Telecommunity Corp.|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|11|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|13|5.61.27.184|443|United States|Buffalo|Nrp Teknoloji Limited Sirketi|
+|14|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|15|178.208.168.90|8118|United Kingdom|City of London|Powerhouse Management, Inc.|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|150.241.65.193|1080|Sweden|Stockholm|Intezio Worldwide Limited|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
 
 
 
