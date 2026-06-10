@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.76.74|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.83.93|3172|Japan|Wakabayashi|InfoSphere|
 |2|116.80.83.95|3172|Japan|Wakabayashi|InfoSphere|
 |3|116.80.83.16|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.83.94|3172|Japan|Wakabayashi|InfoSphere|
-|5|116.80.83.17|3172|Japan|Wakabayashi|InfoSphere|
-|6|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|7|116.80.66.27|3172|Japan|Wakabayashi|InfoSphere|
-|8|116.80.83.99|3172|Japan|Wakabayashi|InfoSphere|
-|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|4|116.80.76.74|3172|Japan|Wakabayashi|InfoSphere|
+|5|116.80.83.94|3172|Japan|Wakabayashi|InfoSphere|
+|6|116.80.83.17|3172|Japan|Wakabayashi|InfoSphere|
+|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|14|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|18|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
 
 
 
