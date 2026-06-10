@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|5|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|11|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |12|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
-|18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|89.127.207.174|18080|Ireland|Dublin|IBIS|
+|13|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
