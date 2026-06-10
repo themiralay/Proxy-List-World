@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4298** proxies at the latest update. Usable proxies are below.
+> Scraper found **4346** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|236|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2489|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.83.99|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.65.204|3172|Japan|Wakabayashi|InfoSphere|
-|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|116.80.65.204|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.83.99|3172|Japan|Wakabayashi|InfoSphere|
+|3|151.243.153.157|8118|Netherlands|Amsterdam|Private Customer|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|16|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|19|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|20|107.150.61.226|8886|United States|Kansas City|Nocix, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 
 
 
