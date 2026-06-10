@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4717** proxies at the latest update. Usable proxies are below.
+> Scraper found **4674** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|240|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|503|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2928|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|1|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|91.208.104.147|8888|Hong Kong|Chai Wan|Xnnet LLC|
+|4|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
 |9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|161.248.117.117|8080|Indonesia|Sekupang|PT INFORMASI NUSANTARA TEKNOLOGI|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|117.1.213.160|2059|Vietnam|Hanoi|VIETTEL|
+|12|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 |13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|16|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|161.248.117.117|8080|Indonesia|Sekupang|PT INFORMASI NUSANTARA TEKNOLOGI|
-|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|20|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
+|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|103.171.255.204|8080|Indonesia|Sleman|ZKI|
+|17|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|18|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|20|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
 
 
 
