@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.54|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.46.227|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.94.84|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.63.47|3172|Japan|Wakabayashi|InfoSphere|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
-|15|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|1|116.80.63.47|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.94.84|3172|Japan|Wakabayashi|InfoSphere|
+|3|116.80.92.54|3172|Japan|Wakabayashi|InfoSphere|
+|4|116.80.46.227|3172|Japan|Wakabayashi|InfoSphere|
+|5|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|20|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
