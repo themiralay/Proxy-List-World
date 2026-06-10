@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.50.182|3172|Japan|Wakabayashi|InfoSphere|
 |2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|5|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
 |9|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|10|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|11|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|15|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|18|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|43.128.253.199|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|91.231.182.197|3128|Ukraine|Kyiv|South Park Networks LLC|
+|10|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|65.109.181.66|1080|Finland|Helsinki|Hetzner Online GmbH|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|103.56.92.187|8787|Indonesia|Semarang|Argon Data Communication|
+|15|43.128.253.199|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|5.202.120.123|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|17|187.72.215.33|3128|Brazil|Uberaba|ALGAR TELECOM S/A|
+|18|2.26.87.216|1080|United States|Orem|Ace Data Centers II|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
 
 
 
