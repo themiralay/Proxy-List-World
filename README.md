@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|4|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
-|5|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|9|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|154.9.30.1|50000|United States|Los Angeles|NetLab Global|
-|14|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|15|129.151.130.247|1111|United Arab Emirates|Masdar City|Oracle Corporation|
-|16|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
-|19|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|20|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|1|116.80.48.147|3172|Japan|Wakabayashi|InfoSphere|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.128.145.26|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|5|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|104.161.37.187|3128|United States|Phoenix|Input Output Flood LLC|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|38.76.150.163|1080|United States|Los Angeles|NetLab Global|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|209.38.200.247|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
+|20|50.114.102.16|8888|United States|Orem|Ace Data Centers II, L.L.C.|
 
 
 
