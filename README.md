@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|1|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
 |3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|9|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|12|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|213.108.172.244|65056|Russia|Narimanov|Nizhnevolzhskie Telecommunication Networks Real Ltd.|
-|16|45.89.106.116|1081|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|4|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|10|164.92.165.209|18080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|12|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|17|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
+|18|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|19|116.80.83.99|3172|Japan|Shimomaruko|InfoSphere|
+|20|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
