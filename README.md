@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|6|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|7|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|12|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|13|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|14|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|18|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|138.197.196.224|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|9|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|138.197.196.224|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|20|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 
 
 
