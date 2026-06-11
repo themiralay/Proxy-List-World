@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|7|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|147.45.179.108|1080|United Kingdom|Bedford|Global Connectivity Solutions LLP|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|11|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|18|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|8|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|147.45.179.108|1080|United Kingdom|Bedford|Global Connectivity Solutions LLP|
+|13|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|144.31.220.34|8080|Germany|Frankfurt am Main|EdgeSec Technologies Limited|
+|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|20|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
 
 
 
