@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|5|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
 |20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
 
 
