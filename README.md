@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4942** proxies at the latest update. Usable proxies are below.
+> Scraper found **4874** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3085|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|116.80.81.108|3172|Japan|Shimomaruko|InfoSphere|
-|3|70.35.196.194|8081|United States|Sulphur Springs|IONOS SE|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|9|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
-|12|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|13|70.35.196.194|8081|United States|Sulphur Springs|IONOS SE|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|16|103.155.65.194|8080|Indonesia|Manis Subang|PT Media Access Telematika|
-|17|85.239.56.138|10808|Russia|Moscow|JSC "TIMEWEB"|
-|18|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|19|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|1|116.80.81.108|3172|Japan|Shimomaruko|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|4|39.112.232.72|8080|South Korea|Suseong-gu|SK Broadband Co Ltd|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|7|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|147.102.16.32|8080|Greece|Glyfada|National Technical University of Athens|
+|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
+|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|19|190.14.240.92|999|Colombia|Villa Rica|Media Commerce Partners S.A|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
