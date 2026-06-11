@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
-|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|20|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|2|157.245.203.40|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|24.199.113.242|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|20|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
 
 
 
