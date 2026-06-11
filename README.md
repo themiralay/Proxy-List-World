@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.245|3172|Japan|Shimomaruko|InfoSphere|
-|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|5|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |6|34.43.46.91|443|United States|Mountain View|Google LLC|
 |7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|12|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|13|89.127.207.174|18080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|14|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|16|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|20|147.45.76.207|3128|Sweden|Stockholm|Aeza International LTD|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|12|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|147.45.179.108|1080|United Kingdom|Bedford|Global Connectivity Solutions LLP|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|17|130.49.218.108|1080|France|Paris|Global Connectivity Solutions LLP|
+|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|19|79.132.143.32|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|20|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
 
 
 
