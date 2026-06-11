@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3598** proxies at the latest update. Usable proxies are below.
+> Scraper found **3649** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|268|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|433|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1975|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.221|3172|Japan|Shimomaruko|InfoSphere|
-|2|116.80.48.17|3172|Japan|Shimomaruko|InfoSphere|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|116.80.48.17|3172|Japan|Shimomaruko|InfoSphere|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
+|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|9|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
 |10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
+|11|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |16|34.43.46.91|443|United States|Mountain View|Google LLC|
 |17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|19|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
