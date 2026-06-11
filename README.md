@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.108|3172|Japan|Shimomaruko|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|39.112.232.72|8080|South Korea|Suseong-gu|SK Broadband Co Ltd|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|7|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|14|147.102.16.32|8080|Greece|Glyfada|National Technical University of Athens|
-|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|17|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|19|190.14.240.92|999|Colombia|Villa Rica|Media Commerce Partners S.A|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|10|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|18|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
+|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
