@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|5|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|6|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|37.187.92.9|1031|France|Roubaix|OVH SAS|
-|15|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|16|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|17|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|200.8.121.121|8080|Venezuela|Valencia|Corporación Telemic C.A.|
+|1|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
+|2|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|15|202.43.122.156|1111|India|Wardha|RailTel Corporation|
+|16|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|17|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|144.31.156.131|1080|Finland|Helsinki|Play2go International Limited|
 
 
 
