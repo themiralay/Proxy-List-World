@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|9|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|10|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|13|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|188.134.85.189|8118|Russia|St Petersburg|Interzet|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|17|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|68.183.53.204|3128|United States|Clifton|DigitalOcean, LLC|
+|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|11|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|13|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|14|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|16|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|17|68.183.53.204|3128|United States|Clifton|DigitalOcean, LLC|
+|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
