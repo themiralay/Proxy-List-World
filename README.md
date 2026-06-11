@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 |4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|11|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|12|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|103.190.170.111|8080|Indonesia|Melati|PT Ring Media Nusantara|
-|15|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|20|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
+|10|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|12|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|15|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|16|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|17|107.150.61.226|8886|United States|Kansas City|Nocix, LLC|
+|18|116.80.64.184|3172|Japan|Shimomaruko|InfoSphere|
+|19|4.221.164.109|9443|South Africa|Johannesburg|Microsoft Corporation|
+|20|116.80.48.136|3172|Japan|Shimomaruko|InfoSphere|
 
 
 
