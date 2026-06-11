@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3564** proxies at the latest update. Usable proxies are below.
+> Scraper found **3509** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|261|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|324|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1975|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|188.40.250.20|8118|Germany|Falkenstein|Hetzner Online GmbH|
 |8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|10|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
-|12|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|14|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|15|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|16|35.224.148.26|80|United States|Council Bluffs|Google LLC|
-|17|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
-|20|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|14|79.137.198.50|7777|The Netherlands|Amsterdam|Aeza International LTD|
+|15|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|18|144.91.121.61|3129|France|Lauterbourg|Contabo GmbH|
+|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|64.176.36.91|8888|Japan|Osaka|The Constant Company|
 
 
 
