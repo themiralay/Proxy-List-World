@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|2|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|13|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|14|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|5|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|107.150.61.226|8886|United States|Kansas City|Nocix, LLC|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|19|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
 
 
 
