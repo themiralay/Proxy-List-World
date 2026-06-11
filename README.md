@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.233|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.50.232|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.50.232|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.50.233|3172|Japan|Wakabayashi|InfoSphere|
 |3|116.80.47.81|3172|Japan|Wakabayashi|InfoSphere|
 |4|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
-|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|195.15.201.180|1080|Switzerland|Geneva|Infomaniak Network SA|
-|14|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|15|93.183.104.82|1080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
 |16|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
-|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|17|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
 |18|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|20|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|19|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|20|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
 
 
 
