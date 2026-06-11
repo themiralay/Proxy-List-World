@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|3|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 |4|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|10|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|14|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|17|202.62.75.38|84|India|Hyderabad|CityOnline Services|
-|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|19|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|9|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|10|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|11|24.199.113.242|443|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|17|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|116.80.50.233|3172|Japan|Shimomaruko|InfoSphere|
+|19|116.80.76.74|3172|Japan|Shimomaruko|InfoSphere|
+|20|47.242.243.198|2233|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
