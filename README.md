@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.78.13|3172|Japan|Shimomaruko|InfoSphere|
-|2|116.80.60.245|3172|Japan|Shimomaruko|InfoSphere|
+|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|6|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|7|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|8|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|9|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 |10|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|13|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|11|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|12|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|14|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 |15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|18|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
-|19|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|20|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|24.119.238.146|10000|United States|Cibecue|CABLE ONE, INC.|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|103.189.197.43|7778|Indonesia|Serang|PT Graha Sumber Teknologi|
 
 
 
