@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|8|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|43.165.168.238|7443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|11|195.15.201.180|1080|Switzerland|Geneva|Infomaniak Network SA|
+|12|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|14|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|34.165.141.4|443|Israel|Tel Aviv|Google LLC|
+|17|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|167.104.219.94|1080|United States|Herndon|Navient Solutions|
+|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
 
 
 
