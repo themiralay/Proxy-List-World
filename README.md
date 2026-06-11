@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.241|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.47.81|3172|Japan|Wakabayashi|InfoSphere|
-|3|116.80.50.232|3172|Japan|Wakabayashi|InfoSphere|
-|4|116.80.50.233|3172|Japan|Wakabayashi|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|4|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|8|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|9|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|10|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|16|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|17|185.200.188.234|10001|Russia|Moscow|I-servers LTD|
-|18|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
-|19|95.3.69.222|8080|Turkey|Bodrum|Turk Telekomunikasyon Anonim Sirketi|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|14|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|15|45.84.222.25|1080|Netherlands|Amsterdam|Play2go International Limited|
+|16|206.135.55.224|999|Mexico|Ixmiquilpan|GTT Americas|
+|17|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|18|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|19|187.72.215.33|3128|Brazil|Uberaba|ALGAR TELECOM S/A|
+|20|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 
 
 
