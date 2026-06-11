@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4387** proxies at the latest update. Usable proxies are below.
+> Scraper found **4420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|260|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|333|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|367|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2819|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|7|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|8|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|7|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|8|169.40.6.114|3128|Latvia|Riga|SIA VEESP|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|5.143.73.252|10808|Russia|Vladivostok|Rostelecom networks|
 |14|27.66.26.55|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|45.13.237.46|8081|Germany|Estenfeld|Florian Kolb|
-|16|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|19|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|16|24.199.113.242|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
