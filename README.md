@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
+|2|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|64.49.44.100|1234|Hong Kong|Hong Kong|Sakura Link Limited|
 |5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|169.212.15.161|5000|South Korea|Seo-gu|Korea Telecom|
-|12|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|45.88.174.195|8080|Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
-|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|17|130.49.218.108|1080|Russia|Moscow|LLC Vpsville|
-|18|45.32.53.102|80|Japan|Minamishinagawa|The Constant Company|
-|19|185.106.183.85|8080|Sweden|Värmdö Municipality|Data Communication & Software i Grondal Aktiebolag|
-|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|147.45.179.108|1080|United Kingdom|Birmingham|Global Connectivity Solutions LLP|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|17|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|81.200.154.236|48503|Germany|Frankfurt am Main|Timeweb, LLP|
+|20|195.25.20.155|3128|France|Saint-Martin-du-Vieux-Bellême|Orange Business Services|
 
 
 
