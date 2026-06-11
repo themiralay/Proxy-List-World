@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.221|3172|Japan|Shimomaruko|InfoSphere|
-|2|116.80.48.17|3172|Japan|Shimomaruko|InfoSphere|
-|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|7|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
-|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|11|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|16|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
-|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|18|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|116.80.48.17|3172|Japan|Shimomaruko|InfoSphere|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|7|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|12|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|13|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
+|14|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|15|34.216.5.245|8080|United States|Portland|Amazon.com, Inc.|
+|16|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|17|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 
 
 
