@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|5.78.60.155|8080|United States|Hillsboro|Hetzner Online GmbH|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|11|88.218.248.126|3128|The Netherlands|Amsterdam|GLB Bulut Teknolojisi Limited Sirketi|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
-|14|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|1|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|7|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|9|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|11|94.241.175.40|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|13|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |15|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|18|119.148.47.233|1048|Bangladesh|Dhaka|Agni Systems Limited|
-|19|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|16|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|102.214.104.56|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 
 
 
