@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|19|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|15|129.151.130.247|1111|United Arab Emirates|Masdar City|Oracle Corporation|
+|16|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|19|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|20|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 
 
 
