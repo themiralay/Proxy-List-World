@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|152.42.239.142|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
-|5|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|116.80.48.147|3172|Japan|Shimomaruko|InfoSphere|
+|2|116.80.91.203|3172|Japan|Shimomaruko|InfoSphere|
+|3|116.80.64.3|3172|Japan|Shimomaruko|InfoSphere|
+|4|116.80.66.28|3172|Japan|Shimomaruko|InfoSphere|
+|5|116.80.45.46|3172|Japan|Shimomaruko|InfoSphere|
+|6|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|7|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
+|8|47.80.112.92|8080|Philippines|Manila|Alibaba.com LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|51.241.150.12|1234|United Kingdom|London|Bage Cloud LLC|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|18|45.89.106.116|1082|India|New Delhi|NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED|
-|19|150.241.100.167|8443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|205.215.247.164|3128|United States|Baltimore|Port Networks, Inc.|
+|15|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|51.241.150.12|1234|United Kingdom|London|Bage Cloud LLC|
+|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 
 
 
