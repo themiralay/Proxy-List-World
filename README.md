@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|9|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|18.221.157.29|3128|United States|Dublin|Amazon.com, Inc.|
-|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|19|89.125.68.33|10000|Germany|Frankfurt am Main|Hostkey B.V.|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|4|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|7|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|18.221.157.29|3128|United States|Dublin|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|18.221.157.29|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
