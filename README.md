@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|5|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|15|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|1|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|13|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|14|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|15|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|193.178.172.103|12345|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|20|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
