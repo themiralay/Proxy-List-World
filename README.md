@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.238.66|3128|Japan|Osaka|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|1|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
+|2|217.142.238.66|3128|Japan|Osaka|Oracle Corporation|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|12|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|18|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|14|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
 
 
 
