@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
-|11|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|12|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
-|13|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|14|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|15|194.87.55.194|2053|Germany|Frankfurt am Main|Hostkey B.V.|
+|9|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
+|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|15|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
 |16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|19|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
-|20|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|172.232.203.89|1080|Italy|Milan|Akamai Technologies, Inc.|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|194.146.223.31|1081|The Netherlands|Assen|Anton Levin|
 
 
 
