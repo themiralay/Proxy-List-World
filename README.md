@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.76.74|3172|Japan|Shimomaruko|InfoSphere|
 |2|116.80.81.108|3172|Japan|Shimomaruko|InfoSphere|
-|3|116.80.47.104|3172|Japan|Shimomaruko|InfoSphere|
-|4|43.133.220.72|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|106.10.55.212|1121|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|6|116.80.80.225|3172|Japan|Shimomaruko|InfoSphere|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|43.133.220.72|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|116.80.47.104|3172|Japan|Shimomaruko|InfoSphere|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
 |14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
-|17|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|51.81.6.158|3128|United States|Reston|OVH SAS|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|89.125.68.33|10000|Germany|Frankfurt am Main|Hostkey B.V.|
 
 
 
