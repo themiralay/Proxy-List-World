@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|8.216.132.206|20002|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.156.16.67|8818|Indonesia|Jatibarang|RSTNET|
+|2|116.80.83.93|3172|Japan|Shimomaruko|InfoSphere|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|12|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|13|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|45.26.30.144|8888|United States|Friendswood|AT&T Enterprises, LLC|
-|16|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|19|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|20|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|17|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|20|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
 
 
 
