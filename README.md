@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|1|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|6|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|7|172.86.92.68|58000|Germany|Frankfurt am Main|FranTech Solutions|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|12|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|14|77.42.127.4|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|81.177.214.151|8080|Finland|Helsinki|Global Connectivity Solutions LLP|
-|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|91.149.254.154|443|Finland|Helsinki|Baxet Group Inc.|
-|18|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|19|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|7|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|8|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|13|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|19|172.86.92.68|58000|Germany|Frankfurt am Main|FranTech Solutions|
+|20|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
