@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4101** proxies at the latest update. Usable proxies are below.
+> Scraper found **4114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|806|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1992|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
-|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|7|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
-|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|122.3.145.194|8083|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|68.183.53.204|3128|United States|Clifton|DigitalOcean, LLC|
-|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|18.221.157.29|3128|United States|Dublin|Amazon.com, Inc.|
+|11|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|18.221.157.29|3128|United States|Dublin|Amazon.com, Inc.|
+|17|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
