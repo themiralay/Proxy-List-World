@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|9|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|11|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|12|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|13|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|14|139.162.137.227|1080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|20|144.31.134.29|1050|The Netherlands|Amsterdam|Senko Digital LLC|
 
 
 
