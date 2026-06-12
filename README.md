@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.48.236|3172|Japan|Shimomaruko|InfoSphere|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|116.80.63.47|3172|Japan|Shimomaruko|InfoSphere|
-|9|116.80.83.94|3172|Japan|Shimomaruko|InfoSphere|
-|10|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
-|11|116.80.65.209|3172|Japan|Shimomaruko|InfoSphere|
-|12|116.80.83.95|3172|Japan|Shimomaruko|InfoSphere|
-|13|106.10.55.212|1121|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|14|116.80.83.17|3172|Japan|Shimomaruko|InfoSphere|
-|15|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|16|217.142.238.66|1080|Japan|Osaka|Oracle Corporation|
-|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|1|116.80.63.47|3172|Japan|Shimomaruko|InfoSphere|
+|2|116.80.48.236|3172|Japan|Shimomaruko|InfoSphere|
+|3|116.80.83.94|3172|Japan|Shimomaruko|InfoSphere|
+|4|116.80.83.17|3172|Japan|Shimomaruko|InfoSphere|
+|5|116.80.83.95|3172|Japan|Shimomaruko|InfoSphere|
+|6|116.80.65.209|3172|Japan|Shimomaruko|InfoSphere|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|17|172.232.203.89|1080|Italy|Milan|Akamai Technologies, Inc.|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|2.26.138.48|443|The Netherlands|Amsterdam|NKtelecom INC|
+|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
