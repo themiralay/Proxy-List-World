@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.129.246.233|18080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|7|45.38.19.11|443|United States|Kansas City|Digital LLC|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|10|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
+|12|152.53.52.47|1080|United States|Manassas|netcup GmbH|
 |13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|18|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|103.154.231.123|8090|Indonesia|Pagerwojo|DIGITNET|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|2.26.138.48|443|The Netherlands|Amsterdam|NKtelecom INC|
 
 
 
