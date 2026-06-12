@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.220.72|80|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|2|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|5|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
 |8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
 |13|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
-|14|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|14|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
 |15|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|16|172.86.92.68|58000|Germany|Frankfurt am Main|FranTech Solutions|
-|17|172.232.203.89|1080|Italy|Milan|Akamai Technologies, Inc.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|20|62.60.238.215|8080|Austria|Vienna|Aeza International LTD|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|130.61.179.77|1234|Germany|Frankfurt am Main|Oracle Corporation|
+|18|185.221.223.112|9090|Germany|Frankfurt Am Main|HZ Hosting Ltd|
+|19|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|20|2.26.138.48|443|The Netherlands|Amsterdam|NKtelecom INC|
 
 
 
