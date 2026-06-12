@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4376** proxies at the latest update. Usable proxies are below.
+> Scraper found **4576** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
+|[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|2|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|7|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
-|8|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|9|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|12|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
-|13|172.232.203.89|1080|Italy|Milan|Akamai Technologies, Inc.|
-|14|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|15|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|2.27.62.9|8888|Germany|Frankfurt am Main|Rizki Abdul Azis|
-|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|20|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|8|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|14|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|15|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
