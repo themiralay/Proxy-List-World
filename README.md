@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|2|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.76.153.217|1080|Singapore|Singapore|Choopa|
+|7|45.81.131.151|8888|United States|Los Angeles|Zenlayer Inc|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
