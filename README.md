@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
-|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|152.53.52.47|1080|United States|Manassas|netcup GmbH|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|139.59.111.223|8118|Singapore|Singapore|DIGITALOCEAN|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|18|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
-|19|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|9|103.111.115.247|1234|India|Mumbai|Melbikomas UAB|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|152.53.52.47|1080|United States|Manassas|netcup GmbH|
+|18|89.125.68.33|10000|Germany|Frankfurt am Main|Hostkey B.V.|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
