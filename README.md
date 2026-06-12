@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|10|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|13|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|14|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|16|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|11|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|16|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|17|77.246.101.204|55555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|172.232.203.89|1080|Italy|Milan|Akamai Technologies, Inc.|
+|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
