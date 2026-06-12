@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|4|111.119.243.167|9006|Singapore|Singapore|Huawei International Pte. LTD|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|17|194.87.55.194|2053|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|77.246.101.204|55555|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|51.241.150.12|1234|United Kingdom|London|Bage Cloud LLC|
+|18|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|20|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 
 
 
