@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|674|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|674|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|674|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|116.80.66.129|3172|Japan|Shimomaruko|InfoSphere|
 |3|43.167.192.85|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|5|146.56.133.63|1080|South Korea|Seoul|Oracle Corporation|
+|4|108.160.140.84|8118|Japan|Minamishinagawa|The Constant Company|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|124.121.2.214|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|8|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|15|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
 |18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|19|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|20|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
