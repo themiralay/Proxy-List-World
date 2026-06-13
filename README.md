@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|601|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|601|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|601|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|116.80.63.159|3172|Japan|Shimomaruko|InfoSphere|
-|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|116.80.51.39|3172|Japan|Shimomaruko|InfoSphere|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|116.102.185.188|80|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|18|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|20|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
+|1|116.80.66.130|3172|Japan|Shimomaruko|InfoSphere|
+|2|116.80.66.159|3172|Japan|Shimomaruko|InfoSphere|
+|3|116.80.63.159|3172|Japan|Shimomaruko|InfoSphere|
+|4|116.80.51.39|3172|Japan|Shimomaruko|InfoSphere|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
