@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|12|98.80.64.164|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|98.80.64.164|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 |19|98.80.64.164|3128|United States|Ashburn|Amazon.com, Inc.|
 |20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
