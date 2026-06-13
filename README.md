@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|15|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|16|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|18|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|20|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
