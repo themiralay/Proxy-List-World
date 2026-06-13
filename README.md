@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.53.77.179|8050|Indonesia|Bangil|INTI|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|13|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
-|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|20|200.174.198.32|8888|Brazil|São Paulo|Claro S.A.|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|11|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|15|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|16|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
