@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4116** proxies at the latest update. Usable proxies are below.
+> Scraper found **4138** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|484|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2360|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|8|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|13|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|195.133.63.224|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|11|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|17|52.140.3.27|3333|India|Chennai|Microsoft Corporation|
+|18|159.194.203.75|8118|Russia|St Petersburg|Beget LLC|
+|19|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
 
 
 
