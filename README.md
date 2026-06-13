@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|4|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|8|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|13|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.188.31.14|10808|United States|Los Angeles|HostPapa|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 
 
 
