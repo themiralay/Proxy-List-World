@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|5|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|9|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 |10|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|14|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|16|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|11|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|2.26.84.216|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|16|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|20|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
 
 
 
