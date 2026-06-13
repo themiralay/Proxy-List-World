@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.51.29|3172|Japan|Shimomaruko|InfoSphere|
 |2|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|7|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|16|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|18|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
+|19|144.31.80.121|8388|Germany|Frankfurt am Main|Chsl ONE LTD|
+|20|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
