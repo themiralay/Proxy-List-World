@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|644|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|644|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|644|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|8|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|38.210.179.30|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|18|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|1|116.80.60.241|3172|Japan|Shimomaruko|InfoSphere|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|77.246.104.106|4433|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
