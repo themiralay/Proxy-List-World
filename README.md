@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|11|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|15|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|64.188.31.14|10808|United States|Los Angeles|HostPapa|
-|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|4.221.164.109|443|South Africa|Johannesburg|Microsoft Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
