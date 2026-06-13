@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|116.80.66.134|3172|Japan|Shimomaruko|InfoSphere|
 |4|116.80.51.16|3172|Japan|Shimomaruko|InfoSphere|
 |5|116.80.51.34|3172|Japan|Shimomaruko|InfoSphere|
-|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
 |7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|16|157.245.143.65|7890|United States|North Bergen|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|45.76.78.247|10001|United States|Los Angeles|The Constant Company|
 
 
 
