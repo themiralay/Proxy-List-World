@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.161.16.195|50580|Vietnam|Phúc Lai|BKSI|
-|2|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |3|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|13|34.204.185.68|3128|United States|Ashburn|Amazon.com, Inc.|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
-|18|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|19|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|15|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|18|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
