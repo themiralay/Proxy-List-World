@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|116.80.63.156|3172|Japan|Shimomaruko|InfoSphere|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|1|116.80.63.156|3172|Japan|Shimomaruko|InfoSphere|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
 |10|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|14|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|194.87.83.113|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|15|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|85.192.28.65|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|19|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
