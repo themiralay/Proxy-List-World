@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|45.95.233.237|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|5|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|13|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|14|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
