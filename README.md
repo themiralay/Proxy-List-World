@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|107.174.210.60|7890|United States|Los Angeles|HostPapa|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|49.12.219.42|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|19|194.87.187.20|8118|Russia|Moscow|JSC "TIMEWEB"|
-|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|7|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|8|8.212.159.193|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
