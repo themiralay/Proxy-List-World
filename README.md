@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5434** proxies at the latest update. Usable proxies are below.
+> Scraper found **5361** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|866|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3201|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|10|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|9|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|10|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|14|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|17|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|18|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
