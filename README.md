@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|7|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|151.243.153.157|8118|United States|Seattle|Black Apple|
-|14|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|19|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|2|43.167.192.85|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.80.50.229|3172|Japan|Shimomaruko|InfoSphere|
+|4|116.80.83.94|3172|Japan|Shimomaruko|InfoSphere|
+|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|8|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|15|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
