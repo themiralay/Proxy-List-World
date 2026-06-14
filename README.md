@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|4|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|4|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|10|3.90.49.93|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |12|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|13|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|3.90.49.93|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|3.90.49.93|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
 
 
 
