@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 |3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|10|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|31.57.51.111|8888|Hong Kong|Chai Wan|Asline Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|19|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|20|91.107.182.124|83|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
