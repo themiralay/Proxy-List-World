@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|116.80.96.250|3172|Japan|Shimomaruko|InfoSphere|
-|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|116.80.96.250|3172|Japan|Shimomaruko|InfoSphere|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|10|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|11|116.80.48.147|3172|Japan|Shimomaruko|InfoSphere|
-|12|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|14|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|18|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|10|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|11|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|14|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|15|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|20|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
 
 
 
