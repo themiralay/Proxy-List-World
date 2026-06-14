@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|3|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|7|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|212.118.52.196|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|17|191.40.5.0|8888|Germany|Frankfurt am Main|Eons Data Communications Limited|
+|18|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
