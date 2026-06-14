@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3996** proxies at the latest update. Usable proxies are below.
+> Scraper found **4068** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2518|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|7|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|14|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|15|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|16|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|147.45.76.207|3128|Sweden|Stockholm|Aeza International LTD|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|4|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 
 
 
