@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|4|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|5|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|9|3.126.135.206|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|12|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
-|17|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|61.82.142.10|1080|South Korea|Gangnam-gu|Korea Telecom|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
 |18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|20|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
 
 
 
