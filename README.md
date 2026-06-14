@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|2|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|18|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|19|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|20|111.92.88.27|3128|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|18|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|19|191.40.5.0|8888|Germany|Frankfurt am Main|Eons Data Communications Limited|
+|20|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
