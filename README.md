@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|17|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|8|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|17|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
 |18|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|3.126.135.206|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
 
 
 
