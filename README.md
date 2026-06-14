@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|621|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|621|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|621|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|9|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|11|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|188.137.252.194|1080|The Netherlands|Oude Meer|Podaon SIA|
-|19|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|16|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|20|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 
 
 
