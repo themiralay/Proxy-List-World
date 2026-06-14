@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4672** proxies at the latest update. Usable proxies are below.
+> Scraper found **4894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3200|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|8.218.227.241|12366|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|12|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|13|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |14|212.118.52.196|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
-|16|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
-|17|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|188.137.252.194|1080|The Netherlands|Oude Meer|Podaon SIA|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|18|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|20|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
