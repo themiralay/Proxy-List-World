@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|18|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|19|191.40.5.0|8888|Germany|Frankfurt am Main|Eons Data Communications Limited|
-|20|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|7|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|10|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|19|64.176.36.91|8888|Japan|Osaka|The Constant Company|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
