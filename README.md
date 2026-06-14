@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
-|15|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|191.40.5.0|8888|Germany|Frankfurt am Main|Eons Data Communications Limited|
-|19|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
-|20|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
