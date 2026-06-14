@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|8|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
-|9|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|103.133.61.165|3168|Indonesia|Bandar Lampung|TLINK|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|47.80.103.120|8080|Philippines|Manila|Alibaba.com LLC|
+|15|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
 |16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
