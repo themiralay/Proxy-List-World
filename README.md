@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
 |3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|13|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
 |14|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|15|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|83.147.36.155|8080|United States|Kansas City|WholeSale Internet, Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 |19|150.251.146.11|9443|The Netherlands|Amsterdam|Baxet Group Inc.|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
