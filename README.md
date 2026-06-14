@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4414** proxies at the latest update. Usable proxies are below.
+> Scraper found **4352** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|481|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2881|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|11|103.139.126.85|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|15|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
-|16|194.87.83.113|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|91.107.254.3|2080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|9|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
