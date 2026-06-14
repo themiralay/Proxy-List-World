@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|163.223.111.22|8082|Philippines|Claveria|Kuya J Network Seven Infinity IT Solutions|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|19|147.45.111.209|2080|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
