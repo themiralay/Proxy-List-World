@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
-|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|6|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|140.245.42.167|1080|Singapore|Singapore|Oracle Corporation|
+|7|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|8|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 
 
