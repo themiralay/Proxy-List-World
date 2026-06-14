@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|3|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|7|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|12|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|15|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|16|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|17|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|13|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|18|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
