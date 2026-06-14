@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|103.161.16.195|50580|Vietnam|Phúc Lai|BKSI|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
 |17|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|188.137.252.194|1080|The Netherlands|Oude Meer|Podaon SIA|
-|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
