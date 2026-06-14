@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|42.2.4.163|1080|Hong Kong|Central|PCCW IMS Limited|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
-|11|212.118.52.196|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|2|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|103.102.14.64|666|Indonesia|Rembang|FISNET|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.139.126.85|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|103.191.169.218|1111|Indonesia|Bantaeng|PT Sugi Bintang Jaya|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
