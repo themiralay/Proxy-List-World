@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4894** proxies at the latest update. Usable proxies are below.
+> Scraper found **4706** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3200|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|160.19.19.170|3125|Indonesia|Subang|PT Indo Telemedia Solusi|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|23.94.194.238|8118|United States|Elk Grove Village|HostPapa|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|12|85.192.60.187|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|13|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|212.118.52.196|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|20|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|15|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|17|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|23.94.194.238|8118|United States|Elk Grove Village|HostPapa|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
