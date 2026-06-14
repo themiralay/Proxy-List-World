@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|64.176.36.91|8888|Japan|Osaka|The Constant Company|
 |4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
 |7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|144.172.114.214|1080|United States|Ogden|RouterHosting LLC|
+|11|103.139.126.85|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|62.133.62.187|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|14|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
+|15|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|16|194.87.83.113|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|18|91.107.168.255|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|91.107.254.3|2080|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
