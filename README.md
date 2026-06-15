@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 |12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|15|3.237.254.211|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|14|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|3.237.254.211|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
