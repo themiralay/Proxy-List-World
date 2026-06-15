@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 |2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 |3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|8|8.216.132.206|20002|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|54.183.130.158|3128|United States|San Jose|Amazon.com, Inc.|
-|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|14|54.183.130.158|3128|United States|San Jose|Amazon.com, Inc.|
-|15|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|9|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|12|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|54.183.130.158|3128|United States|San Jose|Amazon.com, Inc.|
+|16|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|17|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|54.183.130.158|3128|United States|San Jose|Amazon.com, Inc.|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
