@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|42.2.4.163|1080|Hong Kong|Central|PCCW IMS Limited|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|18|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
 |20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 
 
