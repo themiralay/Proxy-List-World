@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
-|2|154.206.67.83|9000|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|151.243.180.211|2080|The Netherlands|Amsterdam|Hostkey B.V|
-|18|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
-|19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|43.162.115.85|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|10|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|11|47.128.73.163|1080|Singapore|Singapore|Amazon Technologies Inc|
+|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|14|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|103.99.115.75|40000|United States|Los Angeles|Cnservers LLC|
+|18|45.174.168.1|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|19|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
