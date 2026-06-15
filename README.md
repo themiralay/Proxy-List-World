@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |6|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|17|50.114.102.16|8888|Germany|Frankfurt am Main|Sculk Ltd|
+|7|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|17|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
 |18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 |19|191.40.5.0|8888|Germany|Frankfurt am Main|Eons Data Communications Limited|
-|20|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
 
 
 
