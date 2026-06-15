@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
 |2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|20|91.107.172.30|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|14|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
+|15|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|16|144.31.134.103|1080|The Netherlands|Amsterdam|Senko Digital LLC|
+|17|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|18|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|38.76.150.55|1080|United States|Los Angeles|NetLab Global|
 
 
 
