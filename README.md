@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|5|103.161.16.195|50580|Vietnam|Phúc Lai|BKSI|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|103.161.16.195|50070|Vietnam|Phúc Lai|BKSI|
+|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
 
 
 
