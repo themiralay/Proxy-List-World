@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|11|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|190.12.150.244|999|Ecuador|Quininde|Servitelconet Cia. Ltda.|
-|19|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|9|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|10|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|11|217.114.6.154|5555|Russia|Yekaterinburg|LLC Skynet|
+|12|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|200.59.191.100|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|17|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|18|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 
 
 
