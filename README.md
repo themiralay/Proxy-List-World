@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|198.40.53.61|2001|United States|Fremont|SolidTools Technology|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|1|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
+|4|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|15|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|16|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
