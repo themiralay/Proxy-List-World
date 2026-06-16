@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5023** proxies at the latest update. Usable proxies are below.
+> Scraper found **4816** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1128|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2756|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|198.40.53.61|2001|United States|Fremont|SolidTools Technology|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
-|7|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|15|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
-|19|62.133.62.207|1082|France|Paris|Global Connectivity Solutions LLP|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
+|9|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
+|10|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|11|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|16|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|17|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|18|187.199.116.70|80|Mexico|Los Cabos|Uninet S.A. de C.V.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
