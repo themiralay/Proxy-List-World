@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4668** proxies at the latest update. Usable proxies are below.
+> Scraper found **4543** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|0|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2756|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|5|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|13|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|16|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|62.133.62.187|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 
 
 
