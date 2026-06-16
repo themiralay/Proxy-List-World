@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5066** proxies at the latest update. Usable proxies are below.
+> Scraper found **5264** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1330|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|176|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2756|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
-|4|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|4|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
+|5|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
+|6|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|13|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|11|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|12|198.40.53.62|2001|United States|Fremont|SolidTools Technology|
+|13|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
+|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|103.126.86.147|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|19|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|20|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 
 
 
