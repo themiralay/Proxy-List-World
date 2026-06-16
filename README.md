@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|54.79.50.67|3128|Australia|Sydney|Amazon Corporate Services Pty Ltd, Amazon.com, Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|3|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|157.20.239.237|9090|Indonesia|Kebomas|PT Era Network Indonesia|
 |7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|13|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|15|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|95.174.92.4|1080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|174.138.171.34|8080|United States|Phoenix|Secured Servers LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|10|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|16|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|17|18.156.91.133|8118|Germany|Frankfurt am Main|Amazon.com, Inc.|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
