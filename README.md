@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.174.75.49|6060|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|1.174.75.49|6060|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |3|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|7|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|12|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|13|198.40.53.60|2001|United States|Fremont|SolidTools Technology|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
