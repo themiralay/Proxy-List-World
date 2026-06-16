@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4428** proxies at the latest update. Usable proxies are below.
+> Scraper found **4399** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|410|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2978|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|5|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|6|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|7|103.25.220.22|8081|Philippines|Bagong Silang|Imjwanklik Internet Communication Services|
-|8|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|13|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|14|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|15|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|16|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|19|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|20|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|3|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|4|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|5|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|6|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|7|95.174.92.4|1080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|10|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|72.56.125.127|444|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|15|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|16|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|17|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|20|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
