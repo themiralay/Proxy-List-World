@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.202.43.122|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|15|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|16|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|17|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|11|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
 
 
 
