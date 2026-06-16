@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|8|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|9|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|10|86.53.163.185|10001|United Kingdom|City of London|GTT|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|14|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|8|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|11|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
 |16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|17|5.202.120.123|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|18|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|19|174.138.171.34|8080|United States|Phoenix|Secured Servers LLC|
-|20|174.138.171.34|8080|United States|Phoenix|Secured Servers LLC|
+|17|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|18|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|200.174.198.32|8888|Brazil|São Paulo|Claro S.A.|
 
 
 
