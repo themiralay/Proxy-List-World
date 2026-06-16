@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|3|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|12|180.131.145.63|4000|United States|New York|OVH SAS|
-|13|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|18|180.131.145.63|4000|United States|New York|OVH SAS|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|180.131.145.63|4000|United States|New York|OVH SAS|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|16|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
