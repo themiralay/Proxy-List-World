@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
-|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|4|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|1|23.176.40.194|1080|Japan|Chiyoda City|DDPS Networks, LLC|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|6|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
+|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|9|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |17|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
