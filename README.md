@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|1|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
 
 
 
