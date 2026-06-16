@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4235** proxies at the latest update. Usable proxies are below.
+> Scraper found **4210** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|536|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2605|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|4|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|10|138.68.31.222|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|150.251.146.11|9443|The Netherlands|Amsterdam|Baxet Group Inc.|
-|20|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|13|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
