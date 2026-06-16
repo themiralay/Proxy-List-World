@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4587** proxies at the latest update. Usable proxies are below.
+> Scraper found **4550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|74|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2934|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|154.12.60.65|888|Hong Kong|Hong Kong|NetLab Global|
 |6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|14|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|16|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
