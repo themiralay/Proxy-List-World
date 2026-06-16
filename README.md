@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|86.53.163.185|10001|United Kingdom|City of London|GTT|
-|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|20|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|16|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
 
 
 
