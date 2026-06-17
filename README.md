@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4632** proxies at the latest update. Usable proxies are below.
+> Scraper found **4479** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|769|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|616|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2738|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |2|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|219.84.152.65|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|10|202.58.77.18|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|219.84.152.65|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|4|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|6|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|11|151.243.153.157|8118|United States|Seattle|Black Apple|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|20|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|16|45.174.168.43|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|180.131.145.63|4000|United States|New York|OVH SAS|
+|20|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
