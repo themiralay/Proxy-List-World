@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|3|219.84.152.119|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|6|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|7|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|8|219.84.152.65|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|219.84.152.119|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|5|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|8|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|151.243.153.157|8118|United States|Seattle|Black Apple|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|17|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|17|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
 |19|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
