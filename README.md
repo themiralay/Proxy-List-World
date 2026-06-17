@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|2|45.81.131.192|8888|United States|Los Angeles|Zenlayer Inc|
-|3|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|154.12.60.65|888|Hong Kong|Hong Kong|NetLab Global|
+|4|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
 |5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |7|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|154.12.60.65|888|Hong Kong|Hong Kong|NetLab Global|
-|10|45.81.131.192|8888|United States|Los Angeles|Zenlayer Inc|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|17|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|18|180.131.145.63|4000|United States|New York|OVH SAS|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|45.81.131.192|8888|United States|Los Angeles|Zenlayer Inc|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|14|45.81.131.192|8888|United States|Los Angeles|Zenlayer Inc|
+|15|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|16|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|19|86.53.163.185|10001|United Kingdom|City of London|GTT|
+|20|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
