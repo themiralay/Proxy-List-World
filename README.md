@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.83.16|3172|Japan|Shimomaruko|InfoSphere|
-|3|116.80.64.171|3172|Japan|Shimomaruko|InfoSphere|
-|4|116.80.63.47|3172|Japan|Shimomaruko|InfoSphere|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|116.80.92.54|3172|Japan|Shimomaruko|InfoSphere|
+|3|116.80.63.47|3172|Japan|Shimomaruko|InfoSphere|
+|4|116.80.64.171|3172|Japan|Shimomaruko|InfoSphere|
+|5|116.80.83.16|3172|Japan|Shimomaruko|InfoSphere|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|9|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|11|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|103.19.78.242|1080|Indonesia|Kebomas|PT Persada Data Multimedia|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|15|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|9|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|49.51.186.8|3128|United States|Santa Clara|OPHL|
+|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|13|180.131.145.63|4000|United States|New York|OVH SAS|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|16|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|49.51.186.8|3128|United States|Santa Clara|OPHL|
+|20|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
 
 
 
