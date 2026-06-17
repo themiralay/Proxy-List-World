@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
-|11|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|18|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|11|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|94.156.114.132|524|Germany|Frankfurt am Main|Play2go International Limited|
+|14|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|62.133.62.184|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|46.224.224.246|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
