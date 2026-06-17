@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|5|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|172.93.144.143|888|United States|Buffalo|Nexeon Technologies, Inc.|
-|8|157.15.0.152|7778|Indonesia|Ngawi|Gopalnet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|172.93.144.143|888|United States|Buffalo|Nexeon Technologies, Inc.|
-|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|14|124.121.186.200|8080|Thailand|Bangkok|TRUE|
-|15|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|20|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|134.209.106.75|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.156.16.55|8818|Indonesia|Karangsembung|RSTNET|
+|9|157.66.36.170|8080|Indonesia|Rangkasbitung|PT Trik Media Data|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|103.160.216.105|8080|India|Tirupur|Uteleservices|
+|18|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
