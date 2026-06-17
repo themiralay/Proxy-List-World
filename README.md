@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|172.235.214.102|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|10|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|18|94.156.114.132|524|Germany|Frankfurt am Main|Play2go International Limited|
-|19|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|172.235.198.182|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|103.109.96.180|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|172.235.214.102|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|15|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|19|94.228.163.232|1080|Russia|Moscow|"Pronet" LLC|
+|20|49.49.79.42|8888|Thailand|Tha Uthen|Triple T Broadband Public Company Limited|
 
 
 
