@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|107.174.218.124|7890|United States|Santa Clara|HostPapa|
-|7|180.131.145.63|4000|United States|New York|OVH SAS|
-|8|219.84.152.65|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|11|121.101.129.250|8080|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
-|12|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|13|180.131.145.63|4000|United States|New York|OVH SAS|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|203.88.118.121|1080|United States|Los Angeles|Multacom Corporation|
-|17|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|147.45.170.190|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|45.174.168.43|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|219.84.152.65|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|10|202.58.77.18|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
+|16|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|20|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
 
 
 
