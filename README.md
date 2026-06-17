@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.50.48|3172|Japan|Shimomaruko|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.50.48|3172|Japan|Shimomaruko|InfoSphere|
 |3|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
 |6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|219.84.152.87|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|11|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|132.243.228.66|443|Germany|Frankfurt am Main|Hostkey B.V.|
-|13|86.53.163.185|10001|United Kingdom|City of London|GTT|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|103.248.8.41|8090|Indonesia|Garut|Flashnet|
+|7|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|8|219.84.152.87|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|9|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|15|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
 |16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|18|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
