@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|103.42.203.60|8090|Bangladesh|Lakshmīpur|HelloTech Limited|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|107.175.232.21|2080|United States|Los Angeles|HostPapa|
-|13|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|103.147.230.17|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|192.9.182.6|20172|Australia|Sydney|Oracle Corporation|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|217.174.244.117|3129|United Kingdom|Slough|IONOS SE|
+|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 
 
 
