@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.83.94|3172|Japan|Shimomaruko|InfoSphere|
 |2|116.80.76.74|3172|Japan|Shimomaruko|InfoSphere|
-|3|172.235.214.159|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |5|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|203.150.128.53|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
 |9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|15|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|16|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
 |19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
