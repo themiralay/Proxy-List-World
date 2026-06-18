@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.11.81|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|2|169.212.15.161|5000|South Korea|Gimpo-si|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|219.84.152.119|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|162.243.228.237|3128|United States|Secaucus|DigitalOcean, LLC|
-|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|12|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|162.243.228.237|3128|United States|Secaucus|DigitalOcean, LLC|
-|15|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|129.80.238.83|444|United States|Ashburn|Oracle Corporation|
-|17|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|172.235.214.124|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|20|213.136.72.147|3128|France|Lauterbourg|Contabo GmbH|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|157.245.100.190|442|India|Bengaluru|DigitalOcean, LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
