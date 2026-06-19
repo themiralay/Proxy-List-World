@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|192.236.131.143|1080|United States|Los Angeles|HostPapa|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|8|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|94.156.114.132|524|Germany|Frankfurt am Main|Play2go International Limited|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|13|107.174.107.161|2001|United States|Los Angeles|HostPapa|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|18|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|19|219.84.152.166|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|20|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|9|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|12|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|14|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
+|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|17|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|18|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|19|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
 
 
 
