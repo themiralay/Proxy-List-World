@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|14|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|116.101.9.20|2030|Vietnam|Ngo Quyen Ward|Viettel Group|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 |17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|19|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
