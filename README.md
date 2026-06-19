@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|43.162.94.63|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|14|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|43.162.94.63|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|13|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
