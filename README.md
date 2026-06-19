@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.44|3172|Japan|Shimomaruko|InfoSphere|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.64.44|3172|Japan|Shimomaruko|InfoSphere|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|192.236.131.143|1080|United States|Los Angeles|HostPapa|
 |5|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|139.84.177.129|5555|India|Noida|The Constant Company, LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|17|94.156.114.132|524|Germany|Frankfurt am Main|Play2go International Limited|
+|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
 
 
 
