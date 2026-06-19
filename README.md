@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|38.58.130.128|999|Mexico|Cardonal|Radiocomunicaciones de Ixmiquilpan SA de CV|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|20|95.85.252.153|21064|Germany|Frankfurt am Main|OC NETWORKS LIMITED|
+|2|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|160.202.47.160|1080|Hong Kong|Kwai Chung|HanMing HK Limited|
+|9|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
 
 
 
