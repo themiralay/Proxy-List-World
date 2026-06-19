@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4976** proxies at the latest update. Usable proxies are below.
+> Scraper found **5248** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1022|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2660|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2932|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|2|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.210.54|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|45.38.19.11|443|United States|Kansas City|Digital LLC|
-|19|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.218.210.54|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|187.199.116.70|80|Mexico|Los Cabos|Uninet S.A. de C.V.|
+|11|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|20|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
