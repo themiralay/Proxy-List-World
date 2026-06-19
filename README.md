@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|9|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
-|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|5|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|12|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|13|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|14|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|15|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|77.110.116.93|7443|Austria|Vienna|Aeza International LTD|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|95.174.92.4|1080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
