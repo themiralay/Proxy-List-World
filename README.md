@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|116.80.50.48|3172|Japan|Shimomaruko|InfoSphere|
-|3|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |8|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
 |10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|180.131.145.63|4000|United States|New York|OVH SAS|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|180.131.145.63|4000|United States|New York|OVH SAS|
-|18|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|151.243.153.157|8118|United States|Seattle|Black Apple|
+|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|12|159.198.35.187|1080|United States|Phoenix|Namecheap, Inc.|
+|13|45.95.232.35|3128|Switzerland|Zurich|Global Connectivity Solutions LLP|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|18|208.67.248.62|3128|United States|Plano|VIRTBIZ Internet Services|
+|19|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|20|208.67.248.61|3128|United States|Plano|VIRTBIZ Internet Services|
 
 
 
