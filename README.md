@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.83.93|3172|Japan|Shimomaruko|InfoSphere|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|116.101.9.20|2103|Vietnam|Ngo Quyen Ward|Viettel Group|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|20|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|7|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|19|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
