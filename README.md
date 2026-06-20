@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|116.80.83.99|3172|Japan|Shimomaruko|InfoSphere|
-|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|17|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|213.165.42.185|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|192.236.131.143|1080|United States|Los Angeles|HostPapa|
+|7|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|12|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|13|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|15|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|16|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
