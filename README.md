@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
-|5|49.51.186.8|3128|United States|Santa Clara|OPHL|
-|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|172.235.214.159|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|12|101.53.134.45|3128|India|Noida|E2E Networks Limited|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|18|49.51.186.8|3128|United States|Santa Clara|OPHL|
+|11|101.53.134.45|3128|India|Noida|E2E Networks Limited|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
