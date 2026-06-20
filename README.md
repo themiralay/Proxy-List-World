@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|13.73.194.134|3128|Australia|The Rocks|Microsoft Corporation|
+|2|8.218.210.54|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|13.73.194.134|3128|Australia|The Rocks|Microsoft Corporation|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|54.161.125.113|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|116.101.9.20|2103|Vietnam|Ngo Quyen Ward|Viettel Group|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|18|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|20|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|10|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|16|54.161.125.113|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|20|101.53.134.45|3128|India|Noida|E2E Networks Limited|
 
 
 
