@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5011** proxies at the latest update. Usable proxies are below.
+> Scraper found **5016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|862|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|0|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2917|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|172.235.198.182|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|3|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|10|116.101.9.20|2090|Vietnam|Ngo Quyen Ward|Viettel Group|
-|11|54.218.56.128|3128|United States|Portland|Amazon.com, Inc.|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|54.212.106.51|3128|United States|Portland|Amazon.com, Inc.|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|54.218.57.167|3128|United States|Portland|Amazon.com, Inc.|
-|17|34.200.8.40|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|19|100.52.49.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|34.203.240.80|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|7|54.218.56.128|3128|United States|Portland|Amazon.com, Inc.|
+|8|116.101.9.20|2103|Vietnam|Ngo Quyen Ward|Viettel Group|
+|9|54.212.106.51|3128|United States|Portland|Amazon.com, Inc.|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|54.161.125.113|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|54.234.143.20|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|34.200.8.40|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|32.199.85.154|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|18.116.238.94|3128|United States|Dublin|Amazon.com, Inc.|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
