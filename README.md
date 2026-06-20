@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5376** proxies at the latest update. Usable proxies are below.
+> Scraper found **4499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3207|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
-|5|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|176.12.69.2|443|Russia|Khimki|WEBDC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
+|3|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|101.53.134.45|3128|India|Noida|E2E Networks Limited|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
 
 
 
