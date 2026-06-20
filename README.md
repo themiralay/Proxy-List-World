@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.83.93|3172|Japan|Shimomaruko|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|8.218.227.241|12366|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|9|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|10|4.237.213.197|8080|Australia|The Rocks|Microsoft Corporation|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 
 
 
