@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
-|6|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|101.53.134.45|3128|India|Noida|E2E Networks Limited|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|11|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|1|8.218.210.54|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|101.53.134.45|3128|India|Noida|E2E Networks Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|3.95.232.113|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |20|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
