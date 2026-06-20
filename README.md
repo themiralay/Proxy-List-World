@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.226.65|10808|Singapore|Singapore|DIGITALOCEAN|
-|5|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|6|43.155.132.199|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|171.247.158.101|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|151.243.153.157|8118|United States|Seattle|Black Apple|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|116.101.9.20|2103|Vietnam|Ngo Quyen Ward|Viettel Group|
-|19|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
-|20|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
+|1|116.80.64.171|3172|Japan|Shimomaruko|InfoSphere|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|7|219.84.152.2|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|14|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|15|139.59.222.244|10808|Singapore|Singapore|DigitalOcean, LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|45.38.19.11|443|United States|Kansas City|Digital LLC|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|95.85.252.153|21064|Germany|Frankfurt am Main|OC NETWORKS LIMITED|
 
 
 
