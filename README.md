@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
 |3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|101.53.134.45|3128|India|Noida|E2E Networks Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|7|54.255.119.3|9090|Singapore|Singapore|Amazon Technologies Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|17|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|18|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|20|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|12|101.53.134.45|3128|India|Noida|E2E Networks Limited|
+|13|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 
 
 
