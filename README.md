@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
-|3|172.235.214.102|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|4|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|5|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|54.255.119.3|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
 |12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|16|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|66.175.236.184|2080|United States|Sulphur Springs|IONOS SE|
+|14|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|15|89.169.53.40|7443|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 |18|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
-|19|66.175.236.184|2080|United States|Sulphur Springs|IONOS SE|
-|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|45.198.10.82|8080|Indonesia|Wonosobo|PT Jaringan Lintas Artha|
 
 
 
