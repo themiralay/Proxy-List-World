@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5552** proxies at the latest update. Usable proxies are below.
+> Scraper found **5689** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|0|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3538|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|14.53.55.217|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|8.220.216.57|3128|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
 |4|45.125.67.136|8443|Hong Kong|Fanling|Tele Asia Limited|
 |5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |6|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|101.53.134.45|3128|India|Noida|E2E Networks Limited|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|18|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
+|7|14.53.55.217|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|101.53.134.45|3128|India|Noida|E2E Networks Limited|
+|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|172.235.214.102|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|62.133.62.231|1082|France|Paris|Global Connectivity Solutions LLP|
+|20|172.235.214.159|1080|Japan|Osaka|Akamai Technologies, Inc.|
 
 
 
