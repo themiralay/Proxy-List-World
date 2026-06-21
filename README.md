@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
-|3|43.167.192.85|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
-|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|54.255.119.3|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|9|103.156.17.161|8818|Indonesia|Jatibarang|RSTNET|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|13|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|2|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
+|3|23.141.4.103|8080|Hong Kong|Kwai Chung|GoMami Networks|
+|4|43.167.192.85|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|45.125.67.136|8443|Hong Kong|Fanling|Tele Asia Limited|
+|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|66.175.236.184|2080|United States|Sulphur Springs|IONOS SE|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
