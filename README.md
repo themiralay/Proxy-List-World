@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|180.2.108.38|8080|Japan|Bukkōchō|NTT Communications Corporation|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|151.243.153.157|8118|United States|Seattle|Black Apple|
-|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|9|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|180.131.145.63|4000|United States|New York|OVH SAS|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|45.67.223.123|2001|United States|Los Angeles|Cnservers LLC|
-|16|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
-|17|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|18|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|180.131.145.63|4000|United States|New York|OVH SAS|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|103.101.193.38|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|3|39.112.232.72|8080|South Korea|Suseong-gu|SK Broadband Co Ltd|
+|4|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|7|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|8|163.223.150.82|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|9|157.66.192.157|8080|Indonesia|Surabaya|PT Indotech Digitama Superlink|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|114.9.55.102|1111|Indonesia|Jeneponto|PT. INDOSAT Tbk|
+|16|103.248.8.41|8090|Indonesia|Garut|Flashnet|
+|17|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|146.196.108.81|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|19|103.29.4.137|8080|Indonesia|Jakarta|PT. Solusindo Bintang Pratama|
+|20|159.196.182.72|8080|Australia|Melbourne|Wideband Networks Pty Ltd|
 
 
 
