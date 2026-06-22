@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4622** proxies at the latest update. Usable proxies are below.
+> Scraper found **4626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|694|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|33|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|15|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|11|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2957|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|172.104.114.225|1080|Japan|Tokyo|Akamai Technologies|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|203.90.233.11|8080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|207.246.68.214|3129|United States|Miami|The Constant Company|
-|11|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|14|34.200.8.40|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|172.235.214.124|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|203.90.233.11|8080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|34.200.8.40|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|10|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|11|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|12|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|14|176.111.37.216|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|15|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|20|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
