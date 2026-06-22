@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|85.237.206.150|1234|Taiwan|Taipei|WAP.AC LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|6|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|203.90.233.11|8080|Hong Kong|Hong Kong|HGC Global Communications Limited|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|54.255.119.3|9090|Singapore|Singapore|Amazon Technologies Inc.|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|203.90.233.11|8080|Hong Kong|Hong Kong|HGC Global Communications Limited|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
+|19|81.200.154.236|48503|Poland|Warsaw|Timeweb, LLP|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
