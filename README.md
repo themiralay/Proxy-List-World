@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|2|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|7|31.76.13.237|1080|United States|Orem|Ace Data Centers II|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|15|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|212.77.75.25|3129|Italy|Empoli|Leonet srl Empoli|
-|20|157.15.139.138|8080|Indonesia|Sleman|PT Ring Media Nusantara|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|207.246.68.214|3129|United States|Miami|The Constant Company|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
