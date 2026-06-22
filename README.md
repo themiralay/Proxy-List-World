@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|172.235.214.124|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|172.104.114.165|1080|Japan|Tokyo|Akamai Technologies|
 |15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|17|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|31.76.13.237|1080|United States|Orem|Ace Data Centers II|
+|16|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
