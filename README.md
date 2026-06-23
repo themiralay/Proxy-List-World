@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|3172|Japan|Shimomaruko|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|116.80.45.46|3172|Japan|Shimomaruko|InfoSphere|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|7|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|18|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|160.19.16.101|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|2|116.80.45.46|3172|Japan|Shimomaruko|InfoSphere|
+|3|47.243.89.150|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|112.203.113.66|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|14|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|103.191.218.171|8080|Indonesia|Kuningan|PT Replay Inti Media|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|31.76.13.237|1080|United States|Orem|Ace Data Centers II|
+|20|151.243.153.157|8118|United States|Seattle|Black Apple|
 
 
 
