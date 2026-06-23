@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.180.85|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
 |4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|203.150.128.32|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|15|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
-|16|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|15|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|82.97.240.163|443|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
