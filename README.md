@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|11|212.69.84.153|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|19|176.12.65.24|443|Russia|Khimki|WEBDC|
-|20|103.227.187.3|6090|Indonesia|Kendalrejo|PT Master Star Network|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|54.255.119.3|9090|Singapore|Singapore|Amazon Technologies Inc.|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|14|212.69.84.153|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
 
 
 
