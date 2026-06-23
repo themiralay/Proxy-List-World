@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.76.189.163|7777|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|4|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|7|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|8|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|7|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|18|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
