@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|2|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|10|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.76.189.163|7777|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|6|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|10|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|12|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
