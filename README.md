@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|140.245.108.78|1080|Singapore|Singapore|Oracle Corporation|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|8.218.210.54|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|85.121.51.40|9091|Austria|Vienna|M247 Europe SRL|
+|7|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|14|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|15|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|18|38.244.24.79|1080|United States|Los Angeles|Cogent Communications|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
 
