@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|172.235.214.113|1080|Japan|Osaka|Akamai Technologies, Inc.|
-|3|103.174.236.178|1111|Indonesia|Sukasari|PT Global Erasiber Teknologi|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|103.227.187.11|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|9|103.159.195.222|8181|Indonesia|Rogotrunan|PT Giga Digital Nusantara|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|101.255.136.42|80|Indonesia|Tangerang|PT Remala Abadi|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.160.68.107|8081|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|116.101.9.20|2103|Vietnam|Ngo Quyen Ward|Viettel Group|
 |15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|16|103.153.149.136|8080|Indonesia|Weleri|JARINGANKU|
-|17|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|103.162.221.4|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|190.2.145.103|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
