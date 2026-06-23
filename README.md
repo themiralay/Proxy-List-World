@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|47.76.189.163|7777|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|143.198.239.98|1047|United States|Santa Clara|DigitalOcean, LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 |10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
 |13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
 |16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|19|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|20|156.226.176.87|1080|Hong Kong|Hong Kong|158 Cloud Computing|
 
 
 
