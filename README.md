@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|4.237.213.197|8080|Australia|The Rocks|Microsoft Corporation|
-|16|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
-|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
