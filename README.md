@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|119.93.94.108|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
 |4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|212.69.84.153|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|15|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|16|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|18|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|116.101.9.20|2090|Vietnam|Ngo Quyen Ward|Viettel Group|
+|10|4.237.213.197|8080|Australia|The Rocks|Microsoft Corporation|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|13|88.218.248.126|3128|The Netherlands|Amsterdam|GLB Bulut Teknolojisi Limited Sirketi|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|212.69.84.153|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|17|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
 |19|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
