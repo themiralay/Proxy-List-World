@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |5|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
 |6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|54.153.56.243|80|United States|San Jose|Amazon.com, Inc.|
+|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|54.153.56.243|80|United States|San Jose|Amazon.com, Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|18|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
