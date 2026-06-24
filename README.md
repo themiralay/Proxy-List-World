@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|172.104.89.20|1080|Japan|Tokyo|Akamai Technologies|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|11|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|12|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|157.173.109.85|8081|France|Lauterbourg|Contabo GmbH|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|16|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
-|17|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.156.75.242|8181|Indonesia|Gianyar|PT Trika Global Media|
+|1|172.104.89.20|1080|Japan|Tokyo|Akamai Technologies|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|16|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|18|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|85.192.61.93|7443|Finland|Helsinki|Aeza International LTD|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
