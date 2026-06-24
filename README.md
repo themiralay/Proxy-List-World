@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|6|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|7|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|8|139.162.84.172|1080|Japan|Tokyo|Akamai Technologies, Inc.|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
 |11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|107.174.107.161|2001|United States|Los Angeles|HostPapa|
+|15|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |16|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |17|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|144.31.222.106|7890|Russia|Moscow|Ablaykhan Akylbekovich Sharimov|
-|19|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|20|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
 
 
 
