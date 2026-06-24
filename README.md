@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|116.101.9.20|2047|Vietnam|Ngo Quyen Ward|Viettel Group|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|18|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|20|176.12.65.24|443|Russia|Khimki|WEBDC|
+|11|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
