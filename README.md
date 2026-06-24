@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
-|13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|14|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|15|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
+|16|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|17|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
