@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|116.80.45.46|3172|Japan|Shimomaruko|InfoSphere|
-|9|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|13|217.154.70.86|7777|Germany|Berlin|MISTRAL|
-|14|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|17|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|202.61.110.162|8082|Philippines|Cagayan de Oro|Medrozo IT Solutions|
+|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
