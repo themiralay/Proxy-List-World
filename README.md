@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|1|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|116.101.9.20|2050|Vietnam|Ngo Quyen Ward|Viettel Group|
+|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 |18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |19|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
