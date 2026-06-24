@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3945** proxies at the latest update. Usable proxies are below.
+> Scraper found **4392** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|480|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|105|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2460|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
-|4|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
 |5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 
 
 
