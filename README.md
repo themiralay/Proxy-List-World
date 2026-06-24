@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|2|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|103.172.71.113|1111|Indonesia|Karawang|AZNET|
+|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|116.101.9.20|2067|Vietnam|Ngo Quyen Ward|Viettel Group|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+
 
 
 ## Contributing
