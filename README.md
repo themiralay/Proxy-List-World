@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|140.245.108.78|1080|Singapore|Singapore|Oracle Corporation|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
 |15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|18|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|147.45.70.219|1234|Germany|Frankfurt am Main|Aeza International LTD|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
