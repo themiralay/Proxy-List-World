@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4578** proxies at the latest update. Usable proxies are below.
+> Scraper found **4530** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|838|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2690|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
-|8|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|180.131.145.63|4000|United States|New York|OVH SAS|
-|11|116.101.9.20|2067|Vietnam|Ngo Quyen Ward|Viettel Group|
-|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.101.9.20|2067|Vietnam|Ngo Quyen Ward|Viettel Group|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
+|10|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|209.141.46.220|9091|United States|Las Vegas|FranTech Solutions|
 |14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|180.131.145.63|4000|United States|New York|OVH SAS|
-|16|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|16|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|20|180.131.145.63|4000|United States|New York|OVH SAS|
 
 
 
