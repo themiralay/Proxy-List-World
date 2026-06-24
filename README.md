@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|103.139.103.140|1080|Vietnam|Hanoi|ESVN|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.79.119.13|8080|Singapore|Singapore|Alibaba.com LLC|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|45.88.174.195|8080|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
 |18|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
 |20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 
 
