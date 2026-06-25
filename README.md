@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|2|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|3|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|4|45.81.131.130|8888|United States|Los Angeles|Zenlayer Inc|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|10|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|11|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|86.127.175.42|8080|Romania|Baia Mare|RCS & RDS|
-|15|176.12.65.24|443|Russia|Khimki|WEBDC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|5|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|6|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|86.127.175.42|8080|Romania|Baia Mare|RCS & RDS|
+|10|113.192.31.17|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|11|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|16|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
 
 
 
