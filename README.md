@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|12|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|13|82.146.38.71|443|Russia|Moscow|JSC IOT|
-|14|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|15|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|17|176.12.65.24|443|Russia|Khimki|WEBDC|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|86.127.175.42|8080|Romania|Baia Mare|RCS & RDS|
+|11|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|16|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
