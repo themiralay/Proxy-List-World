@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4390** proxies at the latest update. Usable proxies are below.
+> Scraper found **4347** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|690|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2661|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|103.24.219.206|1025|Hong Kong|Kwun Tong|VH-GLOBAL|
-|4|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|8|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|103.24.219.206|1025|Hong Kong|Kwun Tong|VH-GLOBAL|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|16|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|176.12.65.24|443|Russia|Khimki|WEBDC|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
