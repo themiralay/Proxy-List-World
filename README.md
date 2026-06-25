@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|42.2.4.163|1080|Hong Kong|Central|PCCW IMS Limited|
-|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|1|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|52.200.113.73|8087|United States|Ashburn|Amazon.com, Inc.|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|52.200.113.73|8087|United States|Ashburn|Amazon.com, Inc.|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|20|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|176.12.65.24|443|Russia|Khimki|WEBDC|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 
 
 
