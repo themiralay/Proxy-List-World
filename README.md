@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|2|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|103.185.43.122|3125|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|15|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|16|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
