@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.180.123.103|8090|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|3|14.53.55.217|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
 |11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|42.96.19.211|1314|Vietnam|Quận Một|Long Van System Solution|
-|13|125.129.15.95|3128|South Korea|Seongdong-gu|Korea Telecom|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|38.94.74.11|999|Mexico|Peñamiller|Cogent Communications|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|20|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|12|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|185.11.134.227|8443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
