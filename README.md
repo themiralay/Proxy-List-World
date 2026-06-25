@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |2|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|82.97.247.37|80|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|19|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
