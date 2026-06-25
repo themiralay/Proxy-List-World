@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|2|103.26.176.31|8080|Indonesia|Sumedang|PT Lintas Jaringan Nusantara|
-|3|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
-|4|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|5|103.156.17.251|8818|Indonesia|Jatibarang|RSTNET|
-|6|202.58.77.195|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
-|9|101.51.131.47|8080|Thailand|Nonthaburi|TOT Public Company Limited|
-|10|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|11|42.96.19.211|1314|Vietnam|Quận Một|Long Van System Solution|
-|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|15|101.255.106.33|1452|Indonesia|Bekasi|PT Remala Abadi|
-|16|103.155.196.20|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|1|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.42.243.23|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|101.255.106.33|1452|Indonesia|Bekasi|PT Remala Abadi|
+|4|101.51.131.47|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|5|8.220.216.57|3128|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|103.156.17.251|8818|Indonesia|Jatibarang|RSTNET|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|202.58.77.195|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.29.4.137|8080|Indonesia|Jakarta|PT. Solusindo Bintang Pratama|
+|16|45.32.1.83|9000|United States|Piscataway|Choopa|
+|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|18|103.81.175.223|22311|Bangladesh|Tongi|ADN Telecom Ltd.|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
