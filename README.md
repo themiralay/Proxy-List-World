@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|11|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|2|103.24.219.206|1025|Hong Kong|Kwun Tong|VH-GLOBAL|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|9|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|14|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|17|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.205.194.142|1080|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|19|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|16|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
