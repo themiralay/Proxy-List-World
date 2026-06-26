@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
-|14|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|15|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|18|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|6|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|8|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|13|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|19|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
