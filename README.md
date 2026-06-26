@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4503** proxies at the latest update. Usable proxies are below.
+> Scraper found **4235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|833|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|105|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2665|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2397|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |10|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.15.214.70|8080|Indonesia|Gresik|PT. Java Digital Nusantara|
-|12|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.185.43.218|8085|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|144.79.177.134|8090|Indonesia|Selat Panjang|PT GORO DIGITAL NUSANTARA|
-|19|103.102.138.218|1450|Bangladesh|Sātkania|Chittagong multi channel limited|
-|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|18|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
