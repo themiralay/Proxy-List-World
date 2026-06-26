@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|3|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|144.91.111.48|3129|France|Lauterbourg|Contabo GmbH|
-|9|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
-|11|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|18.223.149.15|3128|United States|Dublin|Amazon.com, Inc.|
-|14|104.194.148.188|3128|United Kingdom|London|FranTech Solutions|
-|15|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|206.135.55.224|999|Mexico|Pachuca|GTT Americas|
-|20|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|10|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|203.30.9.8|8443|Australia|Woodhill|Southern Phone Company Ltd|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|16|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|19|216.57.107.50|8445|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|18.223.149.15|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
