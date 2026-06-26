@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|6|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|7|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|15|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|16|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|101.255.119.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|15|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
