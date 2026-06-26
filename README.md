@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|10|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|200.106.164.80|999|Mexico|Chilcuautla|Cybernetworks S.A De C.V|
-|12|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|14|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|18|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|5|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|6|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|7|138.124.125.198|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|11|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
