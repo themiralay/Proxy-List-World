@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|17|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.173.140.131|1111|Indonesia|Kroya|WIFIAN ID|
+|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|7|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|8|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|11|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|14|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
