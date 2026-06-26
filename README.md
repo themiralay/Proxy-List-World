@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|17|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.68.93|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|13|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
 
 
 
