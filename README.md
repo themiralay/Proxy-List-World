@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|13.215.176.57|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|13.215.176.57|9090|Singapore|Singapore|Amazon Technologies Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|19|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
+|20|85.192.28.62|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
