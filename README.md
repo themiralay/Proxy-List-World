@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|589|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|589|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|589|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|103.18.79.189|8082|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|77.110.126.55|7443|United States|Charlotte|Aeza International LTD|
-|14|202.73.27.106|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|103.185.43.218|8085|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|17|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
+|17|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
