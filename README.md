@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |4|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|5.9.144.136|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|10|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|138.124.114.42|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
-|14|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
-|15|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|16|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|17|45.84.222.25|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|77.221.156.241|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|199.127.62.89|3129|United States|Miami|ReliableSite.Net LLC|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|138.124.113.102|7443|The Netherlands|Amsterdam|Aeza International LTD|
+|19|85.192.28.47|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|79.137.205.130|7443|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
