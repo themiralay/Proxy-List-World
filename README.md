@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|46.8.112.212|3128|The Netherlands|Amsterdam|Mastersoft S.R.L.|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|119.95.188.3|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|10|13.215.176.57|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|11|103.189.197.43|7778|Indonesia|Serang|PT Graha Sumber Teknologi|
-|12|46.203.233.116|3128|Germany|Frankfurt am Main|Freakhosting LTD|
-|13|130.49.218.108|1080|France|Paris|Global Connectivity Solutions LLP|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|17|20.151.20.143|3128|Canada|Toronto|Microsoft Corporation|
-|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|19|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|16|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|19|144.31.222.106|7890|Russia|Moscow|Ablaykhan Akylbekovich Sharimov|
+|20|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
