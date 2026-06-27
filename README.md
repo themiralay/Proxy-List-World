@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|4|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|2|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|8|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|103.141.174.38|11411|Bangladesh|Farīdpur|ICC Communication Ltd|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
