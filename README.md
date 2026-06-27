@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
 |4|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|14|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|101.255.209.249|3128|Indonesia|Bekasi|PT Remala Abadi|
+|12|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|46.30.46.175|3111|The Netherlands|Amsterdam|EUROBYTE|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|46.30.46.175|3111|The Netherlands|Amsterdam|EUROBYTE|
 |19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
