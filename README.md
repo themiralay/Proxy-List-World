@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|2|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|1|139.162.68.241|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|103.161.131.110|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|19|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
