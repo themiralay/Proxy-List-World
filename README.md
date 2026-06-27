@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|2|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|5|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
 |6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|19|46.30.46.175|3111|The Netherlands|Amsterdam|EUROBYTE|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|139.162.68.241|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
+|19|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
+|20|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
