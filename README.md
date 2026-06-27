@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|116.80.48.146|3172|Japan|Shimomaruko|InfoSphere|
+|2|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
 |3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |9|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|143.47.246.42|8080|United Kingdom|London|Oracle Corporation|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|139.162.68.241|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|15|116.80.48.146|3172|Japan|Shimomaruko|InfoSphere|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|13|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|139.162.91.61|1080|Japan|Tokyo|Akamai Technologies, Inc.|
 |16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|20|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
+|17|143.47.246.42|8080|United Kingdom|London|Oracle Corporation|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
