@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|106.10.55.212|1121|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|103.179.84.13|8080|Indonesia|Boyolali|PT CYB Media Group|
-|8|223.130.11.151|8443|Vietnam|Quận Tân Phú|LITESPEED-COM|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|12|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|139.180.196.38|10808|Japan|Minamishinagawa|The Constant Company, LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|107.172.126.76|8080|United States|Los Angeles|HostPapa|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|107.172.126.76|8080|United States|Los Angeles|HostPapa|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
