@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|199.182.135.85|3128|United States|Chicago|Modulis|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|143.47.246.42|8080|United Kingdom|London|Oracle Corporation|
-|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|13|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|143.47.246.42|8080|United Kingdom|London|Oracle Corporation|
+|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
