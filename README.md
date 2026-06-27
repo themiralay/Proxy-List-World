@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|2|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|43.163.127.208|1080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
-|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|82.38.129.233|8443|France|Paris|Datacamp Limited|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
