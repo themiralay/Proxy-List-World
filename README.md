@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.245.99|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|7|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
+|18|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
