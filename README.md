@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|116.108.137.62|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|157.15.40.250|7777|Indonesia|Ponorogo|PT Trisari Data Indonusa|
-|10|45.198.10.231|8080|Indonesia|Wonosobo|PT Jaringan Lintas Artha|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
-|14|103.156.75.194|3125|Indonesia|Gianyar|PT Trika Global Media|
-|15|36.50.56.208|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
-|16|190.61.126.253|999|Panama|Panama City|Ufinet Panama S.A|
-|17|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|14.241.133.207|8080|Vietnam|Tra Que Vegetable Village|VNPT|
+|2|43.163.223.251|18080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|6|146.196.108.81|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|9|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|199.182.135.85|3128|United States|Chicago|Modulis|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|103.67.84.74|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|14|103.179.183.153|8080|Indonesia|Gambiran Satu|SINARKENCANA|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|194.233.86.196|443|Singapore|Singapore|Contabo Asia Private Limited|
+|18|199.182.135.85|3128|United States|Chicago|Modulis|
+|19|68.183.139.61|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|194.58.57.116|3128|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
