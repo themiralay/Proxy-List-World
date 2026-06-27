@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|3|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
 |6|199.182.135.85|3128|United States|Chicago|Modulis|
 |7|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|8|199.182.135.85|3128|United States|Chicago|Modulis|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|11|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|14|119.148.47.235|1048|Bangladesh|Dhaka|Agni Systems Limited|
-|15|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
-|16|82.146.38.71|443|Russia|Moscow|JSC IOT|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|122.52.234.54|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|9|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|10|180.148.25.46|8181|Indonesia|Ngamprah|PT GIGA NETWORK INDONESIA|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|16|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
 
 
 
