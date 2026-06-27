@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|3.137.86.220|1080|United States|Dublin|Amazon.com, Inc.|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|199.182.135.85|3128|United States|Chicago|Modulis|
+|20|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
 
 
 
