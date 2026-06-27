@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.45.46|3172|Japan|Shimomaruko|InfoSphere|
 |2|110.172.62.196|8080|Japan|Atsugi|TOKAI Communications Corporation|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|7|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|13|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|18|176.12.65.24|443|Russia|Khimki|WEBDC|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|129.80.217.21|444|United States|Ashburn|Oracle Corporation|
+|16|203.76.220.126|16464|Bangladesh|Narayanpur|BUSINESSNETWORK|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|107.174.107.161|2001|United States|Los Angeles|HostPapa|
+|19|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|20|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
 
 
 
