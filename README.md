@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|4|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|2|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|4|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|107.174.107.161|2001|United States|Los Angeles|HostPapa|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |13|34.43.46.91|80|United States|Mountain View|Google LLC|
 |14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|19|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
