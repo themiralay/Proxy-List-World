@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4385** proxies at the latest update. Usable proxies are below.
+> Scraper found **3893** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|876|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|384|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|16|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2561|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|103.14.2.89|2020|Indonesia|Duri|MADA|
-|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|199.182.135.85|3128|United States|Chicago|Modulis|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|103.180.126.138|8080|Indonesia|Jakarta|PT Alam Media Data|
+|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|157.15.40.251|7777|Indonesia|Ponorogo|PT Trisari Data Indonusa|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|101.255.122.82|8090|Indonesia|Bekasi|PT Remala Abadi|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|199.182.135.85|3128|United States|Chicago|Modulis|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|14|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|38.156.23.26|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
+|20|101.255.157.6|8080|Indonesia|North Jakarta|PT Remala Abadi|
 
 
 
