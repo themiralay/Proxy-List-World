@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|16|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|17|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|199.182.135.85|3128|United States|Chicago|Modulis|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|9|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|17|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|18|176.12.65.24|443|Russia|Khimki|WEBDC|
 |19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
