@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|14.53.55.217|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|4|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.106.231.75|8081|Australia|Sydney|BrainStorm Network|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|83.171.224.165|8080|France|Paris|Baykov Ilya Sergeevich|
 |8|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|11|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|167.172.124.69|1080|United States|Santa Clara|DigitalOcean, LLC|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|65.109.65.239|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|14|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|15|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|19|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|20|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
