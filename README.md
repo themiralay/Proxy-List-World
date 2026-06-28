@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4396** proxies at the latest update. Usable proxies are below.
+> Scraper found **4388** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|671|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2699|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|16|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.225.86.184|8888|Germany|Frankfurt|Zenlayer Inc|
+|6|199.182.135.85|3128|United States|Chicago|Modulis|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
 |17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
