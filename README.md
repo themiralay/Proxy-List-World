@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.210.54|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|64.118.133.12|1234|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|14|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|16|146.103.43.35|3128|Germany|Frankfurt am Main|Regxa Company for Information Technology Ltd|
-|17|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|18|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|1|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|34.220.1.153|3128|United States|Portland|Amazon.com, Inc.|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|19|146.103.43.35|3128|Germany|Frankfurt am Main|Regxa Company for Information Technology Ltd|
 |20|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
 
 
