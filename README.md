@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|7|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.22.183.230|8080|Thailand|Pak Kret|Readyidc Company Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|12|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|17|165.22.99.36|8001|Singapore|Singapore|DigitalOcean, LLC|
-|18|13.215.176.57|9090|Singapore|Singapore|Amazon Technologies Inc.|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|103.189.197.43|7778|Indonesia|Serang|PT Graha Sumber Teknologi|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|13|3.137.86.220|443|United States|Dublin|Amazon.com, Inc.|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|162.243.55.75|1080|United States|Secaucus|DigitalOcean, LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|19|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|20|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
 
 
 
