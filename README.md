@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.182.147|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|149.28.87.103|8888|United States|Los Angeles|The Constant Company|
-|8|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|12|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
-|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|17|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|18|38.43.158.7|8080|Peru|Lima|Nextnet S.A.C|
-|19|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|172.233.49.176|9658|The Netherlands|Amsterdam|Akamai Technologies, Inc.|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
