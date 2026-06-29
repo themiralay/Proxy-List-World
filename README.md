@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|103.63.26.109|2121|Indonesia|Probolinggo|PT Global Media Data Prima|
 |4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|199.182.135.85|3128|United States|Chicago|Modulis|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|16|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|86.127.175.42|8080|Romania|Baia Mare|RCS & RDS|
-|20|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|7|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|54.38.35.209|3128|France|Roubaix|OVH SAS|
+|18|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
 
 
 
