@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|144.31.222.106|7890|Russia|Moscow|Ablaykhan Akylbekovich Sharimov|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|17|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
