@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|15|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|103.209.92.184|3129|Bangladesh|Dhaka|AFREN IT|
+|16|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |18|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
-|19|199.182.135.85|3128|United States|Chicago|Modulis|
-|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
