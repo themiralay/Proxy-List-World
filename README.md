@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|43.167.167.94|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |6|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|7|199.182.135.85|3128|United States|Chicago|Modulis|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|14|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|15|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|16|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
 |17|176.12.65.24|443|Russia|Khimki|WEBDC|
-|18|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|129.226.92.241|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
