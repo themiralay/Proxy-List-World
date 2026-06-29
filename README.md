@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|199.182.135.85|3128|United States|Chicago|Modulis|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
-|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|1|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|117.236.124.188|3128|India|Gandhinagar|BSNL Internet|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|70.35.196.194|8083|United States|Sulphur Springs|IONOS SE|
+|12|70.35.196.194|8083|United States|Sulphur Springs|IONOS SE|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|144.91.111.48|3129|France|Lauterbourg|Contabo GmbH|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
