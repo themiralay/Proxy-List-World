@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|199.182.135.85|3128|United States|Chicago|Modulis|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|199.182.135.85|3128|United States|Chicago|Modulis|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|190.2.145.103|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|13|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|14|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|38.43.158.7|8080|Peru|Lima|Nextnet S.A.C|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|19|65.21.118.41|58080|Finland|Helsinki|Hetzner Online GmbH|
-|20|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|137.184.39.249|6197|United States|Santa Clara|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|10|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|11|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|12|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|13|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|15|137.184.39.249|6197|United States|Santa Clara|DigitalOcean, LLC|
+|16|65.21.118.41|58080|Finland|Helsinki|Hetzner Online GmbH|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|190.185.116.186|8080|Honduras|Tegucigalpa|Redes y Telecomunicaciones|
+|19|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
+|20|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
 
 
 
