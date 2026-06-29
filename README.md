@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|2|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|1|103.174.236.178|1111|Indonesia|Sukasari|PT Global Erasiber Teknologi|
+|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|139.162.91.253|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
 |9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|17|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|18|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|14|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|16|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|38.43.158.7|8080|Peru|Lima|Nextnet S.A.C|
+|19|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
