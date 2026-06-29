@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|1|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|12|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|13|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|15|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|18|82.146.38.71|443|Russia|Moscow|JSC IOT|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|15|176.12.65.24|443|Russia|Khimki|WEBDC|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|144.31.222.106|7890|Russia|Moscow|Ablaykhan Akylbekovich Sharimov|
+|19|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|20|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
