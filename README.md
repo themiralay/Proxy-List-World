@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
 |15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
