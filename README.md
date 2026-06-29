@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.187.166|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.133.1.198|3128|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.15.47|3128|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.133.30.18|3128|Japan|Tokyo|Aceville Pte.ltd|
-|5|43.133.169.167|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|16.79.161.32|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.169.167|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.30.18|3128|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.187.166|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.1.198|3128|Japan|Tokyo|Aceville Pte.ltd|
+|5|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.133.15.47|3128|Japan|Tokyo|Aceville Pte.ltd|
+|7|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|199.182.135.85|3128|United States|Chicago|Modulis|
+|11|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
 |12|34.43.46.91|443|United States|Mountain View|Google LLC|
 |13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 |20|65.109.179.84|8443|Finland|Helsinki|Hetzner Online GmbH|
 
 
