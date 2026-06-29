@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.134.240.25|8080|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|199.182.135.85|3128|United States|Chicago|Modulis|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|185.125.200.68|3128|The Netherlands|Amsterdam|Mamaev|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|82.146.38.71|443|Russia|Moscow|JSC IOT|
-|17|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|20|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|1|43.134.240.25|8080|Singapore|Singapore|Aceville Pte.ltd|
+|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|199.182.135.85|3128|United States|Chicago|Modulis|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|16|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|17|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|101.255.164.213|8090|Indonesia|Jakarta|PT Remala Abadi|
+|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
 
 
 
