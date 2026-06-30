@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|185.199.53.71|1080|India|Mumbai|Hostinger International Limited|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
+|9|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|10|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|15|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
 |16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|47.238.203.170|50001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
+|18|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
