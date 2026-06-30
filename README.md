@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.187.107|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|139.162.68.241|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|19|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.82.93.219|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|10|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|138.124.125.198|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
 
 
 
