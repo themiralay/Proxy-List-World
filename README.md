@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|199.182.135.85|3128|United States|Chicago|Modulis|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|9|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|12|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|18|158.69.60.88|8000|Canada|Montreal|OVH SAS|
-|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|15|51.178.253.98|80|France|Strasbourg|OVH SAS|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
+|18|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|176.12.65.24|443|Russia|Khimki|WEBDC|
+|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
