@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
-|10|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|14|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|176.12.65.24|443|Russia|Khimki|WEBDC|
-|17|189.148.6.246|8080|Mexico|Tapachula|UNINET|
-|18|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|19|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|20|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|1|43.133.187.166|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|178.62.184.67|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|176.12.65.24|443|Russia|Khimki|WEBDC|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|20|190.61.61.210|999|Colombia|Villapinzón|Ufinet Panama S.A.|
 
 
 
