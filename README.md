@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |14|151.243.153.157|8118|United States|Seattle|Black Apple|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|18|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
