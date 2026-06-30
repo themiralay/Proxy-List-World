@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|11|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|190.2.145.103|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|14|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|19|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
-|20|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|10|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|11|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|13|176.12.65.24|443|Russia|Khimki|WEBDC|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|19|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
