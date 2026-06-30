@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
+|12|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |16|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|17|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|20|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|17|51.178.253.98|80|France|Strasbourg|OVH SAS|
+|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
