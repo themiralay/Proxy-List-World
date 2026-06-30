@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|162.243.228.237|3128|United States|Secaucus|DigitalOcean, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|162.243.228.237|3128|United States|Secaucus|DigitalOcean, LLC|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|8|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|162.243.228.237|3128|United States|Secaucus|DigitalOcean, LLC|
+|11|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|91.188.213.143|1080|Russia|Moscow|Helou LLC|
 |15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|17|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|176.12.65.24|443|Russia|Khimki|WEBDC|
+|16|89.36.162.96|1234|United Arab Emirates|Fujairah|Melbikomas UAB|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
 |19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
 
 
 
