@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|3|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|14|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|15|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|176.12.65.24|443|Russia|Khimki|WEBDC|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|9|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|10|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|11|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|12|111.235.151.112|8443|Germany|Frankfurt am Main|YottaSrc|
+|13|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|176.12.65.24|443|Russia|Khimki|WEBDC|
+|16|147.45.76.207|3128|Sweden|Stockholm|Aeza International LTD|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|65.109.65.239|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
