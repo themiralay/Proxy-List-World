@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|157.245.194.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|45.32.1.83|9000|United States|Piscataway|Choopa|
-|17|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|18|38.43.158.7|8080|Peru|Lima|Nextnet S.A.C|
-|19|212.118.38.225|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|12|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|15|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|193.29.224.20|3128|Finland|Helsinki|Aeza International LTD|
+|19|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|20|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
