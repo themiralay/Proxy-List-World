@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|178.62.184.67|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|17|202.136.82.119|8080|Indonesia|Kebomas|PT GIRI DATA SOLUSINDO|
-|18|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|16|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
