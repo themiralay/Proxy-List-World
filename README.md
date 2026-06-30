@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|125.135.163.211|3172|South Korea|Changwon|KORNET|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|167.172.153.21|1080|United States|North Bergen|DigitalOcean, LLC|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|139.162.68.241|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|16|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|37.49.224.15|3128|The Netherlands|Amsterdam|PUSHPKT OU|
+|20|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
