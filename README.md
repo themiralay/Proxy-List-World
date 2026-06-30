@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|16|176.12.65.24|443|Russia|Khimki|WEBDC|
-|17|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|18|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
