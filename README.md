@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|112.203.53.235|1234|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|12|160.19.19.122|8090|Indonesia|Subang|PT Indo Telemedia Solusi|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|16|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|17|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|6|199.182.135.85|3128|United States|Chicago|Modulis|
+|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|172.235.198.182|1080|Japan|Osaka|Akamai Technologies, Inc.|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|45.153.4.154|3128|United States|Columbus|Istqrar for Servers Services Ltd|
+|16|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
 
 
 
