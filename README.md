@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|10|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
-|14|82.146.38.71|443|Russia|Moscow|JSC IOT|
-|15|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|185.139.68.62|443|Russia|Moscow|First Server Limited|
-|20|51.178.253.98|80|France|Strasbourg|OVH SAS|
+|1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|49.51.228.35|81|United States|Santa Clara|OPHL|
+|10|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|11|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|16|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|49.51.228.35|81|United States|Santa Clara|OPHL|
 
 
 
