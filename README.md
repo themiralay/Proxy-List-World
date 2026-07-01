@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.171.85|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|154.89.148.25|443|Hong Kong|Hong Kong|Fastmos Co Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|43.163.119.228|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|11|38.210.179.4|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|12|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
-|13|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|15|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|16|176.12.65.24|443|Russia|Khimki|WEBDC|
-|17|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|18|156.232.99.59|10808|Vietnam|Hanoi|Ucloud|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|65.109.65.239|18080|Finland|Helsinki|Hetzner Online GmbH|
+|5|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|9|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|157.173.109.85|8081|France|Lauterbourg|Contabo GmbH|
+|15|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|20|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
 
 
 
