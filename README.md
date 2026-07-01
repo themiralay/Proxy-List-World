@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
 |4|18.139.186.25|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|103.169.255.194|1080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|113.192.3.107|8567|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
