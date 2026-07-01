@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|160.20.39.3|3125|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|11|151.243.153.157|8118|United States|Seattle|Black Apple|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|15|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|17|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|6|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|10|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|65.2.73.234|3128|India|Mumbai|Amazon.com|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|94.198.218.123|3128|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
