@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|3|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|1|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.167.245.99|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|11|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|205.215.247.164|3128|United States|Baltimore|Port Networks, Inc.|
 |14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|16|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|104.194.148.188|3128|United Kingdom|London|FranTech Solutions|
+|15|82.39.154.145|8080|United Kingdom|London|WorldStream B.V.|
+|16|104.194.148.188|3128|United Kingdom|London|FranTech Solutions|
+|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|18|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|54.153.56.243|80|United States|San Jose|Amazon.com, Inc.|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
