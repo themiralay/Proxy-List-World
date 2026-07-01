@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|10|49.51.228.35|81|United States|Santa Clara|OPHL|
+|5|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
-|14|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|15|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|12|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
