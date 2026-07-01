@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|12|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|13|146.103.43.35|3128|Germany|Frankfurt am Main|Regxa Company for Information Technology Ltd|
-|14|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|89.105.153.140|3128|Russia|Krasnoyarsk|Axioma, LLC|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|20|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|7|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|13|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|14|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|15|176.12.65.24|443|Russia|Khimki|WEBDC|
+|16|89.105.153.140|3128|Russia|Krasnoyarsk|Axioma, LLC|
+|17|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|199.182.135.85|3128|United States|Chicago|Modulis|
+|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
