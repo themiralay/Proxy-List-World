@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
-|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|9|147.78.1.53|8080|Mexico|Mexico City|ONEPROVIDER|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|12|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|13|92.119.164.84|1100|The Netherlands|Amsterdam|Julian Achter|
-|14|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|49.51.228.35|81|United States|Santa Clara|OPHL|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|147.78.1.53|8080|Mexico|Mexico City|ONEPROVIDER|
+|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|12|49.51.228.35|81|United States|Santa Clara|OPHL|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
