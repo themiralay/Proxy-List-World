@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|2|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|43.167.171.85|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|38.210.179.4|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
-|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|19|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|46.209.199.145|8090|Iran|Tehran|RSPN|
+|1|43.167.171.85|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|13|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|16|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
+|20|147.102.16.32|8080|Greece|Glyfada|National Technical University of Athens|
 
 
 
