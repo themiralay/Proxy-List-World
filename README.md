@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4556** proxies at the latest update. Usable proxies are below.
+> Scraper found **4672** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2696|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.22.248|9091|Japan|Tokyo|Aceville Pte.ltd|
-|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|147.78.1.53|8080|Mexico|Mexico City|ONEPROVIDER|
-|13|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|16|172.105.177.180|3128|Australia|Sydney|Akamai Technologies|
-|17|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|18|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|20|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|110.169.137.4|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|11|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|12|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|147.78.1.53|8080|Mexico|Mexico City|ONEPROVIDER|
+|15|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 
 
 
