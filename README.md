@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.139.186.25|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|11|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|18.139.186.25|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|19|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|18|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
