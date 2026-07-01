@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|12|49.51.228.35|81|United States|Santa Clara|OPHL|
-|13|103.166.159.115|1080|Indonesia|Indrajaya Satu|PT Timor Lintas Nusantara|
+|1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|190.121.157.41|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|20|188.166.9.27|3129|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 
 
 
