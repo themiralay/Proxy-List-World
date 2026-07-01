@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
 |5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|156.232.99.66|10808|Vietnam|Hanoi|Ucloud|
+|9|72.11.151.159|6005|Canada|Toronto|HostPapa|
 |10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|14|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|15|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|157.10.90.47|8080|Indonesia|Ponorogo|PT Ponorogo Wifi Nusantara|
-|20|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|11|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|12|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
 
 
 
