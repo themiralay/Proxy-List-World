@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.245.99|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|11|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|3.110.246.113|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|199.182.135.85|3128|United States|Chicago|Modulis|
+|12|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|104.194.148.188|3128|United Kingdom|London|FranTech Solutions|
-|20|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|16|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
