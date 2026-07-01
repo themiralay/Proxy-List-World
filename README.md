@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|9|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|9|194.26.192.168|8080|The Netherlands|Lelystad|1337 Services GmbH|
+|10|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 |11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|14|49.51.228.35|81|United States|Santa Clara|OPHL|
-|15|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|18|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|49.51.228.35|81|United States|Santa Clara|OPHL|
+|12|176.12.65.24|443|Russia|Khimki|WEBDC|
+|13|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
