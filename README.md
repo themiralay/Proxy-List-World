@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|7|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|16|49.51.228.35|81|United States|Santa Clara|OPHL|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|1|139.162.91.61|1080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|91.188.213.143|1080|Russia|Moscow|Helou LLC|
 
 
 
