@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|49.51.228.35|81|United States|Santa Clara|OPHL|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
 |14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|20|91.188.213.143|1080|Russia|Moscow|Helou LLC|
 
 
 
