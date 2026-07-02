@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|103.227.187.11|6090|Indonesia|Kendalrejo|PT Master Star Network|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
-|9|103.214.251.106|8080|Indonesia|Beringinjaya|PT Bittara Interkoneksi Nusantara|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|49.51.228.35|81|United States|Santa Clara|OPHL|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
-|20|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|5|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|6|49.51.228.35|81|United States|Santa Clara|OPHL|
+|7|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|11|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
