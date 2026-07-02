@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
-|2|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|3|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|2|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
-|14|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|190.2.145.103|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|49.51.228.35|81|United States|Santa Clara|OPHL|
+|20|217.154.155.115|8080|Germany|Berlin|IONOS SE|
 
 
 
