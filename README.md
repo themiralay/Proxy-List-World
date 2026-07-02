@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|1|43.133.1.198|3128|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.30.18|3128|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.153.182.147|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|9|203.146.80.235|8080|Thailand|Nong Na Kham|Advanced Wireless Network Company Limited|
+|10|49.51.228.35|81|United States|Santa Clara|OPHL|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|49.51.228.35|81|United States|Santa Clara|OPHL|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|13|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|16|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
