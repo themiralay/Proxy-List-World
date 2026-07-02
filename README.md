@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.89.148.25|443|Hong Kong|Hong Kong|Fastmos Co Limited|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|3|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|16|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|17|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|20|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|154.89.148.25|443|Hong Kong|Hong Kong|Fastmos Co Limited|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|15|147.102.16.32|8080|Greece|Glyfada|National Technical University of Athens|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|18|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|19|49.51.228.35|81|United States|Santa Clara|OPHL|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
