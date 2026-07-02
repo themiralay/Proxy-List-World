@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|1|222.228.194.131|8080|Japan|Shiki|ARTERIA Networks Corporation|
+|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|103.13.235.218|8080|Indonesia|Kota Sambas|PT Disafa Cahaya Utama|
-|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|19|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|13|49.51.228.35|81|United States|Santa Clara|OPHL|
+|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|147.102.16.32|8080|Greece|Glyfada|National Technical University of Athens|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|20|176.12.65.24|443|Russia|Khimki|WEBDC|
 
 
 
