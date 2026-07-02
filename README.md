@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|103.155.65.194|8089|Indonesia|Manis Subang|PT Media Access Telematika|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
-|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|138.124.106.230|443|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|91.186.213.124|1081|Sweden|Stockholm|NetCrafters OU|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|4|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|5|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|101.255.106.33|1452|Indonesia|Bekasi|PT Remala Abadi|
+|7|49.156.44.166|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|103.184.21.69|8080|Indonesia|Bondowoso|PT Tekling Media Telematika|
+|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|20|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
