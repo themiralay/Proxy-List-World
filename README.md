@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.254.162|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|217.217.249.12|3128|India|Mumbai|Contabo Asia Private Limited|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|11|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|12|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|13|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|14|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|4|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|9|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|13|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |15|49.51.228.35|81|United States|Santa Clara|OPHL|
-|16|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|17|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|18|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|217.217.249.12|3128|India|Mumbai|Contabo Asia Private Limited|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
