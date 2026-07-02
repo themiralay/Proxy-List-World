@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|11|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|12|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|14|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|15|65.109.87.121|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|19|49.51.228.35|81|United States|Santa Clara|OPHL|
-|20|38.127.179.186|37234|United States|Washington|Cogent Communications|
+|5|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|6|49.51.228.35|81|United States|Santa Clara|OPHL|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|49.51.228.35|81|United States|Santa Clara|OPHL|
+|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|14|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
