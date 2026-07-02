@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|49.51.228.35|81|United States|Santa Clara|OPHL|
-|5|222.228.194.131|8080|Japan|Shiki|ARTERIA Networks Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|15|104.161.23.122|5003|United States|Phoenix|Input Output Flood LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|16|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|19|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
 
 
 
