@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|49.51.228.35|81|United States|Santa Clara|OPHL|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|54.153.56.243|80|United States|San Jose|Amazon.com, Inc.|
-|8|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|12|43.160.249.13|9223|Singapore|Singapore|Aceville Pte.ltd|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|54.153.56.243|80|United States|San Jose|Amazon.com, Inc.|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|207.246.68.214|3129|United States|Miami|The Constant Company|
+|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|154.19.229.176|3128|United States|Los Angeles|Starcloud Global Pte. LTD|
+|6|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|154.19.229.176|3128|United States|Los Angeles|Starcloud Global Pte. LTD|
+|14|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|15|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
+|16|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 
 
 
