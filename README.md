@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
+|2|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
 |3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|10|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|13|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|14|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
-|15|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|49.51.228.35|81|United States|Santa Clara|OPHL|
-|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|4|3.107.232.220|8080|Australia|Sydney|Amazon Technologies Inc.|
+|5|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|15|52.14.5.158|3128|United States|Dublin|Amazon.com, Inc.|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
 
 
 
