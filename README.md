@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|15|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|11|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
+|12|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
+|14|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|16|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|18|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|49.51.228.35|81|United States|Santa Clara|OPHL|
 
 
 
