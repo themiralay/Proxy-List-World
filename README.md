@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4797** proxies at the latest update. Usable proxies are below.
+> Scraper found **4868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|776|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2717|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
 |3|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|4|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
-|5|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|20.242.117.250|3128|United States|Boydton|Microsoft Corporation|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|12|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|20.242.117.250|3128|United States|Boydton|Microsoft Corporation|
-|15|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.14.2.89|2020|Indonesia|Duri|MADA|
+|6|202.58.77.73|8800|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|157.66.3.20|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|13|103.188.169.93|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
