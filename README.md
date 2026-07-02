@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4571** proxies at the latest update. Usable proxies are below.
+> Scraper found **4740** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|700|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|15|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.174.107.161|2001|United States|Los Angeles|HostPapa|
-|2|103.180.126.236|8080|Indonesia|Jakarta|PT Alam Media Data|
-|3|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|8|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|11|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
-|12|62.133.62.184|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.178.86.93|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
-|15|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|194.87.187.20|8118|Russia|Moscow|JSC "TIMEWEB"|
-|19|177.85.7.122|80|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|20|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|5|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|9|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|52.14.5.158|3128|United States|Dublin|Amazon.com, Inc.|
+|19|36.94.246.17|8080|Indonesia|East Jakarta|PT. Telekomunikasi Indonesia|
+|20|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
 
 
 
