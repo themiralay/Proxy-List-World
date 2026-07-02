@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|2|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|104.152.50.252|8000|United States|Los Angeles|WebNX, Inc.|
+|16|149.104.4.88|10809|Hong Kong|Chai Wan|Cogent Communications|
+|17|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|18|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|19|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
