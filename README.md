@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|192.236.131.143|1080|United States|Los Angeles|HostPapa|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|156.232.99.59|10808|Vietnam|Hanoi|Ucloud|
-|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|19|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
