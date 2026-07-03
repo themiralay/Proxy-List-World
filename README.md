@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.164.229.149|8080|Indonesia|Gebog|PT Muria Data Utama|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|5|103.140.188.144|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|103.154.222.58|1111|Indonesia|Leuwiliang|MORATELINDONAP|
+|2|103.176.98.229|3088|Indonesia|Kediri|Dhoho ISP|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
 |13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|15|77.110.113.236|8080|Russia|Moscow|Global Internet Solutions LLC|
-|16|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|15|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|18|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
