@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.223.77.54|10002|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|5|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|3|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|18|5.35.39.236|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|20|46.8.112.212|3128|The Netherlands|Amsterdam|Mastersoft S.R.L.|
+|11|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|16|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|17|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|49.51.228.35|81|United States|Santa Clara|OPHL|
+|19|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|91.188.213.143|1080|Russia|Moscow|Helou LLC|
 
 
 
