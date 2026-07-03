@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.16.253|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|43.167.27.118|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|7|151.243.153.157|8118|United States|Seattle|Black Apple|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|16|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
-|17|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|20|185.121.13.73|3128|The Netherlands|Dronten|Anton Levin|
+|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|49.51.228.35|81|United States|Santa Clara|OPHL|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
