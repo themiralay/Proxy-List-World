@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|8|103.161.131.110|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|15|62.133.62.184|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|129.226.149.231|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|11|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|12|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|15|157.180.84.115|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|17|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|19|176.12.65.24|443|Russia|Khimki|WEBDC|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
