@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|5|170.106.136.181|31002|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|8|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|185.181.209.34|8080|Türkiye|Istanbul|Hostigger INC.|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|45.153.4.154|3128|United States|Columbus|Istqrar for Servers Services Ltd|
-|14|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|49.51.228.35|81|United States|Santa Clara|OPHL|
-|18|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|19|217.217.249.12|3128|India|Mumbai|Contabo Asia Private Limited|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|217.217.249.12|3128|India|Mumbai|Contabo Asia Private Limited|
+|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|185.173.144.152|1080|The Netherlands|Amsterdam|NetCrafters OU|
+|20|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
