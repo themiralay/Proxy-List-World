@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|955|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|955|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|955|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|220.95.121.83|1521|South Korea|Yeongdo-gu|Korea Telecom|
 |2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.249.19.55|8080|Indonesia|Bogor|PT Rafa Teknologi Solusi|
-|8|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|154.37.220.71|8866|Hong Kong|Hong Kong|NetLab Global|
+|7|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|38.210.179.50|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
