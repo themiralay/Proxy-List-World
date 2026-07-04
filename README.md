@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|4|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|156.232.99.59|10808|Vietnam|Hanoi|Ucloud|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|187.249.67.199|999|Mexico|Tijuana|Transtelco Inc|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|49.51.228.35|81|United States|Santa Clara|OPHL|
-|12|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|187.172.57.158|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|125.230.237.137|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|16|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
-|19|200.118.237.227|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|187.172.57.158|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|125.230.237.137|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|38.43.88.102|999|Mexico|Villahermosa|Gotv S De RL De CV|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
