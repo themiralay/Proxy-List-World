@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|839|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|839|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|839|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|828|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|828|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|828|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.95.64.74|1521|South Korea|Miryang|Korea Telecom|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|103.73.66.232|24444|Hong Kong|Hong Kong|HostHatch|
-|4|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|49.51.228.35|81|United States|Santa Clara|OPHL|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|5|220.95.64.74|1521|South Korea|Miryang|Korea Telecom|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|103.73.66.232|24444|Hong Kong|Hong Kong|HostHatch|
+|8|154.37.220.71|8866|Hong Kong|Hong Kong|NetLab Global|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|49.51.228.35|81|United States|Santa Clara|OPHL|
+|12|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|49.51.228.35|81|United States|Santa Clara|OPHL|
 
 
 
