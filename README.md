@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
 |2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|42.118.74.182|8118|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
+|3|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|20|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
