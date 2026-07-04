@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
-|2|121.180.75.228|1723|South Korea|Suncheon|Korea Telecom|
-|3|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|151.243.153.157|8118|United States|Seattle|Black Apple|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|103.154.12.2|8088|Nepal|Gulariyā|Everest Wireless Network pvt. ltd|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
-|18|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|217.60.33.157|1080|United Arab Emirates|Abu Dhabi|GoldIPv|
+|2|211.221.201.216|9090|South Korea|Yongin-si|Korea Telecom|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|121.180.75.228|1723|South Korea|Suncheon|Korea Telecom|
+|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|7|119.92.138.118|8088|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
