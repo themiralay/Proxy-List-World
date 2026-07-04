@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|944|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|944|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|944|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|777|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|777|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|777|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
-|2|103.69.129.89|24444|Hong Kong|Hong Kong|HostHatch, LLC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|5|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|6|103.77.173.125|9486|Vietnam|Ho Chi Minh City|LIENVPS|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|103.92.218.233|9514|Bangladesh|Khulna|Md Rezaul Karim|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|188.209.138.213|1080|United States|New York|HOSTKEY|
-|15|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|18|62.133.62.17|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|1|103.69.129.89|24444|Hong Kong|Hong Kong|HostHatch, LLC|
+|2|103.77.173.125|9486|Vietnam|Ho Chi Minh City|LIENVPS|
+|3|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|4|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|9|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|10|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|188.209.138.213|1080|United States|New York|HOSTKEY|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|19|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
