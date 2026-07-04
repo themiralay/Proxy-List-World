@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4530** proxies at the latest update. Usable proxies are below.
+> Scraper found **4253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|690|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|16|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2615|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
-|2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.155.180.85|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|203.177.139.10|8082|Philippines|Taguig|SUPERCAT|
-|7|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|14|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |15|103.154.12.2|8088|Nepal|Gulariyā|Everest Wireless Network pvt. ltd|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|185.204.168.189|443|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|20|62.133.62.187|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
