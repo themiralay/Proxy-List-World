@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4062** proxies at the latest update. Usable proxies are below.
+> Scraper found **3958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|751|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|25|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1982|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 |3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|103.226.127.3|10080|Hong Kong|San Po Kong|Bunny Communications|
-|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|9|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|14|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
-|20|82.114.228.67|1080|Russia|Saratov|SCTS|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|12|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|13|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|14|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|15|51.178.253.98|80|France|Strasbourg|OVH SAS|
+|16|41.215.86.226|18080|Kenya|Siakago|ACCESSKENYA|
+|17|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|62.133.62.207|1081|France|Paris|Global Connectivity Solutions LLP|
+|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
 
 
 
