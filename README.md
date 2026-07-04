@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|49.51.228.35|81|United States|Santa Clara|OPHL|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|103.226.127.3|10080|Hong Kong|San Po Kong|Bunny Communications|
+|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|9|62.133.62.249|1082|France|Paris|Global Connectivity Solutions LLP|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|42.2.4.163|1080|Hong Kong|Central|PCCW IMS Limited|
-|15|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|16|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|13|51.178.253.98|80|France|Strasbourg|OVH SAS|
+|14|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|17|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|45.157.140.12|1080|Russia|Moscow|Hypermetrica, LLC|
+|20|82.114.228.67|1080|Russia|Saratov|SCTS|
 
 
 
