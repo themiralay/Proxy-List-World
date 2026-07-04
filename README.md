@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|653|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|653|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|653|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|16|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
-|17|38.10.240.130|3128|Colombia|Cartagena|TV COLOMBIA DIGITAL SAS|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|91.188.213.143|1080|Russia|Moscow|Helou LLC|
-|20|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|154.12.61.177|8009|Hong Kong|Hong Kong|NetLab Global|
+|5|222.228.194.131|8080|Japan|Shiki|ARTERIA Networks Corporation|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|10|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|204.152.198.34|8080|United States|Los Angeles|HostPapa|
+|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|204.152.198.34|8080|United States|Los Angeles|HostPapa|
 
 
 
