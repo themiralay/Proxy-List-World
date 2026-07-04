@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 |2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|154.3.76.16|999|Venezuela|Quíbor|M&S.NET, C.A.|
-|12|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|157.100.53.120|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|7|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|189.154.229.195|999|Mexico|Chihuahua City|UNINET|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|159.195.69.220|8888|Germany|Nuremberg|netcup GmbH|
+|16|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
+|17|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|186.6.33.214|999|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|19|194.26.192.168|8080|The Netherlands|Lelystad|1337 Services GmbH|
+|20|132.243.234.171|9443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
