@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|49.0.26.215|8080|Indonesia|Sugihan|SIMS Jabar Banten Medianet|
-|15|49.51.228.35|81|United States|Santa Clara|OPHL|
-|16|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|20|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|13|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
