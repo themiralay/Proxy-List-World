@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.108.209|1080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|124.217.107.145|5050|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|16|49.51.228.35|81|United States|Santa Clara|OPHL|
-|17|34.93.219.118|80|India|Mumbai|Google LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|49.51.228.35|81|United States|Santa Clara|OPHL|
+|5|103.156.16.63|8818|Indonesia|Jatibarang|RSTNET|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|124.217.107.145|5050|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|13|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
+|15|103.179.252.235|3127|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
 |20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
