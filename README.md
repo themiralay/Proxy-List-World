@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|725|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|725|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|725|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|151.243.153.157|8118|United States|Seattle|Black Apple|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|12|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|118.99.124.80|8080|Indonesia|West Jakarta|Biznet Metronet|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|118.99.124.80|8080|Indonesia|West Jakarta|Biznet Metronet|
+|12|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|13|103.189.249.210|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|125.26.165.245|8080|Thailand|Bangkok|TOT Public Company Limited|
 |16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |17|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 
