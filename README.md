@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.1.198|3128|Japan|Tokyo|Aceville Pte.ltd|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|11|14.143.222.113|57748|India|Chennai|Tata Communications Limited|
-|12|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|45.149.93.247|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|17|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
-|18|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.223.201.213|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|9|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.153.199.126|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|151.243.153.157|8118|United States|Seattle|Black Apple|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|18|139.135.182.132|8081|Philippines|Masaya Sur|ComClark Network & Technology Corp|
+|19|82.146.38.71|443|Russia|Moscow|JSC IOT|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
