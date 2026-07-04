@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
 |2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|62.133.62.207|1082|France|Paris|Global Connectivity Solutions LLP|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|168.126.169.198|808|South Korea|Yongin-si|Korea Telecom|
+|9|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|17|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|18|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
