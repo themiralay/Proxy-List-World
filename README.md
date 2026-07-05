@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|92.118.112.32|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|185.116.43.3|3129|The Netherlands|Nieuwegein|XXLnet B.V.|
-|17|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|19|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|15|209.38.35.154|443|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|19|95.217.23.103|8443|Finland|Helsinki|Hetzner Online GmbH|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
