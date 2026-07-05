@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|756|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|756|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|756|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|653|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|653|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|653|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
+|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |11|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
-|12|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|13|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|14|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
-|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|17|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|13|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|14|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|15|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|16|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|17|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 |19|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|20|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|20|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 
 
 
