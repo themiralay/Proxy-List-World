@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
 |10|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|11|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |17|141.147.70.238|8080|United Kingdom|London|Oracle Corporation|
-|18|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|209.38.35.154|443|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
