@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|753|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|753|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|753|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|698|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|698|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|698|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|122.52.213.104|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
+|2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|136.0.197.87|1081|United States|Los Angeles|Ace Data Centers II|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|12|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|17|122.52.213.104|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|20|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
