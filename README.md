@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
 |5|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|11|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
 |19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|185.204.170.130|84|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
 
 
 
