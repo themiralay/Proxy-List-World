@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|144.48.6.42|80|Singapore|Singapore|Singapore  Beyotta Network LLP|
+|7|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|17|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|16|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
 
 
 
