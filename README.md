@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|809|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|809|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|809|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|704|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|704|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|704|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|49.51.228.35|81|United States|Santa Clara|OPHL|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|13|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|49.51.228.35|81|United States|Santa Clara|OPHL|
 |15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|16|103.134.245.127|8090|Indonesia|Denpasar|Wisuandha Network Globalindo|
-|17|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|18|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|20.171.155.180|3128|United States|Phoenix|Microsoft Corporation|
+|18|34.93.219.118|80|India|Mumbai|Google LLC|
 |19|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|20|49.51.228.35|81|United States|Santa Clara|OPHL|
+|20|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
