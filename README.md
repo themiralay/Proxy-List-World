@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|15|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|199.247.29.193|50000|The Netherlands|Amsterdam|The Constant Company, LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|104.248.146.217|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|20|208.102.251.119|8118|United States|Hebron|Fuse Internet Access|
 
 
 
