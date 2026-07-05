@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|943|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|943|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|943|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|119.202.138.89|1521|South Korea|Seongnam|Korea Telecom|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|123.30.234.233|1314|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|9|49.51.228.35|81|United States|Santa Clara|OPHL|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
 |12|160.22.237.65|9988|Indonesia|Meureubo|Telnet Indonesia|
-|13|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|18|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
-|19|34.93.219.118|80|India|Mumbai|Google LLC|
-|20|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|15|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|49.51.228.35|81|United States|Santa Clara|OPHL|
+|18|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|19|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 
 
 
