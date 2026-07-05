@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|49.51.228.35|81|United States|Santa Clara|OPHL|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
-|15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|54.38.138.60|3128|Poland|Warsaw|OVH SAS|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|17|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
+|18|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
 
 
 
