@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|5|49.51.228.35|81|United States|Santa Clara|OPHL|
+|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|49.51.228.35|81|United States|Santa Clara|OPHL|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|14|181.118.147.28|999|Colombia|El Santuario|Media Commerce Partners S.A|
-|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|209.38.35.154|443|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|19|141.147.70.238|8080|United Kingdom|London|Oracle Corporation|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|12|209.38.35.154|443|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|190.202.13.218|999|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|14|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|181.118.147.28|999|Colombia|El Santuario|Media Commerce Partners S.A|
+|16|91.188.213.143|1080|Russia|Moscow|Helou LLC|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|141.147.70.238|8080|United Kingdom|London|Oracle Corporation|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
 
 
 
