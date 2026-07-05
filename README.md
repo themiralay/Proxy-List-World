@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|203.150.128.30|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|16|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|19|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|2|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|15|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|217.154.155.115|8080|Germany|Berlin|IONOS SE|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|45.153.4.154|3128|United States|Columbus|Istqrar for Servers Services Ltd|
 
 
 
