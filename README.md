@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|681|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|681|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|681|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|3|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|6|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
 |10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|115.127.178.10|2589|Bangladesh|Dhaka|BRACNet Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|217.154.155.115|8080|Germany|Berlin|IONOS SE|
-|20|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|13|49.51.228.35|81|United States|Santa Clara|OPHL|
+|14|49.51.228.35|81|United States|Santa Clara|OPHL|
+|15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|47.83.168.191|5000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|20|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
 
 
 
