@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
-|2|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|45.95.233.237|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.82.77.82|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|17|103.150.152.27|84|India|Udupi|Deenet Networks Private Limited|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|45.95.233.237|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
