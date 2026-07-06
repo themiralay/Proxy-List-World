@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
-|7|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
-|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|9|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|103.154.146.58|8080|Indonesia|Surabaya|MORATELINDONAP|
-|18|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|16|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 
 
 
