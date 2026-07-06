@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|5|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|6|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|8|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |13|193.106.250.227|8443|United States|Newark|GTHost|
-|14|199.182.135.85|3128|United States|Chicago|Modulis|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|20|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
 
 
 
