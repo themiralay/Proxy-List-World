@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|709|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|709|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|709|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|49.51.228.35|81|United States|Santa Clara|OPHL|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|10|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|11|185.204.170.130|83|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|16|49.51.228.35|81|United States|Santa Clara|OPHL|
-|17|134.122.55.255|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|19|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|1|43.133.169.103|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|49.51.228.35|81|United States|Santa Clara|OPHL|
+|7|38.46.233.246|3127|Indonesia|Salatiga|PT CYB Media Group|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|203.175.103.25|8080|Indonesia|Ketanggungan|PT. Mitra Kita Brilian|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|12|182.253.109.140|8080|Indonesia|Semarang|Biznet Metronet|
+|13|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|17|20.75.127.171|3128|United States|Boydton|Microsoft Corporation|
+|18|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 
 
 
