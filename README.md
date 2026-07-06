@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4855** proxies at the latest update. Usable proxies are below.
+> Scraper found **4949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|751|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|845|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2695|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
 |4|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
-|5|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
-|6|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
-|7|103.18.77.75|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|103.164.229.149|8080|Indonesia|Gebog|PT Muria Data Utama|
-|10|49.51.228.35|81|United States|Santa Clara|OPHL|
-|11|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|5|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|9|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|110.136.15.28|8080|Indonesia|North Jakarta|PT. TELKOM INDONESIA|
-|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|17|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|170.106.111.66|27017|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|15|163.5.180.110|6080|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|19|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
