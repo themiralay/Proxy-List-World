@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|10|193.106.250.227|8443|United States|Newark|GTHost|
-|11|49.51.228.35|81|United States|Santa Clara|OPHL|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|16|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|193.106.250.227|8443|United States|Newark|GTHost|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|13|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
+|17|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
+|18|187.127.254.177|8888|United States|Boston|Hostinger US|
+|19|47.83.168.191|4000|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
