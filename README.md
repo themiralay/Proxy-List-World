@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|2|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|209.126.108.35|70|United States|St Louis|velia.net|
-|6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
 |10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |12|193.106.250.227|8443|United States|Newark|GTHost|
 |13|209.126.108.35|70|United States|St Louis|velia.net|
-|14|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|15|185.204.170.130|83|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|16|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|130.49.218.108|1080|France|Paris|Global Connectivity Solutions LLP|
+|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
