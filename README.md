@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|683|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|683|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|683|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |4|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|6|136.0.197.87|1081|United States|Los Angeles|Ace Data Centers II|
 |7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|10|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
-|14|38.46.214.193|1080|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
-|15|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|9|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|12|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|13|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |17|136.0.197.87|1081|United States|Los Angeles|Ace Data Centers II|
-|18|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|19|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
-|20|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|18|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|49.51.228.35|81|United States|Santa Clara|OPHL|
 
 
 
