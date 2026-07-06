@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|6|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
 |7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|16|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|9|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|20|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
 
 
 
