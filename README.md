@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
+|3|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
 |4|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
+|5|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
-|8|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|124.120.231.139|8080|Thailand|Khlong Luang|TRUEBB|
-|10|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|13|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|16|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
-|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|18|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|19|49.51.228.35|81|United States|Santa Clara|OPHL|
-|20|49.51.228.35|81|United States|Santa Clara|OPHL|
+|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|10|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
+|12|49.51.228.35|81|United States|Santa Clara|OPHL|
+|13|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|17|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|192.3.114.219|18080|United States|Elk Grove Village|HostPapa|
 
 
 
