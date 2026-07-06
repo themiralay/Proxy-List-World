@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
-|3|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
-|4|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|5|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
-|6|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|10|49.51.228.35|81|United States|Santa Clara|OPHL|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|16|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|20|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|1|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
+|5|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|6|142.91.105.231|1234|Japan|Koto-ku|Leaseweb Japan K.K.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|10|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|136.0.197.87|1081|United States|Los Angeles|Ace Data Centers II|
+|13|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|143.198.57.17|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 
 
 
