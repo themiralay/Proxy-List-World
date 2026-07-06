@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |10|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
 |11|34.43.46.91|443|United States|Mountain View|Google LLC|
 |12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|13|193.106.250.227|8443|United States|Newark|GTHost|
-|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|187.127.254.177|8888|United States|Boston|Hostinger US|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
 |20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
