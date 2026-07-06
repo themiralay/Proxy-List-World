@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|193.106.250.227|8443|United States|Newark|GTHost|
-|6|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|11|134.122.55.255|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|176.12.65.24|443|Russia|Khimki|WEBDC|
-|13|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|10|193.106.250.227|8443|United States|Newark|GTHost|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
