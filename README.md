@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|27.72.104.217|5000|Vietnam|Hanoi|Newass2011xDSLHN|
 |7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|49.51.228.35|81|United States|Santa Clara|OPHL|
-|12|193.106.250.227|8443|United States|Newark|GTHost|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|10|193.106.250.227|8443|United States|Newark|GTHost|
+|11|199.182.135.85|3128|United States|Chicago|Modulis|
+|12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
 |13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|15|199.182.135.85|3128|United States|Chicago|Modulis|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|18|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
