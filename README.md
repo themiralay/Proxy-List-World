@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|193.106.250.227|8443|United States|Newark|GTHost|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|163.5.13.70|1080|France|Paris|Skyquantum Telecom Ltd.|
-|12|193.106.250.227|8443|United States|Newark|GTHost|
+|3|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|14|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|17|187.72.215.33|3128|Brazil|Brasília|ALGAR TELECOM S/A|
+|18|65.109.65.239|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
