@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.165.123|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|182.253.21.26|46977|Indonesia|West Jakarta|Biznet Networks|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|209.126.108.35|70|United States|St Louis|velia.net|
-|20|103.48.69.170|83|India|Hyderabad|Country Online Services PVT LTD|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|199.182.135.85|3128|United States|Chicago|Modulis|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|193.106.250.227|8443|United States|Newark|GTHost|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|209.126.108.35|70|United States|St Louis|velia.net|
+|14|62.133.62.231|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|18|91.107.182.124|84|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
