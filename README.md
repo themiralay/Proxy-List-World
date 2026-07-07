@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|193.106.250.227|8443|United States|Newark|GTHost|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|154.219.125.17|18080|United States|Los Angeles|Fastnet Data Inc|
-|17|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|18|203.207.56.17|80|Indonesia|Paseh|STARNET|
-|19|103.156.15.14|8080|Indonesia|Cilegon|PT Lintas Jaringan Nusantara|
-|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|103.124.138.149|8080|Indonesia|Demak|Global Media Data Prima|
+|10|103.19.78.125|7777|Indonesia|Kebomas|PT Persada Data Multimedia|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|20|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 
 
 
