@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 |6|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|199.182.135.85|3128|United States|Chicago|Modulis|
-|9|209.126.108.35|70|United States|St Louis|velia.net|
-|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|12|199.182.135.85|3128|United States|Chicago|Modulis|
-|13|193.106.250.227|8443|United States|Newark|GTHost|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|193.106.250.227|8443|United States|Newark|GTHost|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|177.229.218.54|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
 |15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|16|209.126.108.35|70|United States|St Louis|velia.net|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
