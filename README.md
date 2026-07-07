@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|193.106.250.227|8443|United States|Newark|GTHost|
+|9|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
 |10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|13|193.106.250.227|8443|United States|Newark|GTHost|
-|14|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|12|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|18|193.106.250.227|8443|United States|Newark|GTHost|
+|19|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|20|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 
 
 
