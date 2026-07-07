@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|8|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|9|103.143.105.138|8080|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|54.188.178.158|3128|United States|Portland|Amazon.com, Inc.|
-|14|54.188.178.158|3128|United States|Portland|Amazon.com, Inc.|
-|15|193.106.250.227|8443|United States|Newark|GTHost|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|34.102.0.242|443|United States|Los Angeles|Google LLC|
+|6|193.106.250.227|8443|United States|Newark|GTHost|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|34.102.0.242|443|United States|Los Angeles|Google LLC|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|54.188.178.158|3128|United States|Portland|Amazon.com, Inc.|
+|18|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|19|199.182.135.85|3128|United States|Chicago|Modulis|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
