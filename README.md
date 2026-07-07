@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|154.12.61.177|8009|Hong Kong|Hong Kong|NetLab Global|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|154.12.61.177|8009|Hong Kong|Hong Kong|NetLab Global|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|11|193.106.250.227|8443|United States|Newark|GTHost|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|193.106.250.227|8443|United States|Newark|GTHost|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|103.154.77.46|1111|Indonesia|Sleman|T2NET|
+|9|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
 |12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
 |14|199.182.135.85|3128|United States|Chicago|Modulis|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|16|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|17|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|18|49.51.228.35|81|United States|Santa Clara|OPHL|
+|19|199.182.135.85|3128|United States|Chicago|Modulis|
+|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
