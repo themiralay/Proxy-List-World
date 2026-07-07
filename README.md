@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|203.175.103.123|8080|Indonesia|Ketanggungan|PT. Mitra Kita Brilian|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|14|103.66.12.225|8080|India|Tirunelveli|Alacriy Net System Service Private Limited|
-|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|193.106.250.227|8443|United States|Newark|GTHost|
-|17|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|7|49.51.228.35|81|United States|Santa Clara|OPHL|
+|8|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|9|193.106.250.227|8443|United States|Newark|GTHost|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|18|199.182.135.85|3128|United States|Chicago|Modulis|
+|19|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|20|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 
 
 
