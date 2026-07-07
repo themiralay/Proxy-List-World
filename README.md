@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
-|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|36.93.214.253|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|193.106.250.227|8443|United States|Newark|GTHost|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|187.127.254.177|8888|United States|Boston|Hostinger US|
+|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |16|103.48.68.155|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|19|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|20|193.106.250.227|8443|United States|Newark|GTHost|
+|17|193.106.250.227|8443|United States|Newark|GTHost|
+|18|187.127.254.177|8888|United States|Boston|Hostinger US|
+|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
