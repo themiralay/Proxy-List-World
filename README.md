@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|3.23.132.26|3128|United States|Dublin|Amazon.com, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|15|3.23.132.26|3128|United States|Dublin|Amazon.com, Inc.|
-|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|193.106.250.227|8443|United States|Newark|GTHost|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|11|3.23.132.26|3128|United States|Dublin|Amazon.com, Inc.|
+|12|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|16|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|3.23.132.26|3128|United States|Dublin|Amazon.com, Inc.|
+|19|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|20|54.188.178.158|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
