@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.201.130.113|8443|Japan|Tokyo|xTom Limited|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|14|193.106.250.227|8443|United States|Newark|GTHost|
-|15|2.49.90.189|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|89.44.80.183|8888|United Arab Emirates|Dubai|HZ Hosting Ltd|
-|18|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|193.106.250.227|8443|United States|Newark|GTHost|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
 
 
 
