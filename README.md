@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|193.106.250.227|8443|United States|Newark|GTHost|
 |10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
 |13|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|103.95.23.250|3125|Bangladesh|Jessore|PT HASIBUAN TELEKOMUNIKASI INDONESIA|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
-|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 
 
 
