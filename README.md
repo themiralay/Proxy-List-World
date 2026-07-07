@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4299** proxies at the latest update. Usable proxies are below.
+> Scraper found **4476** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|794|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|128|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2354|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|61.118.38.234|60808|Japan|Honchō|Open Computer Network|
 |6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|193.106.250.227|8443|United States|Newark|GTHost|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|199.182.135.85|3128|United States|Chicago|Modulis|
-|16|103.171.194.52|84|India|Udupi|Udupi Fastnet Private Limited|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|19|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|103.181.255.105|8080|Indonesia|Kunden|PT Giga Digital Nusantara|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|103.188.169.93|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|14|103.171.194.52|84|India|Udupi|Udupi Fastnet Private Limited|
+|15|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|16|223.205.136.71|8080|Thailand|Mae Ramat|Triple T Broadband Public Company Limited|
+|17|167.250.222.233|999|Guatemala|San Marcos|Ufinet Panama S.A.|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|202.58.77.9|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
