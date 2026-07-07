@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|8|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|137.184.105.102|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|193.106.250.227|8443|United States|Newark|GTHost|
+|8|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|9|199.182.135.85|3128|United States|Chicago|Modulis|
+|10|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|11|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
+|17|176.98.185.214|3128|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|18|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|19|154.219.125.17|18080|United States|Los Angeles|Fastnet Data Inc|
+|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
