@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|103.201.130.113|8443|Japan|Tokyo|xTom Limited|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|10|49.51.228.35|81|United States|Santa Clara|OPHL|
 |11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|193.106.250.227|8443|United States|Newark|GTHost|
-|15|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|16|54.38.139.182|3128|Poland|Warsaw|OVH SAS|
-|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
-|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|20|95.217.23.103|8443|Finland|Helsinki|Hetzner Online GmbH|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|170.82.194.134|3128|Brazil|Penha|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|20|176.12.65.24|443|Russia|Khimki|WEBDC|
 
 
 
