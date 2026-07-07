@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|40.90.208.80|3128|United States|Quincy|Microsoft Corporation|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|40.90.208.80|3128|United States|Quincy|Microsoft Corporation|
-|12|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|17|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|185.204.171.198|443|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
+|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|154.12.61.177|8009|Hong Kong|Hong Kong|NetLab Global|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|193.106.250.227|8443|United States|Newark|GTHost|
+|11|64.130.54.245|3128|United States|Pittsburgh|TeraSwitch Networks Inc.|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
+|17|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
