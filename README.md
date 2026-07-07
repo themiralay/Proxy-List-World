@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|10|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|11|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
-|12|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|13|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|14|49.51.228.35|81|United States|Santa Clara|OPHL|
-|15|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|16|62.60.149.161|3128|Sweden|Stockholm|Aeza International LTD|
-|17|131.222.253.73|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|18|115.127.179.174|2026|Bangladesh|Dhaka|BRACNet Limited|
-|19|217.123.140.50|8888|The Netherlands|Zwolle|Vodafone Ziggo|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|206.189.144.164|10808|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|8|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|103.155.196.47|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|17|45.174.168.44|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|19|103.135.189.6|83|India|Tālakkudi|Swibi Airnet Broadband Services Pvt Ltd|
+|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 
 
 
