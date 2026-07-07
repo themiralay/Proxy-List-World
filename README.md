@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|7|193.106.250.227|8443|United States|Newark|GTHost|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|1|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 
 
 
