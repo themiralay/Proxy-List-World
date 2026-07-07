@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|178.128.95.176|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
-|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|14|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|19|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|20|193.106.250.227|8443|United States|Newark|GTHost|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|199.182.135.85|3128|United States|Chicago|Modulis|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|15|34.209.216.57|8080|United States|Portland|Amazon.com, Inc.|
+|16|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|199.182.135.85|3128|United States|Chicago|Modulis|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|85.92.108.2|3128|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
