@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|656|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|656|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|656|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.54.119.5|8000|Hong Kong|Chai Wan|Data Wing Limited|
-|2|58.180.17.51|3128|South Korea|Gwacheon-si|Shinbiro|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|45.192.184.53|3128|Hong Kong|Hong Kong|Zhengxing Technology|
-|5|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|6|216.183.230.191|7890|United States|Salt Lake City|Colocation America Corporation|
-|7|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|3|103.54.119.5|8000|Hong Kong|Chai Wan|Data Wing Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|45.192.184.53|3128|Hong Kong|Hong Kong|Zhengxing Technology|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|103.156.17.83|8818|Indonesia|Jatibarang|RSTNET|
+|8|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 |9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|10|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|27.64.55.211|80|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|16|103.165.237.195|3128|Indonesia|Central Jakarta|PT iForte Global Internet|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|103.197.156.9|8888|Myanmar|Myawaddy|V D C Net Company Limited|
+|13|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|103.165.237.195|3128|Indonesia|Central Jakarta|PT iForte Global Internet|
+|16|27.64.55.211|80|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
+|18|38.46.214.227|8090|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
 |19|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|20|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
 
 
 
