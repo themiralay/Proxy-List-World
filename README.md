@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|8|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
 |9|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|91.109.114.211|8888|United Kingdom|London|UK Dedicated Servers Limited|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|72.56.238.99|1080|Russia|Moscow|JSC "TIMEWEB"|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|11|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|199.182.135.85|3128|United States|Chicago|Modulis|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
