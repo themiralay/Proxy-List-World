@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|44.239.244.188|8443|United States|Portland|Amazon.com, Inc.|
-|4|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|44.239.244.188|8443|United States|Portland|Amazon.com, Inc.|
-|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|11|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|12|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|13|49.51.228.35|81|United States|Santa Clara|OPHL|
-|14|193.106.250.227|8443|United States|Newark|GTHost|
-|15|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|16|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.231.12.249|7890|Hong Kong|San Po Kong|Converged Communications Limited|
-|19|199.182.135.85|3128|United States|Chicago|Modulis|
-|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|45.10.70.209|8888|United States|Los Angeles|Zenlayer Inc|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|15|49.51.228.35|81|United States|Santa Clara|OPHL|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|18|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|19|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
