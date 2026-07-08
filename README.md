@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|729|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|729|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|729|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
-|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|10|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
-|15|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|3.15.101.97|443|United States|Dublin|Amazon.com, Inc.|
-|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|6|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|7|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
+|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|16|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
