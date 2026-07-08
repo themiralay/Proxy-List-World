@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|49.51.228.35|81|United States|Santa Clara|OPHL|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.162.63.166|1111|Indonesia|Sumedang|PT Ring Media Nusantara|
-|7|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|199.182.135.85|3128|United States|Chicago|Modulis|
-|14|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|17|164.92.166.236|443|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|151.243.153.157|8118|United States|Seattle|Black Apple|
-|19|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|193.106.250.227|8443|United States|Newark|GTHost|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
+|18|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 
 
 
