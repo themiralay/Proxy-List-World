@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
-|6|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|7|23.137.105.114|3128|United States|North Kansas City|Advin Services LLC|
-|8|23.137.105.114|3128|United States|North Kansas City|Advin Services LLC|
-|9|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|2|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |10|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|11|199.182.135.85|3128|United States|Chicago|Modulis|
-|12|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
-|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
-|16|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|17|160.30.112.147|3128|Vietnam|Quận Ba|MAYCHUMANG|
-|18|199.68.217.2|3128|United States|Cherry Hill|Internet Utilities NA LLC|
-|19|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|77.110.113.236|8080|Russia|Moscow|Global Internet Solutions LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|13|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|199.182.135.85|3128|United States|Chicago|Modulis|
+|16|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|20|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
 
 
 
