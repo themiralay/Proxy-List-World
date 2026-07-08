@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
-|9|199.182.135.85|3128|United States|Chicago|Modulis|
-|10|199.182.135.85|3128|United States|Chicago|Modulis|
-|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|213.21.254.26|1081|Sweden|Stockholm|Aeza International LTD|
-|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|17|212.34.146.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|5.181.178.26|8021|Japan|Koto City|Lain.sh|
-|20|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|8|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|159.223.87.50|443|Singapore|Singapore|DigitalOcean, LLC|
+|10|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|12|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|13|123.200.8.170|10000|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|103.166.158.101|14040|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
