@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.217.11.244|9568|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|3|193.106.250.227|8443|United States|Newark|GTHost|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 |5|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.252.11.98|80|United States|Charlottesville|Alibaba Cloud LLC|
+|6|89.42.71.98|8097|Mexico|San Pedro Cahro|Optical Line Terminal SAS De CV|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|10|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|14|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|47.252.11.98|80|United States|Charlottesville|Alibaba Cloud LLC|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|12|193.106.250.227|8443|United States|Newark|GTHost|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|193.106.250.227|8443|United States|Newark|GTHost|
 |15|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|16|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|91.109.114.211|8888|United Kingdom|London|UK Dedicated Servers Limited|
-|19|48.214.144.194|8888|United States|Des Moines|Microsoft Corporation|
-|20|47.252.11.98|80|United States|Charlottesville|Alibaba Cloud LLC|
+|16|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|47.252.11.98|80|United States|Charlottesville|Alibaba Cloud LLC|
+|19|91.109.114.211|8888|United Kingdom|London|UK Dedicated Servers Limited|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
