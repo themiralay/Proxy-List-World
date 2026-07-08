@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
-|2|116.80.65.235|3128|Japan|Shimomaruko|InfoSphere|
-|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|4|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|112.109.20.106|6060|Indonesia|Cicurug|DATAUTAMANET|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|15|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|20|193.106.250.227|8443|United States|Newark|GTHost|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|141.147.151.116|3128|Japan|Osaka|Oracle Corporation|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|5|116.80.65.235|3128|Japan|Shimomaruko|InfoSphere|
+|6|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|7|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|138.2.83.219|3128|Singapore|Singapore|Oracle Corporation|
+|10|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|11|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|112.109.20.106|6060|Indonesia|Cicurug|DATAUTAMANET|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|17|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
 
 
 
