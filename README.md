@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.249.44.10|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|199.182.135.85|3128|United States|Chicago|Modulis|
-|9|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|72.56.32.152|1082|Russia|Moscow|JSC "TIMEWEB"|
-|12|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|13|193.106.250.227|8443|United States|Newark|GTHost|
-|14|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|15|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|16|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|17|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|20|45.93.22.42|8080|Russia|Krasnyy Kut|Helou LLC|
+|1|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|6|193.106.250.227|8443|United States|Newark|GTHost|
+|7|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|14|49.51.228.35|81|United States|Santa Clara|OPHL|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|91.109.114.211|8888|United Kingdom|London|UK Dedicated Servers Limited|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|91.107.182.124|82|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
