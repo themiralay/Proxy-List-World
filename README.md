@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.231.12.249|7890|Hong Kong|San Po Kong|Converged Communications Limited|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|45.136.254.27|8080|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|7|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|45.10.69.73|8888|United States|Los Angeles|Zenlayer Inc|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
+|8|27.72.104.217|5000|Vietnam|Hanoi|Newass2011xDSLHN|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|45.10.69.73|8888|United States|Los Angeles|Zenlayer Inc|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
