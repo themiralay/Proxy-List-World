@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|5|49.51.228.35|81|United States|Santa Clara|OPHL|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|5|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|6|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|193.106.250.227|8443|United States|Newark|GTHost|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
-|20|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|49.51.228.35|81|United States|Santa Clara|OPHL|
+|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|16|49.51.228.35|81|United States|Santa Clara|OPHL|
+|17|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|20|199.182.135.85|3128|United States|Chicago|Modulis|
 
 
 
