@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.69.212.52|3128|Singapore|Singapore|Oracle Corporation|
-|2|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|3|157.230.134.174|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
+|4|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|5|199.182.135.85|3128|United States|Chicago|Modulis|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|51.178.253.98|80|France|Strasbourg|OVH SAS|
 |8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|12|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|13|154.58.138.227|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|14|199.182.135.85|3128|United States|Chicago|Modulis|
-|15|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|16|157.230.134.174|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|49.51.228.35|81|United States|Santa Clara|OPHL|
+|12|176.12.65.24|443|Russia|Khimki|WEBDC|
+|13|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|14|49.51.228.35|81|United States|Santa Clara|OPHL|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|38.46.214.193|1080|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
+|17|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|19|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
