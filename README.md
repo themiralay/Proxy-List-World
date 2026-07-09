@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|2|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|3|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|12|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|75.127.4.216|7890|United States|Buffalo|HostPapa|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|16|193.106.250.227|8443|United States|Newark|GTHost|
-|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|11|151.243.153.157|8118|United States|Seattle|Black Apple|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|193.106.250.227|8443|United States|Newark|GTHost|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|199.182.135.85|3128|United States|Chicago|Modulis|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
 
 
 
