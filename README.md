@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.13.115|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|8|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
-|9|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|15|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|18|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|19|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|122.2.48.121|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|9|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
+|10|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|11|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|193.106.250.227|8443|United States|Newark|GTHost|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
