@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|750|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|750|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|750|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|722|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|4|50.28.114.53|3128|United States|Phoenix|Liquid Web, L.L.C|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|7|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|16|75.127.4.216|7890|United States|Buffalo|HostPapa|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|199.182.135.85|3128|United States|Chicago|Modulis|
-|19|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|14|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
