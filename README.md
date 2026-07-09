@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|2|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|13|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|14|199.182.135.85|3128|United States|Chicago|Modulis|
-|15|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|17|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|1|138.2.50.246|3128|Japan|Osaka|Oracle Corporation|
+|2|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|3|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|199.182.135.85|3128|United States|Chicago|Modulis|
+|6|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|7|193.106.250.227|8443|United States|Newark|GTHost|
+|8|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|193.106.250.227|8443|United States|Newark|GTHost|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
+|14|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
+|15|94.74.66.91|7890|Mexico|Ciudad De México|Huawei International Pte. LTD|
+|16|199.182.135.85|3128|United States|Chicago|Modulis|
+|17|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|18|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
+|19|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
