@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5131** proxies at the latest update. Usable proxies are below.
+> Scraper found **5313** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|776|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|776|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|776|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1219|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1401|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|162|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2550|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|122.3.201.44|9090|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|5|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|6|199.182.135.85|3128|United States|Chicago|Modulis|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|10|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|18|103.252.120.18|8090|Bangladesh|Gazipur|NR Link|
-|19|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|199.182.135.85|3128|United States|Chicago|Modulis|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|210.94.84.86|8118|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|10|54.183.147.175|80|United States|San Jose|Amazon.com, Inc.|
+|11|50.28.114.53|3128|United States|Phoenix|Liquid Web, L.L.C|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
 
 
 
