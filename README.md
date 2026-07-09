@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |7|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|8|199.182.135.85|3128|United States|Chicago|Modulis|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|193.106.250.227|8443|United States|Newark|GTHost|
-|12|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|193.106.250.227|8443|United States|Newark|GTHost|
-|16|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|19|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
-|20|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
+|14|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|15|180.34.117.197|8080|Japan|Yokohama|NTT Communications Corporation|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
