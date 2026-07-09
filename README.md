@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|54.183.147.175|80|United States|San Jose|Amazon.com, Inc.|
-|5|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|54.183.147.175|80|United States|San Jose|Amazon.com, Inc.|
+|4|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|6|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.99.27.43|3125|Indonesia|Brebes|PT Lintas Network Solusi|
 |9|54.183.147.175|80|United States|San Jose|Amazon.com, Inc.|
-|10|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|11|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|12|103.231.12.249|7890|Hong Kong|San Po Kong|Converged Communications Limited|
-|13|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|199.182.135.85|3128|United States|Chicago|Modulis|
-|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|19|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|16|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|199.182.135.85|3128|United States|Chicago|Modulis|
+|20|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
