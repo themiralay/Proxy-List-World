@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|804|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|804|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|804|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|5|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|6|138.2.88.91|3128|Singapore|Singapore|Oracle Corporation|
-|7|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|11|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|14|38.59.245.225|1080|United States|San Jose|Kirino LLC|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|3|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|4|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|11|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|18|171.6.20.6|18080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|19|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|20|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
