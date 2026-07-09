@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|623|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|623|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|623|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|5|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|12|129.159.104.155|3128|United States|Ashburn|Oracle Corporation|
-|13|94.74.66.91|7890|Mexico|Ciudad De México|Huawei International Pte. LTD|
-|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|15|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|10|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|193.106.250.227|8443|United States|Newark|GTHost|
+|17|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|18|199.182.135.85|3128|United States|Chicago|Modulis|
+|19|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|20|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
 
 
 
