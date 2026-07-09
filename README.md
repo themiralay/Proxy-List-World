@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|720|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|720|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|720|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|746|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|746|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|746|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|6|43.248.10.236|8118|Hong Kong|Mong Kok|VH-GLOBAL|
-|7|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|199.182.135.85|3128|United States|Chicago|Modulis|
-|10|103.172.71.202|1111|Indonesia|Karangampel|AZNET|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|199.182.135.85|3128|United States|Chicago|Modulis|
-|18|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
-|20|145.133.83.62|3128|United Kingdom|City of London|Koninklijke KPN N.V.|
+|1|123.100.136.11|8080|Japan|Akasaka|GLBB Japan KK|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|138.2.127.197|3128|South Korea|Chuncheon|Oracle Corporation|
+|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.9.51|8888|United States|Hillsboro|OVH SAS|
+|7|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|193.106.250.227|8443|United States|Newark|GTHost|
+|10|44.239.244.188|8080|United States|Portland|Amazon.com, Inc.|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|13|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|16|103.82.246.19|6080|Indonesia|Tulangan Utara|PT Master Star Network|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
 
 
 
