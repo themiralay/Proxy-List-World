@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|744|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|744|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|744|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|865|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|865|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|865|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|193.106.250.227|8443|United States|Newark|GTHost|
-|8|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|11|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|12|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|14|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|139.28.240.200|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|18|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
-|19|78.159.131.131|1081|Albania|Elbasan|Global Connectivity Solutions LLP|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|5|50.28.114.53|3128|United States|Phoenix|Liquid Web, L.L.C|
+|6|103.188.169.170|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|50.28.114.49|3128|United States|Phoenix|Liquid Web, L.L.C|
+|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|50.28.114.51|3128|United States|Phoenix|Liquid Web, L.L.C|
+|12|50.28.114.50|3128|United States|Phoenix|Liquid Web, L.L.C|
+|13|50.28.114.52|3128|United States|Phoenix|Liquid Web, L.L.C|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|50.28.114.53|3128|United States|Phoenix|Liquid Web, L.L.C|
+|16|103.19.58.134|8080|Indonesia|Jatibarang|BITSNET|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
