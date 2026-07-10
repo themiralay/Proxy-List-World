@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|770|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|770|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|770|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|727|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|727|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|727|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|4|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|7|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|216.144.239.17|7890|United States|Los Angeles|HostPapa|
-|10|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|11|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|94.74.66.91|7890|Mexico|Ciudad De México|Huawei International Pte. LTD|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.156.237.221|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|43.156.236.238|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.156.114.4|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|10|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|11|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
