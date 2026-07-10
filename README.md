@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|869|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|869|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|869|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|941|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|941|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|941|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|1|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|9|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|11|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|12|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|17|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|9|216.144.239.17|7890|United States|Los Angeles|HostPapa|
+|10|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|98.91.160.82|80|United States|Ashburn|Amazon.com|
+|13|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|16|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
 
 
 
