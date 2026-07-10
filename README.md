@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|2|219.84.152.243|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|7|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|59.93.212.55|8881|India|Thoothukudi|BSNL Internet|
-|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|13|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|14|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|15|94.249.225.249|8888|Germany|Bad Soden am Taunus|Raul Ghita trading as 'Ghita Telekom'|
-|16|78.159.131.131|1081|Albania|Elbasan|Global Connectivity Solutions LLP|
-|17|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|18|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|19|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|6|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
+|7|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|8|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|219.84.152.243|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|17|38.180.135.30|8000|United States|New York|M247 Europe SRL|
+|18|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
