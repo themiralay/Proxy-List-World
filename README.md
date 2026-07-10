@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1018|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1018|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1018|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|972|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|972|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|972|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
 |5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
-|7|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|23.81.87.203|8118|United States|Dallas|Leaseweb USA, Inc.|
-|10|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
-|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|6|23.81.87.203|8118|United States|Dallas|Leaseweb USA, Inc.|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|9|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|11|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
 |12|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|14|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
-|17|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
-|18|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|13|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
+|16|172.241.167.194|8118|United States|Parsippany|Leaseweb USA, Inc.|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|23.81.87.203|8118|United States|Dallas|Leaseweb USA, Inc.|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|23.81.87.203|8118|United States|Dallas|Leaseweb USA, Inc.|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
