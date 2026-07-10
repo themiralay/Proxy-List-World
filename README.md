@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|782|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|782|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|782|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|914|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|914|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|914|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|50.28.114.50|3128|United States|Phoenix|Liquid Web, L.L.C|
-|5|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|6|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|50.28.114.53|3128|United States|Phoenix|Liquid Web, L.L.C|
-|8|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|50.28.114.49|3128|United States|Phoenix|Liquid Web, L.L.C|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|13|50.28.114.50|3128|United States|Phoenix|Liquid Web, L.L.C|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|193.106.250.227|8443|United States|Newark|GTHost|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|54.183.147.175|80|United States|San Jose|Amazon.com, Inc.|
+|8|23.81.87.202|8118|United States|Dallas|Leaseweb USA, Inc.|
+|9|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|15|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|16|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
