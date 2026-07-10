@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|941|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|941|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|941|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1076|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1076|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1076|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
-|3|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|7|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|10|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|15|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|15|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
+|16|38.180.135.30|8000|United States|New York|M247 Europe SRL|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
 
 
 
