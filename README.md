@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|877|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|877|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|877|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|887|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|887|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|887|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
 |5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|10|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|11|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|9|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|11|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|193.106.250.227|8443|United States|Newark|GTHost|
+|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|19|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
