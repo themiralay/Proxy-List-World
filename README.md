@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|769|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|769|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|769|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|835|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|835|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|835|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|4|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|13|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|6|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|7|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|10|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|126.209.17.226|8080|Philippines|Manila|Infinivan Incorporated|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|193.106.250.227|8443|United States|Newark|GTHost|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|20|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
 
 
 
