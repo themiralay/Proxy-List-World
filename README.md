@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|854|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|854|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|854|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|781|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|781|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|781|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|2|116.80.65.235|3128|Japan|Shimomaruko|InfoSphere|
-|3|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|116.80.65.235|3128|Japan|Shimomaruko|InfoSphere|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|219.84.152.242|3128|Taiwan|New Taipei City|Sony Network Taiwan Limited|
+|5|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|15|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
+|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
