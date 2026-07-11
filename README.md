@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|962|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|962|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|962|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|803|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|803|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|803|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
-|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|154.36.155.204|8118|Japan|Tokyo|NetLab Global|
+|2|103.201.130.113|8443|Japan|Tokyo|xTom Limited|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|104.248.146.217|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|11|50.28.114.50|3128|United States|Phoenix|Liquid Web, L.L.C|
-|12|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|216.144.239.17|7890|United States|Los Angeles|HostPapa|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|75.127.4.216|7890|United States|Buffalo|HostPapa|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|104.248.146.217|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|14|75.127.4.216|7890|United States|Buffalo|HostPapa|
+|15|147.45.60.252|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
