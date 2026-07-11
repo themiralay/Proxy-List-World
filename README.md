@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|762|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|890|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|890|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|890|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|6|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
 |8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|9|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|13|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|16|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|17|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|9|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|11|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|216.180.64.210|8118|Canada|Vancouver|Novus Entertainment Inc.|
+|14|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|16|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|19|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
 
 
 
