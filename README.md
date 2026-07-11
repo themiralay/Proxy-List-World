@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|830|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|830|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|830|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|792|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|792|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|792|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|38.180.135.30|8000|United States|New York|M247 Europe SRL|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|16|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
+|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|15|193.106.250.227|8443|United States|Newark|GTHost|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
 |17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
 
 
 
