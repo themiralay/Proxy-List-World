@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|848|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|848|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|848|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|763|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|763|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|763|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|106.10.55.212|1121|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|5|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|15|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|16|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|3|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|6|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|45.76.163.227|7890|Singapore|Singapore|The Constant Company|
+|11|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
 
 
 
