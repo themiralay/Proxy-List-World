@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5481** proxies at the latest update. Usable proxies are below.
+> Scraper found **5613** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|739|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|739|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|739|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|776|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|776|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|776|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1110|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1242|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|441|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2730|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|2|216.144.239.17|7890|United States|Los Angeles|HostPapa|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|130.49.187.61|1081|United Kingdom|London|Global Connectivity Solutions LLP|
-|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|9|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|10|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|17|59.93.212.55|8881|India|Thoothukudi|BSNL Internet|
-|18|216.144.239.17|7890|United States|Los Angeles|HostPapa|
-|19|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|4|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|9|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|10|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|38.180.135.30|8000|United States|New York|M247 Europe SRL|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
 
 
 
