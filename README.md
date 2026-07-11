@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|706|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|706|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|706|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.79.144.123|8009|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|9|216.144.239.17|7890|United States|Los Angeles|HostPapa|
-|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|11|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|13|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|14|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|5|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
+|8|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
+|9|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|12|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|194.41.113.220|8080|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|20|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|193.106.250.227|8443|United States|Newark|GTHost|
+|19|38.180.135.30|8000|United States|New York|M247 Europe SRL|
+|20|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
 
 
 
