@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|154.12.50.143|3128|United States|Los Angeles|NetLab Global|
-|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|10|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|14|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|15|193.106.250.227|8443|United States|Newark|GTHost|
-|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|59.93.212.55|8881|India|Thoothukudi|BSNL Internet|
+|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|7|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|8|130.49.187.63|1081|United Kingdom|London|Global Connectivity Solutions LLP|
+|9|207.246.101.55|7890|United States|Los Angeles|The Constant Company|
+|10|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|12|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|16|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
 
 
 
