@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|848|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|848|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|848|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|717|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|717|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|717|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
-|16|171.235.173.89|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|19|193.106.250.227|8443|United States|Newark|GTHost|
+|20|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 
 
 
