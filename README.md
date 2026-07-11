@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|702|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|702|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|702|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|103.201.130.113|8443|Japan|Tokyo|xTom Limited|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|98.91.160.82|80|United States|Ashburn|Amazon.com|
+|1|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|17|118.71.44.153|2084|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|98.91.160.82|80|United States|Ashburn|Amazon.com|
+|12|193.106.250.227|8443|United States|Newark|GTHost|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|15|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
+|20|37.1.209.10|1080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
