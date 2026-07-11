@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|755|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|755|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|755|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|761|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|761|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|761|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
-|11|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|12|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|38.180.135.30|8000|United States|New York|M247 Europe SRL|
-|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|17|50.7.252.2|8088|Singapore|Singapore|FDCservers.net|
-|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|147.45.60.252|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|159.223.171.133|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
+|19|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|20|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
 
 
 
