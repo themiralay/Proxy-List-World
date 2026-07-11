@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|897|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|897|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|897|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1002|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1002|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1002|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|6|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|9|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|16|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|108.174.194.34|10801|United States|Dallas|HostPapa|
-|19|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
 
 
 
