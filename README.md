@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|154.31.112.124|88|Japan|Tokyo|DMIT Cloud Services|
-|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|5|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|12|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|15|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|130.49.218.166|1081|France|Paris|Global Connectivity Solutions LLP|
+|17|62.133.62.184|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|20|153.80.240.37|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
 
