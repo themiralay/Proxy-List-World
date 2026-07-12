@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.44.31|7890|Japan|Osaka|The Constant Company|
-|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|10|193.106.250.227|8443|United States|Newark|GTHost|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|2|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|89.185.80.78|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|193.106.250.227|8443|United States|Newark|GTHost|
-|17|107.173.153.119|2080|United States|Santa Clara|HostPapa|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|13|59.93.212.55|8881|India|Thoothukudi|BSNL Internet|
+|14|108.174.194.34|10801|United States|Dallas|HostPapa|
+|15|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|139.28.240.203|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
