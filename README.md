@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|839|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|839|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|839|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|741|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|741|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|741|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|5|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|16|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|19|108.174.194.34|10801|United States|Dallas|HostPapa|
-|20|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|4|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|5|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|14|173.254.204.118|7890|United States|Los Angeles|HostPapa|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|18|108.174.194.34|10801|United States|Dallas|HostPapa|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
