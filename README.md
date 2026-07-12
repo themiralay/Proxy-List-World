@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|832|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|832|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|832|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|958|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|958|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|958|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.134.141.85|80|Singapore|Singapore|Aceville Pte.ltd|
-|4|27.64.55.211|80|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|13|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|17|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|12|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|108.174.194.34|10801|United States|Dallas|HostPapa|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|16|27.64.55.211|80|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
