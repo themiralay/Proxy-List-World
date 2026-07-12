@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|657|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|657|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|657|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.221.185.20|443|United States|Portland|Amazon.com, Inc.|
-|11|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|14|193.106.250.227|8443|United States|Newark|GTHost|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|107.173.153.119|2080|United States|Santa Clara|HostPapa|
+|7|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|11|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|34.221.185.20|443|United States|Portland|Amazon.com, Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|165.22.2.186|40001|United States|North Bergen|DigitalOcean, LLC|
-|19|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|18|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |20|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
 
 
