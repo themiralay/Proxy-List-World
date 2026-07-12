@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|698|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|698|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|698|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|4|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|165.22.2.186|40001|United States|North Bergen|DigitalOcean, LLC|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 |11|193.106.250.227|8443|United States|Newark|GTHost|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|17|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
