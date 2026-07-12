@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.226.120|3128|Japan|Hyakuninchō|InfoSphere|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|4|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|5|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|193.106.250.227|8443|United States|Newark|GTHost|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|193.106.250.227|8443|United States|Newark|GTHost|
-|13|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|38.246.114.120|20914|United States|Draper|Cogent Communications|
-|15|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|16|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|17|38.246.114.120|20914|United States|Draper|Cogent Communications|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|4|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|10|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|16|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|18|117.7.80.126|2050|Vietnam|Nam Định|VIETTEL|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
 
 
 
