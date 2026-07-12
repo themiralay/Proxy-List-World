@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|924|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|924|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|924|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1025|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1025|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1025|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|118.71.44.153|2080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |8|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
-|9|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|15|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|16|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|17|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|10|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|108.174.194.34|10801|United States|Dallas|HostPapa|
+|13|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
 
 
 
