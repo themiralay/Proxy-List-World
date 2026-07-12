@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|993|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|993|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|993|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|47.79.18.149|9200|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
-|13|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|14|108.174.194.34|10801|United States|Dallas|HostPapa|
-|15|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|47.79.18.149|9200|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|10|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|108.174.194.34|10801|United States|Dallas|HostPapa|
+|13|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
