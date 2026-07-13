@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|47.131.233.178|80|Singapore|Singapore|Amazon Technologies Inc|
-|4|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|89.185.80.78|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 |6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|8|89.185.80.69|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|11|103.134.85.167|3128|Indonesia|Leles|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|12|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|11|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |13|108.174.194.34|10801|United States|Dallas|HostPapa|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|16|118.71.44.153|2050|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|14|103.134.85.167|3128|Indonesia|Leles|Dinas Komunikasi dan Informatika Kabupaten Garut|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|103.157.78.117|7777|Indonesia|Jakarta|PT Super Media Indonesia|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|163.223.78.107|8080|Indonesia|Jombang|PT Big Network Indonesia|
 
 
 
