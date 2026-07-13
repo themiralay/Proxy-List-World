@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|879|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|879|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|879|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|891|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|891|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|891|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|43.156.237.221|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|7|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|9|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|103.177.8.133|1111|Indonesia|Cikarang|PT Helium Sinergi Telekomunikasi|
-|14|108.174.194.34|10801|United States|Dallas|HostPapa|
-|15|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|17|193.106.250.227|8443|United States|Newark|GTHost|
-|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|147.45.60.249|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|118.71.44.153|2042|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|193.106.250.227|8443|United States|Newark|GTHost|
+|13|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|16|193.106.250.227|8443|United States|Newark|GTHost|
+|17|62.133.62.207|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
+|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
