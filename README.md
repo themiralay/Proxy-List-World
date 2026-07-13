@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|844|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|844|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|844|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|751|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|751|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|751|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|40.81.205.181|1080|Japan|Tokyo|Microsoft Corporation|
-|3|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|6|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|37.58.221.247|3128|France|Montpellier|Adista SAS|
-|14|150.241.230.85|10000|United States|Los Angeles|Freakhosting LTD|
-|15|81.200.147.68|7890|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|19|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|40.81.205.181|1080|Japan|Tokyo|Microsoft Corporation|
+|4|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|108.174.194.34|10801|United States|Dallas|HostPapa|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|16|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|103.15.222.192|10154|Vietnam|Tây Mỗ|TAN Thanh AN International Trade Development Company Limited|
+|20|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
 
 
 
