@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1075|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1075|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1075|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|895|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|895|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|895|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
-|9|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|43.128.114.142|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|108.174.194.34|10801|United States|Dallas|HostPapa|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|1|40.81.205.181|1080|Japan|Tokyo|Microsoft Corporation|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|113.176.100.249|8881|Vietnam|Liên Chiểu|VNPT-VNNIC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|9|103.165.237.195|3128|Indonesia|Central Jakarta|PT iForte Global Internet|
+|10|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|11|8.217.11.244|9568|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|13|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.2.234.181|7890|United States|San Jose|Oracle Corporation|
+|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
