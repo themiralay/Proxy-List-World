@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|3|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|9|103.155.168.158|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
 |16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 |17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
