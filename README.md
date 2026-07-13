@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|12|144.24.102.225|8888|India|Mumbai|Oracle Corporation|
-|13|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.236.86.147|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
