@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|716|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|716|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|716|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.60.147|8001|United States|Santa Clara|DigitalOcean, LLC|
-|2|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |3|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|4|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|98.91.160.82|80|United States|Ashburn|Amazon.com|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|146.190.60.147|8001|United States|Santa Clara|DigitalOcean, LLC|
+|4|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|5|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|8|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |14|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|15|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
 |19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
