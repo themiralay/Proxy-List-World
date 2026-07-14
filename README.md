@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
 |2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|5|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|9|103.191.254.134|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
+|3|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|4|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|3.92.144.248|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
-|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|139.28.240.200|1082|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|18|62.133.62.17|1082|France|Paris|Global Connectivity Solutions LLP|
-|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|20|3.92.144.248|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|3.92.144.248|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|142.93.118.200|40001|United States|North Bergen|DigitalOcean, LLC|
+|18|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|19|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
+|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
