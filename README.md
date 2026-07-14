@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |5|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|7|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|8|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|12|51.178.253.98|80|France|Strasbourg|OVH SAS|
-|13|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|109.164.35.23|8888|Czechia|Humpolec|STARNET, s.r.o.|
-|16|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|17|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|11|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|16|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
 
 
 
