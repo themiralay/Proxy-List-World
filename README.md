@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|54.226.220.181|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|163.223.78.163|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|139.28.240.201|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|14|54.226.220.181|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|16|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|18|72.56.238.99|9090|Russia|Moscow|JSC "TIMEWEB"|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|108.174.194.34|10801|United States|Dallas|HostPapa|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|7|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|10|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|12|54.226.220.181|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|108.174.194.34|10801|United States|Dallas|HostPapa|
+|15|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|18|54.226.220.181|3128|United States|Ashburn|Amazon.com, Inc.|
 |19|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|20|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
