@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6865** proxies at the latest update. Usable proxies are below.
+> Scraper found **6695** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1877|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1707|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|408|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3348|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|4|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|103.171.83.115|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
-|6|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|7|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|8|89.185.80.69|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|14|103.147.118.240|8080|Indonesia|Salatiga|PT.Bestcamp Prima Data|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|19|172.245.159.204|40001|United States|Buffalo|HostPapa|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|6|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|103.147.118.240|8080|Indonesia|Salatiga|PT.Bestcamp Prima Data|
+|8|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|11|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|210.87.125.57|8080|Indonesia|Pare|CV Brawijaya Giga Network|
+|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|15|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|18|118.71.44.153|2120|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|19|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
