@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|772|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|772|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|772|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|13|172.171.83.26|8080|United States|Boydton|Microsoft|
-|14|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|19|130.49.218.166|1081|France|Paris|Global Connectivity Solutions LLP|
-|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|43.156.236.238|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.156.228.168|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|10|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
 
 
 
