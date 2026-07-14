@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1003|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1003|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1003|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|736|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|736|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|736|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|3|149.28.87.103|8888|United States|Los Angeles|The Constant Company|
-|4|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|9|172.171.83.26|8080|United States|Boydton|Microsoft|
-|10|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|13|78.159.131.139|1081|Albania|Elbasan|Global Connectivity Solutions LLP|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|19|108.174.194.34|10801|United States|Dallas|HostPapa|
-|20|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
