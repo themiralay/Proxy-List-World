@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|711|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|711|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|711|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|1|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|8|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|9|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
-|10|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|16|31.70.78.110|8888|Germany|Berlin|IONOS SE|
-|17|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|3|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|5|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|7|139.135.76.218|8080|Philippines|Bachauan|Dito Telecommunity Corp.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|108.174.194.34|10801|United States|Dallas|HostPapa|
+|10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|11|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|12|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|15|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
+|18|108.174.194.34|10801|United States|Dallas|HostPapa|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
 
 
 
