@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5593** proxies at the latest update. Usable proxies are below.
+> Scraper found **5175** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1229|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2871|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
 |4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |16|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|108.174.194.34|10801|United States|Dallas|HostPapa|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
