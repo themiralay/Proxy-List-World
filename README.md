@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|794|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|794|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|794|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|8|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|147.45.60.250|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|17|108.174.194.34|10801|United States|Dallas|HostPapa|
-|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|19|31.57.178.255|8181|Singapore|Singapore|PT Perwira Media Solusi|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|6|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|7|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|12|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|108.174.194.34|10801|United States|Dallas|HostPapa|
+|15|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|19|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
