@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1057|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1057|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1057|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|9|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
-|14|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|15|103.169.255.205|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|17|172.245.159.204|40001|United States|Buffalo|HostPapa|
-|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|89.185.80.78|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|103.168.44.101|8080|Indonesia|South Jakarta|PT CYB Media Group|
+|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|10|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|12|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|18|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|19|186.241.90.120|7890|United States|Boulder|Arosscloud Inc.|
+|20|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
 
 
 
