@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1027|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1027|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1027|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|3|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|11|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|12|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|16|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|17|108.174.194.34|10801|United States|Dallas|HostPapa|
-|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|20|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|16|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
