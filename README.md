@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|721|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|721|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|721|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|787|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|787|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|787|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|216.236.6.203|7890|Hong Kong|Kwai Chung|Eons Data Communications Limited|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|108.174.194.34|10801|United States|Dallas|HostPapa|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|108.174.194.34|10801|United States|Dallas|HostPapa|
 
 
 
