@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|140.82.62.31|50000|United States|Piscataway|The Constant Company|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|140.82.62.31|50000|United States|Piscataway|The Constant Company|
-|7|54.91.100.28|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|10|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|130.49.218.166|1081|France|Paris|Global Connectivity Solutions LLP|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|15|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|54.91.100.28|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|20|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|108.174.194.34|10801|United States|Dallas|HostPapa|
 
 
 
