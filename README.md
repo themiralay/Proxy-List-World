@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|89.185.80.78|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|11|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|11|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |13|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|89.185.80.78|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|19|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
 
 
 
