@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5113** proxies at the latest update. Usable proxies are below.
+> Scraper found **5079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2786|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |3|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|4|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|8|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|9|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
-|15|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|16|107.173.153.119|2080|United States|Santa Clara|HostPapa|
-|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|18|153.80.240.37|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|103.188.169.170|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|18|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
 
 
 
