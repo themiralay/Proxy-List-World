@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|777|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|777|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|777|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|876|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|876|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|876|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|115.77.158.26|5104|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
-|13|108.174.194.34|10801|United States|Dallas|HostPapa|
-|14|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|15|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|15|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|108.174.194.34|10801|United States|Dallas|HostPapa|
 
 
 
