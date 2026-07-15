@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1494|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|5|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
 |6|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
-|9|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|10|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|11|45.198.147.238|8080|Indonesia|Bekasi|PT. Eka Mas Republik|
-|12|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|118.71.44.153|2120|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
+|7|118.71.44.153|2120|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|9|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|10|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|11|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|177.247.249.5|3128|Mexico|La Cañada|Mega Cable, S.A. de C.V.|
+|15|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|147.45.60.110|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|45.38.149.26|8080|Australia|Sydney|2E TELEKOMUNIKASYON LTD STI|
+|19|27.147.177.74|55|Bangladesh|Dhaka|Link3 Technologies Limited|
 |20|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
 
 
