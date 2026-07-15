@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|14|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|147.45.60.110|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
+|5|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|43.167.197.229|40001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|12|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|18|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|19|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
 
 
 
