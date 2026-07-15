@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6866** proxies at the latest update. Usable proxies are below.
+> Scraper found **7151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1470|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2054|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2039|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|532|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3348|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|157.245.159.127|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 |7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|14.241.231.13|8080|Vietnam|Ho Chi Minh City|VNPT|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|13|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|18|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
-|19|171.237.205.83|19000|Vietnam|Thái Bình|Viettel Corporation|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|9|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|12|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|16|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
+|17|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|18|188.40.143.69|8881|Germany|Falkenstein|Hetzner Online GmbH|
+|19|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|31.70.78.110|8888|Germany|Berlin|IONOS SE|
 
 
 
