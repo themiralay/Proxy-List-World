@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|822|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|822|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|822|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|969|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|969|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|969|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|4|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|11|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|14|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|140.82.62.31|50000|United States|Piscataway|The Constant Company|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|15|116.12.47.82|9595|Indonesia|Batang|ADSNET|
+|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|17|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
+|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|19|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
 
 
 
