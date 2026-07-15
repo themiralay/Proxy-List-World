@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|973|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|973|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|973|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|928|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|928|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|928|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|107.174.107.161|2001|United States|Los Angeles|HostPapa|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|147.45.60.110|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |11|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|13|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|103.217.213.124|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|13|117.7.80.75|2114|Vietnam|Nam Định|VIETTEL|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|19|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|20|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
