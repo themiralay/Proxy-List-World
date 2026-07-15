@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|657|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|657|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|657|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|798|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|798|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|798|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|144.24.72.237|8118|South Korea|Chuncheon|Oracle Corporation|
-|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|103.110.10.166|8181|Indonesia|Babakanloa|PT Citra Jelajah Informatika|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|10|172.245.159.204|40001|United States|Buffalo|HostPapa|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|185.141.26.131|3128|Romania|Bucharest|IP Solus Inc|
-|17|130.49.218.166|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|8.217.11.244|9568|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|190.0.246.210|4040|Colombia|Bogotá|Media Commerce Partners S.A|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|7|104.248.151.93|9090|Singapore|Singapore|DigitalOcean, LLC|
+|8|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|12|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|13|202.58.77.239|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|14|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|16|160.25.174.84|8080|Indonesia|Sarongan|PT KANAL TELU MULTITEKNOLOGI|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
