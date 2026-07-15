@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|950|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|950|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|950|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|883|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|883|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|883|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|20|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
