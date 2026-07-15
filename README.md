@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1037|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1037|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1037|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1088|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1088|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1088|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |11|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|12|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|17|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|12|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|15|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|16|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|19|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
