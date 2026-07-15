@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|9|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|10|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|108.174.194.34|10801|United States|Dallas|HostPapa|
-|19|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|20|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|11|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|12|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
