@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|7|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|6|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
 |10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|16|107.173.153.119|2080|United States|Santa Clara|HostPapa|
-|17|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|20|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
