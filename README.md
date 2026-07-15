@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|14|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|58.186.168.168|2028|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
