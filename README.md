@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|6|157.10.51.84|3128|Vietnam|Thụy Phương|NEWCLOUD|
-|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|12|151.243.153.157|8118|United States|Seattle|Black Apple|
-|13|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|103.110.11.218|8080|Indonesia|Banjar|PT Citra Jelajah Informatika|
-|16|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|17|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|18|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|19|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|20|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|1|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|5|14.199.167.175|3128|Hong Kong|Sham Shui Po|Hong Kong Broadband Network Limited|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|10|157.10.51.84|3128|Vietnam|Thụy Phương|NEWCLOUD|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|147.45.60.124|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
