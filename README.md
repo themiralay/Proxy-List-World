@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|8.216.35.12|8888|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|19|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|210.94.84.86|8118|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|8|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|14|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
