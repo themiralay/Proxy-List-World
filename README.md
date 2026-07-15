@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|38.46.214.193|1080|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
-|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
 
 
 
