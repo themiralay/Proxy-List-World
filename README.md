@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5478** proxies at the latest update. Usable proxies are below.
+> Scraper found **5864** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1202|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1288|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2957|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|4|103.147.118.240|8080|Indonesia|Salatiga|PT.Bestcamp Prima Data|
-|5|163.61.112.245|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
-|6|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|103.171.240.174|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|9|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|12|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|5|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|178.130.47.21|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|11|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
 |13|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|14|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|194.5.192.184|3128|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|18|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|15|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|16|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
+|19|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|20|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
