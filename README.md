@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|38.255.49.248|8888|The Netherlands|Amsterdam|Krixe Pte. Ltd.|
-|12|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|13|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|19|217.182.203.184|8888|Poland|Wroclaw|OVH SAS|
-|20|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|10|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|108.174.194.34|10801|United States|Dallas|HostPapa|
+|12|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|120.28.197.130|8080|Philippines|Davao City|Globe Telecom|
+|18|72.56.40.162|8080|United States|Buffalo|Timeweb, LLP|
+|19|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
