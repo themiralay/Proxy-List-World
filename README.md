@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 |3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|115.77.138.230|5104|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|12|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|18|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|19|146.19.169.212|1081|The Netherlands|Haanrade|SkyLink Data Center BV|
-|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|160.19.17.43|8181|Indonesia|Bengkalis|PT Media Balai Nusa|
+|7|58.69.175.135|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|103.253.127.45|8090|Indonesia|Jombang|PT Media Akses Telematika|
+|9|115.77.138.230|5104|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|103.169.188.34|8080|Indonesia|Sumbertimo|Sarana Media Cemerlang|
+|11|165.101.230.77|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|12|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|187.250.1.225|999|Mexico|Tijuana|Uninet S.A. de C.V.|
+|15|116.12.47.218|9595|Indonesia|Cileunyi|ADSNET|
+|16|38.183.146.10|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|157.15.62.173|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|18|114.8.131.181|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|157.15.40.250|7777|Indonesia|Ponorogo|PT Trisari Data Indonusa|
+|20|203.146.80.235|8080|Thailand|Nong Na Kham|Advanced Wireless Network Company Limited|
 
 
 
