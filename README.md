@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|108.174.194.34|10801|United States|Dallas|HostPapa|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |8|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|9|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|13|108.174.194.34|10801|United States|Dallas|HostPapa|
-|14|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|18|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|14|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|108.174.194.34|10801|United States|Dallas|HostPapa|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
