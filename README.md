@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|644|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|644|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|644|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.212.214.47|8090|Singapore|Singapore|Amazon Technologies Inc.|
-|2|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|103.176.97.220|8082|Indonesia|Bekasi|PT Global Sarana Elektronika|
-|10|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|13|115.77.148.45|5104|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|15|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|16|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|108.174.194.34|10801|United States|Dallas|HostPapa|
-|18|217.182.203.184|8888|Poland|Wroclaw|OVH SAS|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|108.174.194.34|10801|United States|Dallas|HostPapa|
+|12|104.248.151.93|9090|Singapore|Singapore|DigitalOcean, LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|20|13.212.214.47|8090|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
