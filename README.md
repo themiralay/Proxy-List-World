@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.226.120|3128|Japan|Hyakuninchō|InfoSphere|
-|2|139.162.54.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|8|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|34.247.51.61|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|18|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|153.80.240.37|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|139.162.54.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|5|147.45.60.124|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|20|34.247.51.61|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
