@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|178.130.47.21|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|6|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|9|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|10|138.124.67.235|1082|The Netherlands|Amsterdam|GCS SER|
-|11|172.171.83.26|8080|United States|Boydton|Microsoft|
-|12|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|17|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|18|171.237.205.83|19000|Vietnam|Thái Bình|Viettel Corporation|
-|19|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|109.172.116.18|7890|Russia|Moscow|JSC IOT|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
 
 
 
