@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6922** proxies at the latest update. Usable proxies are below.
+> Scraper found **7421** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1718|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1718|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2089|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2288|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3467|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|108.174.194.34|10801|United States|Dallas|HostPapa|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|5|146.190.60.147|8001|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.156.224.67|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|103.86.117.27|8090|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|115.147.171.114|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|14|103.80.214.108|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|15|108.174.194.34|10801|United States|Dallas|HostPapa|
-|16|103.84.177.154|8083|Philippines|Tiring|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|19|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
-|20|23.138.88.65|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|7|202.58.77.9|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|8|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|11|103.180.123.183|3125|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|14|103.158.162.226|8080|Indonesia|Sukodono|PT iForte Global Internet|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|202.58.77.239|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
+|19|108.174.194.34|10801|United States|Dallas|HostPapa|
+|20|163.227.248.100|8818|Indonesia|Sukabumi|PT Rajasa Sinergi Komunikasi|
 
 
 
