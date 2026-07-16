@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|981|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|981|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|981|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|108.174.194.34|10801|United States|Dallas|HostPapa|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|13|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|108.174.194.34|10801|United States|Dallas|HostPapa|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|6|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|7|108.174.194.34|10801|United States|Dallas|HostPapa|
+|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|9|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|62.60.159.204|80|Sweden|Stockholm|Aeza International LTD|
+|12|176.12.65.24|443|Russia|Khimki|WEBDC|
+|13|5.181.23.213|8443|Estonia|Tallinn|WorkTitans B.V|
+|14|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|108.174.194.34|10801|United States|Dallas|HostPapa|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|81.90.29.194|10808|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|19|130.49.187.63|1081|United Kingdom|London|Global Connectivity Solutions LLP|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
