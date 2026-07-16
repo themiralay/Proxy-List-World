@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|12|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|18|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|20|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|47.237.153.201|8000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|14|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|15|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|17|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|45.38.149.26|8080|Australia|Sydney|2E TELEKOMUNIKASYON LTD STI|
 
 
 
