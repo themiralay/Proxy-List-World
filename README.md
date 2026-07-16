@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|11|172.171.83.26|8080|United States|Boydton|Microsoft|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|139.28.240.201|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.141.85|80|Singapore|Singapore|Aceville Pte.ltd|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|10|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|147.45.60.124|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|20|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
