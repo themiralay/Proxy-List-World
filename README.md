@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|840|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|840|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|840|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1096|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1096|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1096|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|108.174.194.34|10801|United States|Dallas|HostPapa|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|180.191.234.124|8080|Philippines|Kitango|Globe Telecom|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|108.174.194.34|10801|United States|Dallas|HostPapa|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|9|180.191.234.124|8080|Philippines|Kitango|Globe Telecom|
+|10|108.174.194.34|10801|United States|Dallas|HostPapa|
+|11|172.245.159.204|40001|United States|Buffalo|HostPapa|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|16|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|108.174.194.34|10801|United States|Dallas|HostPapa|
+|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
