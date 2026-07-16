@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|2|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|122.54.147.110|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|10|172.171.83.26|8080|United States|Boydton|Microsoft|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|1|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|4|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|5|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|172.171.83.26|8080|United States|Boydton|Microsoft|
+|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|11|78.159.131.131|1081|Albania|Elbasan|Global Connectivity Solutions LLP|
+|12|172.171.83.26|8080|United States|Boydton|Microsoft|
 |13|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|18|147.45.60.124|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|108.165.121.27|8888|United States|Orlando|Snaju Development|
-|20|171.237.205.83|19000|Vietnam|Thái Bình|Viettel Corporation|
+|14|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
+|17|176.12.65.24|443|Russia|Khimki|WEBDC|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|20|139.28.240.200|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
 
 
 
