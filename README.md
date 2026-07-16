@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|3|108.174.194.34|10801|United States|Dallas|HostPapa|
+|1|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
 |4|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
 |5|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|6|172.171.83.26|8080|United States|Boydton|Microsoft|
-|7|108.174.194.34|10801|United States|Dallas|HostPapa|
-|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|9|172.171.83.26|8080|United States|Boydton|Microsoft|
-|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|14|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|141.136.13.51|8080|North Macedonia|Kumanovo|MultiMedia|
-|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
-|19|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
-|20|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|8|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|9|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
+|10|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|147.45.66.117|1081|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|108.174.194.34|10801|United States|Dallas|HostPapa|
+|15|108.174.194.34|10801|United States|Dallas|HostPapa|
+|16|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
+|17|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|18|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|159.194.228.26|1080|Russia|St Petersburg|Beget LLC|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
