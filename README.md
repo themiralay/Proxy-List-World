@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1084|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1084|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1084|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
-|5|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|8|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|11|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|16|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
