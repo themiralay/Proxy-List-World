@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|763|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|763|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|763|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|172.171.83.26|8080|United States|Boydton|Microsoft|
-|11|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|144.31.222.106|7890|Russia|Moscow|Ablaykhan Akylbekovich Sharimov|
-|18|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|19|104.194.146.9|80|United Kingdom|London|FranTech Solutions|
-|20|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|103.164.107.26|8080|Indonesia|Jakarta|SOLUSINET|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.18.77.69|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|8|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|103.166.9.194|8888|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|12|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|108.165.121.27|8888|United States|Orlando|Snaju Development|
+|15|8.218.227.241|12366|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|103.17.246.60|1080|Indonesia|Banjar Badung|PT Blip Integrator Provider|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|78.159.131.112|1081|Albania|Elbasan|Global Connectivity Solutions LLP|
+|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
 
 
 
