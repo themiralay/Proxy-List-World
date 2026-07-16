@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6791** proxies at the latest update. Usable proxies are below.
+> Scraper found **7256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1483|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1483|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1483|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1883|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2048|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|541|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3467|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|202.58.77.114|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|13|38.55.145.46|1081|United States|Los Angeles|Cogent Communications|
-|14|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|117.7.80.246|2114|Vietnam|Nam Định|VIETTEL|
-|17|160.19.146.87|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|18|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|5|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|6|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|180.74.108.17|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|103.112.45.43|8085|Indonesia|Ciwaru|PT.Globalnet Multi Data|
+|13|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|14|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|16|202.137.8.148|8080|Indonesia|Bogor|LINKNET|
+|17|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
+|18|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|19|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|20|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
 
 
 
