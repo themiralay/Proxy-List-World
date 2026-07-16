@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1486|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1486|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1486|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
 |2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
 |5|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|6|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|103.141.150.147|8080|Indonesia|Bandung|PRIMACOM|
+|9|103.189.249.219|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
 |10|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|147.45.60.139|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|13|103.189.249.219|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|14|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|15|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|16|58.186.168.168|2028|Vietnam|Hanoi|FPT Telecom Company|
-|17|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
+|11|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|12|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|14|103.171.161.96|9090|Indonesia|Central Jakarta|MYREPUBLIC|
+|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|16|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
