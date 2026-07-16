@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|2|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|2|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|3|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|12|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|139.162.54.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|203.177.123.181|8082|Philippines|Alubijid|Globe Telecom|
+|7|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|9|38.194.231.66|999|Mexico|Cuapiaxtla de Madero|IENTC S de RL de CV|
+|10|91.98.86.26|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|11|135.87.39.23|80|Finland|Helsinki|Nokia Solutions and Networks Oy|
+|12|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
+|13|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|14|58.210.191.173|8816|China|Suzhou|Chinanet|
+|15|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|159.194.228.26|1080|Russia|St Petersburg|Beget LLC|
+|17|207.154.201.220|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|205.215.247.164|3128|United States|Baltimore|Port Networks, Inc.|
+|20|38.156.14.131|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
 
 
 
