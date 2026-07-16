@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1645|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1645|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1694|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1694|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.87.74.181|8080|Indonesia|Bilo|PT.Global Media Data Prima|
-|5|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|6|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|8|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|123.25.25.180|1452|Vietnam|Can Tho|VietNam Post and Telecom Corporation|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|202.58.77.239|8080|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|15|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
-|16|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
-|17|49.147.119.2|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|18|103.234.31.80|8080|Indonesia|Ciputat|PT Jenius Lintas Nusantara|
-|19|103.141.66.78|55|Bangladesh|Khulna|Link3 Technologies Limited|
-|20|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|6|89.185.80.251|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|172.245.159.204|40001|United States|Buffalo|HostPapa|
+|9|192.18.129.58|8118|United States|San Jose|Oracle Corporation|
+|10|139.28.241.247|1081|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
+|12|108.174.194.34|10801|United States|Dallas|HostPapa|
+|13|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|185.213.240.125|40001|Germany|Frankfurt am Main|Freakhosting LTD|
+|16|217.182.203.184|8888|Poland|Wroclaw|OVH SAS|
+|17|217.182.203.183|8888|Poland|Wroclaw|OVH SAS|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
