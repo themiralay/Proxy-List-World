@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1412|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|180.211.93.91|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
-|9|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|49.146.145.189|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|5|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|112.78.181.93|3128|Indonesia|Tegal|BIZNET|
+|7|125.27.19.70|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|8|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|10|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|16|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|17|103.15.245.139|8080|Bangladesh|Sylhet|Summit Communications Limited|
-|18|139.28.240.202|1081|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|19|138.124.67.235|1082|The Netherlands|Amsterdam|GCS SER|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|12|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|139.162.174.203|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|16|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|103.39.51.130|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|18|119.18.147.146|8080|Bangladesh|Chittagong|BBTS Network|
+|19|153.80.240.37|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|62.60.159.204|80|Sweden|Stockholm|Aeza International LTD|
 
 
 
