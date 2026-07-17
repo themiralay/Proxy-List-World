@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5632** proxies at the latest update. Usable proxies are below.
+> Scraper found **5647** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2464|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|203.177.123.181|8082|Philippines|Alubijid|Globe Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|11|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|144.79.177.134|8090|Indonesia|Selat Panjang|PT GORO DIGITAL NUSANTARA|
-|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|15|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|17|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|19|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|4|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|149.104.29.129|3128|Singapore|Singapore|Cogent Communications|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|15|108.174.194.34|10801|United States|Dallas|HostPapa|
+|16|147.45.221.115|1082|Albania|Labinot-Fushë|Global Connectivity Solutions LLP|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
 
 
 
