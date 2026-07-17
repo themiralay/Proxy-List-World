@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|636|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|636|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|636|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|5|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|6|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|12|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|8|68.189.214.35|80|United States|Denton|Charter Communications|
+|9|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
 |17|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|18|45.174.47.66|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|19|45.174.47.46|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|20|45.174.47.73|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|18|45.174.47.73|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|19|45.174.47.66|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
