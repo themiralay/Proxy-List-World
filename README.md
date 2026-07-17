@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6295** proxies at the latest update. Usable proxies are below.
+> Scraper found **5712** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1720|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1437|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|399|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2976|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|5|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|6|157.66.16.45|7789|Indonesia|Indramayu|PT Mitra Mandiri Network|
 |7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|9|8.216.132.206|20002|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|11|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|38.210.179.146|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|16|45.198.14.121|8086|India|Mumbai|Yotta Network Services Private Limited|
-|17|108.165.121.27|8888|United States|Orlando|Snaju Development|
-|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|9|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|43.134.15.145|8118|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.198.14.121|8086|India|Mumbai|Yotta Network Services Private Limited|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|62.133.62.3|1082|France|Paris|Global Connectivity Solutions LLP|
+|20|89.185.80.69|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
