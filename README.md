@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6290** proxies at the latest update. Usable proxies are below.
+> Scraper found **6239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1344|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1293|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|348|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3398|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|172.171.83.26|8080|United States|Boydton|Microsoft|
-|8|187.199.1.118|80|Mexico|Los Cabos|Uninet S.A. de C.V.|
-|9|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|11|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|12|37.58.221.247|3128|France|Montpellier|Adista SAS|
-|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|16|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|185.213.240.125|40001|Germany|Frankfurt am Main|Freakhosting LTD|
+|12|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|17|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|18|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
