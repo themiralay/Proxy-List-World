@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5726** proxies at the latest update. Usable proxies are below.
+> Scraper found **5790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1375|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1439|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|220|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2931|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|125.129.15.34|3128|South Korea|Seoul|Korea Telecom|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|45.174.47.73|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|19|103.208.102.93|1080|Indonesia|Muntilan|PT Tidar Lintas Nusa|
-|20|45.174.47.66|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|2|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|7|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|8|45.174.47.78|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.174.47.46|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|12|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|13|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
+|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|108.165.121.27|8888|United States|Orlando|Snaju Development|
+|16|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
 
 
 
