@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6758** proxies at the latest update. Usable proxies are below.
+> Scraper found **6722** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|901|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|901|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|901|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|908|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|908|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|908|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1551|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3508|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|216.236.6.203|7890|Hong Kong|Kwai Chung|Eons Data Communications Limited|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|124.105.87.12|8087|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|6|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|9|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
-|10|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|11|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
-|12|45.77.155.196|50000|United States|Piscataway|The Constant Company|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|101.255.211.90|8080|Indonesia|Bekasi|PT Remala Abadi|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|2|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|5|113.160.132.26|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|7|171.237.205.83|19000|Vietnam|Thái Bình|Viettel Corporation|
+|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|118.71.44.153|2070|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|47.253.58.201|58000|United States|Charlottesville|Alibaba Cloud LLC|
+|14|62.133.62.249|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|157.254.194.57|1080|United States|Las Vegas|Ipxo LLC|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|103.160.202.174|3125|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
 |18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|139.162.174.203|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
