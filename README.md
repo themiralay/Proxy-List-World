@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6500** proxies at the latest update. Usable proxies are below.
+> Scraper found **6572** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|746|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|746|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|746|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1518|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|350|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|461|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3432|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.83.34.193|8080|Japan|Tokyo|NetLab Global|
-|2|115.77.154.130|5104|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|4|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|168.138.219.12|8081|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|4|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 |5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|10|89.185.80.251|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|19|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|107.174.63.110|17000|United States|Buffalo|HostPapa|
+|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|7|115.77.154.130|5104|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|107.174.63.110|17000|United States|Buffalo|HostPapa|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|108.174.194.34|10801|United States|Dallas|HostPapa|
+|14|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|15|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|16|64.83.34.193|8080|Japan|Tokyo|NetLab Global|
+|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|18|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|19|107.174.63.110|17000|United States|Buffalo|HostPapa|
+|20|108.165.121.27|8888|United States|Orlando|Snaju Development|
 
 
 
