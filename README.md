@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.53.102|443|Japan|Minamishinagawa|The Constant Company|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|149.104.29.129|3128|Singapore|Singapore|Cogent Communications|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|15|108.174.194.34|10801|United States|Dallas|HostPapa|
-|16|147.45.221.115|1082|Albania|Labinot-Fushë|Global Connectivity Solutions LLP|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|178.130.47.23|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|6|144.79.177.134|8090|Indonesia|Selat Panjang|PT GORO DIGITAL NUSANTARA|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|9|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|153.80.240.37|1080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|14|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
+|18|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
