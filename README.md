@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7151** proxies at the latest update. Usable proxies are below.
+> Scraper found **6902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|901|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|901|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|901|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2039|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1790|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3508|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|49.146.145.189|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|5|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|112.78.181.93|3128|Indonesia|Tegal|BIZNET|
-|7|125.27.19.70|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|8|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|10|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|12|182.160.106.146|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|182.53.202.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|139.162.174.203|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|16|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|103.39.51.130|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|18|119.18.147.146|8080|Bangladesh|Chittagong|BBTS Network|
-|19|153.80.240.37|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|62.60.159.204|80|Sweden|Stockholm|Aeza International LTD|
+|1|103.172.17.51|8080|Indonesia|Sukadana|PT Media Access Telematika|
+|2|203.2.151.21|8080|Indonesia|Subang|PT BARAYA BARENG SADULUR|
+|3|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|4|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|5|172.171.83.26|8080|United States|Boydton|Microsoft|
+|6|139.162.174.203|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|8|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|9|62.60.159.204|80|Sweden|Stockholm|Aeza International LTD|
+|10|172.171.83.26|8080|United States|Boydton|Microsoft|
+|11|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|64.181.193.60|3128|United States|Chicago|Oracle Corporation|
+|19|147.45.178.104|1082|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
 
 
 
