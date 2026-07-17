@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|799|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|799|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|799|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|796|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|796|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|796|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|4|107.173.84.29|40001|United States|Santa Clara|ColoCrossing|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|94.74.66.91|7890|Mexico|Ciudad De México|Huawei International Pte. LTD|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|172.171.83.26|8080|United States|Boydton|Microsoft|
-|14|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.237.153.201|8000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|153.80.240.37|1080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|45.38.149.26|8080|Australia|Sydney|2E TELEKOMUNIKASYON LTD STI|
+|12|108.165.121.27|8888|United States|Orlando|Snaju Development|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|108.165.121.27|8888|United States|Orlando|Snaju Development|
+|18|153.80.240.37|1080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|19|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
