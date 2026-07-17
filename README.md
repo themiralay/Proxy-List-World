@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|12|147.45.60.124|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.174.47.78|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|19|45.174.47.66|3128|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|172.245.159.204|40001|United States|Buffalo|HostPapa|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|16|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|17|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
