@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|12|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|7|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|19|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|20|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
