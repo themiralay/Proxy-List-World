@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6861** proxies at the latest update. Usable proxies are below.
+> Scraper found **6957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|988|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|988|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|988|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1008|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1008|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1008|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1690|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1786|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3508|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|110.49.66.210|8080|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
-|9|103.247.82.36|8085|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
-|10|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|160.191.173.51|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|140.99.255.61|8443|United States|Los Angeles|Ipxo LLC|
-|15|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|17|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|103.239.23.133|3125|Indonesia|Gayam|PT Foura Inti Sinergi|
+|17|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|178.130.47.21|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
 
 
 
