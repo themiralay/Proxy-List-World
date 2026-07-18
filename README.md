@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4708** proxies at the latest update. Usable proxies are below.
+> Scraper found **4779** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2237|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|178.130.47.21|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|17|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|147.45.221.112|1082|Albania|Labinot-Fushë|Global Connectivity Solutions LLP|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|10|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|38.111.103.17|8080|Indonesia|Deli Serdang|Cogent Communications|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|20|171.4.2.130|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
 
 
 
