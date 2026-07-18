@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|960|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|960|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|960|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|841|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|841|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|841|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.129.15.34|3128|South Korea|Seoul|Korea Telecom|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|119.93.83.106|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|122.52.107.138|8082|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
-|10|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|117.7.80.246|2080|Vietnam|Nam Định|VIETTEL|
-|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|15|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|16|180.191.232.74|8081|Philippines|San Pedro|Globe Telecom|
-|17|108.174.194.34|10801|United States|Dallas|HostPapa|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|171.237.205.83|19000|Vietnam|Hanoi|Viettel Corporation|
-|20|192.73.243.65|3128|United States|Miami|NetActuate, Inc|
+|5|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|12|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|13|108.174.194.34|10801|United States|Dallas|HostPapa|
+|14|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 
 
 
