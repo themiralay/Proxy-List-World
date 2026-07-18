@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7107** proxies at the latest update. Usable proxies are below.
+> Scraper found **6916** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|777|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|777|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|777|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|806|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|806|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|806|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1724|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1533|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|370|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3813|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
-|6|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|103.180.123.229|1080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|103.171.241.50|3131|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|15|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|17|163.227.146.108|8081|Indonesia|Muktisari|PT EXA TELEKOMUNIKASI NUSANTARA|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|6|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|11|172.171.83.26|8080|United States|Boydton|Microsoft|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
+|14|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
+|17|103.180.119.77|8090|Indonesia|Kemendung|PT Persada Data Multimedia|
+|18|194.87.187.20|8118|Russia|Moscow|JSC "TIMEWEB"|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
