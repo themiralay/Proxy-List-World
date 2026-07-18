@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
-|14|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|10|89.185.80.251|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|100.27.197.7|3128|United States|Ashburn|Amazon.com|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 |17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|100.27.197.7|3128|United States|Ashburn|Amazon.com|
 
 
 
