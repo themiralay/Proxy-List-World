@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
-|4|109.172.116.18|7890|Russia|Moscow|JSC IOT|
-|5|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|6|94.74.66.91|7890|Mexico|Ciudad De México|Huawei International Pte. LTD|
-|7|130.49.218.166|1081|France|Paris|Global Connectivity Solutions LLP|
-|8|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
-|9|104.194.148.204|80|United States|Sheridan|FranTech Solutions|
-|10|147.45.66.116|1081|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|138.2.239.213|10010|United States|San Jose|Oracle Corporation|
-|13|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
-|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|15|181.209.125.237|999|Argentina|Yuto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|103.254.68.83|15010|China|Haidian|China Networks Inter-Exchange|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|38.123.220.175|999|Mexico|Ejido de Santa María Nativitas|Cogent Communications|
-|20|58.136.170.250|8080|Thailand|Bangkok|AIS-Fibre|
+|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|172.171.83.26|8080|United States|Boydton|Microsoft|
+|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|11|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|108.174.194.34|10801|United States|Dallas|HostPapa|
+|15|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|176.12.65.24|443|Russia|Khimki|WEBDC|
+|18|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|19|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|20|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
 
 
 
