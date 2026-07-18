@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|7|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|178.130.47.21|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
