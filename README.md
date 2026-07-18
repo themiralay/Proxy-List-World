@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|884|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|884|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|884|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|814|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|814|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|814|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|10|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|175.194.173.105|3128|South Korea|Goyang-si|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|103.177.8.119|8080|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
+|9|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|107.173.84.29|40001|United States|Santa Clara|ColoCrossing|
 |14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|17|103.168.254.81|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
+|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
