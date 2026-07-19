@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.38.149.26|8080|Australia|Sydney|2E TELEKOMUNIKASYON LTD STI|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|157.254.194.57|1080|United States|New York|Ipxo LLC|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|16|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|19|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|20|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|15|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|18|45.137.81.27|80|Sweden|Stockholm|Aeza International LTD|
+|19|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
 
 
 
