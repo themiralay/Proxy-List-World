@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|140.227.226.120|3128|Japan|Hyakuninchō|InfoSphere|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|154.223.77.54|10002|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 
 
 
