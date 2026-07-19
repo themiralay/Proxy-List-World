@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|4|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|91.228.152.100|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 
 
 
