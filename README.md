@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|7|152.32.68.171|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|103.19.78.125|7777|Indonesia|Lamongan|PT Persada Data Multimedia|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|16|206.135.43.62|999|Mexico|San Cristóbal de las Casas|GTT Americas|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|12|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|14|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
