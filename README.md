@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|49.145.55.246|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|8|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|178.130.47.21|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|20|150.241.116.167|443|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|147.45.60.136|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
