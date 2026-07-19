@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
