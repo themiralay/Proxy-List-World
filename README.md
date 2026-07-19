@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|13|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|14|45.137.81.27|80|Sweden|Stockholm|Aeza International LTD|
-|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|16|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|17|172.120.166.156|443|Romania|Bucharest|M247 Europe SRL|
-|18|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
-|19|138.124.26.19|1080|Sweden|Stockholm|Aeza International LTD|
-|20|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
+|6|203.175.102.97|8080|Indonesia|Manis Subang|PT. Mitra Kita Brilian|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|19|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
+|20|172.120.166.156|443|Romania|Bucharest|M247 Europe SRL|
 
 
 
