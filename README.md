@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.76.16|3888|Hong Kong|Hung Hom Estate|PCCW IMSBiz|
-|2|49.151.102.64|5050|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|10|68.189.214.35|80|United States|Denton|Charter Communications|
-|11|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|12|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|16|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|89.185.80.250|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|42.200.76.16|3888|Hong Kong|Hung Hom Estate|PCCW IMSBiz|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|147.45.60.139|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|89.185.80.250|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 
 
 
