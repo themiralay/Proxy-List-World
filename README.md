@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5123** proxies at the latest update. Usable proxies are below.
+> Scraper found **5207** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1057|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2741|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|7|103.147.134.115|8082|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 |11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|103.154.178.192|8097|Indonesia|Pelabuhan Dagang|ANEKANET|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|15|36.50.56.165|8080|Indonesia|Caringin|PT Andromega Data Nusantara|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
 |18|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
