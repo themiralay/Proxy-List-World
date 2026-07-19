@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5050** proxies at the latest update. Usable proxies are below.
+> Scraper found **4680** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|165|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2741|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|89.185.80.251|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|6|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|92.118.112.25|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|172.171.83.26|8080|United States|Boydton|Microsoft|
+|13|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|16|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
