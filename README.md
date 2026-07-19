@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|14|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|19|5.181.23.213|8443|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|9|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|10|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|11|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|12|62.133.62.231|1082|France|Paris|Global Connectivity Solutions LLP|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|15|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
+|16|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|200.227.89.50|3128|Brazil|Vila Prudente|Claro S.A|
+|18|138.84.65.187|9090|Philippines|Marilao|Globe Telecom|
+|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|20|92.118.112.25|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
