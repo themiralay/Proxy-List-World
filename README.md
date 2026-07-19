@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4714** proxies at the latest update. Usable proxies are below.
+> Scraper found **4767** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|805|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|140|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2569|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|5|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|124.105.86.222|8090|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|19|45.137.81.27|80|Sweden|Stockholm|Aeza International LTD|
-|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|43.160.208.165|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|20|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
 
 
 
