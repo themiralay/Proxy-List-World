@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5340** proxies at the latest update. Usable proxies are below.
+> Scraper found **5212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|138|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
 |8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|3.11.73.205|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|185.161.251.195|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|14|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|19|5.181.23.213|8443|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
