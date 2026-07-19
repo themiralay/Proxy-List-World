@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|165.99.131.74|1080|Vietnam|Ho Chi Minh City|Hypercore Technology Joint Stock Company|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|3.11.73.205|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|64.23.188.3|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|79.137.207.236|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|20|65.109.191.98|3080|Finland|Helsinki|Hetzner Online GmbH|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|103.11.193.77|8080|Mongolia|Ulan Bator|MCS-Univision|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|200.205.240.130|3128|Brazil|Araraquara|Vivo|
+|14|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
+|15|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|16|81.18.203.206|8900|Poland|Warsaw|upc.pl|
+|17|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|18|109.224.242.151|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
+|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|20|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
 
 
 
