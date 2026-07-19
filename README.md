@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|103.147.134.115|8082|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|15|36.50.56.165|8080|Indonesia|Caringin|PT Andromega Data Nusantara|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
