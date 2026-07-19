@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|185.87.150.37|80|France|Paris|Managed by IROKO Networks|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
+|19|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
