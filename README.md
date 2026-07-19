@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|103.227.210.95|8443|India|Bengaluru|Ultahost, Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.227.226.120|3128|Japan|Hyakuninchō|InfoSphere|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|14|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 |16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|17|62.146.233.116|8881|Singapore|Singapore|Contabo Asia Private Limited|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
