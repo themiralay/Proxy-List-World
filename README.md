@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|42.200.76.16|3888|Hong Kong|Hung Hom Estate|PCCW IMSBiz|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 |8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|210.87.92.196|8080|Indonesia|Lembang|PT Indo Telemedia Solusi|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|202.136.82.146|8080|Indonesia|Pagerwojo|PT GIRI DATA SOLUSINDO|
-|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
