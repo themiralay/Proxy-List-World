@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|12|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|20|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|3|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
