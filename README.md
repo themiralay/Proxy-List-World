@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|1|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|2|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|15|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|20|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
