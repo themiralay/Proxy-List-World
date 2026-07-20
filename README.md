@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|741|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|741|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|741|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|793|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|793|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|793|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|209.50.51.198|8080|United States|Phoenix|UpCloud USA Inc|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|15|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|7|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
