@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|3|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|92.118.112.32|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|14|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|12|89.185.80.251|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
 
 
 
