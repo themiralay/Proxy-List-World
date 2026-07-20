@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
 |14|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|19|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 
 
 
