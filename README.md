@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5538** proxies at the latest update. Usable proxies are below.
+> Scraper found **5564** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1086|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|145|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3133|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|147.45.60.139|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|149.56.110.191|8118|Canada|Montreal|OVH SAS|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|16|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|91.228.152.100|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|71.198.208.169|43|United States|Pittsburg|Comcast Cable Communications, LLC|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|45.55.43.162|8118|United States|Clifton|DigitalOcean, LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|172.171.83.26|8080|United States|Boydton|Microsoft|
+|12|153.80.240.37|1080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|17|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|178.104.235.253|40001|Germany|Nuremberg|Hetzner Online GmbH|
+|19|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
