@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5836** proxies at the latest update. Usable proxies are below.
+> Scraper found **5620** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1374|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1158|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3154|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
-|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|13|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|18|172.120.166.205|443|Romania|Bucharest|M247 Europe SRL|
-|19|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|20|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|7|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|8|172.120.166.156|443|Romania|Bucharest|M247 Europe SRL|
+|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|10|172.171.83.26|8080|United States|Boydton|Microsoft|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|178.104.235.253|40001|Germany|Nuremberg|Hetzner Online GmbH|
+|13|210.8.69.102|808|Australia|Sydney|AAPT Limited|
+|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
