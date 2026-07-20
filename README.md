@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|209.50.51.198|8080|United States|Phoenix|UpCloud USA Inc|
-|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|7|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|8|175.158.44.21|3125|Indonesia|North Jakarta|CBNNAP|
-|9|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|3.111.120.235|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|209.50.51.198|8080|United States|Phoenix|UpCloud USA Inc|
-|19|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|209.50.51.198|8080|United States|Phoenix|UpCloud USA Inc|
+|11|204.48.29.137|3129|United States|North Bergen|DigitalOcean, LLC|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|78.159.131.112|1081|Albania|Labinot-Fushë|Global Connectivity Solutions LLP|
 
 
 
