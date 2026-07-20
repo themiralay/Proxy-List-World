@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|699|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|699|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|699|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|781|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|781|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|781|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|139.162.54.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
-|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|209.50.51.198|8080|United States|Phoenix|UpCloud USA Inc|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|42.200.76.16|3888|Hong Kong|Hung Hom Estate|PCCW IMSBiz|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|13|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|14|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|15|49.157.158.178|8084|Philippines|Catarman|Eastern Telecommunications Philippines|
+|16|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|17|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
