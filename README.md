@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|3|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|4|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|13|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|2|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|172.171.83.26|8080|United States|Boydton|Microsoft|
+|12|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|13|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
 
 
 
