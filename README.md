@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|140.82.62.31|50000|United States|Piscataway|The Constant Company|
-|10|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|70.61.188.34|3128|United States|Louisville|Spectrum|
-|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
