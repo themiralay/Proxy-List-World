@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.81.205.181|1080|Japan|Tokyo|Microsoft Corporation|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|9|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|10|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|13|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
