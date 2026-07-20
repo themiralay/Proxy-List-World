@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5588** proxies at the latest update. Usable proxies are below.
+> Scraper found **5493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1110|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1015|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|145|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3133|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|89.185.80.78|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|10|149.56.110.191|8118|Canada|Montreal|OVH SAS|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|3|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|19|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
