@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|7|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|172.171.83.26|8080|United States|Boydton|Microsoft|
-|10|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|172.120.166.205|443|Romania|Bucharest|M247 Europe SRL|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|14|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|17|178.104.235.253|40001|Germany|Nuremberg|Hetzner Online GmbH|
+|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
 
 
 
