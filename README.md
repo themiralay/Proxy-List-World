@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 |4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|9|178.130.47.23|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|11|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
-|12|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|57.128.44.204|3128|France|Gravelines|OVH SAS|
-|14|185.228.137.178|3128|Germany|Nuremberg|netcup GmbH|
-|15|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|16|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|93.77.191.156|8118|Russia|Moscow|Yandex.Cloud LLC|
-|18|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|159.194.228.26|1080|Russia|St Petersburg|Beget LLC|
-|20|103.189.249.210|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|5|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|10|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
+|20|103.126.87.182|8080|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 
 
 
