@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|783|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|783|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|783|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|822|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|822|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|822|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|6|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
 |10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|16|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
