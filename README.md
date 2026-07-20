@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|680|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|680|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|680|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|768|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|768|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|768|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|7|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|45.77.155.196|50000|United States|Piscataway|The Constant Company|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|19|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|89.185.80.69|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|17|38.47.110.6|10800|Japan|Osaka|VMISS Inc|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 
 
 
