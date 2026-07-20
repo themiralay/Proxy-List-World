@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5948** proxies at the latest update. Usable proxies are below.
+> Scraper found **5935** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1361|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1348|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|254|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3133|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|1|38.47.110.6|10800|Japan|Osaka|VMISS Inc|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|45.32.26.167|30000|Japan|Minamishinagawa|The Constant Company|
+|4|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
 |7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|160.19.19.18|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|45.32.26.167|30000|Japan|Minamishinagawa|The Constant Company|
-|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|8|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|13|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
