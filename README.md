@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|103.7.137.185|1080|United States|Los Angeles|UberGlobal Pty Ltd|
-|15|147.45.60.110|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.39.51.156|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.54.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|10|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|11|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|12|103.238.232.50|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|152.32.68.171|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
