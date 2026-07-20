@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|4|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |5|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|7|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|7|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|8|103.169.38.240|8080|Indonesia|Trucuk|PT Boombas Carlo Medianet|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|23.27.22.7|1234|United States|Los Angeles|Ace Data Centers II|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|147.45.60.139|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
