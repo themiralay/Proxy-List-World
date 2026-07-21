@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5443** proxies at the latest update. Usable proxies are below.
+> Scraper found **5462** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2658|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|4|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
 |5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|8|110.92.72.202|8080|Indonesia|Malang|NEXIS|
-|9|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|10|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|11|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|12|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|103.180.123.229|1080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|15|38.137.234.98|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
-|16|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|91.228.152.100|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|7|103.156.16.234|8818|Indonesia|Jatibarang|RSTNET|
+|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|9|134.209.169.147|3128|United States|Clifton|DigitalOcean, LLC|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
+|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|13|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|14|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
+|15|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|16|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
+|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|20|134.209.169.147|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
