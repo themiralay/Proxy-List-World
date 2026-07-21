@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
-|2|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|3|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|9|103.219.160.145|6565|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|10|47.236.72.18|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|13.113.13.254|1080|Japan|Tokyo|Amazon Technologies Inc|
-|12|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|17|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|20|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|13.113.13.254|1080|Japan|Tokyo|Amazon Technologies Inc|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|6|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|16|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
