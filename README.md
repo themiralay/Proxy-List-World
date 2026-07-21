@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|3|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|5|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|11|91.228.152.100|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|15|172.120.166.156|443|Romania|Bucharest|M247 Europe SRL|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|172.120.166.205|443|Romania|Bucharest|M247 Europe SRL|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|18|77.83.85.113|10808|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
