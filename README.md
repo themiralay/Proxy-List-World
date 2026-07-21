@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|6|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|45.81.130.90|8888|United States|Los Angeles|Zenlayer Inc|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|182.53.202.208|8080|Thailand|Songkhla|TOT Public Company Limited|
-|9|172.171.83.26|8080|United States|Boydton|Microsoft|
-|10|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|11|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|12|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|138.124.51.186|40000|Germany|Frankfurt am Main|Aeza International LTD|
-|14|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|44.226.196.63|60000|United States|Portland|Amazon.com, Inc.|
-|17|95.140.154.211|8080|Germany|Frankfurt am Main|Mamaev|
-|18|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|172.120.166.156|443|Romania|Bucharest|M247 Europe SRL|
+|8|163.223.116.85|7070|Indonesia|Kuningan|PT Signall Network Nusantara|
+|9|45.81.130.90|8888|United States|Los Angeles|Zenlayer Inc|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
+|12|103.147.247.193|8080|Indonesia|Kresek|PLBNET|
+|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|47.237.153.201|8000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
 
 
 
