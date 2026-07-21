@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|11|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |15|172.171.83.26|8080|United States|Boydton|Microsoft|
 |16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|20|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
