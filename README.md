@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|6|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|13|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|9|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|15|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
 
 
 
