@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|5|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|6|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|45.55.43.162|8118|United States|Clifton|DigitalOcean, LLC|
+|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|14|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 |18|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
