@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|663|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|663|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|663|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|15|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|43.134.15.145|8118|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|64.188.62.23|37104|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|62.133.62.187|1081|France|Paris|Global Connectivity Solutions LLP|
+|9|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|103.180.126.236|8080|Indonesia|Jakarta|PT Alam Media Data|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|17|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|18|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|20|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
