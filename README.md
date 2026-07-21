@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|639|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|639|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|639|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|17|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|18|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|19|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 
 
 
