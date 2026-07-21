@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|649|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|649|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|649|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|610|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|610|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|610|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|6|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|14|134.209.169.147|3128|United States|Clifton|DigitalOcean, LLC|
-|15|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 
 
 
