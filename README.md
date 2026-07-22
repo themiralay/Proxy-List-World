@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|574|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
