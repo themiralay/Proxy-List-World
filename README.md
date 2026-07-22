@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|19|198.12.95.178|1080|United States|Buffalo|HostPapa|
-|20|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
