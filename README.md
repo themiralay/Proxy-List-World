@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|607|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|607|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|607|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|20|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|6|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|7|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|10|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
