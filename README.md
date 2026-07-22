@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|4|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 |9|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|10|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|20|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|19|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
