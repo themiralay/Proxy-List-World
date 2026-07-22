@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|794|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|794|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|794|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|792|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|792|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|792|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|144.202.78.114|1234|United States|Dallas|The Constant Company|
-|8|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|9|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|10|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
-|14|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|11|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|12|178.128.22.180|10808|Singapore|Singapore|DigitalOcean, LLC|
+|13|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|14|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
 |15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|144.202.78.114|1234|United States|Dallas|The Constant Company|
-|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|16|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|17|126.209.17.226|8080|Philippines|Manila|Infinivan Incorporated|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
 
 
 
