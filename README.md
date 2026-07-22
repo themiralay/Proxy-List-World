@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|714|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|714|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|714|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
 |3|178.128.22.180|10808|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|18|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
 
 
 
