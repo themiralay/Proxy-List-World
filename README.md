@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5776** proxies at the latest update. Usable proxies are below.
+> Scraper found **5761** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1246|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1298|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3128|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3061|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|2|16.62.229.137|41511|Switzerland|Zurich|Amazon.com, Inc.|
-|3|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|4|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|5|111.79.111.126|3128|China|Hangzhou|China Telecom|
-|6|135.87.39.23|9443|Finland|Helsinki|Nokia Solutions and Networks Oy|
-|7|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|8|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|9|135.87.39.23|9443|Finland|Helsinki|Nokia Solutions and Networks Oy|
-|10|122.246.3.210|17981|China|Ningbo|China Telecom|
-|11|123.138.24.114|8800|China|Xi'an|CNC Group CHINA169 Shanni Province Network|
-|12|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|13|219.142.66.244|9090|China|Beijing|China Networks Inter-Exchange|
-|14|51.68.153.51|3128|Poland|Warsaw|OVH SAS|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|34.153.18.123|443|United States|Columbus|Google LLC|
-|17|46.229.187.39|80|Russia|Yaroslavl|Yarnet Ltd|
-|18|123.60.155.1|3128|China|Shanghai|Huawei Cloud Service data center|
-|19|58.210.191.173|8816|China|Suzhou|Chinanet|
-|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|2|219.142.66.244|9090|China|Beijing|China Networks Inter-Exchange|
+|3|111.79.111.126|3128|China|Hangzhou|China Telecom|
+|4|62.146.233.116|8881|Singapore|Singapore|Contabo Asia Private Limited|
+|5|123.60.155.1|3128|China|Shanghai|Huawei Cloud Service data center|
+|6|38.123.220.152|999|Mexico|Ejido de Santa María Nativitas|Cogent Communications|
+|7|51.68.153.51|3128|Poland|Warsaw|OVH SAS|
+|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|103.73.66.232|24444|Hong Kong|Hong Kong|HostHatch|
+|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|116.196.150.180|17981|China|Hangzhou|JHWA|
+|13|16.62.229.137|41511|Switzerland|Zurich|Amazon.com, Inc.|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|187.72.215.33|3128|Brazil|São José do Rio Preto|ALGAR TELECOM S/A|
+|17|181.209.108.218|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|135.87.39.23|9443|Finland|Helsinki|Nokia Solutions and Networks Oy|
+|19|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|20|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
