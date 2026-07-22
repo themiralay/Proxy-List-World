@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
-|3|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|8|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|18|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|20|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|154.85.63.49|8888|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|154.85.63.49|8888|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|38.111.103.17|8080|Indonesia|Deli Serdang|Cogent Communications|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 
 
 
