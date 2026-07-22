@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|19|187.72.215.33|3128|Brazil|São José do Rio Preto|ALGAR TELECOM S/A|
-|20|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|8|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|172.171.83.26|8080|United States|Boydton|Microsoft|
+|13|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|14|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|170.82.194.134|3128|Brazil|Itajaí|Itjsc Servicos De Comunicacao E Solucoes Ltda|
+|20|123.138.24.114|8800|China|Xi'an|CNC Group CHINA169 Shanni Province Network|
 
 
 
