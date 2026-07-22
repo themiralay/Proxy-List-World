@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|807|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|807|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|807|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
-|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|13|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|15|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|16|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|208.82.61.64|3128|United States|Ashburn|Bernardi Sounds|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|178.128.59.180|40001|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|12|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|14|47.79.42.41|3128|Japan|Tokyo|Alibaba.com LLC|
+|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
