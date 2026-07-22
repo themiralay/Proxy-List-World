@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|612|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|612|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|612|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|8|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |10|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|11|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|14|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |17|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
