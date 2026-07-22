@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|134.195.210.226|10808|United States|Los Angeles|Axedale|
 |7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
 |10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|71.198.208.169|443|United States|Pittsburg|Comcast Cable Communications, LLC|
-|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|20|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
 
 
 
