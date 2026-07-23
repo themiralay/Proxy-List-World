@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.212.214.47|8090|Singapore|Singapore|Amazon Technologies Inc.|
-|3|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|6|43.156.114.4|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.199.121.61|9090|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.156.114.4|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|13.212.214.47|8090|Singapore|Singapore|Amazon Technologies Inc.|
+|6|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|128.199.113.85|9090|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.178.86.93|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
-|10|104.248.151.93|9090|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.130.61.61|8081|Indonesia|West Bandung Regency|Fastama|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|34.198.185.73|8443|United States|Ashburn|Amazon.com, Inc.|
-|17|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|18|103.179.253.25|1111|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|148.230.4.241|999|Mexico|Naranjos|Digy Networks S.A De C.V.|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|104.248.151.93|9090|Singapore|Singapore|DigitalOcean, LLC|
+|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|13|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.130.61.61|8081|Indonesia|West Bandung Regency|Fastama|
+|15|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|148.230.4.241|999|Mexico|Naranjos|Digy Networks S.A De C.V.|
+|18|34.198.185.73|8443|United States|Ashburn|Amazon.com, Inc.|
+|19|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
