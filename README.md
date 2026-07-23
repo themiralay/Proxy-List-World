@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
-|6|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|11|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|11|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|12|140.227.202.251|3128|Japan|Hyakuninchō|InfoSphere|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
