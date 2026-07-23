@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4656** proxies at the latest update. Usable proxies are below.
+> Scraper found **4534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1048|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|926|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2251|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 |8|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|9|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|11|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|64.227.174.131|9090|India|Bengaluru|DigitalOcean, LLC|
+|14|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|18|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|19|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
