@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
-|2|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|9|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
-|10|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |12|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|14|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|15|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|18|107.175.212.138|8080|United States|Buffalo|HostPapa|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
 
 
 
