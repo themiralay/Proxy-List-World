@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4559** proxies at the latest update. Usable proxies are below.
+> Scraper found **4422** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1114|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2251|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.44.31|7890|Japan|Osaka|The Constant Company|
-|2|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|5|103.189.251.19|8080|Indonesia|Tangerang|PT Pandawa Lima Java Network|
-|6|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|103.39.51.156|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|13|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|18|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|86.53.163.185|10002|United Kingdom|City of London|GTT|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|13|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|14|86.53.163.185|10002|United Kingdom|City of London|GTT|
+|15|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|16|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|103.39.51.156|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
