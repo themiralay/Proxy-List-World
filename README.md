@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|5|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|20|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
