@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
-|2|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|2|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|5|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|6|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|9|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
-|10|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|11|138.124.51.186|40000|Germany|Frankfurt am Main|Aeza International LTD|
-|12|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|16|2.188.210.83|4443|Iran|Tabriz|Respina Networks & Beyond PJSC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|19|62.210.220.122|5640|France|Paris|Online SAS|
-|20|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|5|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|16|86.53.163.185|10002|United Kingdom|City of London|GTT|
+|17|86.53.163.167|10002|United Kingdom|City of London|GTT|
+|18|86.53.163.80|10002|United Kingdom|City of London|GTT|
+|19|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
