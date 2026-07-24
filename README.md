@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|5|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|146.190.60.147|8002|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|8|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|147.45.60.249|1082|United States|Atlanta|Global Connectivity Solutions LLP|
 |9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|146.190.60.147|8002|United States|Santa Clara|DigitalOcean, LLC|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|107.175.212.138|8080|United States|Buffalo|HostPapa|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|18|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
 
 
 
