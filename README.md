@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|689|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|689|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|689|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|880|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|880|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|880|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
+|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|9|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|186.96.178.72|8081|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|15|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|103.180.126.243|8080|Indonesia|Jakarta|PT Alam Media Data|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|5|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|98.91.160.82|80|United States|Ashburn|Amazon.com|
+|17|103.180.126.243|8080|Indonesia|Jakarta|PT Alam Media Data|
+|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
