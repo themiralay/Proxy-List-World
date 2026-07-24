@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|692|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|692|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|692|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
+|3|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|8|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|147.45.60.249|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|20|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
 
 
 
