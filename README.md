@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|671|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|671|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|671|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|15|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|18|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|19|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|2|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|9|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
