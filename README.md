@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|781|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|781|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|781|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|3|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|163.61.207.230|40000|Japan|Tokyo|Dodo K.K.|
+|3|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
+|4|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|151.243.153.157|8118|United States|Seattle|Black Apple|
-|10|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|15|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|9|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|151.243.153.157|8118|United States|Seattle|Black Apple|
+|11|45.32.192.240|9000|United States|Dallas|Choopa|
+|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|20|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
 
 
 
