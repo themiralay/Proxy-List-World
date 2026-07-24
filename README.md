@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|3|149.129.240.132|8888|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|103.191.169.148|8080|Indonesia|Taccipi|PT Sugi Bintang Jaya|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|172.171.83.26|8080|United States|Boydton|Microsoft|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|149.129.240.132|8888|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|12|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|103.51.205.78|8080|Indonesia|Grogol|Lintas Data Prima, PT|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
