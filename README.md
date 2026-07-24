@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|5|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|12|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
+|2|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|6|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|13|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|20|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
 
 
 
