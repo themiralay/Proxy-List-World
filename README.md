@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5270** proxies at the latest update. Usable proxies are below.
+> Scraper found **5622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1248|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1300|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2979|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|163.227.248.71|8181|Indonesia|Sukabumi|PT Rajasa Sinergi Komunikasi|
-|8|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|15|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|16|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|20|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|6|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|9|38.194.231.66|999|Mexico|Ciudad Benito Juárez|Cogent Communications|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|107.175.212.138|8080|United States|Buffalo|HostPapa|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
 
 
 
