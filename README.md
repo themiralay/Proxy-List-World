@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5598** proxies at the latest update. Usable proxies are below.
+> Scraper found **5769** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1506|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1377|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|213|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2979|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|1|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|147.45.60.246|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|4|147.45.60.241|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|172.171.83.26|8080|United States|Boydton|Microsoft|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|158.101.89.163|3123|Japan|Tokyo|Oracle Corporation|
-|15|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|79.137.196.131|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|19|138.68.96.6|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|178.250.156.112|443|Russia|Novoivanovskoye|JSC IOT|
+|6|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|47.253.58.201|58000|United States|Henrico|Alibaba Cloud LLC|
+|9|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|107.175.212.138|8080|United States|Buffalo|HostPapa|
+|13|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|15|172.171.83.26|8080|United States|Boydton|Microsoft|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|138.68.96.6|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
