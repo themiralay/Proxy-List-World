@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|656|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|656|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|656|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|5|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|6|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|9|38.194.231.66|999|Mexico|Ciudad Benito Juárez|Cogent Communications|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|107.175.212.138|8080|United States|Buffalo|HostPapa|
-|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|42.200.76.16|3888|Hong Kong|Hung Hom Estate|PCCW IMSBiz|
+|4|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|15|138.68.96.6|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|18|107.175.212.138|8080|United States|Buffalo|HostPapa|
+|19|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
 
 
 
