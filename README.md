@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|15|3.111.120.235|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|168.119.153.216|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
