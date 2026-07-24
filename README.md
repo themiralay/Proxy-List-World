@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5096** proxies at the latest update. Usable proxies are below.
+> Scraper found **5226** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1080|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1210|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|140|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|139.162.91.30|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|8.222.225.182|7890|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|134.195.210.226|10808|United States|Los Angeles|Axedale|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|6|149.129.240.132|8888|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|11|134.195.210.226|10808|United States|Los Angeles|Axedale|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|14|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 
 
 
