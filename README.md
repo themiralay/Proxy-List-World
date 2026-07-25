@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|622|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|622|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|622|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|125.27.218.12|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|185.119.90.69|8888|Serbia|Belgrade|United Internet Ltd.|
-|18|47.76.172.60|20000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|47.76.172.60|20000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|10|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.161.239.147|11090|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|107.172.111.52|3128|United States|Los Angeles|HostPapa|
+|14|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|143.110.188.18|9090|India|Bengaluru|DigitalOcean, LLC|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 
 
 
