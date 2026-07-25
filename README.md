@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.240.6.249|56636|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|4|103.240.6.43|46726|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|5|103.240.6.235|53837|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|6|103.240.6.226|54820|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|7|103.240.6.243|42374|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|8|47.76.172.60|20000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|11|103.240.6.4|44059|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|17|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|103.240.6.46|56311|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|6|139.135.76.218|8080|Philippines|Malway|Dito Telecommunity Corp.|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|103.240.6.74|51019|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|10|103.240.7.139|43815|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|11|103.240.7.136|42405|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|45.205.31.116|4000|United States|Dallas|Fastnet Data Inc|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|157.254.194.57|1080|United States|New York|Ipxo LLC|
 
 
 
