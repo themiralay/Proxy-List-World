@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
 |3|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|7|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|14|103.240.7.53|41385|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|103.240.7.51|58740|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|18|103.240.7.54|54319|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|8|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|185.119.90.69|8888|Serbia|Belgrade|United Internet Ltd.|
+|15|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
