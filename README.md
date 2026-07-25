@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5337** proxies at the latest update. Usable proxies are below.
+> Scraper found **5466** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1352|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1181|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|154|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2931|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|45.76.223.103|1080|Japan|Minamishinagawa|The Constant Company|
-|10|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|103.11.76.74|8081|United States|Los Angeles|UberGlobal Pty Ltd|
-|15|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|77.83.87.212|10801|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|185.119.90.69|8888|Serbia|Belgrade|United Internet Ltd.|
-|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|8|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|12|158.69.63.97|3128|Canada|Montreal|OVH SAS|
+|13|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|14|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|86.53.163.185|10002|United Kingdom|City of London|GTT|
+|17|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|19|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
