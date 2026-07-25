@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6569** proxies at the latest update. Usable proxies are below.
+> Scraper found **7156** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|783|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|783|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|783|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|926|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|926|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|926|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1775|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3303|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|312|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4064|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|11|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|13|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|14|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|149.129.240.132|8888|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
-|16|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|17|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|18|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|47.238.106.120|666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|9|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|11|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|14|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|17|149.129.240.132|8888|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|18|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
