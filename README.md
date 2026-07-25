@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|735|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|735|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|735|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |9|104.248.151.93|9090|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|192.232.48.19|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 
 
 
