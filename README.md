@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|10|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|11|103.240.7.146|44485|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|12|47.76.172.60|20000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|16|103.240.6.74|51019|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|7|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|151.243.153.157|8118|United States|Seattle|Black Apple|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|103.240.7.49|51147|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|15|103.240.7.19|49887|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|16|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.240.7.56|55471|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|18|103.240.7.229|49997|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
