@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|103.240.6.190|55878|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|6|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|7|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|10|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|6|103.240.6.190|55878|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|7|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|8|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|9|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
