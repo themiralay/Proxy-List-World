@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|2|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|103.240.6.110|52868|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|8|185.119.90.69|8888|Serbia|Belgrade|United Internet Ltd.|
-|9|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|10|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|212.113.104.29|10801|Germany|Frankfurt am Main|Sculk Ltd.|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|31.76.15.178|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|17|95.216.22.149|8095|Finland|Helsinki|Hetzner Online GmbH|
-|18|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|20|182.253.109.46|8080|Indonesia|Semarang|Biznet Metronet|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|185.119.90.69|8888|Serbia|Belgrade|United Internet Ltd.|
 
 
 
