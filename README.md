@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5432** proxies at the latest update. Usable proxies are below.
+> Scraper found **5224** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2949|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|2|103.240.6.137|44774|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.240.6.129|47533|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|5|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.240.6.103|57332|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|125.129.15.34|3128|South Korea|Seoul|Korea Telecom|
+|3|47.76.172.60|20000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |7|187.250.76.160|80|Mexico|Tijuana|Uninet S.A. de C.V.|
-|8|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
-|12|103.240.6.107|51565|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|13|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|52.33.78.11|8443|United States|Portland|Amazon.com, Inc.|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|52.33.78.11|8443|United States|Portland|Amazon.com, Inc.|
 
 
 
