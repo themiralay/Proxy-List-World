@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|769|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|769|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|769|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.91.188|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|103.240.6.167|59590|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|5|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|6|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|7|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|8|103.240.6.190|55878|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|9|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|10|103.240.6.137|44774|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|11|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|103.240.6.167|59590|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|2|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.240.7.54|54319|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|11|103.240.7.58|43166|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|12|217.144.187.80|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|13|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|203.24.89.93|40001|United States|Los Angeles|Multacom Corporation|
+|17|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
 |18|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
 
 
 
