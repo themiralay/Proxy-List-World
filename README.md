@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5740** proxies at the latest update. Usable proxies are below.
+> Scraper found **5774** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|717|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|717|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|717|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1200|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1234|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|249|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3091|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|2|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|103.240.6.190|55878|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|103.240.7.56|55471|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|12|103.240.7.58|43166|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|13|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|103.240.6.9|42792|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|16|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|17|103.240.7.59|52955|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|19|103.240.7.54|54319|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|20|103.240.7.87|56805|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|6|51.79.142.103|3128|Singapore|Singapore|OVH SAS|
+|7|103.240.7.59|52955|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|8|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|9|103.240.7.87|56805|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|10|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|11|103.240.7.54|54319|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|12|103.240.7.56|55471|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|52.33.78.11|8443|United States|Portland|Amazon.com, Inc.|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|18|103.240.7.58|43166|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|19|52.33.78.11|8443|United States|Portland|Amazon.com, Inc.|
+|20|13.57.201.202|80|United States|San Jose|Amazon.com, Inc.|
 
 
 
