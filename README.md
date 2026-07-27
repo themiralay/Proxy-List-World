@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.83.41.242|10800|Japan|Tokyo|NetLab Global|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|6|103.240.6.107|51565|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|10|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|167.86.91.238|80|Germany|Nuremberg|Contabo GmbH|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
