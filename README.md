@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|38.207.166.79|10800|United States|Los Angeles|NetLab Global|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|1|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.240.6.8|48671|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|103.240.7.58|43166|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|101.255.211.90|8083|Indonesia|North Jakarta|PT Remala Abadi|
+|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|103.240.7.56|55471|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|15|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 
 
 
