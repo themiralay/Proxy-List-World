@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
-|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|216.106.179.216|49507|United States|Dallas|GTHost|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|14|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|8|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|9|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|139.135.77.166|8085|Philippines|Danao|Dito Telecommunity Corp.|
+|13|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|147.45.60.241|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
