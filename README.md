@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|209.38.4.146|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|6|38.54.51.14|30001|Japan|Tokyo|Kaopu Cloud HK Limited|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|14|209.38.4.146|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|8.217.91.188|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.240.6.190|55878|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|6|209.38.4.146|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|10|209.38.4.146|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|18|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
 
 
 
