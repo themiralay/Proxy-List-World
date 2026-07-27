@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5625** proxies at the latest update. Usable proxies are below.
+> Scraper found **5658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|647|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|647|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|647|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1160|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1193|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3091|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
 |4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|7|103.240.6.170|47884|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|9|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|10|43.134.141.85|80|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.156.237.221|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
-|18|174.138.83.34|3128|United States|Clifton|DigitalOcean, LLC|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|103.240.6.166|44791|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|5|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.240.6.80|57174|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|7|103.240.7.54|54319|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|10|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|11|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|103.240.7.87|56805|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|14|103.240.6.9|42792|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|15|103.11.76.74|1081|United States|Los Angeles|UberGlobal Pty Ltd|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|43.156.237.221|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|20|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
