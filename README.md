@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5986** proxies at the latest update. Usable proxies are below.
+> Scraper found **5809** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1263|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1086|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|247|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3276|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|2|8.217.91.188|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.240.6.107|51565|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|4|103.240.6.167|59590|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|157.254.194.57|1080|United States|New York|Ipxo LLC|
-|11|103.240.7.56|55471|Vietnam|Ho Chi Minh City|GIZANETWORK|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|174.138.83.34|3128|United States|Clifton|DigitalOcean, LLC|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|43.167.173.109|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.240.6.137|44774|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|5|103.240.6.17|58304|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|6|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
+|7|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|8|103.240.6.107|51565|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|103.240.6.157|41495|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|13|157.254.194.57|1080|United States|New York|Ipxo LLC|
+|14|43.130.231.201|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|103.240.6.167|59590|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|52.33.78.11|8080|United States|Portland|Amazon.com, Inc.|
+|20|174.138.83.34|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
