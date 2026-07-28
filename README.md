@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|11|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|12|43.163.112.8|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|216.106.179.216|49579|United States|Dallas|GTHost|
-|18|103.159.195.183|1080|Indonesia|Sumenep|PT Giga Digital Nusantara|
-|19|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|20|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|9|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|16|43.156.237.221|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
+|18|43.156.114.4|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
