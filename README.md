@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|216.106.179.216|49284|United States|Dallas|GTHost|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |10|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|11|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|12|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|13|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|14|147.45.60.249|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|11|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|12|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|50.205.246.13|8080|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|95.140.154.156|1080|Germany|Frankfurt am Main|Mamaev|
+|19|45.139.26.219|1080|Russia|Moscow|Kviktel LLC|
+|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
