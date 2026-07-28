@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|518|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|518|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|518|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|165.101.231.92|8090|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|12|216.106.179.216|49514|United States|Dallas|GTHost|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|187.127.254.177|8888|United States|Boston|Hostinger US|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|187.127.254.177|8888|United States|Boston|Hostinger US|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|166.0.132.131|8080|France|Saint-Denis|Ace Data Centers|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
