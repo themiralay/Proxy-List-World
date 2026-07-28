@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|178.130.47.50|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|147.45.60.252|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
 |6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|162.4.96.221|8080|Indonesia|Pasuruan|PT Azvi Multi Teknologi|
-|8|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|79.110.49.147|8080|France|Paris|12651980 Canada Inc.|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|216.106.179.216|49415|United States|Dallas|GTHost|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|16|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|17|103.80.83.27|8080|Indonesia|Pinrang|Jaringanku Sarana Nusantara|
-|18|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|7|216.106.179.216|49514|United States|Dallas|GTHost|
+|8|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|13|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|216.106.179.216|49514|United States|Dallas|GTHost|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
