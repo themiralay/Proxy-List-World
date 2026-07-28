@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|147.45.60.246|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|180.191.16.198|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|50.205.246.13|443|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|10|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|11|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 |20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
