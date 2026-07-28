@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|187.127.254.177|8888|United States|Boston|Hostinger US|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|178.130.47.42|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|187.127.254.177|8888|United States|Boston|Hostinger US|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |18|187.127.254.177|8888|United States|Boston|Hostinger US|
-|19|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
