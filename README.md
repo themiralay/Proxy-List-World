@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5967** proxies at the latest update. Usable proxies are below.
+> Scraper found **5461** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1478|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1272|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3048|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|216.106.179.216|49514|United States|Dallas|GTHost|
-|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|7|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|43.252.107.217|8080|Indonesia|Kediri|PT Lintas Data Prima|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|13|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|14|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|16|79.110.49.147|8080|France|Paris|12651980 Canada Inc.|
-|17|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|4|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|178.130.47.43|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|12|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|14|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
+|15|91.107.255.47|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|217.144.187.80|1080|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
