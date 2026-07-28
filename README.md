@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
 |7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|8|147.45.60.250|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|14|103.156.86.131|8080|Indonesia|Watampone|PT Chacha Networking System|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|50.205.246.13|80|United States|Pembroke Pines|Comcast Cable Communications, LLC|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|178.130.47.50|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
