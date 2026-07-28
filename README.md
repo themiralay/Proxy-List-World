@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|653|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|653|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|653|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|202.183.236.219|8080|Thailand|Khlong Hoi Khong|Advanced Wireless Network Company Limited|
-|9|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|119.18.147.118|8080|Bangladesh|Chittagong|BBTS Network|
-|13|103.209.38.132|8080|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|18|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|19|8.215.112.34|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|79.110.49.147|8080|France|Paris|12651980 Canada Inc.|
+|8|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|9|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
+|12|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|103.209.38.132|8080|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
