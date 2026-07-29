@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6192** proxies at the latest update. Usable proxies are below.
+> Scraper found **5454** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|626|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|626|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|626|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1165|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1002|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3596|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|7|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
-|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|19|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|187.127.254.177|8888|United States|Boston|Hostinger US|
+|16|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 
 
 
