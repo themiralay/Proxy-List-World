@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|895|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|895|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|895|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|994|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|994|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|994|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|13|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|14|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|15|23.254.195.190|1080|United States|Los Angeles|HostPapa|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|10|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|11|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|12|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|16|23.254.195.190|1080|United States|Los Angeles|HostPapa|
+|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 |18|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
-|19|154.222.22.225|3128|Hong Kong|Hong Kong|Vapeline Technology|
-|20|103.210.35.182|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
