@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|107.161.168.159|3333|United States|New York|YottaSrc|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|209.146.113.192|10800|Canada|Mississauga|VMISS Inc|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
-|20|107.161.168.159|3333|United States|New York|YottaSrc|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|9|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
+|10|45.155.226.177|3128|Hong Kong|Kwun Tong|haoxiangyun|
+|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|18.170.25.193|7451|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
