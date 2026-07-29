@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|972|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|972|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|972|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|912|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|912|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|912|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|20.63.156.1|8080|Japan|Tokyo|Microsoft Corporation|
-|9|151.243.153.157|8118|United States|Seattle|Black Apple|
-|10|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|11|23.254.195.190|1080|United States|Los Angeles|HostPapa|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|101.96.96.241|8080|Vietnam|Tây Hồ District|NetNam Corporation|
-|20|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|7|20.63.156.1|8080|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|10|23.254.195.190|1080|United States|Los Angeles|HostPapa|
+|11|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|12|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|115.178.53.114|8080|Indonesia|Lembang|NOC SIMAYA|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
+|18|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|19|149.129.225.235|7777|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
