@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
 |2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|9|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|10|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
-|11|47.251.101.142|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|103.189.223.19|7557|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|65.109.65.238|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|107.161.168.159|3333|United States|New York|YottaSrc|
-|20|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|151.243.153.157|8118|United States|Seattle|Black Apple|
+|6|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
 
 
 
