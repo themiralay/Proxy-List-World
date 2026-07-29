@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5230** proxies at the latest update. Usable proxies are below.
+> Scraper found **4965** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
-|4|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|8|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
-|12|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|19|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|116.104.234.188|2063|Vietnam|Hanoi|Viettel Group|
+|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|13|62.146.233.116|8881|Singapore|Singapore|Contabo Asia Private Limited|
+|14|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|185.110.189.40|8888|Germany|Frankfurt am Main|BitCommand LLC|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|20|34.87.80.221|30000|Singapore|Singapore|Google LLC|
 
 
 
