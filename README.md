@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|13|180.190.84.239|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.10.69.98|8888|United States|Los Angeles|Zenlayer Inc|
+|7|66.175.236.184|1080|United States|Sulphur Springs|IONOS SE|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |17|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|18|202.155.8.167|10801|United States|Dallas|Ultahost, Inc.|
-|19|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|20|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|208.102.251.119|8118|United States|Hebron|Fuse Internet Access|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
