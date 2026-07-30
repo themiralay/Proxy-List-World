@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|19|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|20|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|77.247.178.20|3129|The Netherlands|Roosendaal|NFOrce Entertainment BV|
 
 
 
