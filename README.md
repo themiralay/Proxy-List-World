@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|107.161.168.159|3333|United States|New York|YottaSrc|
-|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|5|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
-|9|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|10|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|13|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|147.45.60.252|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|4|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
 
 
 
