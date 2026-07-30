@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|5|101.36.109.77|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|9|107.161.168.159|3333|United States|New York|YottaSrc|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|175.41.22.125|10808|Japan|Ueda|HostCrest Limited|
 |16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|107.161.168.159|3333|United States|New York|YottaSrc|
+|20|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
 
 
 
