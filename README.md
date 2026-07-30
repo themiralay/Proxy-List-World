@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4476** proxies at the latest update. Usable proxies are below.
+> Scraper found **4776** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|136|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
-|7|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|8|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|151.243.153.157|8118|United States|Seattle|Black Apple|
-|10|27.128.158.105|18079|China|Shijiazhuang|Chinanet|
-|11|204.108.154.43|80|United States|West Chester|Chesconet|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|14|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
-|15|62.146.233.116|8881|Singapore|Singapore|Contabo Asia Private Limited|
-|16|114.111.19.228|3389|China|Beijing|China Telecom|
-|17|103.153.149.18|8181|Indonesia|Kendal|JARINGANKU|
-|18|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
-|19|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
-|20|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|2|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|11|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|12|187.127.254.177|8888|United States|Boston|Hostinger US|
+|13|13.38.217.179|39170|France|Paris|Amazon Technologies Inc.|
+|14|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|15|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|16|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|20|2.59.43.253|22222|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
