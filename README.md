@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|5|103.167.61.162|3128|Hong Kong|Mid Levels|Stacks Inc|
 |6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|107.161.168.159|3333|United States|New York|YottaSrc|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|11|103.25.220.170|8085|Philippines|Quezon City|Imjwanklik Internet Communication Services|
-|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|157.230.178.216|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|147.45.60.252|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|107.161.168.159|3333|United States|New York|YottaSrc|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|139.99.95.120|8080|Singapore|Singapore|OVH SAS|
+|12|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|103.113.152.73|14158|Bangladesh|Dhaka|Md Ziaul Huque|
+|15|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
