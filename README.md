@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|12|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 |13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|16|78.17.60.92|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|17|107.161.168.159|3333|United States|New York|YottaSrc|
-|18|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|19|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
