@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|103.159.96.62|8181|Indonesia|Mojokerto|PT Jinde Grup Indonesia|
-|8|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
 |9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|121.101.132.30|8080|Indonesia|Sleman|PT SELARAS CITRA TERABIT|
-|11|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|107.161.168.159|3333|United States|New York|YottaSrc|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|131.153.1.44|8254|United States|Ashburn|Secured Servers LLC|
-|19|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|20|180.191.234.124|8080|Philippines|Maganoy|Globe Telecom|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|170.106.181.5|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
