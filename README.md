@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |14|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|15|107.161.168.159|3333|United States|New York|YottaSrc|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|149.33.12.153|8080|The Netherlands|Haarlem|Cogent Communications|
-|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|16|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
+|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
 
 
 
