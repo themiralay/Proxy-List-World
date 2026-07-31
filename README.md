@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|139.162.91.30|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|10|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|103.187.113.100|8080|Indonesia|Tabanan|PT Adi Solusindo Teknologi|
-|12|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|45.155.226.177|3128|Hong Kong|Kwun Tong|haoxiangyun|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|115.147.61.241|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|207.244.233.148|10808|United States|St Louis|Contabo Inc.|
-|20|38.76.9.0|999|Venezuela|Mérida|ACT NETWORK, C.A.|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|11|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|103.137.218.113|84|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
+|14|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|16|95.211.64.139|8889|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|17|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
 
 
 
