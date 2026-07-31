@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|663|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|663|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|663|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|9|107.161.168.159|3333|United States|New York|YottaSrc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|8|107.161.168.159|3333|United States|New York|YottaSrc|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|175.41.22.125|10808|Japan|Ueda|HostCrest Limited|
-|14|178.130.47.42|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|16|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|14|107.161.168.159|3333|United States|New York|YottaSrc|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|103.109.96.86|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 
 
 
