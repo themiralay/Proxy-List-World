@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|107.161.168.159|3333|United States|New York|YottaSrc|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
+|7|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|8|47.250.145.191|80|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|107.161.168.159|3333|United States|New York|YottaSrc|
+|14|43.155.179.47|8080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|163.61.112.245|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|16|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|17|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|18|207.244.233.148|10808|United States|St Louis|Contabo Inc.|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
