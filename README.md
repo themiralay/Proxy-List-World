@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|13.57.13.153|3128|United States|San Jose|Amazon.com, Inc.|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |8|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|13.57.13.153|3128|United States|San Jose|Amazon.com, Inc.|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|103.76.151.202|8080|Indonesia|Jakarta Pusat|PT. Java Digital Nusantara|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|78.17.60.92|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|15|78.17.60.92|8080|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 
 
 
