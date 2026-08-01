@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|19|149.33.12.153|8080|The Netherlands|Haarlem|Cogent Communications|
-|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|12|62.60.152.245|3128|Sweden|Stockholm|NetCrafters OU|
+|13|45.144.53.63|5001|Finland|Helsinki|H2nexus LTD|
+|14|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
 
 
 
