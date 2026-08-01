@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|6|103.172.71.85|8080|Indonesia|Karawang|AZNET|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|16|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|185.250.249.99|80|Germany|Germering|IP- www.ip-projects.de|
-|19|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|149.33.12.153|8080|The Netherlands|Haarlem|Cogent Communications|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|160.187.174.121|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
