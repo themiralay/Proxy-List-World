@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 |3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|15|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|19|149.33.12.153|8080|The Netherlands|Haarlem|Cogent Communications|
-|20|183.248.129.5|17981|China|Hangzhou|China Mobile Communications Corporation|
+|17|219.142.66.244|9090|China|Beijing|China Networks Inter-Exchange|
+|18|149.33.12.153|8080|The Netherlands|Haarlem|Cogent Communications|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|41.249.226.121|30001|Morocco|Al Fqih Ben Çalah|ADSL Maroc telecom|
 
 
 
