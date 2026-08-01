@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|100.28.75.142|3128|United States|Ashburn|Amazon.com|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
-|13|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|14|185.250.249.99|80|Germany|Germering|IP- www.ip-projects.de|
-|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|16|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|51.79.199.104|3128|Singapore|Singapore|OVH SAS|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|20|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|100.28.75.142|3128|United States|Ashburn|Amazon.com|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|107.161.168.159|3333|United States|New York|YottaSrc|
 
 
 
