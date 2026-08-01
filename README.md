@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|3|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|12|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|157.15.63.81|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|18|64.188.77.221|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|91.142.75.202|1080|Russia|Moscow|Hosting technology LTD|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|17|107.161.168.159|3333|United States|New York|YottaSrc|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 
 
 
