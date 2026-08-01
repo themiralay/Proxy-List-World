@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.16.8.36|8080|United States|San Francisco|Fly.io, Inc.|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|37.16.8.36|8080|United States|San Francisco|Fly.io, Inc.|
-|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|13.57.13.153|3128|United States|San Jose|Amazon.com, Inc.|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|37.16.8.36|8080|United States|San Francisco|Fly.io, Inc.|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|15|185.250.249.99|80|Germany|Germering|IP- www.ip-projects.de|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
