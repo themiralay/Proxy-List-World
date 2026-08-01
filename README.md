@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|103.82.246.19|6080|Indonesia|Tulangan Utara|PT Master Star Network|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|9|45.155.226.177|3128|Hong Kong|Kwun Tong|haoxiangyun|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|6|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |10|103.169.132.34|3128|Indonesia|Purwakarta|PT Alfa Omega Interkoneksi|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|190.121.157.41|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|15|95.211.64.139|8889|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|45.144.53.63|5001|Finland|Helsinki|H2nexus LTD|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|14|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|103.172.120.189|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|20|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
