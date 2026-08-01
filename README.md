@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|45.81.129.252|8888|United States|Los Angeles|Zenlayer Inc|
+|8|45.81.129.252|8888|United States|Los Angeles|Zenlayer Inc|
+|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 |10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|13|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|14|43.161.239.147|8888|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |15|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
-|17|182.53.202.208|8080|Thailand|Songkhla|TOT Public Company Limited|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|20|62.146.233.116|8881|Singapore|Singapore|Contabo Asia Private Limited|
+|16|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|19|91.98.86.26|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
