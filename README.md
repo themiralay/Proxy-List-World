@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|7|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|178.130.47.43|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
-|17|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|108.181.123.113|3128|The Netherlands|Amsterdam|Psychz Networks|
-|19|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|20|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|1|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|8|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|46.62.189.77|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|202.5.33.33|1101|Bangladesh|Patiya|BBTS-NEW|
+|14|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
+|15|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|108.181.123.113|3128|The Netherlands|Amsterdam|Psychz Networks|
 
 
 
