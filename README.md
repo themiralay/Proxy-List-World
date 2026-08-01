@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|126.209.13.2|8085|Philippines|Manila|Infinivan Incorporated|
-|7|103.155.168.158|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|8|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|107.161.168.159|3333|United States|New York|YottaSrc|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|19|103.154.12.2|8088|Nepal|Gulariyā|Everest Wireless Network pvt. ltd|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|45.198.8.10|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
+|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|11|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|12|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|13|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|160.191.83.230|8080|Bangladesh|Tongi|Kloud Technologies Limited|
+|17|178.130.47.41|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|20|64.188.77.26|3128|The Netherlands|Amsterdam|OC NETWORKS LIMITED|
 
 
 
