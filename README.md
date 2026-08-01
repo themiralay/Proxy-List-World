@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|107.161.168.159|3333|United States|New York|YottaSrc|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|11|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|15|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|170.106.181.5|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|7|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|10|107.161.168.159|3333|United States|New York|YottaSrc|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
