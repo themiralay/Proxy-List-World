@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|36.92.199.158|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|103.217.224.75|3125|Indonesia|Ungaran|PT Nesta Indo Media|
-|8|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
-|9|124.121.110.228|80|Thailand|Bangkok|TRUEBB|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
-|16|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|181.79.83.226|999|Colombia|Fusagasugá|IFX Networks Argentina S.R.L|
-|20|109.120.184.202|1080|Finland|Helsinki|Aeza International LTD|
+|2|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|54.165.248.109|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|170.106.181.5|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|3.221.197.61|8080|United States|Ashburn|Amazon Technologies Inc.|
+|20|139.162.91.30|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
