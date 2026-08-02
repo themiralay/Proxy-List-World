@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|3|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|6|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|77.247.178.20|3129|The Netherlands|Roosendaal|NFOrce Entertainment BV|
+|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|208.102.251.119|8118|United States|Hebron|Fuse Internet Access|
+|16|167.71.102.253|3128|United States|Clifton|DigitalOcean, LLC|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
