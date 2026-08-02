@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|8|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|9|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|10|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|12|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|107.161.168.159|3333|United States|New York|YottaSrc|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|11|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|17|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|18|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 
 
 
