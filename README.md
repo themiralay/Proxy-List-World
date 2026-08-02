@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|742|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|742|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|742|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|115.178.53.114|8080|Indonesia|Lembang|NOC SIMAYA|
-|14|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|107.161.168.159|3333|United States|New York|YottaSrc|
-|19|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|2|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|7|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|58.69.124.137|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|107.161.168.159|3333|United States|New York|YottaSrc|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|18|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
