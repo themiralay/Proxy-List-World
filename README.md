@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5006** proxies at the latest update. Usable proxies are below.
+> Scraper found **5162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|680|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|680|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|680|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1092|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1248|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|239|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2443|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|4|8.217.208.180|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|8|54.193.215.124|80|United States|San Jose|Amazon.com, Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|54.193.215.124|80|United States|San Jose|Amazon.com, Inc.|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|103.147.77.204|8080|Indonesia|Madiun|TRIDATA|
-|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|16|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|1|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|107.161.168.159|3333|United States|New York|YottaSrc|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|160.20.38.58|3125|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|12|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |17|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|18|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|19|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|107.161.168.159|3333|United States|New York|YottaSrc|
+|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|20|47.77.176.124|8888|United States|Minkler|Alibaba.com LLC|
 
 
 
