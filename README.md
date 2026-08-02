@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|2|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|171.252.196.32|8000|Vietnam|Can Tho|Viettel Corporation|
-|5|107.161.168.159|3333|United States|New York|YottaSrc|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|107.161.168.159|3333|United States|New York|YottaSrc|
-|9|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|10|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
-|14|82.114.228.67|1080|Russia|Saratov|SCTS|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|18|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|19|153.51.241.50|999|Mexico|Cunduacán|Javier Tamayo Garcia|
-|20|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|107.161.168.159|3333|United States|New York|YottaSrc|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|107.161.168.159|3333|United States|New York|YottaSrc|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|216.22.13.244|1081|United States|Manassas|Leaseweb USA, Inc.|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
 
 
 
