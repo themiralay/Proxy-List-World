@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|3|31.57.172.220|10808|Japan|Tokyo|ByteVirt LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|175.139.255.25|8181|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|14|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
-|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|18|46.8.229.31|8080|The Netherlands|Amsterdam|CGI GLOBAL LIMITED|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|178.130.47.41|1081|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|91.107.252.85|7070|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|38.211.24.22|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|18|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
+|19|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
