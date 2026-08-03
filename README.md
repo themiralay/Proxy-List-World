@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5389** proxies at the latest update. Usable proxies are below.
+> Scraper found **5144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|150|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3035|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|43.203.128.219|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|213.226.127.45|8000|Russia|St Petersburg|Gavlegardarna AB|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|11|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
+|12|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
+|13|95.3.69.222|8080|Turkey|Antakya|Turk Telekomunikasyon Anonim Sirketi|
+|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|15|45.13.116.220|21537|France|Mathay|ABJP|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
+|18|85.158.145.47|8080|The Netherlands|Meppel|Cukman Kresimir|
+|19|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
