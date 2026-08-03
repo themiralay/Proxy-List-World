@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|1|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|103.166.158.41|1080|Indonesia|Cibungurgardu|PT Timor Lintas Nusantara|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|200.35.153.56|999|Dominican Republic|Santiago de los Caballeros|LAUAM MEGARED TELECOM, S.R.L.|
-|20|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|54.145.2.169|8888|United States|Ashburn|Amazon Technologies Inc.|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
+|14|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|15|5.181.178.46|8080|Japan|Koto City|Lain.sh|
+|16|54.145.2.169|8888|United States|Ashburn|Amazon Technologies Inc.|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|45.155.226.177|3128|Hong Kong|Kwun Tong|haoxiangyun|
+|20|37.59.125.131|8888|France|Roubaix|OVH SAS|
 
 
 
