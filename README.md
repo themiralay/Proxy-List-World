@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|43.155.35.155|8888|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|149.18.81.114|7890|Ivory Coast|Yamoussoukro|LogicWeb Inc|
-|19|163.223.150.97|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|20|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|43.159.128.164|10000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|193.181.35.142|8118|Sweden|Stockholm|PVDataNet AB|
+|16|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
