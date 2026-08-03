@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|4|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|172.171.83.26|8080|United States|Boydton|Microsoft|
-|8|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|176.111.37.5|39811|Ukraine|Dobropol'ye|Cogento Backbone Limited|
-|11|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|12|122.246.4.6|17981|China|Ningbo|China Telecom|
-|13|103.164.171.210|8080|Indonesia|Makassar|PT iForte Global Internet|
-|14|120.92.111.242|15010|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|135.87.39.23|9443|Finland|Helsinki|Nokia Solutions and Networks Oy|
-|17|89.167.124.218|8888|Germany|Gunzenhausen|Hetzner Online GmbH|
-|18|135.87.39.23|9443|Finland|Helsinki|Nokia Solutions and Networks Oy|
-|19|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|20|95.3.69.222|8080|Turkey|Antakya|Turk Telekomunikasyon Anonim Sirketi|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|43.203.128.219|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|103.247.13.134|8080|Indonesia|Magelang|TERABIT|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|38.76.9.0|999|Venezuela|Mérida|ACT NETWORK, C.A.|
+|15|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|16|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|103.130.63.15|1080|Indonesia|Cirebon|Fastama|
+|20|45.155.226.177|3128|Hong Kong|Kwun Tong|haoxiangyun|
 
 
 
