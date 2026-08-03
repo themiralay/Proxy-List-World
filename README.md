@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|112.203.43.216|1234|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|7|147.45.60.249|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |11|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|103.191.116.122|8080|Indonesia|Cimahi|PT. SILOKA INTEGRASI TEKNOLOGI|
+|15|110.139.53.4|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
 |16|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|160.187.221.206|5900|Philippines|Magpet|Imtech Solution and Data Providers|
 
 
 
