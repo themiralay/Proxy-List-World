@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|43.203.128.219|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|115.178.52.12|8080|Indonesia|Bulakgebang|NOC SIMAYA|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |11|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|12|20.210.108.153|3128|Japan|Tokyo|Microsoft Corporation|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
-|19|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|185.239.50.122|10808|Russia|Moscow|AdminVPS LLC|
 
 
 
