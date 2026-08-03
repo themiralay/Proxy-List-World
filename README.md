@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5143** proxies at the latest update. Usable proxies are below.
+> Scraper found **4801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2748|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|1|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|103.171.82.213|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
-|7|103.161.131.110|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
-|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|202.150.141.98|3128|Indonesia|East Jakarta|PT Comtronics Systems|
-|13|103.153.62.214|10000|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|18|118.99.126.223|1194|Indonesia|Malang|Biznet Networks|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|104.194.146.9|80|United States|Sheridan|FranTech Solutions|
+|14|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|15|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|140.245.99.105|7890|Singapore|Singapore|Oracle Corporation|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
 
 
 
