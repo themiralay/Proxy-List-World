@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|103.155.65.166|8080|Indonesia|Manis Subang|PT Media Access Telematika|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|124.121.2.236|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|17|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|18|165.101.222.18|8080|Bangladesh|Nawābganj|S.S.R.B Internet Service|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|104.207.153.122|10808|United States|Los Angeles|The Constant Company|
+|14|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|15|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|16|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|18|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|124.121.2.236|8080|Thailand|Nakhon Ratchasima|TRUEBB|
 
 
 
