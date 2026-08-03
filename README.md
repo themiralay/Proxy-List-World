@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|153.80.240.37|8080|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|19|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|20|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|5|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|13|107.174.180.234|8118|United States|Santa Clara|ColoCrossing|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|216.22.13.244|1082|United States|Manassas|Leaseweb USA, Inc.|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
