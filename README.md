@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4281** proxies at the latest update. Usable proxies are below.
+> Scraper found **4581** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|705|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|179|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|122.2.48.121|8080|Philippines|Baliuag|Philippine Long Distance Telephone Co.|
-|3|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |6|54.145.2.169|8888|United States|Ashburn|Amazon Technologies Inc.|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|151.243.153.157|8118|United States|Seattle|Black Apple|
-|9|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|10|160.191.83.230|8080|Bangladesh|Tongi|Kloud Technologies Limited|
-|11|167.253.98.27|8118|Hong Kong|Hong Kong|Aurelia Telecom Systems LLC|
-|12|54.145.2.169|8888|United States|Ashburn|Amazon Technologies Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|15|108.181.123.113|3128|The Netherlands|Amsterdam|Psychz Networks|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|11|160.191.83.230|8080|Bangladesh|Tongi|Kloud Technologies Limited|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|54.145.2.169|8888|United States|Ashburn|Amazon Technologies Inc.|
+|14|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|108.181.123.113|3128|The Netherlands|Amsterdam|Psychz Networks|
 |17|45.153.4.154|3128|United States|Columbus|Istqrar for Servers Services Ltd|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|23.27.141.23|3080|United States|New York|Ace Data Centers II|
 
 
 
