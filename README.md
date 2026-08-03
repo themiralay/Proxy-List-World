@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|45.198.10.189|8080|Indonesia|Wonosobo|PT Jaringan Lintas Artha|
-|13|103.177.8.133|1111|Indonesia|Cikarang|PT Helium Sinergi Telekomunikasi|
-|14|103.80.214.108|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|15|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|103.157.79.58|8080|Indonesia|Jakarta|EASTMEDIA|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|11|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|208.102.251.119|8118|United States|Hebron|Fuse Internet Access|
+|18|85.198.100.232|3128|Russia|Moscow|Beget LLC|
+|19|45.144.53.63|5000|Finland|Helsinki|H2nexus LTD|
+|20|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
 
 
 
