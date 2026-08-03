@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5280** proxies at the latest update. Usable proxies are below.
+> Scraper found **5078** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3035|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|38.54.87.244|1080|Philippines|Manila|Kaopu Cloud HK Limited|
-|13|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|14|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|15|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|38.54.87.244|1080|Philippines|Manila|Kaopu Cloud HK Limited|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|216.22.13.244|1081|United States|Manassas|Leaseweb USA, Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|20|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|47.253.201.85|7890|United States|Henrico|Alibaba Cloud LLC|
+|19|103.39.51.140|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|20|173.254.204.118|7890|United States|Los Angeles|HostPapa|
 
 
 
