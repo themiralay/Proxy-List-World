@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|47.85.195.135|1080|United States|Henrico|Alibaba.com LLC|
+|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|43.155.232.123|8090|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|103.18.77.69|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
-|11|47.80.26.236|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|8.215.112.34|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|17|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|18|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|31.76.29.13|8080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|117.236.124.168|3128|India|Gandhinagar|BSNL Internet|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|43.155.35.155|8888|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|212.80.218.232|10808|The Netherlands|Amsterdam|Serverio technologijos MB|
+|19|185.247.117.155|8080|Netherlands|Amsterdam|Kamatera Inc|
+|20|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
 
 
 
