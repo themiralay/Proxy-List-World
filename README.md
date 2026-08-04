@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|759|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|759|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|759|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|775|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|775|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|775|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|104.207.153.122|10808|United States|Los Angeles|The Constant Company|
-|4|112.207.169.6|8082|Philippines|Angat|Philippine Long Distance Telephone Co.|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|7|103.19.58.151|8080|Indonesia|Sragen|BITSNET|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|149.28.137.172|8888|Singapore|Singapore|The Constant Company|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|146.190.60.147|8010|United States|Santa Clara|DigitalOcean, LLC|
-|13|217.154.70.86|7777|Germany|Berlin|MISTRAL|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|103.129.127.244|8088|Vietnam|Ho Chi Minh City|THIENTUANSTECH|
-|16|95.211.64.139|8889|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|172.245.168.179|21241|United States|Buffalo|HostPapa|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|81.200.154.152|8888|Germany|Frankfurt am Main|Timeweb, LLP|
+|1|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|2|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|4|104.207.153.122|10808|United States|Los Angeles|The Constant Company|
+|5|103.155.196.178|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|6|103.174.122.230|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|7|103.174.122.232|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|180.191.228.36|8082|Philippines|Sibonga|Globe Telecom|
+|11|103.147.134.133|8080|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
+|12|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|13|203.2.151.13|8080|Indonesia|Subang|PT BARAYA BARENG SADULUR|
+|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|15|103.227.187.23|8080|Indonesia|Kendalrejo|PT Master Star Network|
+|16|203.190.46.103|8080|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|20|112.207.169.6|8082|Philippines|Angat|Philippine Long Distance Telephone Co.|
 
 
 
