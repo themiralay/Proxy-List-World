@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.238.19.210|5858|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|191.222.223.20|1234|Japan|Tokyo|NetCrew|
-|3|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|9|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
-|10|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|11|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|12|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|172.238.19.210|5858|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|16|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
-|17|109.107.181.73|12198|Germany|Frankfurt am Main|Aeza International LTD|
-|18|212.22.74.169|49152|Netherlands|Dronten|Fortis|
-|19|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|20|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|172.238.19.210|5858|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|6|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|8|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|9|8.222.233.68|8080|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|13|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|14|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|15|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
