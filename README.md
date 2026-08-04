@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|101.32.141.60|8080|Singapore|Singapore|Aceville Pte.ltd|
-|9|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|3|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|18|144.31.118.205|10001|Germany|Frankfurt am Main|Senko Digital LLC|
+|19|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
 
 
 
