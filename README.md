@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.238.19.210|5858|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|172.238.19.210|5858|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
+|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|10|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|12|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|8|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
 |13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
-|18|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
-|19|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|15|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
+|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
 
 
 
