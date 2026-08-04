@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
 |2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |3|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|5|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|6|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|5|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|6|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|9|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|10|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|11|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
 |14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|17|47.236.244.43|1081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
