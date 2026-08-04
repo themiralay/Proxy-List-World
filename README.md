@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |2|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 |3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|5|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|4|186.33.5.13|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 |6|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|101.32.141.60|8080|Singapore|Singapore|Aceville Pte.ltd|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|16|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|19|122.246.3.210|17981|China|Ningbo|China Telecom|
-|20|212.227.207.37|1050|Spain|Madrid|IONOS SE|
+|7|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|8|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|109.107.181.73|12198|Germany|Frankfurt am Main|Aeza International LTD|
+|17|212.227.207.37|1050|Spain|Madrid|IONOS SE|
+|18|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|19|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|20|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
 
 
 
