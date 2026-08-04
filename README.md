@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5276** proxies at the latest update. Usable proxies are below.
+> Scraper found **5152** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|959|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|835|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|286|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2799|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|4|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|9|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|7|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|20.6.124.62|8080|Singapore|Singapore|Microsoft Corporation|
 |10|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|13|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|14|101.32.141.60|8080|Singapore|Singapore|Aceville Pte.ltd|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
-|18|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
-|19|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|14|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|17|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|20|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
 
 
 
