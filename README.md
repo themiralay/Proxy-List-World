@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|3|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|10|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|13|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
-|14|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|66.163.119.55|10006|Italy|Milan|GTHost|
-|17|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
-|18|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|9|8.222.233.68|8080|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |19|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|20|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|20|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
 
 
 
