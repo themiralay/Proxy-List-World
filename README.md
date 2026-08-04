@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|5|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|6|167.233.233.145|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|95.38.160.79|10809|Iran|Tehran|ABRARVAN|
-|9|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|144.31.11.24|4500|Germany|Kelsterbach|H2nexus LTD|
-|11|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|12|66.163.119.55|10006|Italy|Milan|GTHost|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|15|144.31.11.24|4500|Germany|Kelsterbach|H2nexus LTD|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|1|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|2|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|3|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|13|38.135.122.198|2054|United States|Brooklyn|Foxcloud LLP|
+|14|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|15|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
 |17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|195.26.254.173|8915|United States|St Louis|Contabo Inc.|
-|19|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|20|195.26.254.173|8915|United States|St Louis|Contabo Inc.|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|109.107.181.73|12198|Germany|Frankfurt am Main|Aeza International LTD|
+|20|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
 
 
 
