@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|893|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|893|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|893|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|843|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|843|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|843|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|103.145.34.65|8080|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|9|8.222.233.68|8080|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|8|164.52.11.194|18080|Taiwan|Neihu District|CDS Global Cloud Co., Ltd|
+|9|218.52.159.161|7777|South Korea|Namyangju|SK Broadband Co Ltd|
 |10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|124.83.43.145|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|129.226.206.61|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|103.173.141.9|8080|Indonesia|Ngawi|DIAZANETWORKS|
-|16|103.175.237.228|3125|Indonesia|Tempursari Wetan|PT Marva Global Telekomunikasi|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|64.118.147.245|20000|Japan|Tokyo|Eons Data Communications Limited|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|103.189.223.19|7557|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|20|103.180.123.229|1080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
 
 
 
