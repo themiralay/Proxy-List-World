@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4832** proxies at the latest update. Usable proxies are below.
+> Scraper found **4857** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2630|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|2|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|6|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|7|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|8|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|11|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
-|12|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|151.243.153.157|8118|United States|Seattle|Black Apple|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|15.204.35.6|30017|United States|Hillsboro|OVH SAS|
+|16|15.204.14.225|30017|United States|Hillsboro|OVH SAS|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|15.204.14.242|30017|United States|Hillsboro|OVH SAS|
+|19|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
