@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|637|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|637|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|637|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|657|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|657|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|657|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|156.245.207.248|18081|Hong Kong|Hong Kong|Zillion Network Inc.|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|103.1.224.34|18081|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|8|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|10|43.156.236.238|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|13|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
-|16|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
-|17|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|19|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|20|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|8|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
+|11|43.156.236.238|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|15|156.245.207.248|18081|Hong Kong|Hong Kong|Zillion Network Inc.|
+|16|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|17|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|18|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
+|20|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
 
 
 
