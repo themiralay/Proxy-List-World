@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5269** proxies at the latest update. Usable proxies are below.
+> Scraper found **4861** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1005|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|897|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2630|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
-|4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|8|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|43.128.73.106|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|45.198.33.147|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|18.218.167.109|3128|United States|Dublin|Amazon.com, Inc.|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|213.108.3.236|1443|United States|Secaucus|Baykov Ilya Sergeevich|
-|19|101.32.141.60|8080|Singapore|Singapore|Aceville Pte.ltd|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|2|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|45.198.33.147|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|14|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|18.218.167.109|3128|United States|Dublin|Amazon.com, Inc.|
+|18|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
