@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|2|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |5|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|9|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|10|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|13|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
-|18|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|19|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|20|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|16|91.98.97.79|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|17|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
