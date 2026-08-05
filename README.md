@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5103** proxies at the latest update. Usable proxies are below.
+> Scraper found **4792** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2745|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|2|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
 |5|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|6|151.243.153.157|8118|United States|Seattle|Black Apple|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|11|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|18|100.28.75.142|3128|United States|Ashburn|Amazon.com|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|8|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|9|151.243.153.157|8118|United States|Seattle|Black Apple|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|17|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|20|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 
 
 
