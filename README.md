@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|3|129.226.127.245|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 |4|129.226.72.101|18080|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|6|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|101.33.117.73|21081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|101.33.117.73|21081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|27.254.83.230|10050|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
 |12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|16|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|17|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|20|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|166.1.18.72|28015|United States|Los Angeles|Baxet Group Inc|
+|16|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|17|38.54.117.98|9090|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|18|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 
 
 
