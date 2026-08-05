@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4621** proxies at the latest update. Usable proxies are below.
+> Scraper found **4665** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|573|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|881|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|9|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
-|11|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|14|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|17|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
-|18|27.254.83.230|10050|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|20|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|4|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|7|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|209.38.120.141|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
 
 
 
