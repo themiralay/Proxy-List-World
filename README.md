@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4571** proxies at the latest update. Usable proxies are below.
+> Scraper found **4296** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|220|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2634|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|14|91.98.105.243|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|15|91.98.97.79|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|16|91.98.104.216|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|17|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|12|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
 
 
 
