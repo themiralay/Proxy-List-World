@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4987** proxies at the latest update. Usable proxies are below.
+> Scraper found **5048** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1074|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1135|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|448|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|103.1.224.34|18080|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
-|5|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|6|47.236.244.43|1081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|14|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|15|47.76.171.214|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|14|151.243.153.157|8118|United States|Seattle|Black Apple|
+|15|172.245.168.179|21241|United States|Buffalo|HostPapa|
+|16|216.36.80.143|30479|United States|Los Angeles|GTT Americas|
 |17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|20|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|19|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|20|151.243.153.157|8118|United States|Seattle|Black Apple|
 
 
 
