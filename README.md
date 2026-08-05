@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|91.98.105.243|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|16|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|17|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|91.98.104.216|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|20|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|172.171.83.26|8080|United States|Boydton|Microsoft|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|91.98.104.216|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|12|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|13|163.181.207.170|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
+|14|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|85.209.132.156|8000|Germany|Frankfurt Am Main|Baykov Ilya Sergeevich|
+|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|27.185.218.213|17981|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
 
 
 
