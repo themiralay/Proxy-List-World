@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|2|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
-|3|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
+|8|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 |14|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
-|15|38.54.80.181|8001|Philippines|Manila|Light Node Limited|
-|16|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
 
 
 
