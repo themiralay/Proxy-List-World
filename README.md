@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|4|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|98.82.185.149|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|98.82.185.149|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|172.171.83.26|8080|United States|Boydton|Microsoft|
+|1|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|98.82.185.149|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|17|167.233.233.145|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|18|107.149.143.169|7890|United States|Los Angeles|PEG TECH INC|
+|19|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
