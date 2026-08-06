@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|184.82.174.6|8080|Thailand|Roi Et|AIS-Fibre|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|11|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|19|66.163.119.55|10006|Italy|Milan|GTHost|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
