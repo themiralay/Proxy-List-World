@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|109.107.181.73|12198|Germany|Frankfurt am Main|Aeza International LTD|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|45.130.21.115|18081|Netherlands|Amsterdam|Owl Limited|
+|12|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|167.233.233.145|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|15|131.163.89.148|3128|Norway|Lorenskog|Microsoft Corporation|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|19|194.154.29.161|3128|Switzerland|Hünenberg|FORNEX|
+|20|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
