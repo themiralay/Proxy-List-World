@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|9|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|11|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|66.163.119.55|10006|Italy|Milan|GTHost|
 
 
 
