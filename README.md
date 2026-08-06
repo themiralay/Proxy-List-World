@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
 |2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|6|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|216.106.182.177|3128|United States|Miami|GTHost|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|18|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|20|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|14|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|96.44.137.126|8118|Canada|Toronto|HostPapa|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|19|66.163.119.55|10006|Italy|Milan|GTHost|
+|20|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
 
 
 
