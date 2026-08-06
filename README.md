@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|66.163.119.55|10006|Italy|Milan|GTHost|
-|16|151.243.153.157|8118|United States|Seattle|Black Apple|
-|17|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|109.107.181.73|12198|Germany|Frankfurt am Main|Aeza International LTD|
-|19|195.133.65.238|10909|Germany|Frankfurt am Main|Chsl ONE LTD|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|10|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
+|13|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|16|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|103.175.237.36|8080|Indonesia|Tempursari Wetan|PT Marva Global Telekomunikasi|
 
 
 
