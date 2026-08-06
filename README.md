@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5061** proxies at the latest update. Usable proxies are below.
+> Scraper found **5361** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|727|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|727|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|727|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|998|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|461|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|9|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|40.160.27.66|1080|United States|Reston|OVH SAS|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|7|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
+|8|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|9|66.163.118.99|10006|Spain|Madrid|GTHost|
+|10|66.163.119.55|10006|Italy|Milan|GTHost|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|35.78.212.217|32053|Japan|Tokyo|Amazon.com, Inc.|
+|15|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
