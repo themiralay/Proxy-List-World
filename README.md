@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|27.254.83.230|10050|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|146.190.60.147|8015|United States|Santa Clara|DigitalOcean, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|10|216.48.182.216|8080|India|New Delhi|E2E Networks Limited|
+|11|66.163.119.55|10006|Italy|Milan|GTHost|
 |12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|66.163.119.55|10006|Italy|Milan|GTHost|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|17|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|18|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|172.171.83.26|8080|United States|Boydton|Microsoft|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|27.254.83.230|10050|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
