@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|6|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|9|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|103.155.65.192|8181|Indonesia|Manis Subang|PT Media Access Telematika|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
+|7|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|203.159.92.130|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|20|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
 
 
 
