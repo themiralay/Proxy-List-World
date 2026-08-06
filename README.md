@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5615** proxies at the latest update. Usable proxies are below.
+> Scraper found **5674** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|795|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|795|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|795|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1252|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1311|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|461|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|202.182.96.178|10087|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|8.215.112.34|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
-|13|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|14|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
-|15|66.163.118.99|10006|Spain|Madrid|GTHost|
-|16|66.163.118.105|10006|Spain|Madrid|GTHost|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|11|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|40.160.27.66|1080|United States|Reston|OVH SAS|
+|14|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|17|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|18|69.10.42.58|8888|United States|Secaucus|Interserver, Inc|
 |19|40.160.27.66|1080|United States|Reston|OVH SAS|
-|20|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
