@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|606|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|606|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|606|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|2|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|6|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
 |12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|151.243.153.157|8118|United States|Seattle|Black Apple|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|66.163.119.55|10006|Italy|Milan|GTHost|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|13|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|66.163.119.55|10006|Italy|Milan|GTHost|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
 
 
 
