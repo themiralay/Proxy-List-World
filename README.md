@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|4|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|7|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|8|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|7|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|12|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|15|144.202.14.153|50000|United States|Piscataway|The Constant Company|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|217.12.215.163|10808|Germany|Düsseldorf|Green Floid LLC|
+|18|66.163.119.55|10006|Italy|Milan|GTHost|
+|19|91.239.211.83|8443|Germany|Frankfurt am Main|Hostkey B.V.|
+|20|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
 
 
 
