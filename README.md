@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|1|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |11|216.48.182.216|8080|India|New Delhi|E2E Networks Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.162.61.221|18081|Indonesia|Kroya|PT Indo Prima Akses|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
 |16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|17|69.10.42.58|8888|United States|Secaucus|Interserver, Inc|
+|18|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|195.133.65.238|10909|Germany|Frankfurt am Main|Chsl ONE LTD|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
