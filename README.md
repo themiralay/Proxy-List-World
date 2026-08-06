@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|70.39.205.56|5556|Hong Kong|Hong Kong|NetLab Global|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
 |8|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|10|110.172.29.162|443|Vietnam|Quận Mười Một|CONTABO|
-|11|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|23.148.84.135|50022|United States|Salt Lake City|Global Communication Network Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|172.171.83.26|8080|United States|Boydton|Microsoft|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
