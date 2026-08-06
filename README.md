@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|602|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|602|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|602|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|4|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|2|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|6|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|18|40.160.27.66|1080|United States|Reston|OVH SAS|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|172.171.83.26|8080|United States|Boydton|Microsoft|
+|14|66.163.119.55|10006|Italy|Milan|GTHost|
+|15|40.160.27.66|1080|United States|Reston|OVH SAS|
+|16|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
+|17|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|66.163.118.99|10006|Spain|Madrid|GTHost|
 
 
 
