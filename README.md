@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|107.174.107.161|2001|United States|Los Angeles|HostPapa|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|172.171.83.26|8080|United States|Boydton|Microsoft|
-|11|66.163.119.55|10006|Italy|Milan|GTHost|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|66.163.118.99|10006|Spain|Madrid|GTHost|
+|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|172.171.83.26|8080|United States|Boydton|Microsoft|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
 |14|66.163.118.105|10006|Spain|Madrid|GTHost|
-|15|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|130.17.12.137|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|15|66.163.118.99|10006|Spain|Madrid|GTHost|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|24.63.14.91|8080|United States|Watertown|Comcast Cable Communications|
+|18|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|193.124.91.150|1024|Germany|Frankfurt am Main|Scalaxy B.V.|
 
 
 
