@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
 |4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|182.253.109.148|8080|Indonesia|Semarang|Biznet Networks|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|203.150.128.251|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|16|151.243.153.157|8118|United States|Seattle|Black Apple|
 |17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|20|40.160.27.66|1080|United States|Reston|OVH SAS|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
 
 
 
