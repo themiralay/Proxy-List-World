@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4797** proxies at the latest update. Usable proxies are below.
+> Scraper found **4992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|235|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|66.163.119.55|10006|Italy|Milan|GTHost|
-|12|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|13|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|14|91.98.104.216|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|15|91.98.97.79|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|91.98.105.243|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|18|167.233.233.145|2222|Germany|Falkenstein|Hetzner Online GmbH|
-|19|193.124.91.150|1024|Germany|Frankfurt am Main|Scalaxy B.V.|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|11|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|14|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|15|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 
 
 
