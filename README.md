@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4725** proxies at the latest update. Usable proxies are below.
+> Scraper found **4664** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|854|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|12|27.254.83.230|10050|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|216.48.182.216|8080|India|New Delhi|E2E Networks Limited|
-|16|177.224.225.7|3128|Mexico|Gustavo Adolfo Madero|Mega Cable, S.A. de C.V.|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|177.224.225.7|3128|Mexico|Gustavo Adolfo Madero|Mega Cable, S.A. de C.V.|
+|14|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
 |18|66.163.119.55|10006|Italy|Milan|GTHost|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
