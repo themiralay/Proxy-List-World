@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|789|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|789|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|789|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|759|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|759|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|759|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|5|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|61.15.36.173|5222|Hong Kong|Tsuen Wan|Hong Kong Cable Television Limited|
-|8|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|17|40.160.27.66|1080|United States|Reston|OVH SAS|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|61.15.36.173|5222|Hong Kong|Tsuen Wan|Hong Kong Cable Television Limited|
+|15|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|125.26.165.245|8080|Thailand|Bang Rachan|TOT Public Company Limited|
+|17|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|40.160.27.66|1080|United States|Reston|OVH SAS|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
