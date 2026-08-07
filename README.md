@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|12|151.243.153.157|8118|United States|Seattle|Black Apple|
-|13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|51.159.97.242|10006|France|Paris|SCALEWAY|
-|17|66.163.118.99|10006|Spain|Madrid|GTHost|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|15|40.160.27.66|1080|United States|Reston|OVH SAS|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.29.4.137|8080|Indonesia|Batam|PT. Solusindo Bintang Pratama|
+|20|195.133.65.238|10909|Germany|Frankfurt am Main|Chsl ONE LTD|
 
 
 
