@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4455** proxies at the latest update. Usable proxies are below.
+> Scraper found **4393** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|903|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2256|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|2|61.15.36.173|5222|Hong Kong|Tsuen Wan|Hong Kong Cable Television Limited|
-|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|40.160.27.66|1080|United States|Reston|OVH SAS|
-|16|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|17|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|66.163.118.99|10006|Spain|Madrid|GTHost|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
+|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
