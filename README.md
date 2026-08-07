@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|40.160.27.66|1080|United States|Reston|OVH SAS|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|14|40.160.27.66|1080|United States|Reston|OVH SAS|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|66.163.119.55|10006|Italy|Milan|GTHost|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|8|185.115.207.100|10808|Singapore|Singapore|ByteVirt LLC|
+|9|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|10|40.160.27.66|1080|United States|Reston|OVH SAS|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
 |19|66.163.118.99|10006|Spain|Madrid|GTHost|
-|20|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
