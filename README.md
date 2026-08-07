@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5377** proxies at the latest update. Usable proxies are below.
+> Scraper found **5480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|758|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|758|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|758|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1194|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1223|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|427|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|501|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2824|✅|
 
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|13|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|18|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
+|7|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|11|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
+|12|103.166.159.93|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|66.163.119.55|10006|Italy|Milan|GTHost|
+|18|66.163.118.99|10006|Spain|Madrid|GTHost|
 |19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |20|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
 
