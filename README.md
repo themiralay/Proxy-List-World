@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |6|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|7|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|129.212.227.96|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|40.160.27.66|1080|United States|Reston|OVH SAS|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|154.83.13.245|7890|Hong Kong|Chai Wan|Yisu Cloud LTD|
 |18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|19|45.77.155.196|50000|United States|Piscataway|The Constant Company|
 |20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
