@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|662|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|662|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|662|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|6|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
 |13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|204.152.192.24|10808|United States|Los Angeles|HostPapa|
-|17|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|38.47.112.44|8080|United States|Los Angeles|NetLab Global|
+|20|103.187.86.6|8183|Indonesia|Pinrang|PT Satunol Digital Teknologi|
 
 
 
