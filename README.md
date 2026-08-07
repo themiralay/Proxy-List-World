@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6465** proxies at the latest update. Usable proxies are below.
+> Scraper found **6423** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1395|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1353|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|728|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3410|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|129.212.227.96|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|16|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
-|17|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|18|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|19|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|20|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|124.61.132.233|4444|South Korea|Seongnam-si|LG POWERCOMM|
+|9|112.187.103.74|10808|South Korea|Nam-gu|Korea Telecom|
+|10|129.212.227.96|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.188.173.37|2211|Indonesia|Jakarta|PT Satria Digital Media|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|103.75.84.148|8080|Indonesia|Candi Prambanan|MEGADATA|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|66.163.119.55|10006|Italy|Milan|GTHost|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
