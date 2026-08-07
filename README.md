@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.192.184|2345|Japan|Tokyo|Oracle Corporation|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|40.160.27.66|1080|United States|Reston|OVH SAS|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|66.163.119.55|10006|Italy|Milan|GTHost|
-|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|11|66.163.118.99|10006|Spain|Madrid|GTHost|
-|12|66.163.118.105|10006|Spain|Madrid|GTHost|
-|13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|193.124.91.150|1024|Germany|Frankfurt am Main|Scalaxy B.V.|
-|17|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|18|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
-|19|172.171.83.26|8080|United States|Boydton|Microsoft|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|4|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
+|8|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|40.160.27.66|1080|United States|Reston|OVH SAS|
+|11|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
+|12|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|43.218.124.29|10839|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|116.202.5.157|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|15|91.98.109.147|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|16|167.233.233.145|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|17|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|91.98.96.52|2222|Germany|Falkenstein|Hetzner Online GmbH|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
