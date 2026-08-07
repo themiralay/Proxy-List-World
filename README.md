@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|107.174.107.161|2001|United States|Los Angeles|HostPapa|
 |6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|204.152.192.24|10808|United States|Los Angeles|HostPapa|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
+|7|64.186.226.221|50106|United States|Los Angeles|DMIT Cloud Services|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|40.160.27.66|1080|United States|Reston|OVH SAS|
-|20|66.163.118.105|10006|Spain|Madrid|GTHost|
+|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|172.171.83.26|8080|United States|Boydton|Microsoft|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|40.160.27.66|1080|United States|Reston|OVH SAS|
 
 
 
