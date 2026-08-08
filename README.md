@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4669** proxies at the latest update. Usable proxies are below.
+> Scraper found **4749** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|484|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|249|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3036|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|1|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
 |4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|40.160.27.66|1080|United States|Reston|OVH SAS|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|151.243.153.157|8118|United States|Seattle|Black Apple|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|66.163.119.55|10006|Italy|Milan|GTHost|
-|13|192.9.178.71|10808|Australia|Sydney|Oracle Corporation|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|16|66.163.118.99|10006|Spain|Madrid|GTHost|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|11|66.163.118.99|10006|Spain|Madrid|GTHost|
+|12|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|5.188.159.23|2080|Russia|St Petersburg|JSC Selectel|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|185.239.50.122|10808|Russia|Moscow|AdminVPS OOO|
 
 
 
