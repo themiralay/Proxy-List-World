@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|2|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|66.163.119.55|10006|Italy|Milan|GTHost|
-|5|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
-|6|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|7|115.147.171.114|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|8|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
-|9|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|79.137.192.65|30081|Russia|Moscow|Aeza Group LLC|
-|11|103.209.36.58|8080|India|Mumbai|Aerpace|
-|12|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|13|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|163.181.207.214|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|79.137.192.65|30081|Russia|Moscow|Aeza Group LLC|
-|18|108.181.123.113|3128|The Netherlands|Amsterdam|Psychz Networks|
-|19|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|6|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
