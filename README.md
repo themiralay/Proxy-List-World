@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
+|5|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|40.160.27.66|1080|United States|Reston|OVH SAS|
-|19|121.101.132.30|8080|Indonesia|Sleman|PT SELARAS CITRA TERABIT|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|66.163.119.55|10006|Italy|Milan|GTHost|
+|18|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|19|66.163.118.99|10006|Spain|Madrid|GTHost|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
