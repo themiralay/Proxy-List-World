@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
 |3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
-|8|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|66.163.118.99|10006|Spain|Madrid|GTHost|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
-|13|51.159.97.242|10006|France|Paris|SCALEWAY|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|17|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|9|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|10|172.171.83.26|8080|United States|Boydton|Microsoft|
+|11|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|66.163.118.99|10006|Spain|Madrid|GTHost|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|17|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |18|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
