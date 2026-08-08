@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|40.160.27.66|1080|United States|Reston|OVH SAS|
-|4|103.101.216.70|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|5|40.160.27.66|1080|United States|Reston|OVH SAS|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|8|66.163.118.99|10006|Spain|Madrid|GTHost|
-|9|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
-|13|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|40.160.27.66|1080|United States|Reston|OVH SAS|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
+|12|66.163.118.99|10006|Spain|Madrid|GTHost|
+|13|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
 |14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|38.156.23.52|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|17|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
-|18|51.159.97.242|10006|France|Paris|SCALEWAY|
-|19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
