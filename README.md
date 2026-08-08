@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|717|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|717|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|717|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|784|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|784|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|784|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.106.70.185|8118|Japan|Tokyo|xTom Japan Corporation|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|204.152.192.24|10808|United States|Los Angeles|HostPapa|
-|9|213.108.3.236|1443|United States|Secaucus|Baykov Ilya Sergeevich|
-|10|171.245.89.241|12328|Vietnam|Đông Hưng|Viettel Corporation|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|213.108.3.236|1443|United States|Secaucus|Baykov Ilya Sergeevich|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|171.245.89.241|12328|Vietnam|Đông Hưng|Viettel Corporation|
+|14|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|18|125.20.128.196|3129|India|Kolkata|BHARTI|
+|19|130.17.12.137|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|20|217.12.215.163|10808|Germany|Düsseldorf|Green Floid LLC|
 
 
 
