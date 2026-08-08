@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|103.211.32.119|10808|Hong Kong|Chai Wan|Layerstack Limited|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|172.171.83.26|8080|United States|Boydton|Microsoft|
-|11|66.163.118.99|10006|Spain|Madrid|GTHost|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
-|15|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
 |19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
