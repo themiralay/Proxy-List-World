@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5146** proxies at the latest update. Usable proxies are below.
+> Scraper found **5419** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1231|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1200|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|507|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2476|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|9|34.207.239.230|4617|United States|Ashburn|Amazon.com, Inc.|
-|10|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|219.142.66.244|9090|China|Beijing|China Networks Inter-Exchange|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|16|163.181.207.213|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|17|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|18|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|20|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|1|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|10|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|15|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
+|16|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|45.77.155.196|50000|United States|Piscataway|The Constant Company|
+|20|66.163.119.55|10006|Italy|Milan|GTHost|
 
 
 
