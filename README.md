@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|4|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|66.163.118.99|10006|Spain|Madrid|GTHost|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|172.171.83.26|8080|United States|Boydton|Microsoft|
-|17|66.163.119.55|10006|Italy|Milan|GTHost|
-|18|40.160.27.66|1080|United States|Reston|OVH SAS|
-|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|40.160.27.66|1080|United States|Reston|OVH SAS|
+|7|103.211.32.119|10808|Hong Kong|Chai Wan|Layerstack Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|13|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
+|14|40.160.27.66|1080|United States|Reston|OVH SAS|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|18|172.171.83.26|8080|United States|Boydton|Microsoft|
+|19|66.163.119.55|10006|Italy|Milan|GTHost|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
