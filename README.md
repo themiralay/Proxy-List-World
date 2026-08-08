@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|7|40.160.27.66|1080|United States|Reston|OVH SAS|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|66.163.119.55|10006|Italy|Milan|GTHost|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|40.160.27.66|1080|United States|Reston|OVH SAS|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|66.163.118.99|10006|Spain|Madrid|GTHost|
-|15|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|45.77.155.196|50000|United States|Piscataway|The Constant Company|
-|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|20|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|66.163.118.99|10006|Spain|Madrid|GTHost|
+|9|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|10|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
+|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|66.163.119.55|10006|Italy|Milan|GTHost|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|40.160.27.66|1080|United States|Reston|OVH SAS|
+|18|146.190.238.107|40001|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
