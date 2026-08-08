@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|3|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|103.151.226.246|3125|Indonesia|Soreang|URBANACCESS|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|124.121.2.208|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|14|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
-|15|40.160.27.66|1080|United States|Reston|OVH SAS|
-|16|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|124.121.2.208|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|40.160.27.66|1080|United States|Reston|OVH SAS|
+|11|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
