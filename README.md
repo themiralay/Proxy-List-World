@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4948** proxies at the latest update. Usable proxies are below.
+> Scraper found **5248** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|9|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|45.32.8.165|6688|Japan|Minamishinagawa|Choopa|
-|15|66.163.118.99|10006|Spain|Madrid|GTHost|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|17|103.180.123.111|2026|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|18|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
