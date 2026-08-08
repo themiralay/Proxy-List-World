@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5151** proxies at the latest update. Usable proxies are below.
+> Scraper found **5451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|846|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
-|9|51.159.97.242|10006|France|Paris|SCALEWAY|
-|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|11|185.205.210.154|8102|Bulgaria|Sofia|Belcloud LTD|
-|12|221.141.140.132|8118|South Korea|Gyeonggi-do|SK Broadband Co Ltd|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
-|15|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|162.214.74.29|3128|United States|Provo|Unified Layer|
-|17|163.181.207.226|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.173.162.85|8818|Indonesia|Leuwiliang|Paket Data Andal|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|40.160.27.66|1080|United States|Reston|OVH SAS|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|40.160.27.66|1080|United States|Reston|OVH SAS|
+|16|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|20|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
