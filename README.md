@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|40.160.27.66|1080|United States|Reston|OVH SAS|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|66.163.119.55|10006|Italy|Milan|GTHost|
-|15|192.9.178.71|10808|Australia|Sydney|Oracle Corporation|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|66.163.118.99|10006|Spain|Madrid|GTHost|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|10|172.171.83.26|8080|United States|Boydton|Microsoft|
+|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|169.58.85.194|8080|France|Lauterbourg|Contabo GmbH|
+|18|185.239.50.122|10808|Russia|Moscow|AdminVPS OOO|
+|19|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
+|20|5.188.159.23|2080|Russia|St Petersburg|JSC Selectel|
 
 
 
