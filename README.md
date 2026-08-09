@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|11|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|40.160.27.66|1080|United States|Reston|OVH SAS|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|9|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
+|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|40.160.27.66|1080|United States|Reston|OVH SAS|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|20|40.160.27.66|1080|United States|Reston|OVH SAS|
 
 
 
