@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4849** proxies at the latest update. Usable proxies are below.
+> Scraper found **4971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|879|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|424|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|375|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2785|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.180.126.236|8080|Indonesia|Jakarta|PT Alam Media Data|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
-|6|66.163.119.55|10006|Italy|Milan|GTHost|
-|7|40.160.27.66|1080|United States|Reston|OVH SAS|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|11|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
-|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|169.58.85.194|8080|France|Lauterbourg|Contabo GmbH|
-|17|45.198.8.10|8080|Indonesia|Sungguminasa|PT Citra Celebas Multimedia|
-|18|40.160.27.66|1080|United States|Reston|OVH SAS|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|216.48.177.197|8080|India|New Delhi|E2E Networks Limited|
+|7|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|8|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|66.163.119.55|10006|Italy|Milan|GTHost|
+|10|40.160.27.66|1080|United States|Reston|OVH SAS|
+|11|66.163.118.99|10006|Spain|Madrid|GTHost|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|51.159.97.242|10006|France|Paris|SCALEWAY|
+|20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
