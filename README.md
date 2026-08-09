@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|40.160.27.66|1080|United States|Reston|OVH SAS|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|40.160.27.66|1080|United States|Reston|OVH SAS|
-|10|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|157.15.187.18|8080|Indonesia|Gambiran Satu|PT Internusa Duta Makmur|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|172.171.83.26|8080|United States|Boydton|Microsoft|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|14|40.160.27.66|1080|United States|Reston|OVH SAS|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|51.159.97.242|10006|France|Paris|SCALEWAY|
 |17|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
