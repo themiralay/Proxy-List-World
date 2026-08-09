@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
 |2|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
 |3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|103.19.59.168|3125|Indonesia|Sragen|BITSNET|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|14|66.163.119.55|10006|Italy|Milan|GTHost|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|15|66.163.118.99|10006|Spain|Madrid|GTHost|
 |16|40.160.27.66|1080|United States|Reston|OVH SAS|
-|17|169.58.85.194|8080|France|Lauterbourg|Contabo GmbH|
-|18|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
