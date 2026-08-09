@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|3|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|13|64.176.44.31|7890|Japan|Osaka|The Constant Company|
+|14|40.160.27.66|1080|United States|Reston|OVH SAS|
 |15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
-|18|51.159.97.242|10006|France|Paris|SCALEWAY|
-|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|16|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|172.171.83.26|8080|United States|Boydton|Microsoft|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
