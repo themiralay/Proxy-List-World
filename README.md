@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|40.160.27.66|1080|United States|Reston|OVH SAS|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|40.160.27.66|1080|United States|Reston|OVH SAS|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|40.160.27.66|1080|United States|Reston|OVH SAS|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|66.163.118.99|10006|Spain|Madrid|GTHost|
+|19|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
