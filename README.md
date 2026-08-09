@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|40.160.27.66|1080|United States|Reston|OVH SAS|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|7|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|66.163.119.55|10006|Italy|Milan|GTHost|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|51.159.97.242|10006|France|Paris|SCALEWAY|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|130.17.12.137|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|40.160.27.66|1080|United States|Reston|OVH SAS|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
+|12|66.163.119.55|10006|Italy|Milan|GTHost|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|66.163.118.99|10006|Spain|Madrid|GTHost|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|66.163.118.105|10006|Spain|Madrid|GTHost|
+|18|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
 
 
 
