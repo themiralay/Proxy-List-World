@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|40.160.27.66|1080|United States|Reston|OVH SAS|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |8|66.163.119.55|10006|Italy|Milan|GTHost|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|12|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|15|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|18|169.58.85.194|8080|France|Lauterbourg|Contabo GmbH|
-|19|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|51.159.97.242|10006|France|Paris|SCALEWAY|
+|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|18|66.163.118.99|10006|Spain|Madrid|GTHost|
+|19|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
