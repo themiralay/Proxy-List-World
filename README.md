@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|62.106.70.185|8118|Japan|Tokyo|xTom Japan Corporation|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |5|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |8|40.160.27.66|1080|United States|Reston|OVH SAS|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
 |13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|66.163.119.55|10006|Italy|Milan|GTHost|
-|16|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|17|51.159.97.242|10006|France|Paris|SCALEWAY|
+|14|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|15|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
 |18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|40.160.27.66|1080|United States|Reston|OVH SAS|
-|20|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
