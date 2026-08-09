@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.106.88|6080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
 |2|103.30.78.5|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|165.99.192.105|1111|Indonesia|Cicurug|PT IDN NUSANTARA NETWORK|
+|9|122.52.185.85|8082|Philippines|Masonogan|Philippine Long Distance Telephone Co.|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|103.180.126.243|8080|Indonesia|Jakarta|PT Alam Media Data|
 |13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|20.246.133.88|8080|United States|Boydton|Microsoft Corporation|
-|15|144.202.14.153|50000|United States|Piscataway|The Constant Company|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|172.171.83.26|8080|United States|Boydton|Microsoft|
+|20|40.160.27.66|1080|United States|Reston|OVH SAS|
 
 
 
