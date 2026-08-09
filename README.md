@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|5|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|40.160.27.66|1080|United States|Reston|OVH SAS|
-|10|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|11|162.214.74.29|3128|United States|Provo|Unified Layer|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|11|40.160.27.66|1080|United States|Reston|OVH SAS|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|40.160.27.66|1080|United States|Reston|OVH SAS|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|172.171.83.26|8080|United States|Boydton|Microsoft|
-|19|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|162.214.159.94|3128|United States|Provo|Unified Layer|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|40.160.27.66|1080|United States|Reston|OVH SAS|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|20|66.163.119.55|10006|Italy|Milan|GTHost|
 
 
 
