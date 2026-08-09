@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.179.96.140|1080|Japan|Minamishinagawa|The Constant Company, LLC|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|140.238.59.216|10808|Japan|Tokyo|Oracle Corporation|
-|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|9|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
-|17|40.160.27.66|1080|United States|Reston|OVH SAS|
-|18|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|20|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.218.227.241|12366|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|204.152.192.24|10808|United States|Los Angeles|HostPapa|
 
 
 
