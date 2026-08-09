@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|40.160.27.66|1080|United States|Reston|OVH SAS|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|40.160.27.66|1080|United States|Reston|OVH SAS|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|17|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|66.163.119.55|10006|Italy|Milan|GTHost|
+|13|40.160.27.66|1080|United States|Reston|OVH SAS|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
