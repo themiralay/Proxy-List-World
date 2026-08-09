@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|158.140.128.44|2222|Singapore|Singapore|MYREPUBLIC|
-|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|12|103.111.99.6|3125|Indonesia|Bulukumba|PT Mitra Lintas Multimedia|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|40.160.27.66|1080|United States|Reston|OVH SAS|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|204.152.192.24|10808|United States|Los Angeles|HostPapa|
-|18|5.39.218.113|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|7|104.64.214.122|2345|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|9|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|116.104.53.235|2067|Vietnam|Hanoi|Viettel Group|
+|12|40.160.27.66|1080|United States|Reston|OVH SAS|
+|13|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|40.160.27.66|1080|United States|Reston|OVH SAS|
+|20|66.163.118.99|10006|Spain|Madrid|GTHost|
 
 
 
