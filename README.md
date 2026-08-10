@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|8.215.112.34|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|5|199.19.73.26|1080|United States|New York|Kamatera, Inc.|
-|6|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
+|1|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|58.186.168.155|2112|Vietnam|Hanoi|FPT Telecom Company|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
 |11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|199.19.73.26|1080|United States|New York|Kamatera, Inc.|
-|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|18|176.120.28.106|8080|Russia|Tomsk|ZING|
-|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|66.163.119.55|10006|Italy|Milan|GTHost|
+|15|66.163.118.99|10006|Spain|Madrid|GTHost|
+|16|116.104.53.235|2033|Vietnam|Hanoi|Viettel Group|
+|17|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
