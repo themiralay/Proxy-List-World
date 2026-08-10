@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.252.118.216|3128|Hong Kong|Hong Kong|CLOUDWEBMANAGE|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|162.214.74.29|3128|United States|Provo|Unified Layer|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|66.163.118.99|10006|Spain|Madrid|GTHost|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|20|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|51.159.97.242|10006|France|Paris|SCALEWAY|
+|12|66.163.119.55|10006|Italy|Milan|GTHost|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|66.163.118.99|10006|Spain|Madrid|GTHost|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|40.160.27.66|1080|United States|Reston|OVH SAS|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
