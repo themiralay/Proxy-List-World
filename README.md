@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|116.104.53.235|2033|Vietnam|Hanoi|Viettel Group|
-|10|182.53.202.208|8080|Thailand|Songkhla|TOT Public Company Limited|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|54.227.43.190|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|54.255.216.231|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|14|54.227.43.190|3128|United States|Ashburn|Amazon.com, Inc.|
 |15|40.160.27.66|1080|United States|Reston|OVH SAS|
-|16|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
 |17|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|18|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|58.186.168.155|2112|Vietnam|Hanoi|FPT Telecom Company|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
+|19|54.227.43.190|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
