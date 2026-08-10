@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|40.160.27.66|1080|United States|Reston|OVH SAS|
-|5|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|8|40.160.27.66|1080|United States|Reston|OVH SAS|
-|9|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|10|51.159.97.242|10006|France|Paris|SCALEWAY|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|66.163.118.99|10006|Spain|Madrid|GTHost|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|18|185.239.50.122|10808|Russia|Moscow|AdminVPS OOO|
-|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|15|5.188.159.23|2080|Russia|St Petersburg|JSC Selectel|
+|16|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|18|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|40.160.27.66|1080|United States|Reston|OVH SAS|
 
 
 
