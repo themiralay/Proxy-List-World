@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|40.160.27.66|1080|United States|Reston|OVH SAS|
+|5|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |6|199.19.73.26|3128|United States|New York|Kamatera, Inc.|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|40.160.27.66|1080|United States|Reston|OVH SAS|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|199.19.73.26|3128|United States|New York|Kamatera, Inc.|
-|12|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|13|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|14|66.163.118.99|10006|Spain|Madrid|GTHost|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|40.160.27.66|1080|United States|Reston|OVH SAS|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|7|66.163.119.55|10006|Italy|Milan|GTHost|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|66.163.118.99|10006|Spain|Madrid|GTHost|
+|10|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|11|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|12|40.160.27.66|1080|United States|Reston|OVH SAS|
+|13|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
