@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|199.19.73.26|3128|United States|New York|Kamatera, Inc.|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|40.160.27.66|1080|United States|Reston|OVH SAS|
+|3|103.252.118.216|3128|Hong Kong|Hong Kong|CLOUDWEBMANAGE|
+|4|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |5|40.160.27.66|1080|United States|Reston|OVH SAS|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|151.243.153.157|8118|United States|Seattle|Black Apple|
-|9|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|10|199.19.73.26|3128|United States|New York|Kamatera, Inc.|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|151.243.153.157|8118|United States|Seattle|Black Apple|
-|15|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|66.163.118.99|10006|Spain|Madrid|GTHost|
-|18|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|177.240.3.195|999|Mexico|San Pedro Huilotepec|Mega Cable, S.A. de C.V.|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|66.163.118.99|10006|Spain|Madrid|GTHost|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|92.118.234.124|1080|Finland|Helsinki|WorkTitans B.V.|
+|14|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
+|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|16|195.133.65.238|10909|Germany|Frankfurt am Main|Chsl ONE LTD|
+|17|185.216.71.90|10808|Netherlands|Amsterdam|GravHosting|
+|18|91.228.133.191|8888|Iran|Tehran|Saba Idea|
+|19|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
+|20|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 
 
 
