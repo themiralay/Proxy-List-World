@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|40.160.27.66|1080|United States|Reston|OVH SAS|
-|3|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|4|51.159.97.242|10006|France|Paris|SCALEWAY|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|6|40.160.27.66|1080|United States|Reston|OVH SAS|
-|7|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|40.160.27.66|1080|United States|Reston|OVH SAS|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|40.160.27.66|1080|United States|Reston|OVH SAS|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|51.159.97.242|10006|France|Paris|SCALEWAY|
 |8|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|9|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|11|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|13|40.160.27.66|1080|United States|Reston|OVH SAS|
-|14|103.122.64.163|8080|Indonesia|Serpong|PT. Jinom Network Indonesia|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|8.215.112.34|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|20|91.228.133.191|9999|Iran|Tehran|Saba Idea|
+|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|38.183.146.10|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|185.239.50.122|10808|Russia|Moscow|AdminVPS OOO|
+|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|16|40.160.27.66|1080|United States|Reston|OVH SAS|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|19|49.149.167.96|8081|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
+|20|66.163.118.99|10006|Spain|Madrid|GTHost|
 
 
 
