@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|3|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|4|157.15.0.144|8112|Indonesia|Ngawi|Gopalnet|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|40.160.27.66|1080|United States|Reston|OVH SAS|
-|7|116.104.53.235|2067|Vietnam|Hanoi|Viettel Group|
-|8|103.150.64.69|8090|Bangladesh|Gaibandha|Windstream Communication Limited|
-|9|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|10|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|40.160.27.66|1080|United States|Reston|OVH SAS|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|201.143.206.149|8080|Mexico|Mexicali|UNINET|
-|15|66.163.119.55|10006|Italy|Milan|GTHost|
-|16|199.19.73.26|1080|United States|New York|Kamatera, Inc.|
-|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|7|183.101.185.89|20002|South Korea|Geumcheon-gu|Korea Telecom|
+|8|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|40.160.27.66|1080|United States|Reston|OVH SAS|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|66.163.118.99|10006|Spain|Madrid|GTHost|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|87.120.216.231|65000|Germany|Frankfurt am Main|WAIcore Ltd|
+|16|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
 
 
 
