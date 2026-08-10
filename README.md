@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|518|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|518|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|518|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|11|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|15|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.252.118.216|3128|Hong Kong|Hong Kong|CLOUDWEBMANAGE|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|14|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|151.243.153.157|8118|United States|Seattle|Black Apple|
+|16|103.252.118.216|3128|Hong Kong|Hong Kong|CLOUDWEBMANAGE|
+|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|18|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
