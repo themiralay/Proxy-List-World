@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|12|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|13|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.128.59.180|18080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|40.160.27.66|1080|United States|Reston|OVH SAS|
+|13|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|14|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |18|34.43.46.91|443|United States|Mountain View|Google LLC|
 |19|40.160.27.66|1080|United States|Reston|OVH SAS|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
