@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.252.118.216|3128|Hong Kong|Hong Kong|CLOUDWEBMANAGE|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|40.160.27.66|1080|United States|Reston|OVH SAS|
-|11|151.243.153.157|8118|United States|Seattle|Black Apple|
+|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|8|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|9|40.160.27.66|1080|United States|Reston|OVH SAS|
+|10|199.19.73.26|3128|United States|New York|Kamatera, Inc.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |13|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|15|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|18|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|19|51.159.97.242|10006|France|Paris|SCALEWAY|
-|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|47.253.201.85|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|18|40.160.27.66|1080|United States|Reston|OVH SAS|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|51.159.97.242|10006|France|Paris|SCALEWAY|
 
 
 
