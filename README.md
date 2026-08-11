@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|888|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|888|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|888|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|107.172.209.196|3128|United States|Dallas|HostPapa|
+|2|13.212.45.228|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|103.134.85.145|3128|Indonesia|Leles|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|123.253.137.173|8082|Philippines|Libmanan|ComClark Network & Technology Corp|
-|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|11|103.39.51.156|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|124.217.40.181|8082|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|14|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|107.172.209.196|3128|United States|Dallas|HostPapa|
-|19|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|20|51.159.97.242|10006|France|Paris|SCALEWAY|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|162.214.159.94|3128|United States|Provo|Unified Layer|
+|18|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
