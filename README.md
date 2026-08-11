@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|162.214.159.94|3128|United States|Provo|Unified Layer|
-|13|216.48.186.224|8080|India|New Delhi|E2E Networks Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
-|20|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|188.166.197.213|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|162.214.74.29|3128|United States|Provo|Unified Layer|
+|10|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|66.163.118.99|10006|Spain|Madrid|GTHost|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
