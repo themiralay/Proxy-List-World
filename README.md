@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.106.70.185|8118|Japan|Tokyo|xTom Japan Corporation|
-|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|62.106.70.185|8118|Japan|Tokyo|xTom Japan Corporation|
+|3|210.94.84.86|8118|South Korea|Gangnam-gu|SK Broadband Co Ltd|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|188.166.197.213|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|162.214.159.94|3128|United States|Provo|Unified Layer|
-|12|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|13|162.214.74.29|3128|United States|Provo|Unified Layer|
+|8|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|68.189.214.35|80|United States|Denton|Charter Communications|
+|12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|13|193.23.214.231|3128|United States|Orem|Ace Data Centers II, L.L.C.|
 |14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |15|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|51.159.97.242|10006|France|Paris|SCALEWAY|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|19|193.23.214.231|3128|United States|Orem|Ace Data Centers II, L.L.C.|
 |20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
