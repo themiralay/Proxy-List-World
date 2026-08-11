@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5491** proxies at the latest update. Usable proxies are below.
+> Scraper found **5982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1128|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1319|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|638|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|188.166.197.213|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
-|14|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|18|99.119.10.197|8888|United States|Dublin|AT&T Enterprises, LLC|
-|19|66.163.118.99|10006|Spain|Madrid|GTHost|
-|20|216.48.186.224|8080|India|New Delhi|E2E Networks Limited|
+|1|188.166.197.213|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|216.48.186.224|8080|India|New Delhi|E2E Networks Limited|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|14|103.88.234.239|40009|Mexico|Mexico City|Latitude.sh|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|162.214.74.29|3128|United States|Provo|Unified Layer|
+|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|66.163.118.99|10006|Spain|Madrid|GTHost|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
