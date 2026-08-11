@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|736|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|736|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|736|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|116.104.53.235|2067|Vietnam|Hanoi|Viettel Group|
-|9|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|74.208.117.247|3128|United States|Kansas City|IONOS SE|
-|16|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|17|51.159.97.242|10006|France|Paris|SCALEWAY|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|89.106.89.70|10808|Germany|Berlin|dataforest GmbH|
-|20|217.12.215.163|10808|Germany|Düsseldorf|Green Floid LLC|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|74.208.117.247|3128|United States|Kansas City|IONOS SE|
+|14|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|15|5.101.216.73|8080|United Kingdom|Harlesden|G-Core Labs S.A.|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|66.163.119.55|10006|Italy|Milan|GTHost|
 
 
 
