@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|2|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|203.175.103.25|3125|Indonesia|Garawangi|PT. Mitra Kita Brilian|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|103.158.253.163|18081|Indonesia|Dukuhturi|Rapid Network|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|13|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|216.48.180.117|8080|India|Noida|E2E Networks Limited|
 |15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
 |17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
 
 
 
