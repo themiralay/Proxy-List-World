@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|10|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|107.172.209.196|3128|United States|Dallas|HostPapa|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 
 
 
