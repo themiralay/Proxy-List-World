@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|91.124.209.240|8080|Germany|Limburg an der Lahn|WorldStream B.V.|
-|4|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|5|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|6|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|9|49.51.229.43|1080|United States|Santa Clara|OPHL|
-|10|176.120.28.106|8080|Russia|Tomsk|ZING|
-|11|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|12|103.227.210.164|8080|India|Bengaluru|Ultahost, Inc.|
-|13|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|18|201.116.64.226|7734|Mexico|Azcapotzalco|UNINET|
-|19|157.230.178.216|40000|United States|North Bergen|DigitalOcean, LLC|
-|20|103.78.113.34|8080|Indonesia|East Jakarta|MORATELINDO|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
