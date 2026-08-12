@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|10|85.28.47.165|8080|Germany|Frankfurt am Main|Chsl ONE LTD|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|15|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|18|91.228.133.191|9999|Iran|Tehran|Saba Idea|
-|19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|66.163.118.99|10006|Spain|Madrid|GTHost|
+|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|14|216.48.186.175|8080|India|New Delhi|E2E Networks Limited|
+|15|162.214.159.94|3128|United States|Provo|Unified Layer|
+|16|140.82.62.31|50000|United States|Piscataway|The Constant Company|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|49.51.229.43|1080|United States|Santa Clara|OPHL|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
