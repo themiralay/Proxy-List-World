@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|216.106.182.177|3128|United States|Miami|GTHost|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|8|103.156.16.236|8818|Indonesia|Karangampel|RSTNET|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|66.163.119.55|10006|Italy|Milan|GTHost|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|66.163.118.99|10006|Spain|Madrid|GTHost|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.191.99.108|1566|Bangladesh|Tongi|Bhuiyan Telecom administrator|
-|20|216.106.182.177|3128|United States|Miami|GTHost|
+|10|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|66.163.118.99|10006|Spain|Madrid|GTHost|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|216.106.182.177|3128|United States|Miami|GTHost|
+|16|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
 
 
 
