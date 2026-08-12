@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|9|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|103.120.76.46|8080|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|9|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
 |10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|163.227.135.146|8080|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|45.59.124.51|10808|Switzerland|Bern|RouterHosting LLC|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|134.185.95.159|666|Singapore|Singapore|Oracle Corporation|
+|13|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|49.51.229.43|1080|United States|Santa Clara|OPHL|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|204.76.203.9|3128|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|49.51.229.43|1080|United States|Santa Clara|OPHL|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
