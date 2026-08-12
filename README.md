@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5787** proxies at the latest update. Usable proxies are below.
+> Scraper found **5703** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|901|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|563|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3007|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
-|5|45.77.155.196|50000|United States|Piscataway|The Constant Company|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|194.163.174.78|8282|France|Lauterbourg|Contabo GmbH|
-|10|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|91.231.186.236|8080|United Kingdom|London|Clouvider Limited|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|157.230.178.216|40000|United States|North Bergen|DigitalOcean, LLC|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|42.96.18.62|1311|Vietnam|Quận Một|Long Van System Solution|
-|20|157.230.178.216|40000|United States|North Bergen|DigitalOcean, LLC|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|91.231.186.236|8080|United Kingdom|London|Clouvider Limited|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|85.28.47.165|8080|Germany|Frankfurt am Main|Chsl ONE LTD|
+|19|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
