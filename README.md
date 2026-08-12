@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|216.48.186.175|8080|India|New Delhi|E2E Networks Limited|
-|11|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|103.155.196.160|8181|Indonesia|Sukabumi|JEMBATANDATA|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|178.18.207.85|8888|Turkey|Esenyurt|Eclit Bilisim Hizmetleri A.S|
+|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|49.51.229.43|1080|United States|Santa Clara|OPHL|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|103.227.210.164|8080|India|Bengaluru|Ultahost, Inc.|
+|13|66.163.118.99|10006|Spain|Madrid|GTHost|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|45.174.168.44|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|16|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
