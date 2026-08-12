@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|5|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
-|6|200.115.96.50|999|Honduras|Tegucigalpa|Honduvision SRL|
-|7|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|8|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|9|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|43.230.129.230|8080|Indonesia|Denpasar|Internet Ini Saja|
+|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|8|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|20|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|162.214.74.29|3128|United States|Provo|Unified Layer|
+|17|66.163.119.55|10006|Italy|Milan|GTHost|
+|18|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
