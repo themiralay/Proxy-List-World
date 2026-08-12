@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|103.191.99.108|1566|Bangladesh|Tongi|Bhuiyan Telecom administrator|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|202.58.77.195|8080|Indonesia|Trenggalek|PT Data Buana Nusantara|
+|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|8|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|9|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|162.214.74.29|3128|United States|Provo|Unified Layer|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|38.172.170.89|999|Venezuela|El Valle|RED SERVITEL, CA|
+|19|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
+|20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
