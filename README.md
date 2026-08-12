@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|66.163.118.99|10006|Spain|Madrid|GTHost|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
-|17|89.106.89.70|10808|Germany|Berlin|dataforest GmbH|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|51.159.97.242|10006|France|Paris|SCALEWAY|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|66.163.119.55|10006|Italy|Milan|GTHost|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|17|66.163.118.99|10006|Spain|Madrid|GTHost|
 |18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|88.218.196.229|443|France|Paris|YottaSrc|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|182.53.202.208|8080|Thailand|Songkhla|TOT Public Company Limited|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
