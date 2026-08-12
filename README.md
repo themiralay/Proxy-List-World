@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|66.163.119.55|10006|Italy|Milan|GTHost|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|10|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|12|134.122.199.224|10001|Japan|Tokyo|CTG Server Limited|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|202.47.185.162|8080|Indonesia|South Jakarta|PT Putra Garsel Interkoneksi|
+|14|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|103.109.96.129|2610|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
 |19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
