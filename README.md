@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.56|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
 |9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|17|49.51.229.43|1080|United States|Santa Clara|OPHL|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|91.231.186.236|8080|United Kingdom|London|Clouvider Limited|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 |20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
