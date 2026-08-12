@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|8|162.214.159.94|3128|United States|Provo|Unified Layer|
-|9|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|7|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|9|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|13|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|19|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
