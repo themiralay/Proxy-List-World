@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|7|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.173.162.39|8818|Indonesia|Jatiwangi|Paket Data Andal|
-|13|185.239.70.64|3129|The Netherlands|Amsterdam|IT7 Networks Inc|
-|14|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|17|45.144.53.63|5050|Finland|Helsinki|H2nexus LTD|
-|18|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|87.192.233.75|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|10|162.214.74.29|3128|United States|Provo|Unified Layer|
+|11|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|162.214.159.94|3128|United States|Provo|Unified Layer|
+|13|45.144.53.63|5001|Finland|Helsinki|H2nexus LTD|
+|14|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|15|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
+|17|91.239.6.32|10800|Albania|Tirana|Host.AL Shpk|
+|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
