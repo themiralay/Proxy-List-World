@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|107.174.180.234|8118|United States|Santa Clara|ColoCrossing|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|107.174.180.234|8118|United States|Santa Clara|ColoCrossing|
-|11|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|49.51.229.43|1080|United States|Santa Clara|OPHL|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|66.163.119.55|10006|Italy|Milan|GTHost|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|66.163.119.55|10006|Italy|Milan|GTHost|
+|6|66.163.118.99|10006|Spain|Madrid|GTHost|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|176.226.227.148|10808|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|9|178.18.207.85|8888|Turkey|Esenyurt|Eclit Bilisim Hizmetleri A.S|
+|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|11|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|12|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|13|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|49.51.229.43|1080|United States|Santa Clara|OPHL|
+|15|103.227.210.164|8080|India|Bengaluru|Ultahost, Inc.|
+|16|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|45.187.105.196|8080|Brazil|Itanhém|GPR NET COMUNICACOES EIRELI|
 
 
 
