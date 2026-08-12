@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|162.214.74.29|3128|United States|Provo|Unified Layer|
 |5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|216.106.182.177|3128|United States|Miami|GTHost|
-|7|49.51.229.43|1080|United States|Santa Clara|OPHL|
-|8|66.163.119.55|10006|Italy|Milan|GTHost|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|216.106.182.177|3128|United States|Miami|GTHost|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|216.106.182.177|3128|United States|Miami|GTHost|
-|11|182.53.202.208|8080|Thailand|Songkhla|TOT Public Company Limited|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|103.88.234.239|40001|Mexico|Mexico City|Latitude.sh|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|103.156.16.236|8818|Indonesia|Karangampel|RSTNET|
 |18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|178.18.207.85|8888|Turkey|Esenyurt|Eclit Bilisim Hizmetleri A.S|
+|19|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
+|20|178.252.180.59|10909|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 
 
 
