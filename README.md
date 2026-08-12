@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|14|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|15|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|16|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|17|103.169.188.158|3125|Indonesia|Magetan|Sarana Media Cemerlang|
-|18|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|14|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|51.159.97.242|10006|France|Paris|SCALEWAY|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
