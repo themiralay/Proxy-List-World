@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|12|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|171.253.95.24|2102|Vietnam|Hanoi|Viettel Corporation|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|18|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
