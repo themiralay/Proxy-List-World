@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|103.132.52.20|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
 |11|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|66.163.118.99|10006|Spain|Madrid|GTHost|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|164.52.216.68|8080|India|Noida|E2E Networks Limited|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|17|103.48.70.27|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|160.22.205.66|8090|Indonesia|Kisaran|PT. PANCA DUTA UTAMA|
+|19|66.163.118.99|10006|Spain|Madrid|GTHost|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
