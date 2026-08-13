@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.249.202.171|443|South Korea|Seoul|Microsoft Corporation|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|157.66.236.27|1080|Indonesia|Kediri|PT DHAHA PRIMA NET|
+|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|4|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|12|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|51.159.97.242|10006|France|Paris|SCALEWAY|
-|15|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|16|151.243.153.157|8118|United States|Seattle|Black Apple|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|11|123.231.252.218|8080|Indonesia|Central Jakarta|PT Aplikanusa Lintasarta|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|66.163.118.99|10006|Spain|Madrid|GTHost|
 |20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
