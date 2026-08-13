@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|89.44.198.219|8080|Germany|Eschborn|G-Core Labs S.A.|
-|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
-|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|3|65.75.201.86|3128|United States|Jamestown|HostRush|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|11|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|65.75.201.86|3128|United States|Jamestown|HostRush|
+|15|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|18|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|19|20.83.140.251|8080|United States|Boydton|Microsoft Corporation|
+|20|211.233.44.58|8080|South Korea|Gwangmyeong|LG DACOM KIDC|
 
 
 
