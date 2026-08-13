@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|10|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|6|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|66.163.118.99|10006|Spain|Madrid|GTHost|
+|9|51.159.97.242|10006|France|Paris|SCALEWAY|
+|10|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
 |11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|103.172.42.193|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|66.163.119.55|10006|Italy|Milan|GTHost|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|151.243.153.157|8118|United States|Seattle|Black Apple|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|14|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|17|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
