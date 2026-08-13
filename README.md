@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|51.159.97.242|10006|France|Paris|SCALEWAY|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
 |15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 |18|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|20|108.62.160.72|1090|United States|San Jose|Leaseweb USA, Inc.|
 
 
 
