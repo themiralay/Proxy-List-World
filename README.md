@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5040** proxies at the latest update. Usable proxies are below.
+> Scraper found **4779** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|674|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2778|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|8|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|162.214.74.29|3128|United States|Provo|Unified Layer|
+|3|162.214.159.94|3128|United States|Provo|Unified Layer|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
 |9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|172.171.83.26|8080|United States|Boydton|Microsoft|
+|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|162.214.74.29|3128|United States|Provo|Unified Layer|
 |15|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
