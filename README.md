@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5242** proxies at the latest update. Usable proxies are below.
+> Scraper found **5542** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|2|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|223.206.60.107|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|8|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 |9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|126.209.105.227|5050|Philippines|Manila|Infinivan Incorporated|
-|11|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|58.69.61.79|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
 |14|172.171.83.26|8080|United States|Boydton|Microsoft|
-|15|162.214.74.29|3128|United States|Provo|Unified Layer|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|20|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.180.123.103|8090|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|16|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|150.241.89.209|10808|Netherlands|Amsterdam|xorek.cloud International LTD|
 
 
 
