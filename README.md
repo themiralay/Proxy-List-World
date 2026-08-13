@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|3|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|144.31.75.120|11112|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|156.245.246.51|7890|United States|Los Angeles|VpsQuan L.L.C.|
-|13|223.25.110.250|8088|Indonesia|Purbalingga|SinergiNet|
-|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|16|150.241.89.209|10808|Netherlands|Amsterdam|xorek.cloud International LTD|
-|17|172.171.83.26|8080|United States|Boydton|Microsoft|
-|18|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|19|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|108.62.160.72|1090|United States|San Jose|Leaseweb USA, Inc.|
+|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|11|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|16|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|18|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|66.163.118.99|10006|Spain|Madrid|GTHost|
 
 
 
