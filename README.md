@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|5|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|8|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|121.101.131.102|8080|Indonesia|Sleman|PT SELARAS CITRA TERABIT|
+|9|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|12|216.48.180.117|8080|India|Noida|E2E Networks Limited|
 |13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|16|66.163.118.99|10006|Spain|Madrid|GTHost|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|20|108.62.160.72|1090|United States|San Jose|Leaseweb USA, Inc.|
 
 
 
