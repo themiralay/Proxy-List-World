@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|4|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|8|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|122.52.213.104|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|10|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.175.202.178|8090|Indonesia|Loklaga|PT Ameera Mega Buana|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|19|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|20|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|8|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|10|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|147.45.166.120|3333|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
