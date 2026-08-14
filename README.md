@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5094** proxies at the latest update. Usable proxies are below.
+> Scraper found **5112** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|978|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|434|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2750|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|140.238.58.115|3128|Japan|Tokyo|Oracle Corporation|
+|1|140.238.58.115|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|164.52.216.68|8080|India|Noida|E2E Networks Limited|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|51.159.97.242|10006|France|Paris|SCALEWAY|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|103.162.16.40|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|7|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|13|193.106.250.197|8080|United States|Newark|GTHost|
+|14|51.159.97.242|10006|France|Paris|SCALEWAY|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
