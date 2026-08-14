@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|762|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |3|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|8|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|12|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|13|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|18|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|19|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|103.171.161.96|9090|Indonesia|Bekasi|MYREPUBLIC|
+|17|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|20|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
 
 
 
