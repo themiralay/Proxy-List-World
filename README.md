@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|791|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|791|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|791|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|8|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|103.140.188.144|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
 |10|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|11|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|11|198.15.30.114|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
 |12|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|13|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|14|103.174.122.89|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|160.22.35.242|8080|Indonesia|Magetan|PT Takalink Access Indonesia|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|19|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|20|164.52.216.68|8080|India|Noida|E2E Networks Limited|
+|13|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|14|160.19.19.108|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|17|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|20|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
