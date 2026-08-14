@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|8|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|103.156.15.14|8080|Indonesia|Warunglame|PT Lintas Jaringan Nusantara|
-|11|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|51.159.97.242|10006|France|Paris|SCALEWAY|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|3|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|4|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|5|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|8|38.253.240.231|8080|Indonesia|Jatiroto|Cogent Communications|
+|9|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|10|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|11|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|12|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|51.159.97.242|10006|France|Paris|SCALEWAY|
+|16|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
+|17|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
