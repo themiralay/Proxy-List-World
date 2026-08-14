@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|779|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|779|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|779|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|640|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|640|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|640|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.184.67.45|8081|Indonesia|Cisaat|PT Siber Tech Indonesia|
-|14|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|15|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|16|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
+|12|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|17|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|164.52.216.153|8080|India|Noida|E2E Networks Limited|
 
 
 
