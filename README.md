@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|703|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|703|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|703|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|4|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|49.146.249.197|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|66.163.119.55|10006|Italy|Milan|GTHost|
-|15|172.171.83.26|8080|United States|Boydton|Microsoft|
-|16|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|17|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|103.227.210.164|8080|India|Bengaluru|Ultahost, Inc.|
-|20|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|10|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|15|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 
 
 
