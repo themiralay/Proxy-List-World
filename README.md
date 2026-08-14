@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|857|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|857|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|857|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|824|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|824|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|824|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|9|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
 |12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|14|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
-|19|103.109.173.174|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|13|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|14|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|16|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|17|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|18|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
 |20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
