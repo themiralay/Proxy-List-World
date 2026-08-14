@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|692|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|692|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|692|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|651|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|651|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|651|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|5|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|6|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|10|160.19.16.148|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|11|103.172.71.125|8080|Indonesia|Karawang|AZNET|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|8|184.82.222.252|8080|Thailand|Bangkok|AIS-Fibre|
+|9|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|10|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |12|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|126.209.16.133|8082|Philippines|Manila|Infinivan Incorporated|
-|15|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|16|164.52.211.20|8080|India|Noida|E2E Networks Limited|
-|17|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
