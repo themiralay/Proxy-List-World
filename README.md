@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6704** proxies at the latest update. Usable proxies are below.
+> Scraper found **6775** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1596|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1367|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|727|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3481|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|154.18.255.99|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|6|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|7|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|8|144.79.94.40|8181|Indonesia|Selong|PT Nusa Data Koneksi|
-|9|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|10|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|4|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|5|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|144.79.94.40|8181|Indonesia|Selong|PT Nusa Data Koneksi|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|10|118.179.136.153|81|Bangladesh|Dhaka|AmberIT Limited|
 |11|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|15|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|18|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|19|164.52.216.18|8080|India|Noida|E2E Networks Limited|
-|20|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|12|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|13|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|14|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|16|103.156.16.234|8818|Indonesia|Jatibarang|RSTNET|
+|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|27.131.14.9|8812|Bangladesh|Noākhāli|Dhaka Fiber Net Limited|
+|20|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
