@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|7|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|123.231.252.218|8080|Indonesia|Central Jakarta|PT Aplikanusa Lintasarta|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|12|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|4|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|8|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|103.220.23.113|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|11|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|66.163.118.99|10006|Spain|Madrid|GTHost|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|46.226.107.156|5080|France|Paris|GANDI is an ICANN accredited registrar|
+|20|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
 
 
 
