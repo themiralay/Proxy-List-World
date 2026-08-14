@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5470** proxies at the latest update. Usable proxies are below.
+> Scraper found **5855** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|894|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|481|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3248|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
-|5|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|6|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|7|216.106.182.177|3128|United States|Miami|GTHost|
-|8|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|9|43.109.48.180|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|10|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
-|11|163.181.207.167|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|4|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|5|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|46.226.107.156|5080|France|Paris|GANDI is an ICANN accredited registrar|
+|10|103.124.138.149|8080|Indonesia|Ungaran|Global Media Data Prima|
+|11|66.163.119.55|10006|Italy|Milan|GTHost|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|17|79.137.78.133|8009|France|Roubaix|OVH SAS|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|95.211.64.139|8886|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|19|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|20|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
 
 
 
