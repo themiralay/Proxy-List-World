@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|8|193.106.250.197|8080|United States|Newark|GTHost|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|193.106.250.197|8080|United States|Newark|GTHost|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|51.159.97.242|10006|France|Paris|SCALEWAY|
+|6|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|7|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
+|8|103.159.96.146|3128|Indonesia|Caruban|PT Jinde Grup Indonesia|
+|9|31.56.179.226|443|Latvia|Riga|CGI GLOBAL LIMITED|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|23.94.112.168|8080|United States|Los Angeles|HostPapa|
+|12|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|38.156.234.195|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|14|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|15|140.238.58.115|3128|Japan|Tokyo|Oracle Corporation|
+|16|85.234.100.149|8080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|38.191.212.116|999|Colombia|Cúcuta|TV&MÁS S.A.S|
+|20|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
 
 
 
