@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|164.52.211.20|8080|India|Noida|E2E Networks Limited|
-|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|11|66.163.119.55|10006|Italy|Milan|GTHost|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|38.46.214.193|1080|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
-|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|103.255.243.57|8080|Indonesia|South Tangerang|PT Media Sarana Data|
+|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|5|66.163.118.99|10006|Spain|Madrid|GTHost|
+|6|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|7|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|8|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
+|9|201.116.64.226|7734|Mexico|Azcapotzalco|UNINET|
+|10|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
+|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|12|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|13|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|14|176.120.28.106|8080|Russia|Tomsk|ZING|
+|15|195.133.53.59|10809|Russia|Novosibirsk|LLC Baxet|
+|16|185.239.50.122|10808|Russia|Moscow|AdminVPS OOO|
+|17|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|124.121.35.191|8080|Thailand|Bang Bua Thong|TRUEBB|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
