@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|8|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|66.163.119.55|10006|Italy|Milan|GTHost|
-|16|66.163.118.99|10006|Spain|Madrid|GTHost|
-|17|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|43.160.245.155|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|8|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|15|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
+|16|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|66.163.119.55|10006|Italy|Milan|GTHost|
 
 
 
