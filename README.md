@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
 |5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|9|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|10|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|11|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|12|184.82.244.72|8080|Thailand|Bangkok|AIS-Fibre|
-|13|176.120.28.106|8080|Russia|Tomsk|ZING|
-|14|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|15|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|16|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
-|19|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|163.181.207.230|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
+|6|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|10|164.52.211.20|8080|India|Noida|E2E Networks Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|124.121.35.191|8080|Thailand|Bang Bua Thong|TRUEBB|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|20|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
 
 
 
