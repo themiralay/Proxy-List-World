@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5073** proxies at the latest update. Usable proxies are below.
+> Scraper found **5824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1378|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|587|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2627|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.24.98|3128|Singapore|Singapore|LINODE|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|4|103.183.8.139|8080|Indonesia|Cikadondongdesa|PT Cepat Multi Data|
-|5|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|103.156.15.46|8080|Indonesia|Cilegon|PT Lintas Jaringan Nusantara|
-|8|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|4|139.162.24.98|3128|Singapore|Singapore|LINODE|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|7|194.87.10.38|1234|Singapore|Singapore|Baxet Group Inc.|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
 |10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|15|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|16|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|19|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|20|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
 
 
 
