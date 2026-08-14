@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6071** proxies at the latest update. Usable proxies are below.
+> Scraper found **5854** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1228|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|1|43.160.245.155|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|9|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|10|113.160.132.26|8080|Vietnam|Phu Ly|VietNam Post and Telecom Corporation|
-|11|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|13|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|15|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|4|103.145.34.112|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|5|162.214.74.29|3128|United States|Provo|Unified Layer|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|103.155.64.212|8080|Indonesia|Guranteng|PT Media Access Telematika|
+|8|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|11|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|162.214.74.29|3128|United States|Provo|Unified Layer|
+|14|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|15|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 |16|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|19|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|20|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|17|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|20|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
