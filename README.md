@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|779|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|779|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|779|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|160.187.221.206|5900|Philippines|Magpet|Imtech Solution and Data Providers|
-|6|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|7|158.140.128.44|8080|Singapore|Singapore|MYREPUBLIC|
-|8|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|9|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|10|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|14|36.71.66.101|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
-|15|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
-|16|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|17|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
-|18|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|19|66.163.118.99|10006|Spain|Madrid|GTHost|
-|20|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|154.18.255.99|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|6|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|7|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|8|144.79.94.40|8181|Indonesia|Selong|PT Nusa Data Koneksi|
+|9|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|10|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|11|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|12|47.85.195.135|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|15|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
+|17|173.249.195.250|8888|United States|Ashburn|tzulo, inc.|
+|18|31.132.55.181|443|United States|Boston|Comcast Cable Communications, LLC|
+|19|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|20|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
 
 
 
