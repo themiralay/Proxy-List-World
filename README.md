@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.61.16.92|8080|Indonesia|Sukabumi|TWINSDATAPRATAMA|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|9|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|160.25.174.99|8080|Indonesia|Kandangan|PT KANAL TELU MULTITEKNOLOGI|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|51.159.97.242|10006|France|Paris|SCALEWAY|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
