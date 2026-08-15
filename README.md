@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|6|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|7|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|8|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|66.163.118.99|10006|Spain|Madrid|GTHost|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
