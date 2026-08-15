@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|132.226.171.101|3128|South Korea|Seoul|Oracle Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|171.253.95.3|2051|Vietnam|Hanoi|Viettel Corporation|
-|13|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|15|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|16|195.133.65.238|10909|Germany|Frankfurt am Main|Chsl ONE LTD|
-|17|156.245.246.51|7890|United States|Los Angeles|VpsQuan L.L.C.|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|193.106.250.197|8080|United States|Newark|GTHost|
-|20|66.163.118.99|10006|Spain|Madrid|GTHost|
+|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|18|193.106.250.197|3128|United States|Newark|GTHost|
+|19|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
