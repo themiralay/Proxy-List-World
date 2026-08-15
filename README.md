@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|66.163.119.55|10006|Italy|Milan|GTHost|
-|8|66.163.118.99|10006|Spain|Madrid|GTHost|
-|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.230.150.58|8080|India|Kalyān|Zess Networks Private Limited|
-|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |12|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|15|41.216.186.74|8080|Indonesia|South Jakarta|FASTHOSTING|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|13|66.163.119.55|10006|Italy|Milan|GTHost|
+|14|51.159.97.242|10006|France|Paris|SCALEWAY|
+|15|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
+|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
 
 
 
