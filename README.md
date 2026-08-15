@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
-|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|178.128.27.60|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|9|103.162.61.221|18081|Indonesia|Kroya|PT Indo Prima Akses|
+|10|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|66.163.118.99|10006|Spain|Madrid|GTHost|
+|16|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|17|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
+|18|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|51.159.97.242|10006|France|Paris|SCALEWAY|
 
 
 
