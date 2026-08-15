@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4539** proxies at the latest update. Usable proxies are below.
+> Scraper found **4652** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|790|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|310|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2652|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|6|181.215.18.40|3128|Hong Kong|Hong Kong|Datacamp Limited|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |7|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|8|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|11|192.236.246.241|7890|United States|Los Angeles|HostPapa|
-|12|66.163.119.55|10006|Italy|Milan|GTHost|
-|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|66.163.118.99|10006|Spain|Madrid|GTHost|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|164.52.216.68|8080|India|Noida|E2E Networks Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|192.236.246.241|7890|United States|Los Angeles|HostPapa|
+|14|66.163.119.55|10006|Italy|Milan|GTHost|
+|15|66.163.118.99|10006|Spain|Madrid|GTHost|
 |16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|216.106.182.177|3128|United States|Miami|GTHost|
-|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|193.106.250.197|3128|United States|Newark|GTHost|
+|19|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|20|51.159.97.242|10006|France|Paris|SCALEWAY|
 
 
 
