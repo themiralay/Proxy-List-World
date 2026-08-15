@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|193.106.250.197|8080|United States|Newark|GTHost|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|66.163.119.55|10006|Italy|Milan|GTHost|
-|9|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|209.7.244.3|5999|United States|Champaign|Illinois Century Network|
-|16|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|20|201.116.64.226|7734|Mexico|Azcapotzalco|UNINET|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|8|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|13|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
+|15|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.155.196.46|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
