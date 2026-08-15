@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|193.106.250.197|3128|United States|Newark|GTHost|
-|7|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|4|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|5|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|6|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|7|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |10|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|66.163.119.55|10006|Italy|Milan|GTHost|
-|13|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|14|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|15|193.106.250.197|3128|United States|Newark|GTHost|
-|16|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|66.163.118.99|10006|Spain|Madrid|GTHost|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|66.163.119.55|10006|Italy|Milan|GTHost|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|193.106.250.197|3128|United States|Newark|GTHost|
+|14|181.215.18.40|3128|Hong Kong|Hong Kong|Datacamp Limited|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|216.106.182.177|3128|United States|Miami|GTHost|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
