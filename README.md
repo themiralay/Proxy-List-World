@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
 |6|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |7|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|8|151.243.153.157|8118|United States|Seattle|Black Apple|
-|9|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|10|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|41.216.186.74|8080|Indonesia|South Jakarta|FASTHOSTING|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|11|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|12|216.48.180.117|8080|India|Noida|E2E Networks Limited|
 |13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|193.106.250.197|3128|United States|Newark|GTHost|
-|16|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|119.93.151.254|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|66.163.119.55|10006|Italy|Milan|GTHost|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|193.106.250.197|3128|United States|Newark|GTHost|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|66.163.118.99|10006|Spain|Madrid|GTHost|
+|19|216.106.182.177|3128|United States|Miami|GTHost|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
