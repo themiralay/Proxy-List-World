@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|164.52.216.71|8080|India|Noida|E2E Networks Limited|
-|11|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|12|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|12|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|13|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
 |14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|16|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|17|66.163.119.55|10006|Italy|Milan|GTHost|
-|18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|181.215.18.40|3128|Hong Kong|Hong Kong|Datacamp Limited|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|66.163.118.99|10006|Spain|Madrid|GTHost|
+|18|216.106.182.177|3128|United States|Miami|GTHost|
+|19|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
