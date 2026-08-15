@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|8|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|66.163.118.99|10006|Spain|Madrid|GTHost|
-|13|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|14|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|3|181.215.18.40|3128|Hong Kong|Hong Kong|Datacamp Limited|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|66.163.118.99|10006|Spain|Madrid|GTHost|
+|10|66.163.119.55|10006|Italy|Milan|GTHost|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|16|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
 
 
 
