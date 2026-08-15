@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.147.109.250|3128|Singapore|Singapore|Duke Host Pte. Ltd.|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|103.147.109.250|3128|Singapore|Singapore|Duke Host Pte. Ltd.|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
 |15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|95.211.64.139|8888|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|17|66.163.118.99|10006|Spain|Madrid|GTHost|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|20|103.112.69.87|3128|The Netherlands|Amsterdam|Mastersoft S.R.L.|
+|16|104.224.29.214|8888|United States|Ashburn|Krixe Pte. Ltd.|
+|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|18|193.106.250.197|8181|United States|Newark|GTHost|
+|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|20|110.49.66.210|8080|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
 
 
 
