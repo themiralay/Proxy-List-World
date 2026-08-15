@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|143.198.87.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.179.252.153|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|4|216.125.22.3|5999|United States|Riverside|Illinois Century Network|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|9|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|216.125.22.2|5999|United States|Riverside|Illinois Century Network|
-|14|103.227.210.164|8181|India|Bengaluru|Ultahost, Inc.|
-|15|45.176.99.58|999|Dominican Republic|Santo Domingo Este|Cable Onda Oriental, SRL|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|193.106.250.197|8080|United States|Newark|GTHost|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|4|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|10|103.227.210.164|8080|India|Bengaluru|Ultahost, Inc.|
+|11|103.246.194.251|3128|India|Tirupati|RailTel Corporation|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
