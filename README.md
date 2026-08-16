@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
 |3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|51.159.97.242|10006|France|Paris|SCALEWAY|
-|15|157.230.178.216|40000|United States|North Bergen|DigitalOcean, LLC|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|4|181.215.18.40|8080|Hong Kong|Hong Kong|Datacamp Limited|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|10|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|66.163.118.99|10006|Spain|Madrid|GTHost|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|15|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|16|38.211.24.70|8080|Indonesia|Bandung|Cogent Communications|
 |17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|89.106.89.70|10808|Germany|Berlin|dataforest GmbH|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|66.163.127.204|10006|Netherlands|Amsterdam|GTHost|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|51.159.97.242|10006|France|Paris|SCALEWAY|
+|20|89.106.89.70|10808|Germany|Berlin|dataforest GmbH|
 
 
 
