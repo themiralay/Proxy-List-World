@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|6|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|9|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|12|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|210.87.92.137|1111|Indonesia|Singosari|PT Indo Telemedia Solusi|
-|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|103.227.210.164|3128|India|Bengaluru|Ultahost, Inc.|
-|19|216.106.182.177|3128|United States|Miami|GTHost|
-|20|103.166.9.246|8080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|11|66.163.119.55|10006|Italy|Milan|GTHost|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|14|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
