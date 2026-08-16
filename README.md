@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|198.50.126.227|1080|Canada|Montreal|Leaseweb Canada Inc.|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|66.163.119.55|10006|Italy|Milan|GTHost|
-|14|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|15|66.163.118.99|10006|Spain|Madrid|GTHost|
-|16|171.253.95.238|2104|Vietnam|Hanoi|Viettel Corporation|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|198.50.126.227|1080|Canada|Montreal|Leaseweb Canada Inc.|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|51.159.97.242|10006|France|Paris|SCALEWAY|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
