@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4596** proxies at the latest update. Usable proxies are below.
+> Scraper found **4730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|282|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2588|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|66.163.118.99|10006|Spain|Madrid|GTHost|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|9|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|11|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|13|31.56.78.134|7777|Indonesia|Jakarta|PT Perwira Media Solusi|
-|14|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
-|15|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
-|16|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|204.76.203.9|3128|The Netherlands|Eygelshoven|Pfcloud UG|
-|20|27.185.218.213|17981|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|66.163.119.55|10006|Italy|Milan|GTHost|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|66.163.118.99|10006|Spain|Madrid|GTHost|
+|6|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|8|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|9|51.159.97.242|10006|France|Paris|SCALEWAY|
+|10|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|65.109.186.67|10808|Finland|Helsinki|Hetzner Online GmbH|
+|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|23.94.112.168|8080|United States|Los Angeles|HostPapa|
+|14|154.203.132.81|1080|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|15|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|18|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|85.198.82.207|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|172.171.83.26|8080|United States|Boydton|Microsoft|
 
 
 
