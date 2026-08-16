@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
 |7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|66.163.118.99|10006|Spain|Madrid|GTHost|
+|9|171.253.95.241|2026|Vietnam|Hanoi|Viettel Corporation|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|12|107.172.5.202|7890|United States|Santa Clara|HostPapa|
+|13|51.159.97.242|10006|France|Paris|SCALEWAY|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|16|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|80.93.61.39|1080|Russia|St Petersburg|SpaceWeb Hosting provider|
+|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
