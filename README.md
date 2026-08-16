@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|3|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|4|43.160.245.155|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|6|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|11|216.48.185.253|8080|India|New Delhi|E2E Networks Limited|
-|12|216.48.184.253|8080|India|New Delhi|E2E Networks Limited|
-|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|14|36.94.27.65|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|15|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|156.245.246.51|7890|United States|Los Angeles|VpsQuan L.L.C.|
-|18|150.136.36.83|1080|United States|Ashburn|Oracle Corporation|
-|19|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|20|80.66.72.152|888|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|8|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|9|154.18.239.181|8085|Singapore|Singapore|Ultahost, Inc.|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|103.153.149.18|8181|Indonesia|Kendal|JARINGANKU|
+|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|14|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
