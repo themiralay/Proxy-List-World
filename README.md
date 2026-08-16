@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|171.253.95.64|2106|Vietnam|Hanoi|Viettel Corporation|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|12|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|16|66.163.118.105|10006|Spain|Madrid|GTHost|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|66.163.118.99|10006|Spain|Madrid|GTHost|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|171.253.95.64|2106|Vietnam|Hanoi|Viettel Corporation|
+|11|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|51.159.97.242|10006|France|Paris|SCALEWAY|
+|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|17|196.64.142.132|30001|Morocco|Khouribga|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|18|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|65.109.186.67|10808|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
