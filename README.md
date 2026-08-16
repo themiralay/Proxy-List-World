@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|103.133.61.184|8080|Indonesia|Bandar Lampung|TLINK|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|116.12.47.82|9595|Indonesia|Mojosari|ADSNET|
-|9|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|14|66.163.119.55|10006|Italy|Milan|GTHost|
-|15|66.163.118.99|10006|Spain|Madrid|GTHost|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.210.39.155|8561|Japan|Tokyo|Microsoft Corporation|
+|9|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|66.163.119.55|10006|Italy|Milan|GTHost|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|109.164.35.23|8888|Czechia|Prague|STARNET, s.r.o.|
+|20|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
