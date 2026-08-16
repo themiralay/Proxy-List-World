@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
-|11|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|85.209.132.156|8000|Germany|Frankfurt Am Main|Baykov Ilya Sergeevich|
-|17|195.133.14.222|49152|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|151.115.99.193|10006|Poland|Warsaw|SCALEWAY|
-|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|1|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|171.253.95.64|2106|Vietnam|Hanoi|Viettel Corporation|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|11|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|12|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|156.245.246.51|7890|United States|Los Angeles|VpsQuan L.L.C.|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|5.189.159.180|80|France|Lauterbourg|Contabo GmbH|
+|19|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
