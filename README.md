@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4557** proxies at the latest update. Usable proxies are below.
+> Scraper found **4837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1094|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2441|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|4|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|9|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|124.217.15.132|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|9|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
 |10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|12|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
 |13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|19|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|17|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|18|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
