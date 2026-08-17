@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|15.207.247.92|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|164.52.216.148|8080|India|Noida|E2E Networks Limited|
-|5|119.95.163.205|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|38.253.240.231|8080|Indonesia|Jatiroto|Cogent Communications|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |6|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|8|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
-|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|203.175.102.166|7777|Indonesia|Manis Subang|PT. Mitra Kita Brilian|
-|11|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|38.253.240.231|8080|Indonesia|Jatiroto|Cogent Communications|
-|13|65.109.186.67|10808|Finland|Helsinki|Hetzner Online GmbH|
-|14|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|15|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|66.163.118.99|10006|Spain|Madrid|GTHost|
-|20|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|7|66.163.119.55|10006|Italy|Milan|GTHost|
+|8|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|9|219.94.75.224|8080|Malaysia|Seremban|TMnet|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|13|36.91.220.132|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|14|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|15.207.247.92|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|65.109.186.67|10808|Finland|Helsinki|Hetzner Online GmbH|
+|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|20|93.187.25.12|58080|Italy|Radicondoli|Consorzio Terrecablate|
 
 
 
