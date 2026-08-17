@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|1|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
 |2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|107.172.5.202|7890|United States|Santa Clara|HostPapa|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|193.222.99.32|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|11|66.163.119.55|10006|Italy|Milan|GTHost|
+|12|193.222.99.32|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
