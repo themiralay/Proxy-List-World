@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|2|49.51.253.118|8888|United States|Santa Clara|OPHL|
 |3|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|14|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|15|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|16|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|11|85.209.132.156|8000|Germany|Frankfurt Am Main|Baykov Ilya Sergeevich|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|5.104.75.62|12000|Germany|Frankfurt am Main|International Hosting Company Limited|
+|15|5.202.120.123|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|16|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
+|17|103.247.23.242|1111|Indonesia|Banyumas|PT wifian Solution|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|20|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
 
 
 
