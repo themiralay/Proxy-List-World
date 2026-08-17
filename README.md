@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|36.50.135.41|443|Vietnam|Ho Chi Minh City|LIENCLOUD|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|80.66.72.152|888|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|95.85.233.144|18443|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|152.53.20.190|20000|Germany|Nuremberg|netcup GmbH|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|144.31.75.29|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|157.230.178.216|40000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|80.66.72.152|888|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|198.50.126.227|1080|Canada|Montreal|Leaseweb Canada Inc.|
+|20|65.109.186.67|10808|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
