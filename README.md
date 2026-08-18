@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|38.111.103.17|8080|Indonesia|Deli Serdang|PT TRINITY TEKNOLOGI NUSANTARA|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|18|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
