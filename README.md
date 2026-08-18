@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|690|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|690|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|690|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|180.190.84.239|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|43.133.128.153|16012|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|8|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|19|172.236.23.95|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
