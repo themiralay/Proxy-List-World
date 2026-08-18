@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6080** proxies at the latest update. Usable proxies are below.
+> Scraper found **6070** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|789|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|789|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|789|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1251|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|667|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2962|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3192|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|10|171.103.19.126|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|103.118.85.144|6321|Bangladesh|Sātkhira|Abuzz IT Limited|
-|14|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|210.79.141.173|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
-|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|11|77.111.110.248|3128|United States|Los Angeles|Sakura Clouds LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|202.4.116.141|81|Bangladesh|Dhaka|dhakaCom Limited|
+|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
