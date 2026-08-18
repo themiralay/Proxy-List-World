@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|38.180.9.158|4422|Singapore|Singapore|M247 Europe SRL|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|3|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|4|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
 |16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|204.76.203.9|8080|The Netherlands|Eygelshoven|Pfcloud UG|
 
 
 
