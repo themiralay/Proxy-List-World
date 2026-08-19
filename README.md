@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|6|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|137.220.151.34|1080|Singapore|Singapore|CTG Server Limited|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
+|9|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|210.87.92.207|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
