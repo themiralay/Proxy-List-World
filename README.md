@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|6|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
