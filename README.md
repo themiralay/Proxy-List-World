@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
-|10|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|2|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|5|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
+|8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
 |11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|15|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|16|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|20|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|12|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|16|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
+|17|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 
 
 
