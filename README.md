@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
 |2|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|3|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|210.87.92.207|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|18|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|19|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
+|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
