@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.220.151.34|1080|Singapore|Singapore|CTG Server Limited|
-|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
 |7|103.82.25.151|1234|Vietnam|Hanoi|Phong Thuy media joint stock company|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|10|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|54.152.57.116|1001|United States|Ashburn|Amazon.com, Inc.|
-|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|14|3.87.6.194|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
-|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|8|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|9|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|103.191.218.171|8080|Indonesia|Kuningan|PT Replay Inti Media|
+|16|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|17|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|18|3.87.6.194|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|54.152.57.116|1001|United States|Ashburn|Amazon.com, Inc.|
+|20|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
 
 
 
