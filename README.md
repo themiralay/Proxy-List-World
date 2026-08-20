@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
-|12|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|35.78.212.217|32053|Japan|Tokyo|Amazon.com, Inc.|
-|17|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|20|126.209.75.88|5050|Philippines|Manila|Infinivan Incorporated|
+|5|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|12|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|35.78.212.217|32053|Japan|Tokyo|Amazon.com, Inc.|
+|16|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
+|17|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|18|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
