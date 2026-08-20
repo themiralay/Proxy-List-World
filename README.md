@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|3.231.57.249|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|3.231.158.98|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|3.238.219.136|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|3.231.158.98|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.231.57.249|3128|United States|Ashburn|Amazon Technologies Inc.|
 |14|3.238.107.68|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|3.238.107.68|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|3.231.158.98|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|3.238.219.136|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|3.231.158.98|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
