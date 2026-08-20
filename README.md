@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|10|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|4|103.82.25.151|1234|Vietnam|Hanoi|Phong Thuy media joint stock company|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|13|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|164.52.211.20|8080|India|Noida|E2E Networks Limited|
+|17|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|49.51.253.118|8888|United States|Santa Clara|OPHL|
 
 
 
