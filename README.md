@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|5.181.178.46|8080|Japan|Koto City|Lain.sh|
 |12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|103.82.25.151|1234|Vietnam|Hanoi|Phong Thuy media joint stock company|
+|13|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
 |14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|17|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |19|64.188.125.131|80|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|20|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
 
 
 
