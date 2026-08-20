@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|11|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|12|216.106.182.177|3128|United States|Miami|GTHost|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|15.237.108.20|54588|France|Paris|Amazon Technologies Inc.|
-|15|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
-|18|204.76.203.9|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|19|195.133.73.105|10808|Russia|Moscow|JSC "TIMEWEB"|
-|20|13.221.202.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|151.243.153.157|8118|United States|Seattle|Black Apple|
+|17|195.133.73.105|10808|Russia|Moscow|JSC "TIMEWEB"|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|216.106.182.177|3128|United States|Miami|GTHost|
+|20|122.246.3.12|17981|China|Ningbo|China Telecom|
 
 
 
