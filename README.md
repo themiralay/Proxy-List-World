@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|3|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|8|137.220.151.34|1080|Singapore|Singapore|CTG Server Limited|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|11|103.82.25.151|1234|Vietnam|Hanoi|Phong Thuy media joint stock company|
+|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
