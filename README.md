@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|103.187.162.116|1080|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|216.106.182.177|3128|United States|Miami|GTHost|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|16|216.106.182.177|3128|United States|Miami|GTHost|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|216.106.182.177|3128|United States|Miami|GTHost|
+|9|98.83.197.228|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|13.221.202.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|216.106.182.177|3128|United States|Miami|GTHost|
+|19|13.221.202.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|98.83.197.228|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
