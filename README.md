@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|4|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|5|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|3.238.219.136|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |8|3.238.219.136|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|13.221.202.200|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|18|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|3.238.219.136|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|19|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
