@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
-|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
 |4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|7|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|5|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |11|164.52.216.68|8080|India|Noida|E2E Networks Limited|
-|12|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|13|99.79.33.107|3128|Canada|Toronto|Amazon.com, Inc.|
+|12|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|16|159.195.49.27|8888|Germany|Nuremberg|netcup GmbH|
-|17|91.239.211.18|8080|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
-|19|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|16|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
 
 
 
