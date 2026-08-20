@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5857** proxies at the latest update. Usable proxies are below.
+> Scraper found **6111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|862|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|862|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|862|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|983|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1237|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|637|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3337|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|5|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
 |6|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.18.77.64|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|13|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|19|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|20|180.194.9.255|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|137.220.151.34|1080|Singapore|Singapore|CTG Server Limited|
+|11|103.174.122.83|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
+|15|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|17|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
+|18|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
