@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|34.221.7.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|34.221.7.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|3|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|6|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|34.221.7.29|3128|United States|Portland|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|213.165.55.41|8080|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|20|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|34.221.7.29|3128|United States|Portland|Amazon.com, Inc.|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|213.165.55.41|8080|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
