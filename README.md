@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|862|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|862|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|862|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|788|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|788|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|788|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
 |3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|114.35.132.4|37364|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|5|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
-|6|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|137.220.151.34|1080|Singapore|Singapore|CTG Server Limited|
-|11|103.174.122.83|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|12|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
-|15|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
-|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|17|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|18|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|19|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|8|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.82.25.151|1234|Vietnam|Hanoi|Phong Thuy media joint stock company|
+|12|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|15|206.206.103.117|8888|United States|Fremont|Colocation America Corporation|
+|16|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
+|17|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|19|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|20|174.137.134.182|2999|United States|New York|Webair Internet Development Company Inc.|
 
 
 
