@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|164.52.211.20|8080|India|Noida|E2E Networks Limited|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|15|45.156.223.55|3128|Hong Kong|Kwun Tong|haoxiangyun|
-|16|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
-|19|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
 
 
 
