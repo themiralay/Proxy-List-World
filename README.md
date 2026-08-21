@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|11|47.245.106.209|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|9|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|164.52.195.188|8080|India|Noida|E2E Networks Limited|
+|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|151.185.58.137|8080|India|New Delhi|E2E Networks Limited|
+|19|44.193.20.213|443|United States|Ashburn|Amazon.com|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
