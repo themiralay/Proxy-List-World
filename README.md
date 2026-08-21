@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|9|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|10|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|11|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|182.231.145.236|1080|South Korea|Yangcheon-gu|LG POWERCOMM|
-|17|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|182.231.145.236|1080|South Korea|Yangcheon-gu|LG POWERCOMM|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|213.176.113.24|50001|The Netherlands|Amsterdam|Aeza International LTD|
+|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
