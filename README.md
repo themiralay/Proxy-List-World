@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|16|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|145.239.41.4|5060|France|Roubaix|OVH SAS|
-|18|45.131.66.204|1234|Germany|Frankfurt am Main|Dominic Scholz trading as ITP-Solutions GmbH & Co. KG|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
