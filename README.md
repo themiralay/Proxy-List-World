@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
 |6|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|9|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
 |10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |11|172.234.36.21|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|12|213.165.55.41|8080|Germany|Frankfurt am Main|WAIcore Ltd|
-|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|20|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|14|213.165.55.41|8080|Germany|Frankfurt am Main|WAIcore Ltd|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|18|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
