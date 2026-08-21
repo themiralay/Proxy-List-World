@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|101.47.75.240|5000|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
 |4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|103.178.171.61|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|216.48.180.117|8080|India|Noida|E2E Networks Limited|
+|6|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|12|13.214.151.56|8081|Singapore|Singapore|Amazon Technologies Inc.|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
