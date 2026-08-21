@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|5|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|14.199.167.175|3128|Hong Kong|Wong Tai Sin|Hong Kong Broadband Network Limited|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|6|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|9|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|10|45.198.10.243|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|11|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|12|103.177.106.114|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 |13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|1.20.169.41|8080|Thailand|Pattaya|TOT Public Company Limited|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|16|103.152.238.39|1080|Indonesia|Rengasdengklok|APRIN|
+|17|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|18|43.153.82.179|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
