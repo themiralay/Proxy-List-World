@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|49.144.19.84|8181|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|6|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|139.135.170.12|8082|Philippines|Tarlac City|Converge Information and Communications Technology Solutions|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|103.166.33.54|8080|Indonesia|Jekulo|PT Daniswara Citra Informatika|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|104.194.8.103|40001|United States|Los Angeles|ReliableSite.Net LLC|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|213.165.55.41|8080|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|20|160.30.104.170|1256|Pakistan|Karachi|S. B Link Network|
 
 
 
