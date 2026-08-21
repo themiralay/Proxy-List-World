@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5417** proxies at the latest update. Usable proxies are below.
+> Scraper found **5554** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1042|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|271|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3041|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|154.18.255.112|1080|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|103.82.93.219|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|165.22.161.41|8118|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|10|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|14|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|164.52.214.97|8080|India|Noida|E2E Networks Limited|
 |19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
