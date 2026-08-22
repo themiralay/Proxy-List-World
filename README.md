@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5348** proxies at the latest update. Usable proxies are below.
+> Scraper found **5321** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|690|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|285|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3114|✅|
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
 |9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|11|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|13|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|16|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
