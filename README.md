@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|9|151.185.58.137|8080|India|New Delhi|E2E Networks Limited|
-|10|38.211.25.242|8080|Indonesia|Denpasar|PT Putra Garsel Interkoneksi|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|103.80.214.108|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|9|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|12|103.172.71.125|8080|Indonesia|Karawang|AZNET|
+|13|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|14|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|15|151.185.58.137|8080|India|New Delhi|E2E Networks Limited|
+|16|44.193.20.213|443|United States|Ashburn|Amazon.com|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
