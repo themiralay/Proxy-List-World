@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|546|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|546|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|546|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |2|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|44.193.20.213|443|United States|Ashburn|Amazon.com|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|18|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|19|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|3|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.245.106.209|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|44.193.20.213|443|United States|Ashburn|Amazon.com|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |20|151.185.58.137|8080|India|New Delhi|E2E Networks Limited|
 
 
