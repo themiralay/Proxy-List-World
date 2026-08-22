@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|5|47.253.213.29|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|13|161.248.190.83|8080|Philippines|Causwagan|Gemstar Cable TV - Agusan Del SUR|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|47.253.213.29|7890|United States|Charlottesville|Alibaba Cloud LLC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|145.239.41.4|5060|France|Roubaix|OVH SAS|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
