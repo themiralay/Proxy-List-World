@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
 |6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|10|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|11|98.83.26.239|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
+|8|95.40.233.164|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|14|98.83.26.239|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|34.84.162.206|38080|Japan|Tokyo|Google LLC|
 |18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |19|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
