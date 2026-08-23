@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|103.67.80.154|8080|Indonesia|Utan|PT Komunikasi Profesional Indonesia|
-|7|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|8|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|12|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|13|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|14|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|20|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
