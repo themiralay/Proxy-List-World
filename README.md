@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|4|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|11|164.52.214.97|8080|India|Noida|E2E Networks Limited|
 |12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|91.107.250.17|10808|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|164.52.211.20|8080|India|Noida|E2E Networks Limited|
+|16|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|17|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|20|98.83.197.228|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
