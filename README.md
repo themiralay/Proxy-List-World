@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.99.14.18|2765|Vietnam|Hanoi|Lienvps Technology Company Limited|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|14|44.193.20.213|8081|United States|Ashburn|Amazon.com|
-|15|157.20.207.129|8083|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|16|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|101.255.119.26|8080|Indonesia|Central Jakarta|PT Remala Abadi|
+|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
-|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|18|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 
 
 
