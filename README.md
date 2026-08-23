@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5955** proxies at the latest update. Usable proxies are below.
+> Scraper found **5643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|671|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|671|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|671|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1217|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|461|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3045|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|101.79.29.143|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|43.135.179.129|7890|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |8|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|16|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 
 
 
