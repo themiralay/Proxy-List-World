@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|2|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|1|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|49.147.127.126|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|49.147.127.126|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|202.8.29.90|8080|Indonesia|Medan|PT MULTI MEDIA ACCESS|
+|14|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
 |15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|192.203.0.142|999|Puerto Rico|Comunas|Boom NET|
+|20|23.236.65.237|8888|United States|Los Angeles|Zenlayer Inc|
 
 
 
