@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|5|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|11|49.0.1.200|1080|Indonesia|Liunggunung|PT Usaha Adi Sanggoro|
-|12|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|13|43.160.228.78|8081|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|15|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
-|16|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|17|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
+|9|103.156.15.105|1111|Indonesia|Cilegon|PT Lintas Jaringan Nusantara|
+|10|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|11|113.192.31.7|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|16|216.48.177.32|8080|India|New Delhi|E2E Networks Limited|
+|17|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 
 
 
