@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|220.121.146.118|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|12|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|13|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|14|160.19.18.121|8181|Indonesia|Subang|PT Indo Telemedia Solusi|
-|15|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|19|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|103.88.234.239|40013|Mexico|Mexico City|Latitude.sh|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|165.99.14.18|3333|Vietnam|Hanoi|Lienvps Technology Company Limited|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|17|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|18|164.52.216.68|8080|India|Noida|E2E Networks Limited|
+|19|151.243.153.157|8118|United States|Seattle|Black Apple|
+|20|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
 
 
 
