@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|1|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|7|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|103.156.16.197|8818|Indonesia|Jatibarang|RSTNET|
 |12|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|91.107.188.68|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|93.93.207.219|8088|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|91.107.250.17|10808|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|38.253.240.81|8080|Indonesia|Jatiroto|Cogent Communications|
-|20|103.26.131.29|3125|Indonesia|Salatiga|PT Indonesia Media Komunikasi Masyarakat|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|103.167.229.147|8080|Nepal|Butwal|Fiberworld Communication Pvt. Ltd|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|17|91.107.188.68|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|176.98.248.60|8080|Czechia|Prague|JM-Networks, s.r.o.|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|93.93.207.219|8088|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
