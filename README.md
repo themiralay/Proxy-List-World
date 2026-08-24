@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|103.133.27.141|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|9|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|10|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
 |11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|103.172.42.41|3128|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|103.156.17.232|8818|Indonesia|Jatibarang|RSTNET|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|19|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|20|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
