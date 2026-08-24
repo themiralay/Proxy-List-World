@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.121.146.118|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|3|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|4|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|45.32.37.87|1080|Japan|Minamishinagawa|The Constant Company|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|61.63.217.176|3128|Taiwan|Taichung|Savecom International Inc.|
+|7|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|103.88.234.239|40018|Mexico|Mexico City|Latitude.sh|
-|14|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|45.32.37.87|1080|Japan|Minamishinagawa|The Constant Company|
-|18|61.63.217.176|3128|Taiwan|Taichung|Savecom International Inc.|
-|19|103.199.117.179|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|20|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|14|103.88.234.239|40018|Mexico|Mexico City|Latitude.sh|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 
 
 
