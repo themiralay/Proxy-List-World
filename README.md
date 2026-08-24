@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.32.37.87|1080|Japan|Minamishinagawa|The Constant Company|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|172.234.247.63|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.234.247.63|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|4|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
 |5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|10|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
-|11|103.184.67.117|8181|Indonesia|Cisaat|PT Siber Tech Indonesia|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|15|172.234.247.63|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|172.234.247.63|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|13|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|14|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|164.52.214.97|8080|India|Noida|E2E Networks Limited|
 |17|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 
 
 
