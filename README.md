@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
-|3|116.204.171.225|3128|South Korea|Yongsan-dong|Shanghai Xima Internet Technology Limited|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
-|7|47.253.213.29|7890|United States|Charlottesville|Alibaba Cloud LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|10|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|168.107.86.167|8888|Singapore|Singapore|Oracle Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.177.199.254|1111|Indonesia|Pasanggrahan|PT Eyza Kausa Sinergi Abadi|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.204.171.225|3128|South Korea|Yongsan-dong|Shanghai Xima Internet Technology Limited|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
+|14|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|16|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|17|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|18|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 
 
 
