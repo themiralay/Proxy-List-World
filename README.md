@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|220.121.146.118|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|7|103.88.234.239|40013|Mexico|Mexico City|Latitude.sh|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|18|164.52.216.153|8080|India|Noida|E2E Networks Limited|
-|19|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|123.19.59.157|8080|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|14|103.88.234.239|40013|Mexico|Mexico City|Latitude.sh|
+|15|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|16|121.101.129.97|8181|Indonesia|Sleman|PT SELARAS CITRA TERABIT|
+|17|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 
 
