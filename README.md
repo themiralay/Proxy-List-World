@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|54.87.99.188|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|103.149.113.222|8080|India|Pune|Teleglobal Communications Pvt Ltd|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|45.198.10.35|8080|Indonesia|Karawang|PT Jaringan Lintas Artha|
+|8|157.15.210.144|8080|Indonesia|Serang|PT Gaisar Teknologi Bersama|
 |9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|54.87.99.188|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
-|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|11|54.87.99.188|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|103.125.36.120|8080|Indonesia|Bogor|PT. Eka Mas Republik|
+|13|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|54.87.99.188|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
