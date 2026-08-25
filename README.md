@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|103.88.234.239|40018|Mexico|Mexico City|Latitude.sh|
+|8|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|17|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|193.222.99.32|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|20|34.94.46.8|80|United States|Los Angeles|Google LLC|
 
 
 
