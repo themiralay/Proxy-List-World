@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
-|16|91.107.250.17|10808|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|12|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |17|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|18|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|163.61.112.245|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|175.136.239.173|8181|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|20|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
 
 
 
