@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|62.106.70.185|8118|Japan|Tokyo|xTom Japan Corporation|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|151.243.153.157|8118|United States|Seattle|Black Apple|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|2|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|8|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|171.245.89.241|12328|Vietnam|Đông Hưng|Viettel Corporation|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|157.66.236.27|1080|Indonesia|Kediri|PT DHAHA PRIMA NET|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|14|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|168.144.210.164|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
+|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|19|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|20|203.150.128.157|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
 
 
 
