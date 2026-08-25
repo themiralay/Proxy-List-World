@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|12|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|165.232.59.238|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
 
