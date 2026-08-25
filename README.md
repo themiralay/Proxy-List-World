@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|103.106.79.253|2233|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|202.58.77.195|8080|Indonesia|Trenggalek|PT Data Buana Nusantara|
+|9|4.188.88.201|3128|India|Pune|Microsoft Corporation|
+|10|164.52.216.68|8080|India|Noida|E2E Networks Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|14|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+
 
 
 ## Contributing
