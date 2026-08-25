@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|129.153.71.186|80|United States|Phoenix|Oracle Corporation|
-|11|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|14|38.180.24.88|8080|Poland|Gdansk|Artnet Sp. z o.o.|
-|15|194.5.206.97|8080|Turkey|İncesu|Arvancloud Global Technologies L.L.C|
-|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|17|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|18|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
-|19|50.114.58.111|3128|Germany|Frankfurt am Main|Sculk Ltd.|
-|20|82.97.241.215|10808|Russia|St Petersburg|JSC "TIMEWEB"|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|164.52.216.71|8080|India|Noida|E2E Networks Limited|
+|7|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|8|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|9|164.52.216.153|8080|India|Noida|E2E Networks Limited|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|14|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
