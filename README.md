@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
+|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|47.80.78.73|6666|Philippines|Manila|Alibaba.com LLC|
 |5|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
-|10|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|11|103.149.113.222|8080|India|Pune|Teleglobal Communications Pvt Ltd|
-|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|216.48.180.117|8080|India|Noida|E2E Networks Limited|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
-|19|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|47.57.69.227|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|13|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|14|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|15|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|19|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|20|164.52.213.118|8080|India|Noida|E2E Networks Limited|
 
 
 
