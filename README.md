@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|103.171.241.6|3131|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|12|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|85.234.100.149|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|12|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|13|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
 
 
 
