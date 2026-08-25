@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|10|151.185.59.19|8080|India|New Delhi|E2E Networks Limited|
+|10|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
 |11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|15|47.252.52.58|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|14|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|15|103.177.118.145|8118|Bangladesh|Motijheel|Duranta Online|
 |16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|187.249.159.164|8080|Mexico|Reforma|Transtelco Inc|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|192.203.0.118|999|Puerto Rico|Comunas|Boom NET|
-|20|45.66.249.187|8181|United States|Los Angeles|BlueVPS OU|
+|19|193.222.99.32|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|20|91.107.250.17|10808|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
