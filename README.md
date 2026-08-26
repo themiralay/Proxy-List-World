@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4919** proxies at the latest update. Usable proxies are below.
+> Scraper found **4846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|902|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|481|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|408|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2336|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|168.144.210.164|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|38.46.214.193|1080|Indonesia|Cibinong|PT. Usaha Adi Sanggoro|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|157.15.63.81|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|17|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|18|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|19|144.79.241.253|3128|Indonesia|Bekasi|PT Aryaka Lintas Media|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|195.62.49.101|59061|Germany|Frankfurt am Main|Nekobyte International Limited|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|62.60.236.119|10809|Finland|Helsinki|Aeza International LTD|
+|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
 
 
 
