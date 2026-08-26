@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.187.162.116|1080|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|156.245.246.51|7890|United States|Los Angeles|VpsQuan L.L.C.|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|195.62.49.101|59061|Germany|Frankfurt am Main|Nekobyte International Limited|
-|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|165.232.59.238|1080|United States|Santa Clara|DigitalOcean, LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|19|165.232.59.238|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
