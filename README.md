@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |2|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|23.137.105.114|3128|United States|North Kansas City|Advin Services LLC|
-|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|14|151.243.153.157|8118|United States|Seattle|Black Apple|
+|15|195.62.49.101|59061|Germany|Frankfurt am Main|Nekobyte International Limited|
+|16|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|19|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 
 
 
