@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
 |2|139.162.11.41|3128|Singapore|Singapore|LINODE|
 |3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
 |9|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|10|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|151.243.153.157|8118|United States|Seattle|Black Apple|
-|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
-|20|195.62.49.101|22855|Germany|Frankfurt am Main|Nekobyte International Limited|
+|12|151.185.59.20|8080|India|New Delhi|E2E Networks Limited|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
