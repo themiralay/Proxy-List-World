@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
-|2|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|3|152.42.167.241|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|14|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
-|15|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|101.255.209.93|8090|Indonesia|North Jakarta|PT Remala Abadi|
-|19|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|2|130.162.144.61|1080|South Korea|Seoul|Oracle Corporation|
+|3|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
