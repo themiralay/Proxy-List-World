@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |2|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|14|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|15|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|16|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|17|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|18|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|16|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|20|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
 
