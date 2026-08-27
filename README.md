@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |4|54.213.239.121|8080|United States|Portland|Amazon.com, Inc.|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
-|11|54.213.239.121|8080|United States|Portland|Amazon.com, Inc.|
-|12|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|9|54.213.239.121|8080|United States|Portland|Amazon.com, Inc.|
+|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|18|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
