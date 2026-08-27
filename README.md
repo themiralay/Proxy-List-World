@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|151.243.153.157|8118|United States|Seattle|Black Apple|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
 |11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|17|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |20|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
