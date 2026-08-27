@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|9|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|15|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|182.52.129.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|14|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|17|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 
 
 
