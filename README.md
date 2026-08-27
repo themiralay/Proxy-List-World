@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|139.162.11.41|3128|Singapore|Singapore|LINODE|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|4|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|5|112.203.194.220|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|103.167.156.82|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|14|170.250.33.38|3128|United States|Miami|Hotwire Communications|
 |15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|216.48.180.178|8080|India|Noida|E2E Networks Limited|
-|17|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|18|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|19|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|20|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|16|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|17|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|19|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|20|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
 
 
 
