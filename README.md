@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|12|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|47.238.127.54|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|20|18.101.226.168|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|18.101.226.168|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
+|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|19|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
+|20|144.202.78.114|1234|United States|Dallas|The Constant Company|
 
 
 
