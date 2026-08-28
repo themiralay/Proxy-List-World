@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|3|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|14|192.129.145.138|8118|United States|Los Angeles|HostPapa|
+|15|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|16|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
+|17|18.101.226.168|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+
 
 
 ## Contributing
