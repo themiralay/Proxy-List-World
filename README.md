@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4474** proxies at the latest update. Usable proxies are below.
+> Scraper found **4444** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|829|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|172|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2273|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.122.179.84|8888|Germany|Frankfurt|Zenlayer Inc|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|8|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|13|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|4|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
+|12|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |14|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|15|164.52.216.68|8080|India|Noida|E2E Networks Limited|
-|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|19|103.122.179.84|8888|Germany|Frankfurt|Zenlayer Inc|
-|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|16|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|17|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|18|164.52.211.20|8080|India|Noida|E2E Networks Limited|
+|19|115.147.254.250|6040|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
 
 
 
