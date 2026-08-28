@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2273|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|144.202.78.114|1234|United States|Dallas|The Constant Company|
-|10|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|170.250.33.38|3128|United States|Miami|Hotwire Communications|
 |11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|144.202.78.114|1234|United States|Dallas|The Constant Company|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|12|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|13|144.202.78.114|1234|United States|Dallas|The Constant Company|
+|14|165.99.14.18|2222|Vietnam|Hanoi|Lienvps Technology Company Limited|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
