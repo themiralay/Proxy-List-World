@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
-|9|13.58.132.225|3128|United States|Dublin|Amazon.com, Inc.|
-|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|11|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|12|18.101.226.168|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|13.58.132.225|3128|United States|Dublin|Amazon.com, Inc.|
+|17|45.59.100.205|3128|United States|New York|DA International Group Ltd.|
 |18|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
-|19|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|20|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|20|52.59.108.237|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
