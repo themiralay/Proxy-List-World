@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|2|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|5|34.94.46.8|80|United States|Los Angeles|Google LLC|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|144.202.78.114|1234|United States|Dallas|The Constant Company|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|18|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|19|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|20|144.202.78.114|1234|United States|Dallas|The Constant Company|
+|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|144.202.78.114|1234|United States|Dallas|The Constant Company|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|14|144.202.78.114|1234|United States|Dallas|The Constant Company|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.87.170.34|32650|India|Jaipur|and ROA|
+|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|18|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
+|19|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+|20|103.211.103.170|3128|Hong Kong|Kwun Tong|haoxiangyun|
 
 
 
