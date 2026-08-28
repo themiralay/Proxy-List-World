@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|170.250.33.38|3128|United States|Miami|Hotwire Communications|
-|9|118.136.181.80|8080|Indonesia|East Jakarta|Linknet-Fastnet ASN|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|1|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|118.136.181.80|8080|Indonesia|East Jakarta|Linknet-Fastnet ASN|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|34.94.46.8|80|United States|Los Angeles|Google LLC|
+|10|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|34.215.64.193|1001|United States|Portland|Amazon.com, Inc.|
-|15|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|16|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|47.77.186.212|3128|United States|Minkler|Alibaba.com LLC|
-|19|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
-|20|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|153.80.240.37|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
+|19|170.250.33.38|3128|United States|Miami|Hotwire Communications|
+|20|34.215.64.193|1001|United States|Portland|Amazon.com, Inc.|
 
 
 
