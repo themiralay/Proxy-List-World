@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4481** proxies at the latest update. Usable proxies are below.
+> Scraper found **4469** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|562|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|468|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2251|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2239|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|15|54.158.219.104|8443|United States|Ashburn|Amazon.com, Inc.|
-|16|54.158.219.104|8443|United States|Ashburn|Amazon.com, Inc.|
-|17|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|88.99.253.36|2082|Germany|Falkenstein|Hetzner Online GmbH|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|11|54.158.219.104|8443|United States|Ashburn|Amazon.com, Inc.|
+|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|13|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|54.158.219.104|8443|United States|Ashburn|Amazon.com, Inc.|
+|18|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
 
 
 
