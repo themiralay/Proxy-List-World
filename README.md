@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|45.10.69.102|8888|United States|Los Angeles|Zenlayer Inc|
 |2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|20.171.155.180|3128|United States|Phoenix|Microsoft Corporation|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|20.171.155.180|3128|United States|Phoenix|Microsoft Corporation|
-|11|174.138.162.194|8178|United States|Phoenix|Secured Servers LLC|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
+|9|45.10.69.102|8888|United States|Los Angeles|Zenlayer Inc|
+|10|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|174.138.162.194|8178|United States|Phoenix|Secured Servers LLC|
+|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|14|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|17|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
+|20|174.138.163.52|38502|United States|Phoenix|Secured Servers LLC|
 
 
 
