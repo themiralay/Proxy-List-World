@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|187.143.206.162|3128|Mexico|Magdalena Contreras|UNINET|
-|11|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|12|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|13|43.128.117.166|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|17|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|180.191.137.251|5050|Philippines|Arteche|Globe Telecom|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
 |20|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
 
 
