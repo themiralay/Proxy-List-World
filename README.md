@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|35.174.16.2|1001|United States|Ashburn|Amazon.com, Inc.|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|10|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|11|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 |13|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|16|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|35.174.16.2|1001|United States|Ashburn|Amazon.com, Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |17|160.153.172.106|3193|United States|Tempe|GoDaddy.com, LLC|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|19|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
+|20|51.146.240.4|8181|France|Paris|Datacamp Limited|
 
 
 
