@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|213.110.227.154|2080|Russia|Krasnoyarsk|Orion Telecom LLC|
-|15|119.2.41.29|8080|Indonesia|Bekasi|PT. Laxo Global Akses|
-|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|17|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|19|89.169.135.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|20|158.220.99.85|4545|France|Lauterbourg|Contabo GmbH|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|9|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.78.212.217|32053|Japan|Tokyo|Amazon.com, Inc.|
+|14|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|45.174.168.11|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|17|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|185.248.179.99|8080|Czechia|Prague|T-Mobile Czech Republic a.s.|
+|20|89.169.135.131|80|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
