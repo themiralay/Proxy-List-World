@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.11.41|3128|Singapore|Singapore|LINODE|
 |2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|160.19.19.102|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|12|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
-|13|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|118.173.91.229|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|12|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|103.159.195.7|7777|Indonesia|Batang|PT Giga Digital Nusantara|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|164.52.216.148|8080|India|Noida|E2E Networks Limited|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
