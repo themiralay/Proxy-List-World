@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|160.153.172.106|3193|United States|Tempe|GoDaddy.com, LLC|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
 |10|160.153.172.106|3193|United States|Tempe|GoDaddy.com, LLC|
-|11|47.238.127.54|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|193.233.232.49|3131|Austria|Vienna|Aeza International LTD|
-|19|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
-|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
+|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|160.153.172.106|3193|United States|Tempe|GoDaddy.com, LLC|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|103.171.183.222|7777|Indonesia|Ciranjang-hilir|PT Hayat Teknologi Informatika|
+|20|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
 
 
 
