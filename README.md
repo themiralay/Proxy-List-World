@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|8|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|14|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|12|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
+|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
 
 
 
