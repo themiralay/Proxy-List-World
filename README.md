@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5168** proxies at the latest update. Usable proxies are below.
+> Scraper found **5226** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|493|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2777|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|11|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|4|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|151.185.58.33|8080|India|New Delhi|E2E Networks Limited|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|216.48.180.178|8080|India|Noida|E2E Networks Limited|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|15|103.247.82.36|8085|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
