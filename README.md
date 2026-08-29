@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4807** proxies at the latest update. Usable proxies are below.
+> Scraper found **4846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|453|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|492|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2777|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
-|5|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|114.94.148.37|18080|China|Hangzhou|China Telecom (Group)|
-|17|89.169.135.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|18|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
-|19|102.222.51.105|8080|Botswana|Maun|JENNY INTERNET (PTY) LTD|
-|20|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|1|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|19|165.99.234.53|10000|Vietnam|Thanh Xuân|VMON|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
