@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|103.137.35.2|80|Indonesia|Bandung|PT Parsaoran Global Datatrans|
+|7|103.165.212.26|8080|Indonesia|East Jakarta|PT iForte Global Internet|
 |8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|15|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|174.138.162.194|8178|United States|Phoenix|Secured Servers LLC|
 
 
 
