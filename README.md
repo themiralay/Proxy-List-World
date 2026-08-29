@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|165.99.14.18|9002|Vietnam|Hanoi|Lienvps Technology Company Limited|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|103.179.180.182|3128|Indonesia|Bekasi|PT Karya Aneka Persada|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|11|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|16|165.99.234.53|10001|Vietnam|Thanh Xuân|VMON|
-|17|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|19|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|3|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|124.158.164.150|8080|Indonesia|Bekasi|ICON+|
+|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|165.99.234.53|10000|Vietnam|Thanh Xuân|VMON|
+|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|17|43.128.117.166|10808|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|19|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
