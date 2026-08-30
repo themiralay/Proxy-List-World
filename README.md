@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|144.31.116.142|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|144.31.118.56|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|14|144.31.116.142|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
 |16|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
+|17|174.138.161.194|8254|United States|Phoenix|Secured Servers LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|144.31.118.56|3128|Germany|Frankfurt am Main|Senko Digital LLC|
 
 
 
