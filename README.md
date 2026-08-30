@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.145.57.85|5050|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
+|1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|151.185.41.195|8080|India|New Delhi|E2E Networks Limited|
-|9|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
-|10|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|11|203.95.198.119|1256|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|12|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|174.138.162.194|8178|United States|Phoenix|Secured Servers LLC|
-|20|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|103.39.51.157|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|15|45.174.168.56|999|Mexico|Tulancingo|Telecomunicaciones Otomies|
+|16|144.31.118.56|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|174.138.162.34|62540|United States|Phoenix|Secured Servers LLC|
+|20|174.138.161.197|8254|United States|Phoenix|Secured Servers LLC|
 
 
 
