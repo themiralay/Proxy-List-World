@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
 |3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|172.105.53.25|8881|India|Mumbai|Akamai Technologies|
-|12|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|13|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|172.105.53.25|8881|India|Mumbai|Akamai Technologies|
+|9|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|10|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|12|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|14|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
+|15|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|16|27.147.143.102|3128|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|19|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|20|181.215.18.40|3128|Hong Kong|Hong Kong|Datacamp Limited|
 
 
 
