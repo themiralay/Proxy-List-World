@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|7|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+
 
 
 ## Contributing
