@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|154.18.255.27|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |7|160.19.19.239|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|103.156.15.52|8080|Indonesia|Cilegon|PT Lintas Jaringan Nusantara|
-|13|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|157.15.62.106|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|18|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|154.18.255.27|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|157.15.62.106|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|13|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|20|174.138.162.198|8001|United States|Phoenix|Secured Servers LLC|
 
 
 
