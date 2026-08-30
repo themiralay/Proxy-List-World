@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5740** proxies at the latest update. Usable proxies are below.
+> Scraper found **5488** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|792|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|737|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|601|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3011|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.165.212.26|8080|Indonesia|East Jakarta|PT iForte Global Internet|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|103.118.175.90|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
-|20|78.17.144.48|8443|Finland|Helsinki|Hostkey B.V.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|3|192.58.98.37|8080|Indonesia|Bandung|PT Sinergi Jaringan Telekomunikasi|
+|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|174.138.165.205|8254|United States|Phoenix|Secured Servers LLC|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
