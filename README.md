@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|7|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|13|51.146.240.4|8080|France|Paris|Datacamp Limited|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|174.138.162.34|54270|United States|Phoenix|Secured Servers LLC|
-|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|19|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|10|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|11|35.180.140.81|3128|France|Paris|Amazon Technologies Inc.|
+|12|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|13|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
+|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|15|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|16|78.17.144.48|8443|Finland|Helsinki|Hostkey B.V.|
+|17|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|18|174.138.161.194|8254|United States|Phoenix|Secured Servers LLC|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
