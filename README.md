@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6952** proxies at the latest update. Usable proxies are below.
+> Scraper found **6914** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|687|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2016|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3011|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|103.162.16.60|8080|Indonesia|Jekulo|PT Mega Data Perkasa|
+|11|181.215.18.40|8181|Hong Kong|Hong Kong|Datacamp Limited|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |14|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|19|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
 |20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
