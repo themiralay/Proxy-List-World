@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|103.118.175.90|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|16|103.109.1.117|8080|Indonesia|Manokwari|SHANGTEL|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|177.240.3.195|999|Mexico|San Pedro Huilotepec|Mega Cable, S.A. de C.V.|
 
 
 
