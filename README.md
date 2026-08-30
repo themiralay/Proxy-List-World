@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|38.49.156.238|10101|Mexico|Querétaro City|IENTC S de RL de CV|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |11|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|17|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|15|217.114.43.142|8080|Russia|Moscow|Miglovets Egor Andreevich|
+|16|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|17|51.146.240.4|8080|France|Paris|Datacamp Limited|
+|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|19|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 
 
 
