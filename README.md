@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|151.185.58.7|8080|India|New Delhi|E2E Networks Limited|
 |4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |6|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
 |7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|8|164.52.213.118|8080|India|Noida|E2E Networks Limited|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|11|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
-|12|35.180.140.81|3128|France|Paris|Amazon Technologies Inc.|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|15|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
-|20|164.52.11.194|18080|Taiwan|Daan|CDS Global Cloud Co., Ltd|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|174.138.161.197|8254|United States|Phoenix|Secured Servers LLC|
+|18|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
+|19|35.180.140.81|3128|France|Paris|Amazon Technologies Inc.|
+|20|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
