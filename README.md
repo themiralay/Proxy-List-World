@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |2|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|13|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
-|14|85.14.247.169|3128|Germany|Düsseldorf|WIIT AG|
-|15|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|16|95.254.142.165|3128|Italy|Locate Varesino|Telecom Italia S.p.A|
-|17|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|19|118.99.98.125|8080|Indonesia|West Jakarta|Biznet Gamers|
-|20|89.169.135.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|5|199.7.149.90|3128|United States|Stratford|EXO BROADBAND|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|8|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|10|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|11|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|12|89.169.135.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|19|78.17.144.48|8443|Finland|Helsinki|Hostkey B.V.|
+|20|182.253.10.20|8080|Indonesia|West Jakarta|BIZNET|
 
 
 
