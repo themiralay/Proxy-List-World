@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|618|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|618|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|618|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|554|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|554|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|554|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.163.158.64|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|164.52.213.118|8080|India|Noida|E2E Networks Limited|
-|9|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|1|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
 |10|164.52.196.127|8080|India|Noida|E2E Networks Limited|
-|11|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|13|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
 |14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|16|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
-|17|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|20|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|15.160.88.190|3128|Italy|Milan|Amazon Technologies Inc|
+|16|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|17|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 
 
 
