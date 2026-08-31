@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|47.236.187.5|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|7|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|103.177.118.145|8118|Bangladesh|Motijheel|Duranta Online|
+|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|181.215.18.40|43|Hong Kong|Hong Kong|Datacamp Limited|
 
 
 
