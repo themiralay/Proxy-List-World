@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|817|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|817|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|817|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|782|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|782|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|782|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|115.178.50.73|8080|Indonesia|Cinisti|NOC SIMAYA|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|9|172.105.53.25|8881|India|Mumbai|Akamai Technologies|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|172.105.53.25|8881|India|Mumbai|Akamai Technologies|
 |11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|15|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|14|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|114.7.20.60|3128|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|20|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
