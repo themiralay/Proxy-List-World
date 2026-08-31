@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5796** proxies at the latest update. Usable proxies are below.
+> Scraper found **5737** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1102|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2588|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|2|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|18.163.158.64|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|4|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |6|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|7|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|172.105.53.25|8881|India|Mumbai|Akamai Technologies|
-|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|164.52.196.127|8080|India|Noida|E2E Networks Limited|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|189.223.103.166|80|Mexico|Tijuana|UNINET|
-|19|15.160.88.190|3128|Italy|Milan|Amazon Technologies Inc|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|18.163.158.64|10808|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|164.52.216.18|8080|India|Noida|E2E Networks Limited|
+|15|164.52.216.51|8080|India|Noida|E2E Networks Limited|
+|16|58.147.189.63|3125|Indonesia|Sungaiduri|PT Transhybrid Communication|
+|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|18|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|19|164.52.196.127|8080|India|Noida|E2E Networks Limited|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
