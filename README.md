@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|164.52.216.51|8080|India|Noida|E2E Networks Limited|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|3|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|164.52.213.118|8080|India|Noida|E2E Networks Limited|
+|12|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|17|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
