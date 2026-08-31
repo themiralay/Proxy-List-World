@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|612|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|612|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|612|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|15|49.51.253.118|8888|United States|Santa Clara|OPHL|
-|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|19|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
-|20|15.161.147.63|3128|Italy|Milan|Amazon.com, Inc.|
+|1|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
+|4|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|160.19.19.227|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|9|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|10|49.51.253.118|8888|United States|Santa Clara|OPHL|
+|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.168.44.83|8081|Indonesia|South Jakarta|PT CYB Media Group|
+|14|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|18|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|20|103.177.118.145|8118|Bangladesh|Motijheel|Duranta Online|
 
 
 
