@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|112.216.54.226|12121|South Korea|Bucheon-si|LG DACOM Corporation|
 |3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|4|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|182.253.121.58|8080|Indonesia|Jepara|BIZNET|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|6|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|14|164.52.213.118|8080|India|Noida|E2E Networks Limited|
 |15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|19|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|20|15.160.88.190|3128|Italy|Milan|Amazon Technologies Inc|
+|16|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|19|47.251.15.156|40000|United States|Santa Clara|Alibaba Cloud LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
