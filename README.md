@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5749** proxies at the latest update. Usable proxies are below.
+> Scraper found **5618** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|916|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1026|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2607|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|151.243.153.157|8118|United States|Seattle|Black Apple|
-|12|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|13|91.231.186.236|8181|United Kingdom|London|Clouvider Limited|
-|14|204.76.203.9|8080|The Netherlands|Eygelshoven|Pfcloud UG|
-|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
-|20|179.41.11.138|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|1|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|144.79.228.174|8080|Indonesia|Semarang Regency|PT Teja Bala Abadi|
+|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|51.255.87.166|8911|France|Roubaix|OVH SAS|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|17|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|18|204.76.203.9|8080|The Netherlands|Eygelshoven|Pfcloud UG|
+|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
 
 
 
