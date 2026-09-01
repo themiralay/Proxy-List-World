@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|18|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|19|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|2.28.69.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
