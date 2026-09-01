@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|18.188.200.214|1001|United States|Columbus|Amazon.com, Inc.|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|18.188.200.214|1001|United States|Columbus|Amazon.com, Inc.|
-|16|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|5|144.202.16.214|3129|United States|Atlanta|The Constant Company|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|11|18.188.200.214|1001|United States|Columbus|Amazon.com, Inc.|
+|12|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|16|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|18.188.200.214|1001|United States|Columbus|Amazon.com, Inc.|
+|20|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
