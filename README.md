@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|7|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
 |8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|10|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|11|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|12|154.64.245.136|8080|Hong Kong|Hong Kong|NetLab Global|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|15|15.161.147.63|3128|Italy|Milan|Amazon.com, Inc.|
-|16|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|13.43.86.148|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|10|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|13|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|16|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|17|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|18|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
+|20|15.161.147.224|3128|Italy|Milan|Amazon.com, Inc.|
 
 
 
