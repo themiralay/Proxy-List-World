@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|712|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|712|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|712|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|164.52.216.18|8080|India|Noida|E2E Networks Limited|
-|15|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|16|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|17|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|18|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|19|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|20|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
+|1|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|159.223.52.199|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|154.64.245.136|8080|Hong Kong|Hong Kong|NetLab Global|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|8|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|15|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|15.161.147.224|3128|Italy|Milan|Amazon.com, Inc.|
+|18|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
+|19|15.161.101.99|3128|Italy|Milan|Amazon.com, Inc.|
+|20|13.43.86.148|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
