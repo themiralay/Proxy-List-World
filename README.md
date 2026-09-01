@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.10.70.247|8888|United States|Los Angeles|Zenlayer Inc|
-|7|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|11|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|16|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|15.161.53.177|3128|Italy|Milan|Amazon.com, Inc.|
+|19|13.43.86.148|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
