@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4920** proxies at the latest update. Usable proxies are below.
+> Scraper found **4980** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|360|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|512|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2908|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|139.162.89.198|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|19|157.15.63.81|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|20|131.153.187.19|8001|United States|Ashburn|Secured Servers LLC|
 
 
 
