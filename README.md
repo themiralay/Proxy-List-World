@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|20|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|6|138.84.65.187|9090|Philippines|Marilao|Globe Telecom|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|13.213.188.229|443|Singapore|Singapore|Amazon Technologies Inc.|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
