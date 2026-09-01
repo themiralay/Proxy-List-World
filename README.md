@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
-|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|18|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|18.175.250.194|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|20|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
 
 
 
