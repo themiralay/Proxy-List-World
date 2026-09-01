@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|8|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
+|9|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |15|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|16|2.28.69.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|19|131.153.187.18|8001|United States|Ashburn|Secured Servers LLC|
-|20|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
