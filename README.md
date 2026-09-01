@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|45.152.66.150|1025|United Kingdom|London|Lucidacloud Limited|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|1|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|82.102.11.164|3460|United Kingdom|Gosport|Redstation Limited|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|149.28.251.187|1082|United States|Dallas|The Constant Company|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
