@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|130.61.112.125|443|Germany|Frankfurt am Main|Oracle Corporation|
+|12|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|18|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
-|19|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|20|131.153.187.19|8001|United States|Ashburn|Secured Servers LLC|
+|15|194.87.35.27|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|2.28.69.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
