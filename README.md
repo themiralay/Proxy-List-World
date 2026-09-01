@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|669|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|669|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|669|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|690|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|690|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|690|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.164.136.235|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|211.226.255.198|1314|South Korea|Gimpo-si|Korea Telecom|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|211.226.255.198|1314|South Korea|Gimpo-si|Korea Telecom|
+|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
+|6|44.208.227.72|3128|United States|Ashburn|Amazon.com|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
 |9|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|14.139.235.82|3128|India|New Delhi|National Knowledge Network|
-|19|199.7.149.96|3128|United States|Stratford|EXO BROADBAND|
-|20|64.112.184.210|3128|United States|Richmond|Hosted Backbone|
+|10|164.52.214.97|8080|India|Noida|E2E Networks Limited|
+|11|103.153.52.200|80|Bangladesh|Narayanganj|BKB Network|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|103.153.52.206|80|Bangladesh|Narayanganj|BKB Network|
+|15|103.153.52.207|80|Bangladesh|Narayanganj|BKB Network|
+|16|103.153.52.202|80|Bangladesh|Narayanganj|BKB Network|
+|17|103.153.52.203|80|Bangladesh|Narayanganj|BKB Network|
+|18|103.153.52.205|80|Bangladesh|Narayanganj|BKB Network|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
