@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|15|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|16|131.153.187.18|8001|United States|Ashburn|Secured Servers LLC|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|131.153.187.18|8001|United States|Ashburn|Secured Servers LLC|
-|19|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|20|2.28.69.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|138.124.118.235|8080|Finland|Helsinki|Aeza International LTD|
+|17|156.245.246.51|7890|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|18|85.193.65.88|8888|Russia|Moscow|K-telekom LLC|
+|19|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
