@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|201.77.108.156|999|Mexico|Valle de Ignacio Allende|Raul Duarte Urita|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|156.238.229.2|2080|United States|Los Angeles|cognetcloud INC|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
