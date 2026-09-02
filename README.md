@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|27.72.227.134|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|45.66.249.187|8080|United States|Los Angeles|BlueVPS OU|
-|14|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
+|3|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
+|9|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|10|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|110.232.78.195|8080|Indonesia|Belawan|PT. Media Antar Nusa|
+|15|91.223.116.132|3128|Iran|Isfahan|Dadeh Gostar Parmis PJS Company|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|5.202.120.123|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 
 
 
