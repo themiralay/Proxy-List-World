@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
-|2|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|5|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |8|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|154.21.92.198|3038|United States|Los Angeles|DMIT Cloud Services|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|154.21.92.198|3038|United States|Los Angeles|DMIT Cloud Services|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
