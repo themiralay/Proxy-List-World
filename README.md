@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
-|14|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|19|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|20|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|103.142.255.32|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|14|103.174.122.98|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|15|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
