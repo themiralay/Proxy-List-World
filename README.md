@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|709|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|709|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|709|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|751|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|751|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|751|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|3|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
-|4|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|5|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|1|131.186.59.112|2080|Japan|Tokyo|Oracle Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|6|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
+|7|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|8|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
 |9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
-|17|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|18|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|103.169.135.43|8080|Indonesia|Ngasinan|PT Neo Santara Solusi|
+|13|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|192.129.145.138|8118|United States|Los Angeles|HostPapa|
+|18|45.198.10.243|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
 
 
 
