@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
+|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|9|164.52.214.97|8080|India|Noida|E2E Networks Limited|
-|10|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|131.186.59.112|2080|Japan|Tokyo|Oracle Corporation|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
 |18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|164.92.182.55|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
