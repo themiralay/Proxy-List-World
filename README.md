@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|2|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|5|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
-|6|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
+|5|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|15|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
-|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|152.67.221.233|8008|South Korea|Chuncheon|Oracle Corporation|
+|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|103.156.57.135|9988|Indonesia|Batam|PT Filltech Antar Nusa|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
