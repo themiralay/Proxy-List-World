@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
+|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|3|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|4|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|10|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|12|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
 |17|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
