@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|8|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|9|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
 |12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|19|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
-|20|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|43.153.54.58|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
