@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5366** proxies at the latest update. Usable proxies are below.
+> Scraper found **5369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3051|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |9|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|12|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |14|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|34.223.251.103|1001|United States|Boardman|Amazon.com, Inc.|
-|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|131.153.187.18|8001|United States|Ashburn|Secured Servers LLC|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+|19|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|20|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
