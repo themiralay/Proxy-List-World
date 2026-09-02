@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|131.186.47.196|3128|Japan|Tokyo|Oracle Corporation|
-|2|31.57.172.220|10809|Japan|Tokyo|ByteVirt LLC|
-|3|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|192.236.242.201|2055|United States|Los Angeles|HostPapa|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
-|17|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|19|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
-|20|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|154.21.92.198|3001|United States|Los Angeles|DMIT Cloud Services|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|10|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|136.49.39.61|8888|United States|Austin|Google Fiber Inc.|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
