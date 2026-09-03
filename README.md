@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|766|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|766|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|766|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|841|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|841|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|841|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.189.223.19|7557|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
-|9|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|1|43.164.129.84|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|17|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|18|103.157.79.5|8080|Indonesia|Jakarta|EASTMEDIA|
-|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|20|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|68.189.214.35|80|United States|Fort Worth|Charter Communications|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|20.110.224.54|3128|United States|Boydton|Microsoft Corporation|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
