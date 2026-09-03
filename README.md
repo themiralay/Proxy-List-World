@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5625** proxies at the latest update. Usable proxies are below.
+> Scraper found **5521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|682|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2774|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|11|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
+|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
 |13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|19|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|20|54.218.17.89|3128|United States|Boardman|Amazon.com, Inc.|
+|14|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|17|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|104.207.139.62|1080|United States|Elk Grove Village|The Constant Company|
+|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 
 
 
