@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|811|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|811|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|811|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|706|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|706|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|706|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
-|6|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|68.189.214.35|80|United States|Fort Worth|Charter Communications|
-|13|24.63.12.233|8080|United States|Watertown|Comcast Cable Communications|
-|14|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|15|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
-|16|54.225.244.139|8989|United States|Ashburn|Amazon.com, Inc.|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|20|68.189.214.35|80|United States|Fort Worth|Charter Communications|
+|2|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
+|3|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|11|103.153.149.59|8034|Indonesia|Gianyar|JARINGANKU|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|15|54.225.244.139|8989|United States|Ashburn|Amazon.com, Inc.|
+|16|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|20|154.29.153.164|35554|United States|Los Angeles|Cogent Communications|
 
 
 
