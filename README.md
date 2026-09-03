@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|79.137.78.31|3128|France|Roubaix|OVH SAS|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|77.239.124.129|3128|France|Paris|Banatsync SRL|
-|17|45.94.37.62|3128|The Netherlands|Amsterdam|RapidSeedbox Ltd|
-|18|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|19|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
-|20|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|17|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|18|79.137.78.31|3128|France|Roubaix|OVH SAS|
+|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
