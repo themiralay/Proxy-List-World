@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|17|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|79.137.78.31|3128|France|Roubaix|OVH SAS|
 
 
 
