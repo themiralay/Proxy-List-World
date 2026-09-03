@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|703|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|703|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|703|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|747|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|747|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|747|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|3|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|6|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|107.172.79.218|1080|United States|Santa Clara|HostPapa|
-|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|17|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
 |18|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|19|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|49.49.93.129|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|19|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
