@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|708|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|708|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|708|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|54.245.178.126|3128|United States|Boardman|Amazon.com, Inc.|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|103.208.102.1|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|7|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|201.77.110.129|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|13|54.245.178.126|3128|United States|Boardman|Amazon.com, Inc.|
-|14|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|43.134.7.146|4000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|103.189.223.19|7557|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|5|43.133.54.152|7890|Singapore|Singapore|Aceville Pte.ltd|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
+|8|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|9|54.245.178.126|3128|United States|Boardman|Amazon.com, Inc.|
+|10|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|54.245.178.126|3128|United States|Boardman|Amazon.com, Inc.|
+|17|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
