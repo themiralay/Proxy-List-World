@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|637|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|637|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|637|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|4|165.245.187.193|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|108.61.213.218|80|Australia|Sydney|Choopa|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|130.51.23.86|3128|United States|Chicago|tzulo, inc.|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|130.51.23.86|3128|United States|Chicago|tzulo, inc.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|103.191.116.122|8080|Indonesia|Cikampek|PT. SILOKA INTEGRASI TEKNOLOGI|
+|16|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|180.191.230.53|8082|Philippines|Baybay|Globe Telecom|
+|19|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|20|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
 
 
 
