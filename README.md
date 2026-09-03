@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|103.184.54.7|8080|Indonesia|Sumbersari Wetan|PT Proxi Jaringan Nusantara|
+|7|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|43.133.54.152|7890|Singapore|Singapore|Aceville Pte.ltd|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 |12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|18|103.191.196.205|1111|Indonesia|Jatibarang|PT Pangkalan Lintas Data|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|81.200.155.224|1080|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|45.94.37.62|3128|The Netherlands|Amsterdam|RapidSeedbox Ltd|
 
 
 
