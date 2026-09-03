@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|672|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|672|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|672|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|5|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|64.188.105.147|18080|Germany|Frankfurt am Main|Senko Digital LLC|
+|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
