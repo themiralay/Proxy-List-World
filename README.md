@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|1|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|140.245.238.56|53|India|Hyderabad|Oracle Corporation|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|129.226.216.7|443|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|18|45.154.204.203|9443|Canada|Montreal|BrainStorm Network, Inc|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|45.154.204.203|9443|Canada|Montreal|BrainStorm Network, Inc|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|16|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
+|19|45.94.37.62|3128|The Netherlands|Amsterdam|RapidSeedbox Ltd|
+|20|62.76.103.121|8001|Russia|Moscow|Start LLC|
 
 
 
