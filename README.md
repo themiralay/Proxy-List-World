@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|812|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|812|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|812|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|8|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|12|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|16|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|17|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+
 
 
 ## Contributing
