@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|1|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|2|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|6|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|64.188.105.147|18080|Germany|Frankfurt am Main|Senko Digital LLC|
-|14|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|7|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|16|64.188.105.147|18080|Germany|Frankfurt am Main|Senko Digital LLC|
+|17|138.201.37.92|40001|Germany|Falkenstein|Hetzner Online GmbH|
 |18|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|20|180.191.136.230|8081|Philippines|Lahug|Globe Telecom|
+|19|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
