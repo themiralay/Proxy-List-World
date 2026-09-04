@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|804|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|804|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|876|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|876|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|876|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
+|3|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|4|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|47.251.74.45|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+
 
 
 ## Contributing
