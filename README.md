@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|181.39.25.196|8118|Ecuador|Quito|Telconet S.A|
-|17|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
-|18|45.94.37.62|3128|The Netherlands|Amsterdam|RapidSeedbox Ltd|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|6|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|7|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|203.175.103.9|3125|Indonesia|Garawangi|PT. Mitra Kita Brilian|
+|15|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|62.60.239.29|3128|Austria|Vienna|Aeza International LTD|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
