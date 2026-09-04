@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|8|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|15|138.201.37.92|40001|Germany|Falkenstein|Hetzner Online GmbH|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 |16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|38.209.126.166|10001|United States|Los Angeles|Cogent Communications|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|18|202.73.4.221|8080|Hong Kong|Tsuen Wan|Dromatics Systems Pte Ltd|
+|19|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
