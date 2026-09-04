@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|9|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 
 
 
