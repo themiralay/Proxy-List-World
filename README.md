@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|220.84.29.183|8080|South Korea|Haman-gun|KORNET|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|4|220.84.29.183|8080|South Korea|Haman-gun|KORNET|
 |5|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |11|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|19|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|17|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|18|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
