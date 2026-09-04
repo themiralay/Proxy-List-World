@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|2|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
 |3|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|7|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 |14|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
 |15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
