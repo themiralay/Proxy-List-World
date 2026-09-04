@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|805|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|805|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|805|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|840|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|840|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|840|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|5|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|12|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|18|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|19|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|137.184.33.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|17|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|154.12.242.0|1080|United States|Seattle|Contabo Inc|
 
 
 
