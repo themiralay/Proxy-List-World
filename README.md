@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|1.9.88.152|8088|Malaysia|Segamat|TM TECHNOLOGY SERVICES SDN BHD|
-|4|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|103.55.225.54|8080|Indonesia|Karawang|PT Gapura Era Digital|
-|6|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|159.196.182.72|8080|Australia|Melbourne|Aussie Fibre Pty Ltd|
-|10|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|103.231.236.133|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|16|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|154.19.38.37|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|1.9.88.152|8088|Malaysia|Segamat|TM TECHNOLOGY SERVICES SDN BHD|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|8|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|20|110.136.15.201|8080|Indonesia|West Jakarta|PT. TELKOM INDONESIA|
 
 
 
