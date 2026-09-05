@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|203.205.49.2|10221|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|17|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|18|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|12|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
