@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|65.1.240.131|3001|India|Mumbai|Amazon.com|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|9|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|10|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|11|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|8|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|9|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|14|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 |17|2.26.50.223|8443|Germany|Frankfurt am Main|Play2go International Limited|
 |18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|19|193.42.112.150|1088|Estonia|Kuusalu|HexCore cloud s.r.o.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
