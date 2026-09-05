@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|8|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|9|54.215.177.125|1001|United States|San Jose|Amazon.com, Inc.|
-|10|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|45.154.204.203|9443|Canada|Montreal|BrainStorm Network, Inc|
-|13|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|54.215.177.125|1001|United States|San Jose|Amazon.com, Inc.|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|144.202.16.214|3129|United States|Atlanta|The Constant Company|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|5|54.215.177.125|1001|United States|San Jose|Amazon.com, Inc.|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|11|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|13|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|17|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|18|54.215.177.125|1001|United States|San Jose|Amazon.com, Inc.|
+|19|47.252.51.6|8888|United States|Charlottesville|Alibaba Cloud LLC|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
