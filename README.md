@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|14|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|15|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|12|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|13|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|19|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
