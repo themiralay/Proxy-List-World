@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|11|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|24.153.226.234|8056|United States|Dallas|Charter Communications Inc|
+|1|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|14|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
 |15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|148.135.34.102|1081|United States|Los Angeles|Multacom Corporation|
-|18|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|19|154.12.242.0|1080|United States|Seattle|Contabo Inc|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
 
 
 
