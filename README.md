@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
 |5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
 |7|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|103.133.26.73|3128|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
-|13|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|19|186.96.178.72|8081|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|10|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|11|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|154.12.242.0|1080|United States|Seattle|Contabo Inc|
+|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
