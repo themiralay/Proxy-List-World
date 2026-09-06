@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|11|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|12|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|18|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|12|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
