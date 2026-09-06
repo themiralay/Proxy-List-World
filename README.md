@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5251** proxies at the latest update. Usable proxies are below.
+> Scraper found **5312** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|636|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|636|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|636|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|701|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|522|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2889|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
 |6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|11|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|15|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|16|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|13|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |18|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 
 
 
