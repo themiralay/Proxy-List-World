@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |4|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|7|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|12|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|159.69.103.146|5555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|11|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|2.26.50.223|8443|Germany|Frankfurt am Main|Play2go International Limited|
+|13|159.69.103.146|5555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|17|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|18|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|163.181.207.213|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
 
 
 
