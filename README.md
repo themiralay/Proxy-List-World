@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|4|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|54.89.241.188|8080|United States|Ashburn|Amazon.com, Inc.|
-|13|45.154.204.203|9443|Canada|Montreal|BrainStorm Network, Inc|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|9|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|10|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 |17|54.89.241.188|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|112.202.238.1|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
