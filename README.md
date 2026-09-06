@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|10|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|13|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|20|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|7|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|12|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|16|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|107.189.4.144|8080|Luxembourg|Roost|FranTech Solutions|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
