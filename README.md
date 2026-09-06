@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|6|171.245.255.164|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
 |8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|10|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|19|2.26.50.223|8443|Germany|Frankfurt am Main|Play2go International Limited|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
