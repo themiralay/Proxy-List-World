@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|5|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|8|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|171.237.237.218|10033|Vietnam|Hanoi|Viettel Corporation|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|11|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|14|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|14|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 
 
 
