@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|3|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|11|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|9|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|14|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|16|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
