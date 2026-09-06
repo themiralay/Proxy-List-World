@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|204.152.192.24|10808|United States|Los Angeles|HostPapa|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
-|9|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|118.173.245.53|8081|Thailand|Bangkok|TOT Public Company Limited|
-|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|10|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|13|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |19|54.89.241.188|8080|United States|Ashburn|Amazon.com, Inc.|
-|20|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
