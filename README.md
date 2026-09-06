@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5146** proxies at the latest update. Usable proxies are below.
+> Scraper found **5133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3014|✅|
 
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|16.163.225.206|9090|Hong Kong|Hong Kong|Amazon.com, Inc.|
 |2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|7|13.203.138.32|3001|India|Mumbai|Amazon.com, Inc.|
+|8|65.1.240.131|3001|India|Mumbai|Amazon.com|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
 |20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
