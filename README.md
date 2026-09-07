@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5545** proxies at the latest update. Usable proxies are below.
+> Scraper found **5810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|728|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|993|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|676|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2941|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |2|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|17|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
 |18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 
 
 
