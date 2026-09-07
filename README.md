@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|964|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|964|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|964|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|108.165.184.58|443|United States|New York|Ace Data Centers|
-|5|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
-|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|10|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|11|18.219.119.55|3128|United States|Columbus|Amazon.com, Inc.|
-|12|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|13|222.127.169.27|8086|Philippines|Iloilo City|Globe Telecom Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|4|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
+|8|108.165.184.58|443|United States|New York|Ace Data Centers|
+|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|10|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
 |14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|108.165.184.58|443|United States|New York|Ace Data Centers|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|38.211.24.242|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|20|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|17|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|18|108.165.184.58|443|United States|New York|Ace Data Centers|
+|19|47.76.157.216|8118|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|18.219.119.55|3128|United States|Columbus|Amazon.com, Inc.|
 
 
 
