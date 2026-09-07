@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|108.165.184.58|443|United States|New York|Ace Data Centers|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|160.19.18.99|8080|Indonesia|Cigunung|PT Indo Telemedia Solusi|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|108.165.184.58|443|United States|New York|Ace Data Centers|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |20|108.165.184.58|443|United States|New York|Ace Data Centers|
 
 
