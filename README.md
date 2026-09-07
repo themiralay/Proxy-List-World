@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|886|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|886|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|886|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|4|122.3.121.231|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|5|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|6|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|7|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|126.209.110.96|8087|Philippines|Cebu City|Infinivan Incorporated|
-|13|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|14|157.15.62.106|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|1|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 |15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|17|103.97.140.127|3125|Indonesia|Lembang|PT Jembatan Data Pangrango|
-|18|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|210.87.92.54|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|20|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
