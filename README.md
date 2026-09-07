@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|788|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|788|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|788|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|10|103.159.96.117|80|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|19|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|49.49.62.108|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|8|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.194.41.155|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|173.249.205.248|7890|United States|Phoenix|tzulo, inc.|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|19|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
