@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|7|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|12|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|15|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|108.165.184.58|443|United States|New York|Ace Data Centers|
-|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.32.57.211|1080|Japan|Minamishinagawa|Choopa|
+|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|173.254.204.118|7890|United States|Los Angeles|HostPapa|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|108.165.184.58|443|United States|New York|Ace Data Centers|
+|18|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
 
