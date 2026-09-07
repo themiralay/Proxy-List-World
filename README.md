@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|66.187.4.215|1080|United States|Las Vegas|Hostodo|
 |5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|66.187.4.215|1080|United States|Las Vegas|Hostodo|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|66.187.4.215|1080|United States|Las Vegas|Hostodo|
-|11|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|108.165.184.58|443|United States|New York|Ace Data Centers|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|108.165.184.58|443|United States|New York|Ace Data Centers|
+|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
+|16|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|108.165.184.58|443|United States|New York|Ace Data Centers|
+|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
 
 
 
