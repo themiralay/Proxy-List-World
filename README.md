@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|66.187.4.215|1080|United States|Las Vegas|Hostodo|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|108.165.184.58|443|United States|New York|Ace Data Centers|
-|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|11|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 |12|66.187.4.215|1080|United States|Las Vegas|Hostodo|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|108.165.184.58|443|United States|New York|Ace Data Centers|
-|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|20|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|18|2.27.63.250|8118|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
