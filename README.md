@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|47.76.157.216|8118|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|11|108.165.184.58|443|United States|New York|Ace Data Centers|
-|12|35.92.177.209|3128|United States|Boardman|Amazon.com, Inc.|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|9|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|108.165.184.58|443|United States|New York|Ace Data Centers|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|103.18.77.77|1080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|35.92.177.209|3128|United States|Boardman|Amazon.com, Inc.|
 
 
 
