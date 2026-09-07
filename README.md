@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|8|3.142.69.17|3128|United States|Columbus|Amazon.com, Inc.|
-|9|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|108.165.184.58|443|United States|New York|Ace Data Centers|
-|12|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|47.76.157.216|8118|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|3.142.69.17|3128|United States|Columbus|Amazon.com, Inc.|
-|18|108.165.184.58|443|United States|New York|Ace Data Centers|
-|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|3.142.69.17|3128|United States|Columbus|Amazon.com, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|9|108.165.184.58|443|United States|New York|Ace Data Centers|
+|10|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|14|66.187.4.215|1080|United States|Las Vegas|Hostodo|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|3.142.69.17|3128|United States|Columbus|Amazon.com, Inc.|
+|17|108.165.184.58|443|United States|New York|Ace Data Centers|
+|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
