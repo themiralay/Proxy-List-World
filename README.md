@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
 |4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|13|108.165.184.58|443|United States|New York|Ace Data Centers|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|108.165.184.58|443|United States|New York|Ace Data Centers|
+|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
 |15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |17|108.165.184.58|443|United States|New York|Ace Data Centers|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
