@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|17|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|4|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|45.194.41.18|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|13|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|61.91.162.126|8080|Thailand|Thon Buri|True Internet Corporation CO. Ltd.|
+|19|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
 |20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 
 
