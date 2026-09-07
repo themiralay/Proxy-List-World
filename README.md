@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|11|113.172.133.193|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|168.119.59.172|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|108.165.184.58|443|United States|New York|Ace Data Centers|
+|7|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|8|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|108.165.184.58|443|United States|New York|Ace Data Centers|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|17|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|18|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
