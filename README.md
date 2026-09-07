@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|8|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|11|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|13|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|6|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|108.165.184.58|443|United States|New York|Ace Data Centers|
+|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|16|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|19|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
