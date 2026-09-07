@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|919|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|919|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|919|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|869|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|869|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|869|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|45.152.66.157|9090|United Kingdom|London|Lucidacloud Limited|
 |4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
-|7|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|9|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|12|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|7|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|19|125.26.50.30|8080|Thailand|Soi Dao|TOT Public Company Limited|
+|20|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
 
 
 
