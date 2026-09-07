@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|14|108.165.184.58|443|United States|New York|Ace Data Centers|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|108.165.184.58|443|United States|New York|Ace Data Centers|
-|20|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.192.98.52|18080|Hong Kong|Hong Kong|Vapeline Technology|
+|13|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|103.132.52.63|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|16|45.198.10.169|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|103.160.205.86|8080|Indonesia|Pendaleman|PRIME|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
 
 
 
