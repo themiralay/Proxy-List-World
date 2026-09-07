@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|6|103.155.196.178|8080|Indonesia|Bandung|JEMBATANDATA|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|9|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|17|175.143.76.177|8181|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|182.253.143.23|8080|Indonesia|Semarang|Biznet Networks|
+|7|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|13|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|15|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
