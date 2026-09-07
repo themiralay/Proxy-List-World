@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|108.165.184.58|443|United States|New York|Ace Data Centers|
+|10|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
 |11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|108.165.184.58|443|United States|New York|Ace Data Centers|
-|15|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|19|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|20|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|20|23.158.232.112|8080|United States|Chicago|tzulo, inc.|
 
 
 
