@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5925** proxies at the latest update. Usable proxies are below.
+> Scraper found **5686** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|897|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|776|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2813|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |5|108.165.184.58|443|United States|New York|Ace Data Centers|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|45.194.41.153|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|45.194.41.142|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
-|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|17|108.165.184.58|443|United States|New York|Ace Data Centers|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|16|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|108.165.184.58|443|United States|New York|Ace Data Centers|
 
 
 
