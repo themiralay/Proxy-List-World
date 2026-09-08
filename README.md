@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|157.66.170.164|7777|Indonesia|Bekasi|PT Runnet Media Utama|
 |7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|19|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|20|104.218.199.61|16062|United States|Denver|BraveWay LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|18|186.190.224.86|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|20|167.160.190.215|8080|Canada|Toronto|HostPapa|
 
 
 
