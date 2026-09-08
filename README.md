@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|108.165.184.58|443|United States|New York|Ace Data Centers|
 |3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|108.165.184.58|443|United States|New York|Ace Data Centers|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|108.165.184.58|443|United States|New York|Ace Data Centers|
-|9|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|10|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|91.107.232.169|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|108.165.184.58|443|United States|New York|Ace Data Centers|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|9|91.107.232.169|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|180.191.59.10|8081|Philippines|Tarlac City|Globe Telecom|
+|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 |19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
 
 
 
