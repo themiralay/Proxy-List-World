@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|108.165.184.58|443|United States|New York|Ace Data Centers|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|13|187.172.186.75|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|14|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|20|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|47.57.69.227|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|108.165.184.58|443|United States|New York|Ace Data Centers|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|108.165.184.58|443|United States|New York|Ace Data Centers|
+|16|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
