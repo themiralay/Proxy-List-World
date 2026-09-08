@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|18|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|19|5.101.216.82|3128|United Kingdom|Harlesden|G-Core Labs S.A.|
-|20|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|17|210.87.92.207|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|18|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|19|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|20|167.160.190.215|8080|Canada|Toronto|HostPapa|
 
 
 
