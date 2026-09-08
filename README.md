@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4522** proxies at the latest update. Usable proxies are below.
+> Scraper found **4565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|713|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|316|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2293|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|34.230.47.102|1001|United States|Ashburn|Amazon.com, Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|34.230.47.102|1001|United States|Ashburn|Amazon.com, Inc.|
-|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|34.230.47.102|1001|United States|Ashburn|Amazon.com, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|12|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|15|34.230.47.102|1001|United States|Ashburn|Amazon.com, Inc.|
 |16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |17|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|19|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|20|45.91.248.105|8080|United States|New York|YottaSrc|
 
 
 
