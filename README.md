@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|155.138.233.252|20002|United States|Atlanta|The Constant Company|
-|16|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|19|155.138.233.252|20002|United States|Atlanta|The Constant Company|
-|20|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|86.53.111.249|8080|Germany|Frankfurt am Main|GTT Communications Inc.|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|103.160.40.10|8080|Indonesia|Kadumantung|PT Wistel Teknologi Solusi|
+|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|19|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
 
 
 
