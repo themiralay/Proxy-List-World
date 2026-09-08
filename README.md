@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|4|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|5|43.153.61.90|40000|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
-|7|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|14|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|16|108.165.184.58|443|United States|New York|Ace Data Centers|
-|17|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|3|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|10|108.165.184.58|443|United States|New York|Ace Data Centers|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|19|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|20|108.165.184.58|443|United States|New York|Ace Data Centers|
 
 
 
