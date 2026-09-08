@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|9|108.165.184.58|443|United States|New York|Ace Data Centers|
-|10|45.194.41.51|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.41.24|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|108.165.184.58|443|United States|New York|Ace Data Centers|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|108.165.184.58|443|United States|New York|Ace Data Centers|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|16|45.194.41.142|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|108.165.184.58|443|United States|New York|Ace Data Centers|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 
 
 
