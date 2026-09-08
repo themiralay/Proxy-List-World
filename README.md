@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|94.136.185.35|30001|India|Mumbai|Contabo Asia Private Limited|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|4|52.26.104.224|3128|United States|Boardman|Amazon.com, Inc.|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|52.26.104.224|3128|United States|Boardman|Amazon.com, Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|94.136.185.35|30001|India|Mumbai|Contabo Asia Private Limited|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
