@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|190.60.50.13|999|Colombia|Barrancabermeja|Ufinet Panama S.A.|
-|18|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|19|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|203.76.220.121|4840|Bangladesh|Nawāb Char|BUSINESSNETWORK|
+|11|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|16|91.107.232.169|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
