@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|54.145.168.206|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|20|45.66.249.187|3128|United States|Los Angeles|BlueVPS OU|
+|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|20|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
 
 
 
