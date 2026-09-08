@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|47.79.227.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|12|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
-|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|16|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
-|17|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|1|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.79.227.196|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|7|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|18|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|79.154.2.246|8080|Spain|Alella|RIMA (Red IP Multi Acceso)|
 
 
 
