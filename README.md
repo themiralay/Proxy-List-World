@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4570** proxies at the latest update. Usable proxies are below.
+> Scraper found **4511** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|456|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|621|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2293|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|45.91.248.105|8080|United States|New York|YottaSrc|
-|10|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|11|45.91.248.105|8080|United States|New York|YottaSrc|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|14|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|18|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|18|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
+|19|5.101.216.82|3128|United Kingdom|Harlesden|G-Core Labs S.A.|
+|20|103.153.69.111|3128|Vietnam|Thanh Xuân|TAM|
 
 
 
