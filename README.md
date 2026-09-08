@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1034|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1034|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1034|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|172.237.90.118|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|217.142.139.207|8085|South Korea|Seoul|Oracle Corporation|
+|4|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|6|160.19.18.35|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|119.17.211.204|8080|Vietnam|Hanoi|Netnam Corporation|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|11|163.128.32.26|8080|Indonesia|Pringsewu|PT Pringsewu Digital Nusantara|
-|12|103.172.120.33|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|8|108.165.184.58|443|United States|New York|Ace Data Centers|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|108.165.184.58|443|United States|New York|Ace Data Centers|
 |14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|19|91.107.232.169|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
