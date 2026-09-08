@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5873** proxies at the latest update. Usable proxies are below.
+> Scraper found **5806** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|988|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|644|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3041|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|103.184.56.249|8080|Indonesia|Sangkangunung|PT Gading Bhakti Utama|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|17|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|15|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|20|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
 
 
 
