@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |4|140.99.255.67|3128|United States|Los Angeles|Ipxo LLC|
-|5|195.123.240.48|3128|United States|Los Angeles|Route 95 LLC|
-|6|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|103.167.169.78|3128|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|195.123.240.48|3128|United States|Los Angeles|Route 95 LLC|
-|20|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|8|178.156.147.172|40001|United States|Ashburn|Hetzner Online GmbH|
+|9|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|108.165.184.58|443|United States|New York|Ace Data Centers|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|20|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
 
 
 
