@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
 |6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|108.165.184.58|443|United States|New York|Ace Data Centers|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|3.139.76.27|3128|United States|Columbus|Amazon.com, Inc.|
-|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|18|140.99.255.67|43|United States|Los Angeles|Ipxo LLC|
-|19|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|8|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|116.105.32.29|8080|Vietnam|Hanoi|Viettel Group|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|108.165.184.58|443|United States|New York|Ace Data Centers|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|16|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|17|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|18|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|19|3.139.76.27|3128|United States|Columbus|Amazon.com, Inc.|
+|20|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 
 
 
