@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|835|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|835|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|835|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|12|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
-|13|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|18|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|140.99.255.67|8080|United States|Los Angeles|Ipxo LLC|
+|5|140.99.255.67|8181|United States|Los Angeles|Ipxo LLC|
+|6|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|108.165.184.58|443|United States|New York|Ace Data Centers|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|108.165.184.58|443|United States|New York|Ace Data Centers|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|85.202.86.187|8080|United States|Hadley|HOSTKEY|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
