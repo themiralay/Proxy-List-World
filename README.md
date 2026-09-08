@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5146** proxies at the latest update. Usable proxies are below.
+> Scraper found **4728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2595|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|101.255.117.70|8080|Indonesia|Central Jakarta|PT Remala Abadi|
-|7|108.165.184.58|443|United States|New York|Ace Data Centers|
-|8|1.20.207.6|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|3.139.76.27|3128|United States|Columbus|Amazon.com, Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
+|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|47.76.157.216|8118|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |13|3.139.76.27|3128|United States|Columbus|Amazon.com, Inc.|
-|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|104.251.93.168|16062|United States|Las Vegas|BraveWay LLC|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|108.165.184.58|443|United States|New York|Ace Data Centers|
-|18|159.195.194.242|8080|Germany|Nuremberg|netcup GmbH|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|192.42.85.30|8080|Indonesia|Parigi|PT Ryndo Jaringan Nusantara|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|171.245.11.176|18080|Vietnam|Haiphong|Viettel Corporation|
+|18|3.139.76.27|3128|United States|Columbus|Amazon.com, Inc.|
+|19|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 
 
 
