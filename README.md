@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |6|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|18|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|13|165.99.100.31|8080|Indonesia|Bengkayang|PT TELEKOMUNIKASI INDO PRIMA|
+|14|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|19|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
