@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|623|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|623|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|623|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|43.160.242.118|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|153.135.4.238|8080|Japan|Nakamurachō|NTT Communications Corporation|
+|2|160.187.174.132|3128|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|12|108.165.184.58|443|United States|New York|Ace Data Centers|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|15|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|45.194.41.228|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|10|45.194.41.44|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.176|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|45.194.41.143|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|18|45.194.41.73|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
 
 
 
