@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|64.112.40.20|1080|United States|Los Angeles|Axedale|
-|5|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|182.253.42.232|2026|Indonesia|North Jakarta|BIZNET|
 |14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
 |16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|64.112.40.20|1080|United States|Los Angeles|Axedale|
+|20|212.115.103.200|8080|Turkey|Istanbul|Datacamp Limited|
 
 
 
