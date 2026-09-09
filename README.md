@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|6|34.124.199.234|18080|Singapore|Singapore|Google LLC|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|11|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
 |13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|19|34.124.199.234|18080|Singapore|Singapore|Google LLC|
-|20|47.252.51.6|8888|United States|Charlottesville|Alibaba Cloud LLC|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|34.65.99.32|3128|Switzerland|Zurich|Google LLC|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|87.106.70.153|8118|Germany|Berlin|IONOS SE|
+|20|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
 
 
 
