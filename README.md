@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|45.198.33.65|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|12|2.27.63.250|8118|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|15|138.121.113.12|8787|Argentina|Formosa|Refsa Telecomunicaciones|
-|16|223.205.180.228|8080|Thailand|Phra Nakhon Si Ayutthaya|TRIPLETNET|
-|17|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|222.127.132.13|8080|Philippines|Quezon City|Globe Telecom|
+|7|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|8|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
+|15|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|16|8.213.37.17|8888|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|17|160.191.47.102|3128|Vietnam|Quận Mười Một|Tidadigi Company Limited|
+|18|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
+|19|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 
 
 
