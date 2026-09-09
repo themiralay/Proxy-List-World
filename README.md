@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|103.39.72.221|8990|Indonesia|Depok|PT Teknologi Gema Informasi|
-|7|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|5.101.216.82|3128|United Kingdom|Harlesden|G-Core Labs S.A.|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|5|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|6|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|10|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |12|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|13|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|14|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|15|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|17|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|18|103.189.116.6|1111|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|19|154.59.56.72|999|Venezuela|Santa Cruz de Mora|Cogent Communications|
-|20|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|14|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
+|20|13.38.217.179|39170|France|Paris|Amazon Technologies Inc.|
 
 
 
