@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|13|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|18|103.112.68.25|8080|The Netherlands|Amsterdam|Mastersoft S.R.L.|
-|19|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|172.104.42.86|40000|Singapore|Singapore|Akamai Technologies|
+|3|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|112.211.51.77|8080|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 
 
 
