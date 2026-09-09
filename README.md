@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5866** proxies at the latest update. Usable proxies are below.
+> Scraper found **5839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|633|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3024|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |2|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|45.91.248.105|8080|United States|New York|YottaSrc|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|107.22.103.201|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|107.22.103.201|3128|United States|Ashburn|Amazon.com, Inc.|
 |11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|45.91.248.105|8080|United States|New York|YottaSrc|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|107.22.103.201|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|119.94.124.90|8081|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
+|17|107.22.103.201|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|95.182.116.202|8888|France|Paris|CGI GLOBAL LIMITED|
+|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|178.104.234.144|8118|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
