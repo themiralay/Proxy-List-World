@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|119.82.244.33|6060|Indonesia|Semarang|Indonesia Network Information Center|
-|16|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|18|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|23.20.223.91|3128|United States|Ashburn|Amazon.com|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|23.20.223.91|3128|United States|Ashburn|Amazon.com|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|18|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
