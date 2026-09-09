@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|103.188.169.93|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|1|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|8|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.127.100.54|8080|United States|Boydton|Microsoft Corporation|
+|13|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
 |15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|192.203.0.142|999|Puerto Rico|Comunas|Boom NET|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|20|124.105.3.173|5051|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|16|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|154.58.138.231|8088|Indonesia|Kraksaan|MEGADATA-ISP|
+|19|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
