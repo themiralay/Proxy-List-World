@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|23.111.50.69|8080|Russia|Moscow|Edinaya SET Limited Liability Company|
-|20|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
+|18|185.250.249.181|8080|Germany|Germering|IP- www.ip-projects.de|
+|19|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
