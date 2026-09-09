@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6376** proxies at the latest update. Usable proxies are below.
+> Scraper found **6125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|860|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1047|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|715|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3269|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|103.180.126.138|8080|Indonesia|Jakarta|PT Alam Media Data|
 |10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|11|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|14|38.253.240.175|3128|Indonesia|Banjarnegara|Cogent Communications|
-|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|103.172.120.102|8097|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|14|186.96.178.72|8081|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|165.101.102.239|8080|Philippines|Quezon City|iRateNet Solutions|
 
 
 
