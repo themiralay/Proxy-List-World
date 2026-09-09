@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|13|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|17|31.31.74.185|9898|Czechia|Hluboká nad Vltavou|WEDOS Internet|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|19|103.171.245.104|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
