@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|4|134.195.210.155|3128|United States|Los Angeles|Axedale|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|134.195.210.155|3128|United States|Los Angeles|Axedale|
-|14|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|113.11.120.105|30226|Bangladesh|Bogra|BDCOM Online Limited|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|16|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|19|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|20|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 
 
 
