@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6535** proxies at the latest update. Usable proxies are below.
+> Scraper found **6541** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1149|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|917|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1047|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3269|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|175.136.239.173|8181|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|2|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|3|38.172.170.154|999|Venezuela|El Valle|RED SERVITEL, CA|
-|4|45.198.33.79|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|5|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|6|126.209.16.133|8082|Philippines|Manila|Infinivan Incorporated|
-|7|183.88.214.84|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|186.96.178.72|8081|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|11|144.124.251.24|10744|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|175.139.255.25|8181|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
-|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|15|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
-|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|18|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|19|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|20|45.198.11.177|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|2|126.209.75.83|5050|Philippines|Manila|Infinivan Incorporated|
+|3|175.143.76.177|8181|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|4|180.191.230.53|8082|Philippines|Baybay|Globe Telecom|
+|5|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|6|103.234.19.238|8080|Indonesia|Bandung|PT Widjaja Piranti Teknologi|
+|7|123.0.18.42|10000|Bangladesh|Azimpur|Icon Infotech|
+|8|38.172.170.80|999|Venezuela|El Valle|RED SERVITEL, CA|
+|9|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|10|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|11|219.142.66.245|9090|China|Beijing|China Networks Inter-Exchange|
+|12|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|38.9.184.177|999|Venezuela|Ocumare|Cogent Communications|
+|16|110.76.147.31|8080|Indonesia|Magetan|PT Pika Media Komunika|
+|17|43.109.48.179|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|183.6.88.12|18181|China|Guangzhou|Chinanet|
+|20|122.246.3.12|17981|China|Ningbo|China Telecom|
 
 
 
