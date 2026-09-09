@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|12|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|12|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|103.184.54.9|8080|Indonesia|Tegalgede Kulon|PT Proxi Jaringan Nusantara|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|192.232.48.20|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|167.160.190.215|8080|Canada|Toronto|HostPapa|
 
 
 
