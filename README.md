@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|163.227.87.144|5050|Philippines|Mabini|Clian Internet and I.T. Services|
-|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|11|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|38.7.22.165|999|Mexico|Ciudad Hidalgo|Internet Telefonia Y TV De Michoacan SA De CV|
-|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|16|49.49.79.254|8081|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
-|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|18|192.188.80.38|3128|Indonesia|Siak Sri Indrapura|PT Rayunet Broadcast Solution|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|14|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|15|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|181.78.74.253|999|Colombia|Montelíbano|Ufinet Panama S.A.|
+|18|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
+|19|5.101.216.82|3128|United Kingdom|Harlesden|G-Core Labs S.A.|
+|20|139.162.174.30|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
 
 
 
