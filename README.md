@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|639|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|639|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|639|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|5|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|15|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|45.91.248.105|8080|United States|New York|YottaSrc|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|101.255.157.6|8080|Indonesia|Bekasi|PT Remala Abadi|
+|1|175.136.239.173|8181|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|2|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|3|38.172.170.154|999|Venezuela|El Valle|RED SERVITEL, CA|
+|4|45.198.33.79|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|5|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|6|126.209.16.133|8082|Philippines|Manila|Infinivan Incorporated|
+|7|183.88.214.84|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|186.96.178.72|8081|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|11|144.124.251.24|10744|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|175.139.255.25|8181|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
+|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|15|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
+|16|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
+|18|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
+|19|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|20|45.198.11.177|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
 
 
 
