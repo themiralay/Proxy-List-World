@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5445** proxies at the latest update. Usable proxies are below.
+> Scraper found **5111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|399|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|675|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2837|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
-|19|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|20|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|185.250.249.181|8080|Germany|Germering|IP- www.ip-projects.de|
+|19|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 
 
 
