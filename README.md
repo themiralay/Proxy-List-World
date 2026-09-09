@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5530** proxies at the latest update. Usable proxies are below.
+> Scraper found **5527** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|489|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|486|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3112|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|19|166.1.232.89|7890|United States|Los Angeles|Fastnet Data Inc|
-|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|13|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|17|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|178.104.234.144|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
