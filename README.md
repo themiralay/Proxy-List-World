@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|625|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|625|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|625|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|5|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|12|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|15|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|18|103.97.141.40|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|19|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|180.149.232.33|8080|Bangladesh|Shibganj|Digi Jadoo Broadband Ltd|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|16|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|17|45.115.253.30|83|India|Faridabad|Elxire IT Services Pvt. Ltd|
+|18|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|20|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
