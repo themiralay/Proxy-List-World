@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|19|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|43.160.203.248|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.105.76.10|3125|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 
 
 
