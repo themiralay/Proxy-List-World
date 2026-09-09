@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|15|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|81.19.210.10|80|United Kingdom|City of London|Hydra Communications Ltd|
-|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|5|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|11|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|12|124.105.40.93|8181|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|13|107.181.252.58|1082|United States|Ogden|GorillaServers, Inc.|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|17|46.102.156.44|3128|Austria|Wien|Alwyzon|
+|18|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
+|19|5.129.228.92|443|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
