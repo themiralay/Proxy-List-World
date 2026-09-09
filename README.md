@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|7|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|9|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 |10|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|11|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|16|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|20|217.197.97.48|2080|Canada|Toronto|BitCommand LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|13|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|14|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
+|17|23.236.65.237|8888|United States|Los Angeles|Zenlayer Inc|
+|18|124.104.202.92|8080|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|20.204.175.243|3128|India|Pune|Microsoft Corporation|
 
 
 
