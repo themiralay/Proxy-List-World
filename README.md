@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|183.101.185.89|20002|South Korea|Geumcheon-gu|Korea Telecom|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
 |8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
 |10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|13|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|14|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|17|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|18|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
-|19|50.147.51.218|3128|United States|Midlothian|Comcast Cable Communications|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|50.147.51.218|3128|United States|Midlothian|Comcast Cable Communications|
+|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
+|18|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|19|144.79.241.253|3128|Indonesia|Bekasi|PT Aryaka Lintas Media|
+|20|38.58.191.16|999|Venezuela|Pueblo Nuevo|NAVEGANTE NETWORK, C.A.|
 
 
 
