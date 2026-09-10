@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.99.36|8002|Singapore|Singapore|DigitalOcean, LLC|
-|2|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|3|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|6|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|2|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|14|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
 |15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|18|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|17|74.176.16.105|3128|Japan|Tokyo|Microsoft Corporation|
+|18|65.75.201.86|3128|United States|Jamestown|HostRush|
+|19|112.209.38.87|8081|Philippines|Pulupandan|Philippine Long Distance Telephone Co.|
+|20|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
