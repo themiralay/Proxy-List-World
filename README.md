@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|193.181.35.66|8118|Sweden|Stockholm|PVDataNet AB|
-|13|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
-|14|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|15|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|19|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|195.158.2.130|3128|Uzbekistan|Tashkent|National Data Network Company "UzPAK"|
+|11|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|12|193.181.35.153|8118|Sweden|Stockholm|PVDataNet AB|
+|13|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|14|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|15|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
+|16|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|128.140.82.50|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
