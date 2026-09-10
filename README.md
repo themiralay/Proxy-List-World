@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|193.181.35.153|8118|Sweden|Stockholm|PVDataNet AB|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|190.14.249.111|8080|Colombia|Bogotá|Media Commerce Partners S.A|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|178.236.16.4|8888|Kazakhstan|Astana|NLS ASTANA LLP|
-|17|101.109.111.147|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|123.60.155.1|3128|China|Shanghai|Huawei Cloud Service data center|
-|19|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
-|20|45.198.11.177|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|3|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|4|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|7|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|187.249.116.66|999|Mexico|Acala|Transtelco Inc|
+|10|130.162.192.208|8080|Australia|Melbourne|Oracle Corporation|
+|11|103.166.255.170|8080|Indonesia|Kurungannyawa|PT Instanet Media Nusantara|
+|12|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|13|43.252.107.217|8080|Indonesia|Kediri|PT Lintas Data Prima|
+|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|46.8.43.28|3128|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|182.160.124.153|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|20|45.143.108.115|8080|Georgia|Tbilisi|Airmax LLC|
 
 
 
