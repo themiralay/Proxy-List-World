@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|612|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|612|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|612|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|4|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|10|38.253.240.175|3128|Indonesia|Banjarnegara|Cogent Communications|
-|11|54.151.13.63|1001|United States|San Jose|Amazon.com, Inc.|
-|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
-|15|3.137.204.9|3128|United States|Columbus|Amazon.com, Inc.|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|3.137.193.95|3128|United States|Columbus|Amazon.com, Inc.|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
-|20|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|13|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|3.137.204.9|3128|United States|Columbus|Amazon.com, Inc.|
+|20|3.137.193.95|3128|United States|Columbus|Amazon.com, Inc.|
 
 
 
