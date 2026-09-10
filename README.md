@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|18.163.182.106|8008|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|13|180.191.137.251|5050|Philippines|Cebu City|Globe Telecom|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|16|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|17|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|18|78.17.7.251|8080|Finland|Helsinki|Snowd Security OU|
-|19|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|20|128.140.82.50|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|5|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|6|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|193.181.35.153|8118|Sweden|Stockholm|PVDataNet AB|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|11|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|12|178.252.134.190|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|13|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|14|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
+|15|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|16|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|17|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|18|213.178.250.33|8080|Syria|Damascus|SCS|
+|19|150.241.105.211|3128|Germany|Frankfurt am Main|U1 DIGITAL SERVICES LTD|
+|20|38.123.220.175|999|Mexico|Pueblo Nuevo|Cogent Communications|
 
 
 
