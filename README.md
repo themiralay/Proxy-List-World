@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|3|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
 |4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|103.191.169.126|8080|Indonesia|Makassar|PT Sugi Bintang Jaya|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|12|3.93.192.80|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|3.93.192.80|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|12|125.160.249.179|8080|Indonesia|South Tangerang|PT. TELKOM INDONESIA|
+|13|103.189.249.141|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|14|198.15.30.202|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
+|15|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|18|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
