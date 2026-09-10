@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|5|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|43.153.45.165|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|13|203.76.220.126|16464|Bangladesh|Nawāb Char|BUSINESSNETWORK|
-|14|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|140.245.255.83|3128|India|Hyderabad|Oracle Corporation|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|19|103.174.123.5|8089|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|20|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
 
 
 
