@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|7|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|8|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|2|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |10|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|11|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|202.157.67.40|8080|India|Jaipur|Data Infosys Ltd|
-|13|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|14|185.248.179.99|8080|Czechia|Prague|T-Mobile Czech Republic a.s.|
-|15|103.28.112.246|8080|Indonesia|Wonosobo|PT Lintas Data Prima|
-|16|130.162.192.208|8080|Australia|Melbourne|Oracle Corporation|
-|17|120.232.115.170|17981|China|Guangzhou|China Mobile communications corporation|
-|18|163.181.207.226|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
-|19|45.222.101.111|8080|Nigeria|Lagos|Zeta-WEB|
-|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|11|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|180.191.234.124|8080|Philippines|Matalam|Globe Telecom|
+|15|202.58.77.7|7777|Indonesia|Blitar|PT Data Buana Nusantara|
+|16|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|17|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|18|103.209.38.132|8080|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|19|49.151.193.51|8082|Philippines|Umingan|Philippine Long Distance Telephone Co.|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
