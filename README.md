@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |2|103.134.85.167|3128|Indonesia|Leles|Dinas Komunikasi dan Informatika Kabupaten Garut|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|203.150.128.6|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|13|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|14|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|103.109.96.86|3030|Bangladesh|Brāhmanbāria|Digi Jadoo Broadband Ltd|
-|17|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
-|18|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|58.136.86.181|8080|Thailand|Ban Dung|AIS-Fibre|
+|9|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|10|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|14|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
+|15|141.95.53.104|9898|Germany|Limburg an der Lahn|OVH SAS|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|54.164.14.17|8181|United States|Ashburn|Amazon.com, Inc.|
+|20|203.150.128.6|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
 
 
 
