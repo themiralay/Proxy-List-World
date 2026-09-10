@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|827|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|827|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|827|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|14.199.167.175|3128|Hong Kong|Wong Tai Sin|Hong Kong Broadband Network Limited|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|167.99.8.113|8002|United States|North Bergen|DigitalOcean, LLC|
-|10|121.101.129.21|8080|Indonesia|Sleman|PT SELARAS CITRA TERABIT|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|129.146.127.232|3128|United States|Phoenix|Oracle Corporation|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|64.112.40.20|1080|United States|Los Angeles|Axedale|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|103.153.135.2|8181|Indonesia|Tigaraksa|WMINET|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|13|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|14|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|16|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
+|17|85.14.247.185|3128|Germany|Düsseldorf|WIIT AG|
 |18|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|20|167.99.8.113|8002|United States|North Bergen|DigitalOcean, LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
