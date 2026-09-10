@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|8|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|18.163.182.106|8008|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|185.99.98.65|40001|France|Strasbourg|NetCrafters OU|
-|16|54.160.164.216|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|144.31.116.142|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|19|103.162.63.106|8082|Indonesia|Sumedang|PT Ring Media Nusantara|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
+|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|8|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
+|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|12|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|13|103.153.202.0|8181|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|15|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|20|54.160.164.216|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
