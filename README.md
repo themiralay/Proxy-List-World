@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6449** proxies at the latest update. Usable proxies are below.
+> Scraper found **6540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|774|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|774|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|774|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|906|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3388|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|54.151.13.63|1001|United States|San Jose|Amazon.com, Inc.|
-|3|112.203.55.98|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|4|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|3.137.193.95|3128|United States|Columbus|Amazon.com, Inc.|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|3.137.204.9|3128|United States|Columbus|Amazon.com, Inc.|
-|15|54.151.13.63|1001|United States|San Jose|Amazon.com, Inc.|
-|16|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|3.137.204.9|3128|United States|Columbus|Amazon.com, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|54.151.13.63|1001|United States|San Jose|Amazon.com, Inc.|
+|4|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
+|5|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|6|103.172.71.172|1111|Indonesia|Karangampel|AZNET|
+|7|38.253.240.175|3128|Indonesia|Banjarnegara|Cogent Communications|
+|8|103.176.96.218|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|171.247.161.189|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|3.137.193.95|3128|United States|Columbus|Amazon.com, Inc.|
+|18|3.137.204.9|3128|United States|Columbus|Amazon.com, Inc.|
+|19|172.237.90.118|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
 
 
 
