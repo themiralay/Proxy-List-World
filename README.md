@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|5|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|7|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|8|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|14|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
 |18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
 
 
 
