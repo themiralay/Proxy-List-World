@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|43.99.60.244|8089|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|50.147.51.218|3128|United States|Midlothian|Comcast Cable Communications|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|50.147.51.218|3128|United States|Midlothian|Comcast Cable Communications|
-|16|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
-|17|181.78.74.252|999|Colombia|María la Baja|Ufinet Panama S.A.|
-|18|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|165.101.231.41|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|14|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|50.147.51.218|3128|United States|Midlothian|Comcast Cable Communications|
 
 
 
