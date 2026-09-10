@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5618** proxies at the latest update. Usable proxies are below.
+> Scraper found **5636** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|797|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|815|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|567|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3054|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|139.162.11.41|3128|Singapore|Singapore|LINODE|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
-|9|18.163.182.106|8008|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|11|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|12|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|13|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|38.188.247.12|999|Dominican Republic|Cotui|REYNOSO, S.R.L.|
-|17|200.125.169.118|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|1|8.211.170.91|14680|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|10|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|11|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|45.6.224.76|1256|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|14|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|15|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|17|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|18|103.211.103.170|3128|Hong Kong|Kwun Tong|haoxiangyun|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|204.168.225.55|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
