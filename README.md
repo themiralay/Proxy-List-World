@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|4|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |5|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|10|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|116.202.172.187|11000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|187.172.186.75|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|18|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|103.211.103.170|3128|Hong Kong|Kwun Tong|haoxiangyun|
-|20|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|6|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|7|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|15|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|20|107.167.18.122|443|United States|Los Angeles|Sharktech|
 
 
 
