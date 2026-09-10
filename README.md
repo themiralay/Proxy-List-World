@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|657|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|657|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|657|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.146.38.53|1080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|1|180.191.2.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|2|112.198.134.143|8081|Philippines|Nasugbu|Globe Telecom|
 |3|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
 |4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|14|103.109.96.86|3030|Bangladesh|Brāhmanbāria|Digi Jadoo Broadband Ltd|
-|15|112.203.55.98|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|202.8.29.91|8080|Indonesia|Medan|PT MULTI MEDIA ACCESS|
+|5|103.87.149.133|8080|Indonesia|Tipar|Lintas Data Prima, PT|
+|6|103.159.96.29|8089|Indonesia|Kertosono|PT Jinde Grup Indonesia|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|12|103.146.38.53|1080|Indonesia|Karawang|MEDIASOLUSISUKSES|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|16|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|103.109.96.86|3030|Bangladesh|Brāhmanbāria|Digi Jadoo Broadband Ltd|
+|20|154.18.255.11|1256|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
