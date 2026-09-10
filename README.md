@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.57.211|1080|Japan|Minamishinagawa|Choopa|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|10|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|104.218.199.8|16062|United States|Denver|BraveWay LLC|
-|20|178.217.101.168|3128|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|9|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|14.139.235.82|3128|India|Chandigarh|National Knowledge Network|
+|11|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
 
