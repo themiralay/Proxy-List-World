@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5627** proxies at the latest update. Usable proxies are below.
+> Scraper found **5597** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|687|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3112|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|180.195.83.30|8082|Philippines|Santo Tomas|Philippine Long Distance Telephone Co.|
-|4|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|7|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|113.192.30.43|8090|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|10|103.247.21.83|8446|Indonesia|Bekasi|PT wifian Solution|
-|11|103.31.233.35|8080|Indonesia|Caringin|PT Usaha Adi Sanggoro|
-|12|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|16|198.15.30.206|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|167.160.186.208|8080|Canada|Toronto|HostPapa|
-|20|3.143.238.195|3128|United States|Columbus|Amazon.com, Inc.|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|3|167.160.186.208|8080|Canada|Toronto|HostPapa|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|9|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|12|3.143.238.195|3128|United States|Columbus|Amazon.com, Inc.|
+|13|199.7.149.96|3128|United States|Queens|EXO BROADBAND|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|64.112.184.210|3128|United States|Powhatan|Hosted Backbone|
+|16|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|3.143.238.195|3128|United States|Columbus|Amazon.com, Inc.|
+|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
