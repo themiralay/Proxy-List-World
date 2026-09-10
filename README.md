@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5512** proxies at the latest update. Usable proxies are below.
+> Scraper found **5737** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|901|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|507|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3129|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|2|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|11|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|4|163.223.112.35|8080|Indonesia|Boyolali|PT Tekno Indo Jaya|
+|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|9|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|162.255.110.107|8080|United States|Richland|Desert Winds Wireless|
 |12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|180.191.234.124|8080|Philippines|Matalam|Globe Telecom|
-|15|202.58.77.7|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|16|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|17|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|18|103.209.38.132|8080|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|19|49.151.193.51|8082|Philippines|Umingan|Philippine Long Distance Telephone Co.|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|201.139.115.38|8081|Mexico|San Andrés Cholula|Kiwi Networks S A P I de CV|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|20|38.252.213.233|999|Peru|La Merced|Telcom Mikrotik Peru S.A.C|
 
 
 
