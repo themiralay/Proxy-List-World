@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|188.166.179.50|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
 |9|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|11|202.61.110.162|8082|Philippines|Cagayan de Oro|Medrozo IT Solutions|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
 |14|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|159.223.139.31|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|17|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|80.211.24.177|3128|Italy|Arezzo|Aruba S.p.A.|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
