@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|4|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
-|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
-|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|12|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|93.180.134.36|3128|Turkey|Ataşehir|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|161.35.181.96|999|United States|Clifton|DigitalOcean, LLC|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|193.181.35.66|8118|Sweden|Stockholm|PVDataNet AB|
+|10|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|13|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|103.179.252.74|3128|Indonesia|Bekasi|PT Pusaka Kreasi Mandiri|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|18|103.125.17.99|8080|Indonesia|Kresek|JAVAMEDIA|
+|19|64.112.184.210|3128|United States|Mechanicsville|Hosted Backbone|
+|20|61.29.96.146|8000|Australia|Forest Lodge|AAPT Limited|
 
 
 
