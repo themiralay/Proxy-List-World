@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|10|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|16|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|81.200.154.152|8888|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|213.136.68.30|3128|France|Lauterbourg|Contabo GmbH|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
