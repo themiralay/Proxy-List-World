@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|3.131.169.180|3128|United States|Columbus|Amazon.com, Inc.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|2.27.29.96|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|11|3.131.169.180|3128|United States|Columbus|Amazon.com, Inc.|
+|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|18|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|19|103.150.64.69|8090|Bangladesh|Rangpur City|Windstream Communication Limited|
-|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|15|210.87.92.207|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|16|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|19|204.152.192.24|10809|United States|Los Angeles|HostPapa|
+|20|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
 
 
 
