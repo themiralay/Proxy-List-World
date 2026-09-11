@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|5|23.94.112.168|8080|United States|Los Angeles|HostPapa|
 |6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |7|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|8|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|202.40.180.145|38423|Bangladesh|Dhaka|Ranks ITT|
-|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|203.205.49.2|10000|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|11|124.198.131.164|3128|United States|New York|1337 Services GmbH|
 |12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|23.94.112.168|8080|United States|Los Angeles|HostPapa|
-|16|36.50.74.57|8083|Bangladesh|Motijheel|Rocket Signal|
-|17|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|20|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|13|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|17|151.243.153.157|8118|United States|Seattle|Black Apple|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|23.94.112.168|8080|United States|Los Angeles|HostPapa|
+|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
 
