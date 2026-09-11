@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.37.229.166|3128|United States|Boardman|Amazon.com, Inc.|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|52.37.229.166|3128|United States|Boardman|Amazon.com, Inc.|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|52.37.229.166|3128|United States|Boardman|Amazon.com, Inc.|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|52.37.229.166|3128|United States|Boardman|Amazon.com, Inc.|
+|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|9|124.198.131.164|3128|United States|New York|1337 Services GmbH|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 |13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|45.77.246.231|80|Singapore|Singapore|The Constant Company|
-|18|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|128.140.82.50|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|67.205.161.254|8118|United States|North Bergen|DigitalOcean, LLC|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|19|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
