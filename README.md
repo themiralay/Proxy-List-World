@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.59.10|8081|Philippines|Tarlac City|Globe Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
 |6|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|7|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|89.110.124.45|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
 |10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|104.218.199.217|16062|United States|Denver|BraveWay LLC|
-|17|108.181.246.55|9898|United States|Dallas|Psychz Networks|
-|18|103.18.45.234|8080|Indonesia|Jambi City|PT Singoedan Media Network|
-|19|45.174.243.160|999|Mexico|Candelaria|Sistemas Y Soluciones De Campeche SAS De CV|
-|20|24.72.215.236|8246|United States|Albion|Vyve Broadband|
+|11|103.125.116.126|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|108.181.246.55|9898|United States|Dallas|Psychz Networks|
+|14|103.109.96.86|3030|Bangladesh|Brāhmanbāria|Digi Jadoo Broadband Ltd|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|17|212.34.144.13|18080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|20|103.175.240.42|3128|Indonesia|Comal|LDP|
 
 
 
