@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|112.203.207.131|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|13|144.31.116.142|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|14|144.31.118.56|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|46.243.4.44|8080|Finland|Helsinki|Ihor Hosting LTD|
+|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|18|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|165.101.230.76|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
 
 
 
