@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|4|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|8|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
-|11|38.97.56.192|8080|Germany|Frankfurt am Main|Florian Kolb Einzelunternehmen|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|195.133.197.14|3128|Russia|Korolyov|JSC Mediasoft ekspert|
-|14|113.11.126.238|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|103.109.212.85|8428|Bangladesh|Pirojpur|Bismillah Telecom Service|
-|16|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|17|73.109.227.116|8081|United States|Renton|Comcast Cable Communications|
-|18|165.22.221.209|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|38.97.56.192|8080|Germany|Frankfurt am Main|Florian Kolb Einzelunternehmen|
-|20|103.179.252.74|3128|Indonesia|Bekasi|PT Pusaka Kreasi Mandiri|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|15|165.22.221.195|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|201.46.86.37|8080|Mexico|Culiacán|Comunicacion Digital De Sinaloa SA De CV|
+|18|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|19|195.133.197.14|3128|Russia|Korolyov|JSC Mediasoft ekspert|
+|20|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
 
 
 
