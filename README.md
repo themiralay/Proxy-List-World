@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5855** proxies at the latest update. Usable proxies are below.
+> Scraper found **5963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|652|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3476|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|6|128.140.82.50|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|180.191.59.10|8081|Philippines|Tarlac City|Globe Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|7|124.198.131.164|3128|United States|New York|1337 Services GmbH|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|10|116.12.85.67|2525|Sri Lanka|Colombo|Lanka Communication Services (Pvt) Ltd.|
-|11|38.51.207.118|999|Venezuela|Maracaibo|Tecnoven Services C.A|
-|12|78.17.7.251|8080|Finland|Helsinki|Snowd Security OU|
-|13|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|14|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|15|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|18|23.94.145.70|3128|United States|Buffalo|Dedik Services Limited|
-|19|163.61.55.119|8080|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|20|114.236.137.41|21000|China|Nanjing|Chinanet|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|104.218.199.217|16062|United States|Denver|BraveWay LLC|
+|17|108.181.246.55|9898|United States|Dallas|Psychz Networks|
+|18|103.18.45.234|8080|Indonesia|Jambi City|PT Singoedan Media Network|
+|19|45.174.243.160|999|Mexico|Candelaria|Sistemas Y Soluciones De Campeche SAS De CV|
+|20|24.72.215.236|8246|United States|Albion|Vyve Broadband|
 
 
 
