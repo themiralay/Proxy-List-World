@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|52.39.158.190|3128|United States|Boardman|Amazon.com, Inc.|
-|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|16|193.188.22.229|8080|United States|Los Angeles|xorek.cloud International LTD|
-|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|139.162.11.41|3128|Singapore|Singapore|LINODE|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|6|118.173.223.39|8081|Thailand|Phuket|TOT Public Company Limited|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|151.243.153.157|8118|United States|Seattle|Black Apple|
+|11|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|12|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|201.46.86.37|8080|Mexico|Culiacán|Comunicacion Digital De Sinaloa SA De CV|
+|15|103.183.58.230|8080|Indonesia|Cianjur|PT Core Digital Network|
+|16|188.132.249.34|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|18|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|103.125.212.130|8080|Indonesia|West Jakarta|SOLUSINET|
+|20|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
