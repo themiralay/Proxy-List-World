@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|12|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|18|45.77.246.231|80|Singapore|Singapore|The Constant Company|
-|19|166.1.232.89|7890|United States|Los Angeles|Fastnet Data Inc|
-|20|166.1.232.89|7890|United States|Los Angeles|Fastnet Data Inc|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
