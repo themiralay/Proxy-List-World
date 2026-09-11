@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|1|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|9|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|13|178.236.16.4|8888|Kazakhstan|Astana|NLS ASTANA LLP|
+|14|194.164.22.24|8080|United Kingdom|London|IONOS SE|
 |15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|204.152.192.24|10809|United States|Los Angeles|HostPapa|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|45.198.147.238|8080|Indonesia|Central Jakarta|PT. Eka Mas Republik|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|103.133.62.95|8080|Indonesia|Bandar Lampung|TLINK|
 
 
 
