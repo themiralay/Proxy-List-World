@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4740** proxies at the latest update. Usable proxies are below.
+> Scraper found **4803** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|672|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|369|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2562|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|7|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|13|46.243.4.44|8080|Finland|Helsinki|Ihor Hosting LTD|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|178.236.16.4|8888|Kazakhstan|Astana|NLS ASTANA LLP|
-|16|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|18|144.31.116.142|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|185.99.98.65|40001|France|Strasbourg|NetCrafters OU|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|54.164.14.17|8181|United States|Ashburn|Amazon.com, Inc.|
+|10|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|14|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|78.142.61.74|3128|Bulgaria|Sofia|BGO Cloud OOD|
+|18|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
