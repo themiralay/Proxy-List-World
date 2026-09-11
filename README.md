@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5811** proxies at the latest update. Usable proxies are below.
+> Scraper found **5759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|413|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3476|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|5|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 |7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|10|124.198.131.164|3128|United States|New York|1337 Services GmbH|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|113.11.126.238|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|14|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|135.125.179.41|3128|Germany|Limburg an der Lahn|OVH SAS|
+|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|15|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
 |16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|19|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
-|20|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
+|17|20.199.5.38|3128|France|Paris|Microsoft Corporation|
+|18|24.173.217.114|55443|United States|Balch Springs|Spectrum|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|113.11.126.238|30226|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
