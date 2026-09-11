@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|166.1.232.89|7890|United States|Los Angeles|Fastnet Data Inc|
-|9|166.1.232.89|7890|United States|Los Angeles|Fastnet Data Inc|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|142.93.211.56|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|191.102.109.18|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|19|119.94.124.90|8081|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
-|20|107.175.124.191|18080|United States|Buffalo|HostPapa|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|165.22.221.209|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|165.22.221.195|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
+|20|142.93.211.50|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
