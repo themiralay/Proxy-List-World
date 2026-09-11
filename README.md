@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|11|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|14|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|160.238.65.6|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|17|160.238.65.5|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|18|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|19|54.164.14.17|8181|United States|Ashburn|Amazon.com, Inc.|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|10|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|11|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|12|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|15|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|45.90.236.68|3128|The Netherlands|Eygelshoven|Anton Levin|
+|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|18|34.65.99.32|3128|Switzerland|Zurich|Google LLC|
+|19|160.238.65.6|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
 |20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
