@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|13|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
-|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|15|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
-|17|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|18|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|19|206.135.11.170|8080|Mexico|Tizayuca|Ientc S De RL De CV|
-|20|142.93.211.3|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|8|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|10|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
+|11|31.214.245.238|8085|Germany|Münster|ZAP-Hosting GmbH|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|15|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|18|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 
 
 
