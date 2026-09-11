@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
 |6|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|9|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|10|177.52.221.117|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|95.79.212.99|9080|Russia|Nizhniy Novgorod|CJSC "ER-Telecom Holding" Nizhny Novgorod branch|
-|13|103.82.92.104|2406|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|160.19.146.173|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|18|138.121.113.12|8787|Argentina|Formosa|Refsa Telecomunicaciones|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|7|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|16|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|124.105.110.243|8181|Philippines|Santa Cruz|Philippine Long Distance Telephone Co.|
+|19|138.121.113.12|8787|Argentina|Formosa|Refsa Telecomunicaciones|
+|20|103.132.52.63|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
 
 
 
