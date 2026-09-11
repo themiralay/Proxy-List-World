@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|3|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|124.198.131.164|3128|United States|New York|1337 Services GmbH|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|103.249.237.158|8888|Australia|Sydney|Mammoth Media Pty Ltd|
-|16|138.68.3.159|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
-|20|103.211.103.170|3128|Hong Kong|Kwun Tong|haoxiangyun|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|113.11.126.238|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|14|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|124.198.131.164|3128|United States|New York|1337 Services GmbH|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|38.180.106.40|1087|Singapore|Singapore|M247 Europe SRL|
+|20|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
 
 
 
