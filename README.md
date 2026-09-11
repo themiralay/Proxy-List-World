@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|18|45.144.53.63|5005|Finland|Helsinki|H2nexus Cloud Services - Fzco|
-|19|54.164.14.17|8181|United States|Ashburn|Amazon.com, Inc.|
-|20|54.198.177.147|1001|United States|Ashburn|Amazon.com, Inc.|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|45.91.248.105|8080|United States|New York|YottaSrc|
+|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|14|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|15|45.91.248.105|8080|United States|New York|YottaSrc|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
 
