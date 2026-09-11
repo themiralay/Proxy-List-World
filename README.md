@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|18.188.82.97|3128|United States|Columbus|Amazon.com, Inc.|
-|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|18.188.90.5|3128|United States|Columbus|Amazon.com, Inc.|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|2|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|18.188.90.5|3128|United States|Columbus|Amazon.com, Inc.|
+|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|18.188.82.97|3128|United States|Columbus|Amazon.com, Inc.|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|3.131.169.180|3128|United States|Columbus|Amazon.com, Inc.|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|18.188.90.5|3128|United States|Columbus|Amazon.com, Inc.|
 |11|18.188.82.97|3128|United States|Columbus|Amazon.com, Inc.|
-|12|18.188.90.5|3128|United States|Columbus|Amazon.com, Inc.|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|13|3.131.169.180|3128|United States|Columbus|Amazon.com, Inc.|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|16|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|15|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|16|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|18|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
 |19|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
 |20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
