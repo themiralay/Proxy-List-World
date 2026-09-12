@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|1|139.162.89.198|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|8|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|14|172.237.90.118|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|15|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|81.31.146.81|3128|Italy|Turin|HOST-VDC|
-|17|103.132.52.63|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|18|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|19|102.216.116.234|8080|Kenya|Marsabit|Savenet Networks|
-|20|103.187.113.241|1111|Indonesia|Tabanan|PT Adi Solusindo Teknologi|
+|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|12|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|13|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|14|103.173.162.87|8818|Indonesia|Jatiwangi|Paket Data Andal|
+|15|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|118.193.37.78|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 
 
 
