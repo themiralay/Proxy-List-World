@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.19.227|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|18.220.94.246|3128|United States|Columbus|Amazon.com, Inc.|
+|1|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|2|18.220.94.246|3128|United States|Columbus|Amazon.com, Inc.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|18.220.94.246|3128|United States|Columbus|Amazon.com, Inc.|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|6|18.220.94.246|3128|United States|Columbus|Amazon.com, Inc.|
+|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|11|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 |12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|13|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|16|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|13|110.232.92.228|2404|Indonesia|Bandung|PT. Media Antar Nusa|
+|14|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
+|15|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|16|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |18|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|19|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|20|182.160.124.174|9669|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|20|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
 
 
 
