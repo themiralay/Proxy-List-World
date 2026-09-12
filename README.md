@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5204** proxies at the latest update. Usable proxies are below.
+> Scraper found **5131** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|497|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3050|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|5|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|6|103.142.255.227|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |8|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|9|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|12|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|15|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|9|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|13|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
 |16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|18|46.243.4.44|8080|Finland|Helsinki|Ihor Hosting LTD|
+|19|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|20|185.99.98.65|40001|France|Strasbourg|NetCrafters OU|
 
 
 
