@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|8|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|9|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|10|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|103.236.143.55|8080|Indonesia|Bancak Wetan|PT. Jaringan Internet Tayu|
-|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|19|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|20|113.11.120.105|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|10|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|11|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|12|107.173.148.243|40000|United States|Santa Clara|ColoCrossing|
+|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|14|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|15|15.207.66.192|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|19|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
