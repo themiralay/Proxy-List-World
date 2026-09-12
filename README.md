@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|6|103.119.171.100|8086|India|Mumbai|Yotta Network Services Private Limited|
-|7|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|181.78.23.187|999|Colombia|María la Baja|Ufinet Panama S.A.|
-|13|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|8|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
+|9|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|183.101.185.89|20002|South Korea|Geumcheon-gu|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|38.58.182.147|18080|United States|Draper|FiberState, LLC|
 |17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|18|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|19|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|20|212.115.103.200|8080|Turkey|Istanbul|Datacamp Limited|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|138.252.121.16|8090|Bangladesh|Sātkhira|MD Jahangir Alam|
+|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
