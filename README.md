@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
 |4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|12|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|18|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
-|19|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|20|45.77.246.231|80|Singapore|Singapore|The Constant Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|11|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|14|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|45.91.248.105|8080|United States|New York|YottaSrc|
+|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|19|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
