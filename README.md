@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4748** proxies at the latest update. Usable proxies are below.
+> Scraper found **4705** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|390|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2574|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|6|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|7|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|12|45.151.182.40|3128|Russia|Moscow|Delta Ltd|
-|13|172.245.66.2|1080|United States|Buffalo|HostPapa|
-|14|107.175.124.191|18080|United States|Buffalo|HostPapa|
-|15|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|16|183.101.185.89|20002|South Korea|Geumcheon-gu|Korea Telecom|
-|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|18|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|19|88.204.22.105|8080|Russia|Tomsk|JSC "ER-Telecom Holding"|
-|20|14.185.228.161|8080|Vietnam|Huế|VNPT|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|17|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|20|45.177.16.133|999|Paraguay|Ciudad del Este|MSW S.A.|
 
 
 
