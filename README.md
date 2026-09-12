@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|6|45.151.182.40|3128|Russia|Moscow|Delta Ltd|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|103.165.212.26|8080|Indonesia|Malang|PT iForte Global Internet|
-|10|18.163.182.106|8008|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|10|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|11|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|54.145.190.187|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 |15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|16|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|19|186.96.160.220|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|157.15.67.49|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|18|185.99.98.65|40001|France|Strasbourg|NetCrafters OU|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
