@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|8|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|11|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|14|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|15|202.4.120.129|81|Bangladesh|Dhaka|Amber IT Limited|
-|16|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
-|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|13|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|14|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|15|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|16|118.193.37.78|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|172.237.90.118|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|103.172.28.178|2727|Bangladesh|Thakurgaon|Hamid Electronics & Automobiles|
+|20|103.153.135.2|8181|Indonesia|Tigaraksa|WMINET|
 
 
 
