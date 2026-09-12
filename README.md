@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|8|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|11|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|12|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|13|107.175.124.191|18080|United States|Buffalo|HostPapa|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|17|139.84.241.113|1080|South Africa|Isando|The Constant Company, LLC|
-|18|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|180.191.126.114|8082|Philippines|Quezon City|Globe Telecom|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|107.174.3.75|3128|United States|Los Angeles|HostPapa|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|107.174.3.75|3128|United States|Los Angeles|HostPapa|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|8|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|9|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|15|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
+|16|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|18|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
