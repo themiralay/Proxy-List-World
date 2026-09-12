@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
-|13|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
-|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|16|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|20|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|5|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|8|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|15|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|17|54.198.226.87|8080|United States|Ashburn|Amazon.com, Inc.|
+|18|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|19|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|20|113.11.120.105|30226|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
