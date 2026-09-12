@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|118.99.98.125|8080|Indonesia|Ciputat|Biznet Gamers|
-|12|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|13|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
-|14|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|167.86.104.220|80|France|Lauterbourg|Contabo GmbH|
-|17|37.59.125.131|8888|France|Roubaix|OVH SAS|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|20|160.30.104.170|1256|Pakistan|Khanpur|S. B Link Network|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|113.22.24.247|30001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|11|167.86.104.220|80|France|Lauterbourg|Contabo GmbH|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|107.175.124.191|18080|United States|Buffalo|HostPapa|
+|14|107.181.155.43|8080|Türkiye|Istanbul|YottaSrc|
+|15|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|20|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
 
