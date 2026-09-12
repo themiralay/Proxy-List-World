@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|11|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|14|116.105.32.29|8080|Vietnam|Hanoi|Viettel Group|
-|15|185.188.217.166|8080|Kosovo|Pristina|PPPoE|
-|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|17|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
-|19|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
-|20|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|122.3.77.27|8082|Philippines|Teresa|Philippine Long Distance Telephone Co.|
+|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|18.228.172.15|3128|Brazil|Sao Paulo|Amazon Technologies Inc.|
+|12|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|13|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|16|87.236.38.11|8080|Iran|Qarchak|Pars Abr Toseeh Ertebatat LTD|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|154.18.255.25|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|43.164.129.36|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
