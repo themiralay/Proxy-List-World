@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|6|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.174.237.128|8080|Indonesia|Panglanjan|PT Global Erasiber Teknologi|
-|11|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
-|13|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
-|14|134.199.204.161|3128|United States|Douglasville|DigitalOcean, LLC|
-|15|87.236.38.11|8080|Iran|Qarchak|Pars Abr Toseeh Ertebatat LTD|
-|16|172.237.90.118|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|103.132.52.63|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|18|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|19|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
-|20|118.179.167.238|55|Bangladesh|Dhaka|dhakaCom|
+|1|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|16|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|18|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|19|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
