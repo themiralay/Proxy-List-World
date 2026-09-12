@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4795** proxies at the latest update. Usable proxies are below.
+> Scraper found **4836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|356|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2574|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2615|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|49.51.252.36|3128|United States|Santa Clara|OPHL|
 |2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|6|103.246.194.251|3128|India|Bengaluru|RailTel Corporation|
-|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|107.175.124.191|18080|United States|Buffalo|HostPapa|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|49.51.252.36|3128|United States|Santa Clara|OPHL|
+|7|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|8|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|9|103.246.194.251|3128|India|Bengaluru|RailTel Corporation|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|13|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|18|107.175.124.191|18080|United States|Buffalo|HostPapa|
-|19|65.75.201.86|3128|United States|Jamestown|HostRush|
-|20|183.101.185.89|20002|South Korea|Geumcheon-gu|Korea Telecom|
+|11|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|12|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|87.236.38.11|8080|Iran|Qarchak|Pars Abr Toseeh Ertebatat LTD|
+|16|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|17|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|18|103.251.232.40|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|19|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.218.199.217|16062|United States|Denver|BraveWay LLC|
 
 
 
