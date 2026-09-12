@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|4|107.173.148.243|40000|United States|Santa Clara|ColoCrossing|
-|5|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|107.173.148.243|40000|United States|Santa Clara|ColoCrossing|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|18|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|9|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
+|16|85.14.247.185|3128|Germany|Coesfeld|WIIT AG|
+|17|18.163.182.106|8008|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|58.69.248.180|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|165.22.221.208|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
