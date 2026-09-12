@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|8|103.72.101.61|3128|India|Mumbai|Ultahost, Inc.|
-|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|14|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|15|87.236.38.11|8080|Iran|Qarchak|Pars Abr Toseeh Ertebatat LTD|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|185.234.228.76|8080|Russia|Irkutsk|BaikalWestCom Ltd|
-|19|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|8|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|85.140.57.222|2080|Russia|Kaluga|OJSC "MTS" Kaluga|
+|10|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|11|38.49.210.113|8118|Canada|Montreal|Rica Web Services|
+|12|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
+|13|87.236.38.11|8080|Iran|Qarchak|Pars Abr Toseeh Ertebatat LTD|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.72.101.61|3128|India|Mumbai|Ultahost, Inc.|
+|17|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|18|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|19|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
 
 
 
