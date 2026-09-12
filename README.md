@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5241** proxies at the latest update. Usable proxies are below.
+> Scraper found **5315** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3050|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|7|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|12|107.173.41.13|3128|United States|Buffalo|HostPapa|
 |13|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|107.173.41.13|3128|United States|Buffalo|HostPapa|
+|17|202.133.89.56|5001|The Netherlands|Amsterdam|BitCommand LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
 
