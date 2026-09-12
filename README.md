@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|7|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |8|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|54.177.115.112|1081|United States|San Jose|Amazon.com, Inc.|
 |12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|172.236.0.167|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|172.237.165.228|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |19|15.160.160.206|3128|Italy|Milan|Amazon Technologies Inc|
-|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|64.188.56.82|8118|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
