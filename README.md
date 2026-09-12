@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|54.145.190.187|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|15.207.66.192|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |10|54.145.190.187|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
+|11|54.145.190.187|3128|United States|Ashburn|Amazon Technologies Inc.|
 |12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|16|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
-|17|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|18|119.188.131.55|17981|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
+|14|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|15|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|19|54.177.115.112|1080|United States|San Jose|Amazon.com, Inc.|
+|20|165.154.235.181|7890|United States|Los Angeles|Scloud Pte Ltd|
 
 
 
