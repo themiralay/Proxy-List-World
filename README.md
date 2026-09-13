@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |10|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |11|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|34.230.26.72|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|18.236.232.115|3128|United States|Boardman|Amazon.com, Inc.|
-|19|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|34.230.26.72|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|18.236.232.115|3128|United States|Boardman|Amazon.com, Inc.|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|34.230.26.72|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|18.236.232.115|3128|United States|Boardman|Amazon.com, Inc.|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
