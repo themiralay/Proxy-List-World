@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.121.160.105|25802|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|210.121.160.170|23904|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|121.170.165.76|24818|South Korea|Seoul|Korea Telecom|
-|4|210.121.160.114|17056|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|210.121.160.157|25341|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|210.121.160.79|28510|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|210.121.160.187|20033|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|8|210.121.160.217|29454|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|9|183.111.192.207|11338|South Korea|Seongnam-si|Korea Telecom|
-|10|121.170.165.32|10127|South Korea|Seoul|Korea Telecom|
-|11|210.121.160.230|15289|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|12|121.170.165.3|24439|South Korea|Seoul|Korea Telecom|
-|13|121.170.165.68|25180|South Korea|Seoul|Korea Telecom|
-|14|210.121.160.239|10943|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|15|121.170.165.27|21833|South Korea|Seoul|Korea Telecom|
-|16|210.121.160.43|12410|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|203.245.16.113|27875|South Korea|Seongnam-si|Korea Telecom|
-|18|210.121.160.226|26431|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|19|183.111.179.185|26123|South Korea|Seongnam-si|Korea Telecom|
-|20|210.121.160.131|27336|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|121.170.165.3|24439|South Korea|Seoul|Korea Telecom|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|210.121.160.83|14884|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|17|210.121.160.187|20033|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|18|210.121.160.42|18181|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|19|210.121.160.170|23904|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|20|210.121.160.15|24967|South Korea|Yeongdeungpo-gu|Korea Telecom|
 
 
 
