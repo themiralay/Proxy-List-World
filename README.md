@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|49.145.63.105|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|5|210.121.160.217|29454|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|210.121.160.230|15289|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|210.121.160.202|24100|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|151.243.153.157|8118|United States|Seattle|Black Apple|
-|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|181.78.208.227|999|Colombia|Prado-Sevilla|Ufinet Panama S.A.|
-|16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|18|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|210.121.160.230|15289|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|210.121.160.228|13484|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|20|210.121.160.163|21650|South Korea|Yeongdeungpo-gu|Korea Telecom|
 
 
 
