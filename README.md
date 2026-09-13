@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.121.160.131|27336|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|183.111.192.207|11338|South Korea|Seongnam-si|Korea Telecom|
-|3|121.170.165.68|25180|South Korea|Seoul|Korea Telecom|
-|4|121.170.165.32|10127|South Korea|Seoul|Korea Telecom|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|14|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|153.76.122.178|443|The Netherlands|Amsterdam|YottaSrc|
-|17|118.200.237.152|8118|Singapore|Singapore|Singapore Telecommunications Ltd, Magix Services|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|185.205.210.154|8102|Bulgaria|Sofia|Belcloud LTD|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|183.111.179.185|26123|South Korea|Seongnam-si|Korea Telecom|
+|2|121.170.165.243|28754|South Korea|Seoul|Korea Telecom|
+|3|210.121.160.157|25341|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|210.121.160.131|27336|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|183.111.192.207|11338|South Korea|Seongnam-si|Korea Telecom|
+|7|121.170.165.68|25180|South Korea|Seoul|Korea Telecom|
+|8|121.170.165.32|10127|South Korea|Seoul|Korea Telecom|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|10|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|19|153.76.122.178|443|The Netherlands|Amsterdam|YottaSrc|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
