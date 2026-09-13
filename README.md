@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|13|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|14|5.39.255.142|8118|Germany|Frankfurt am Main|Anton Levin|
-|15|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|51.161.142.97|8080|Australia|Sydney|OVH SAS|
-|19|122.102.126.74|8080|India|Chennai|Chandranet Pvt.Ltd|
-|20|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|11|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|12|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|15|107.175.124.191|18080|United States|Buffalo|HostPapa|
+|16|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|17|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|18|38.188.63.115|8081|Indonesia|Ungaran|PT Nesta Indo Media|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
 
 
 
