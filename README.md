@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|186.33.45.219|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|11|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|104.243.157.1|8080|United States|Evansville|LiteWire Internet Services, Inc.|
+|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|174.138.162.34|37475|United States|Phoenix|Secured Servers LLC|
+|16|107.175.124.191|18080|United States|Buffalo|HostPapa|
+|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|18|119.28.233.241|3128|South Korea|Seoul|ComsenzNet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|65.20.183.178|8080|Iraq|Baghdad|Hulum|
 
 
 
