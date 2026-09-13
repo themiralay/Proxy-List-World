@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|11|31.207.4.14|3128|Singapore|Singapore|Trunk Networks LTD|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|14|153.76.122.178|443|The Netherlands|Amsterdam|YottaSrc|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|45.90.236.68|3128|The Netherlands|Eygelshoven|Anton Levin|
-|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|18|91.201.113.151|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|178.236.16.4|8888|Kazakhstan|Astana|NLS ASTANA LLP|
-|20|102.208.228.90|8080|South Africa|Ducats|VPS1|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|153.76.122.178|443|The Netherlands|Amsterdam|YottaSrc|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|163.227.252.3|8080|Indonesia|Wiralaga Mulya|PT DASA INFRA INDONESIA|
+|14|62.238.59.40|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|185.205.210.154|8102|Bulgaria|Sofia|Belcloud LTD|
+|17|112.201.227.236|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|18|91.201.113.151|8888|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.122.65.242|8080|Indonesia|Karyadharma|PT. Jinom Network Indonesia|
+|20|49.151.64.103|5050|Philippines|Mallig|Philippine Long Distance Telephone Co.|
 
 
 
