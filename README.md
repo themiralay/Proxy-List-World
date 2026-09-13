@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4768** proxies at the latest update. Usable proxies are below.
+> Scraper found **5381** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2501|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3114|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |7|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|15|35.92.183.44|3128|United States|Boardman|Amazon.com, Inc.|
-|16|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|35.92.183.44|3128|United States|Boardman|Amazon.com, Inc.|
-|20|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|103.172.121.28|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|12|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
+|15|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
+|16|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|182.160.124.153|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|24.55.20.6|3030|United States|Austin|Charter Communications Inc|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
