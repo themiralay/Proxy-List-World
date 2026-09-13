@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|10|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
 |16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|17|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|19|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|20|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
