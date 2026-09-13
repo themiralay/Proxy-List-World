@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|43.99.100.108|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|6|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|23.94.112.168|8080|United States|Los Angeles|HostPapa|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|34.204.36.180|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|34.204.36.180|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|45.90.236.68|3128|The Netherlands|Eygelshoven|Anton Levin|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|62.238.59.40|443|Finland|Helsinki|Hetzner Online GmbH|
+|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
+|9|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|10|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|15|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|122.118.19.163|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
 |20|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
