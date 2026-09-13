@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|16|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|17|146.190.60.147|8005|United States|Santa Clara|DigitalOcean, LLC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|7|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|15|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|202.8.29.91|8080|Indonesia|Medan|PT MULTI MEDIA ACCESS|
 
 
 
