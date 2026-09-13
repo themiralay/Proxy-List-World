@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|3|35.92.183.44|3128|United States|Boardman|Amazon.com, Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|35.92.183.44|3128|United States|Boardman|Amazon.com, Inc.|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|14|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
+|15|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
+|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|47.88.76.47|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.58.182.147|18080|United States|Draper|FiberState, LLC|
 
 
 
