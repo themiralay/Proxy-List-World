@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
-|5|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|118.200.237.152|8118|Singapore|Singapore|Singapore Telecommunications Ltd, Magix Services|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|43.135.145.201|10808|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|38.172.160.16|999|Venezuela|Caracas|RED SERVITEL, CA|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|202.157.67.40|8080|India|Jaipur|Data Infosys Ltd|
+|1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|2|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|14|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|15|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|18|103.209.36.58|8080|India|Mumbai|Aerpace|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
 
 
 
