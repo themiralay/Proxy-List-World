@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|183.111.179.185|26123|South Korea|Seongnam-si|Korea Telecom|
-|11|210.121.160.228|13484|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|12|183.111.73.44|27468|South Korea|Seongnam-si|Korea Telecom|
-|13|183.111.192.207|11338|South Korea|Seongnam-si|Korea Telecom|
-|14|210.121.160.153|15903|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|15|121.170.165.40|12679|South Korea|Seoul|Korea Telecom|
-|16|210.121.160.15|24967|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|121.170.165.8|16702|South Korea|Seoul|Korea Telecom|
-|18|210.121.160.226|26431|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|19|210.121.160.79|28510|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|20|210.121.160.217|29454|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|121.170.165.59|12820|South Korea|Seoul|Korea Telecom|
+|9|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|210.121.160.141|12976|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|12|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|85.17.200.39|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|15|183.111.73.44|27468|South Korea|Seongnam-si|Korea Telecom|
+|16|210.121.160.129|27017|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|17|210.121.160.230|15289|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|18|121.170.165.37|11918|South Korea|Seoul|Korea Telecom|
+|19|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|20|38.58.182.147|18080|United States|Draper|FiberState, LLC|
 
 
 
