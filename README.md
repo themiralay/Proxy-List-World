@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4630** proxies at the latest update. Usable proxies are below.
+> Scraper found **4709** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|405|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|376|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|346|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2649|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|6|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |10|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|11|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
+|16|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|93.177.125.59|3128|United Arab Emirates|Dubai|Rajesh Sajnani trading as CLOUD HOST TECHNOLOGY|
+|20|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
