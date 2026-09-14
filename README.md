@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
-|14|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
-|15|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|16|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|19|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|14|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|15|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|180.191.125.28|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|17|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|19|159.195.194.242|8080|Germany|Nuremberg|netcup GmbH|
+|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
 
 
 
