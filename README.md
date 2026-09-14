@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4571** proxies at the latest update. Usable proxies are below.
+> Scraper found **4623** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|476|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2551|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|9|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|10|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|14|157.10.97.119|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|15|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
-|17|34.222.220.64|3128|United States|Boardman|Amazon.com, Inc.|
-|18|194.87.111.236|3128|Russia|Korolyov|JSC Mediasoft ekspert|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|107.172.209.196|3128|United States|Dallas|HostPapa|
+|14|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|34.222.220.64|3128|United States|Boardman|Amazon.com, Inc.|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 
 
 
