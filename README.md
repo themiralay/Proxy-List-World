@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|165.22.99.36|8007|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|7|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|8|27.147.153.179|8158|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|159.195.22.57|80|Germany|Nuremberg|netcup GmbH|
-|11|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|12|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|13|181.78.74.252|999|Colombia|María la Baja|Ufinet Panama S.A.|
-|14|181.78.74.253|999|Colombia|Montelíbano|Ufinet Panama S.A.|
-|15|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|24.173.217.114|55443|United States|Balch Springs|Spectrum|
-|17|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.177.8.119|10263|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
-|20|201.20.79.182|8088|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|6|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|7|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
+|13|144.31.118.56|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|14|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
+|17|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
