@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|4|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|13|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|181.78.23.187|999|Colombia|María la Baja|Ufinet Panama S.A.|
-|17|181.78.74.253|999|Colombia|Montelíbano|Ufinet Panama S.A.|
-|18|181.78.74.252|999|Colombia|María la Baja|Ufinet Panama S.A.|
-|19|102.208.228.90|8080|South Africa|Ducats|VPS1|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|14|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
+|15|181.78.23.187|999|Colombia|María la Baja|Ufinet Panama S.A.|
+|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|181.78.74.252|999|Colombia|María la Baja|Ufinet Panama S.A.|
+|18|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|19|181.78.74.253|999|Colombia|Montelíbano|Ufinet Panama S.A.|
+|20|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
 
 
 
