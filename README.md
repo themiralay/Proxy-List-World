@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|13|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
-|14|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
-|15|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|38.159.37.213|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|11|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|13|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|15|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|17|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|18|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|156.245.246.51|7890|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
