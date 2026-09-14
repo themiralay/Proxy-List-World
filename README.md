@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 |16|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|17|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|18|178.252.134.190|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|123.0.19.42|10000|Bangladesh|Naogaon|Icon Infotech|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.218.199.249|16062|United States|Denver|BraveWay LLC|
 
 
 
