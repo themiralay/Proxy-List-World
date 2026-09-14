@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|103.112.71.166|3128|The Netherlands|Amsterdam|Mastersoft S.R.L.|
-|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|14|34.222.220.64|3128|United States|Boardman|Amazon.com, Inc.|
-|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|157.15.1.190|8080|Indonesia|Ngawi|Gopalnet|
-|17|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|58.187.104.62|2080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|167.71.102.253|3128|United States|Clifton|DigitalOcean, LLC|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
