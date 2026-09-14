@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4976** proxies at the latest update. Usable proxies are below.
+> Scraper found **4926** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|458|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|348|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2920|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |6|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
-|12|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
-|15|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
-|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|19|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
+|10|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
+|11|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|13|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|14|149.56.110.145|3128|Canada|Montreal|OVH SAS|
+|15|151.185.59.36|8080|India|New Delhi|E2E Networks Limited|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|20|107.174.36.15|8888|United States|Buffalo|HostPapa|
 
 
 
