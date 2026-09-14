@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
 |2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
-|6|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|20.110.224.54|3128|United States|Boydton|Microsoft Corporation|
-|9|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
-|10|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
-|12|20.110.224.54|3128|United States|Boydton|Microsoft Corporation|
-|13|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|103.209.36.58|8080|India|Mumbai|Aerpace|
-|15|102.208.228.90|8080|South Africa|Ducats|VPS1|
-|16|203.76.220.126|16464|Bangladesh|Nawāb Char|BUSINESSNETWORK|
-|17|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
-|18|51.161.123.224|8080|Canada|Beauharnois|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|182.48.66.154|8080|Bangladesh|Dhaka|Corporate Office|
+|3|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|38.60.126.87|1080|United States|Los Angeles|Cogent Communications|
+|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|10|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
+|11|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
+|12|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|16|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|17|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
+|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|185.191.239.248|3128|Switzerland|Wetzikon|Geronimo Ramirez Computer Network|
+|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
