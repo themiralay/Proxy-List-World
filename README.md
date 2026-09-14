@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|10|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|158.180.19.230|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|62.238.59.40|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
-|18|45.132.252.25|49156|Russia|Moscow|Ihor Hosting LTD|
-|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|45.132.252.25|49156|Russia|Moscow|Ihor Hosting LTD|
+|18|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
+|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
 
 
 
