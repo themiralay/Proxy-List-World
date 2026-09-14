@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4668** proxies at the latest update. Usable proxies are below.
+> Scraper found **4606** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|440|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2649|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|8|151.185.59.41|8080|India|New Delhi|E2E Networks Limited|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|11|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|20|93.177.125.59|3128|United Arab Emirates|Dubai|Rajesh Sajnani trading as CLOUD HOST TECHNOLOGY|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
+|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
+|17|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|19|93.177.125.59|3128|United Arab Emirates|Dubai|Rajesh Sajnani trading as CLOUD HOST TECHNOLOGY|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
