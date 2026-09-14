@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|152.228.134.176|48080|France|Strasbourg|OVH SAS|
-|15|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
-|16|190.60.44.234|999|Colombia|Cartagena|Ufinet Panama S.A.|
+|12|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
+|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|190.60.44.234|999|Colombia|Cartagena|Ufinet Panama S.A.|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |17|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|18|202.159.35.84|9933|Indonesia|Jakarta|PT IndoInternet|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
