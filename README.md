@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|45.126.124.219|3128|Hong Kong|Hong Kong|Kamatera|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
-|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|103.97.140.110|8080|Indonesia|Lembang|PT Jembatan Data Pangrango|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.112.71.166|3128|The Netherlands|Amsterdam|Mastersoft S.R.L.|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 
 
 
