@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|8|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
 |11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|20|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|151.243.153.157|8118|United States|Seattle|Black Apple|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
