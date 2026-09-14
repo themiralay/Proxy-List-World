@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|3|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|11|43.167.209.118|10081|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|38.172.170.185|999|Venezuela|El Valle|RED SERVITEL, CA|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|73.162.86.230|443|United States|San Jose|Comcast Cable Communications|
-|15|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|16|91.211.212.6|32650|Greece|Athens|ISP Inalan|
-|17|163.192.24.33|1080|United States|San Jose|Oracle Corporation|
-|18|157.66.67.16|8080|Indonesia|Makassar|PT Buraq Telekomunikasi Indonesia|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|43.167.209.118|10081|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|7|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|8|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|14|38.58.182.147|18080|United States|Draper|FiberState, LLC|
+|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
+|17|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|18|205.164.192.115|999|Mexico|Ayotlán|Cogent Communications|
 |19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |20|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
