@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|11|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|16|154.18.255.25|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|19|27.147.153.179|8158|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|11|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|13|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|181.78.74.252|999|Colombia|María la Baja|Ufinet Panama S.A.|
+|18|181.78.74.253|999|Colombia|Montelíbano|Ufinet Panama S.A.|
+|19|154.64.211.145|999|Puerto Rico|Humacao|OSNET Wireless|
+|20|27.147.153.179|8158|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
