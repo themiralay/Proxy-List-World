@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5049** proxies at the latest update. Usable proxies are below.
+> Scraper found **5016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2936|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|107.174.36.15|8888|United States|Buffalo|HostPapa|
-|12|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|49.51.252.36|3128|United States|Santa Clara|OPHL|
 |13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|38.58.182.147|18080|United States|Draper|FiberState, LLC|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|18|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|43.155.85.222|8118|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|20|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 
 
 
