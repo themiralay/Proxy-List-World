@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|58.187.104.62|2113|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 |4|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|8|108.61.213.218|80|Australia|Sydney|Choopa|
-|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|14|104.154.186.48|80|United States|Council Bluffs|Google LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|108.61.213.218|80|Australia|Sydney|Choopa|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|9|167.71.229.184|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|151.185.59.40|8080|India|New Delhi|E2E Networks Limited|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|18|34.69.61.247|80|United States|Council Bluffs|Google LLC|
+|19|189.171.224.233|8080|Mexico|General Escobedo|Uninet S.A. de C.V|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
