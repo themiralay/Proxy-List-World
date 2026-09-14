@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|7|43.108.35.203|8899|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|213.163.196.45|80|Singapore|Singapore|UpCloud Ltd|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|17|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|19|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|103.151.107.134|80|India|Noida|Techtreno Solutions Private Limited|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
