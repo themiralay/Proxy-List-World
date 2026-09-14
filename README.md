@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|45.126.124.219|3128|Hong Kong|Hong Kong|Kamatera|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|14|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|15|128.90.145.98|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|16|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|17|113.22.24.247|30001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|148.244.144.194|8097|Mexico|Silao de la Victoria|Alestra, S. de R.L. de C.V.|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|16|45.5.119.17|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|128.90.145.98|8118|Belgium|Brussels|Powerhouse Management, Inc.|
+|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|12.199.82.226|8080|United States|Fort Lauderdale|AT&T Enterprises, LLC|
 
 
 
