@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|146.103.111.113|443|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|156.245.246.51|7890|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|160.19.18.219|8080|Indonesia|Kendal|PT Indo Telemedia Solusi|
+|14|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|17|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|223.206.188.253|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
