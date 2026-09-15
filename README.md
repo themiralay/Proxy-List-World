@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|6|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.58.115.185|8080|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|4|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|43.108.35.203|8899|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|13|160.187.174.186|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|14|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
