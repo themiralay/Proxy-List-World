@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|19|73.162.86.230|8181|United States|San Jose|Comcast Cable Communications|
-|20|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|8|103.31.233.46|3128|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|73.162.86.230|8080|United States|San Jose|Comcast Cable Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
