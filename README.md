@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|16|34.69.61.247|80|United States|Council Bluffs|Google LLC|
-|17|198.44.179.236|3128|Hong Kong|Hong Kong|Corenet Cloud Sdn. Bhd.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|14|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|103.82.246.15|6080|Indonesia|Wedoro|PT Master Star Network|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
