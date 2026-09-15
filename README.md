@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.33.142|3128|Japan|Tokyo|Alibaba.com LLC|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|8|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|7|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|192.203.0.166|999|Puerto Rico|Comunas|Boom NET|
-|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|17|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|19|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|20|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|14|210.87.92.137|1111|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|19|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|20|193.178.203.141|8080|Iran|Isfahan|AsmanFaraz ISDP|
 
 
 
