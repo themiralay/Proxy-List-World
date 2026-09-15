@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|45.194.41.43|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.69.61.247|80|United States|Council Bluffs|Google LLC|
 |15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.248.8.47|8080|Indonesia|Garut|Flashnet|
-|19|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|104.154.186.48|80|United States|Council Bluffs|Google LLC|
+|19|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
