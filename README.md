@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|1|43.167.240.38|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|180.191.2.165|8081|Philippines|Cabanatuan City|Globe Telecom|
+|8|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
 |9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|58.187.104.62|2035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|15|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
