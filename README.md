@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|18|103.227.187.13|6080|Indonesia|Curahjati|PT Master Star Network|
-|19|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|9|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|12|58.187.104.62|2035|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|16|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
+|17|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|18|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
 
 
 
