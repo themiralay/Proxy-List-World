@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5170** proxies at the latest update. Usable proxies are below.
+> Scraper found **5089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|525|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2967|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|5|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|58.187.104.62|2096|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|131.163.89.148|3128|Norway|Lorenskog|Microsoft Corporation|
+|11|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|12|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|73.162.86.230|8181|United States|San Jose|Comcast Cable Communications|
-|17|193.233.91.64|3129|Russia|St Petersburg|Aeza Group LLC|
-|18|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|193.233.91.64|3129|Russia|St Petersburg|Aeza Group LLC|
+|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|17|73.162.86.230|8080|United States|San Jose|Comcast Cable Communications|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|19|119.28.233.241|3128|South Korea|Seoul|ComsenzNet|
+|20|102.208.228.90|8080|South Africa|Ducats|VPS1|
 
 
 
