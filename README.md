@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|11|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|20|178.252.134.190|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|7|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|8|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|87.106.70.153|8118|Germany|Berlin|IONOS SE|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|58.187.104.62|2088|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|19|78.38.89.188|9090|Iran|Tehran|Iran Telecommunication Company PJS|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
