@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|17|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|18|201.71.2.61|999|Venezuela|Caracas|INVERSIONES FAROCA, C.A.|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|152.228.134.176|48080|France|Strasbourg|OVH SAS|
+|14|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|15|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|110.34.13.4|8080|Nepal|Nepalgunj|Subisu Cablenet|
 |19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|156.245.246.51|7890|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 
 
 
