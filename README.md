@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|7|52.34.183.254|3128|United States|Boardman|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|14|52.34.183.254|3128|United States|Boardman|Amazon.com, Inc.|
-|15|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|16|185.153.196.163|1080|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|17|87.106.70.153|8118|Germany|Berlin|IONOS SE|
-|18|58.187.104.62|2080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|52.34.183.254|3128|United States|Boardman|Amazon.com, Inc.|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|52.34.183.254|3128|United States|Boardman|Amazon.com, Inc.|
+|9|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|10|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|11|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|185.153.196.163|1080|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|13|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|14|116.101.1.175|2095|Vietnam|Ngo Quyen Ward|Viettel Group|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|19|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
+|20|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
