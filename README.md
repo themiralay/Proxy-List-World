@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|5|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.10.71.23|8888|United States|Los Angeles|Zenlayer Inc|
+|8|45.10.71.23|8888|United States|Los Angeles|Zenlayer Inc|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|17|185.153.196.163|1080|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|156.245.246.51|7890|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|144.124.251.24|10008|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|18|92.205.162.33|3128|France|Strasbourg|Host Europe GmbH|
+|19|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
 
 
 
