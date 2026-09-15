@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|58.187.104.62|2120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|103.170.100.97|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|146.103.111.113|443|The Netherlands|Amsterdam|Servers Tech Fzco|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|78.38.89.188|9090|Iran|Tehran|Iran Telecommunication Company PJS|
-|16|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|19|49.145.123.216|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|19|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|20|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
