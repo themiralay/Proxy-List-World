@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|2|47.79.33.142|3128|Japan|Tokyo|Alibaba.com LLC|
-|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|7|165.154.173.250|8082|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|18|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|19|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|13|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|17|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|18|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|43.153.123.79|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 
 
 
