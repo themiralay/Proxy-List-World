@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|107.172.209.196|3128|United States|Dallas|HostPapa|
+|4|69.87.216.54|7989|United States|Santa Clara|Atlantic.net|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|10|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|11|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|12|81.90.158.110|3128|Iran|Varāmīn|Afranet Co|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|107.172.209.196|3128|United States|Dallas|HostPapa|
+|10|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
 |13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|185.226.194.0|999|Venezuela|Valencia|DAT - COM SERVICES, C.A.|
-|15|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
+|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|15|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 |17|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|182.253.109.133|1256|Indonesia|Semarang|Biznet Networks|
-|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
