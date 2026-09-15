@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|1|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|20|167.86.104.220|80|France|Lauterbourg|Contabo GmbH|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|5|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|18|34.65.99.32|3128|Switzerland|Zurich|Google LLC|
+|19|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
