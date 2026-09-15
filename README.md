@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|13.215.153.143|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|49.48.51.16|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|13.215.153.143|80|Singapore|Singapore|Amazon Technologies Inc.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|49.48.51.16|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|10|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|107.167.18.122|443|United States|Los Angeles|Sharktech|
 |14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|83.166.247.254|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|19|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|18|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
+|19|162.250.124.70|10808|United States|Secaucus|Interserver, Inc|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
