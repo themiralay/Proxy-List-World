@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|202.58.77.114|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|12|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|5|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|18|83.166.247.254|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 |19|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|20|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
