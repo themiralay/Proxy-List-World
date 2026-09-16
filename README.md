@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.81.131.151|8888|United States|Los Angeles|Zenlayer Inc|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|45.81.131.151|8888|United States|Los Angeles|Zenlayer Inc|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|116.12.47.94|8080|Indonesia|Mojosari|ADSNET|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
-|16|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|45.81.131.151|8888|United States|Los Angeles|Zenlayer Inc|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|18.207.123.248|1001|United States|Ashburn|Amazon.com, Inc.|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|45.81.131.151|8888|United States|Los Angeles|Zenlayer Inc|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|18.207.123.248|1001|United States|Ashburn|Amazon.com, Inc.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|14.161.87.244|2001|Vietnam|Ho Chi Minh City|VNPT|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
