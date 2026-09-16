@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |9|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|15|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|10|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
+|11|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|12|46.243.1.99|3128|Finland|Helsinki|Ihor Hosting LTD|
+|13|62.113.112.246|10808|Russia|Moscow|Hosting technology LTD|
+|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|174.138.162.34|8254|United States|Phoenix|Secured Servers LLC|
+|19|151.243.153.157|8118|United States|Seattle|Black Apple|
+|20|103.97.141.40|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
 
 
 
