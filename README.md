@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|3|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|23.94.112.168|8080|United States|Los Angeles|HostPapa|
-|13|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|103.208.102.1|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|17|23.95.218.236|3128|United States|Marietta|HostPapa|
-|18|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|19|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|20|23.95.218.236|3128|United States|Marietta|HostPapa|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|23.94.112.168|8080|United States|Los Angeles|HostPapa|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|1.32.48.243|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|23.95.218.236|3128|United States|Marietta|HostPapa|
+|15|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
 
 
 
