@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|180.191.228.36|8082|Philippines|Talisay City|Globe Telecom|
 |7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|104.223.62.181|3128|Canada|Toronto|HostPapa|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|23.95.218.236|3128|United States|Marietta|HostPapa|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
