@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|23.95.218.236|3128|United States|Marietta|HostPapa|
-|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|103.18.45.234|8080|Indonesia|Jambi City|PT Singoedan Media Network|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|202.58.77.114|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|13|23.95.218.236|3128|United States|Marietta|HostPapa|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|16|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|11|23.95.218.236|3128|United States|Marietta|HostPapa|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|17|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|18|23.95.218.236|3128|United States|Marietta|HostPapa|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
