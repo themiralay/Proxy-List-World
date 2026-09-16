@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|103.208.102.93|1080|Indonesia|Muntilan|PT Tidar Lintas Nusa|
+|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|157.10.89.164|8080|Indonesia|Madiun|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
-|17|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|18|112.208.161.255|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|12|103.145.149.226|80|Indonesia|East Jakarta|PT. Indonesia Comnets Plus|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|151.243.153.157|8118|United States|Seattle|Black Apple|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|20|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
 
 
 
