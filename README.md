@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
 |3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|5|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|13|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|43.167.240.38|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|151.243.153.157|8118|United States|Seattle|Black Apple|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|16|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
