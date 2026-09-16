@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|194.87.111.236|3128|Russia|Korolyov|JSC Mediasoft ekspert|
-|17|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|188.213.196.103|10808|Iran|Tehran|MCI|
-|20|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|16|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
 
 
 
