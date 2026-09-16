@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|198.46.200.118|12888|United States|Los Angeles|HostPapa|
 |2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|6|103.94.238.94|30001|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|103.94.238.94|30001|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|7|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|12|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |16|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|31.77.131.173|8080|The Netherlands|Amsterdam|Play2go International Limited|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|79.137.78.133|8005|France|Roubaix|OVH SAS|
+|19|185.58.115.185|8080|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
