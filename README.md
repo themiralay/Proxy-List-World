@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|6|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|4|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
+|5|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|49.151.200.251|8080|Philippines|Umingan|Philippine Long Distance Telephone Co.|
+|8|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|202.10.55.50|3128|Indonesia|Jakarta Pusat|HIGEN|
 |11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|12|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|16|115.178.50.71|1080|Indonesia|Cinisti|NOC SIMAYA|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|34.84.162.206|38080|Japan|Tokyo|Google LLC|
 
 
 
