@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|5|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|198.46.200.118|12888|United States|Los Angeles|HostPapa|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|19|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|20|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|14|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
+|15|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|17|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|18|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|19|203.76.117.226|8118|Bangladesh|Tangail|Link3 Technologies Limited|
+|20|65.109.65.238|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
