@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|103.179.253.43|8181|Indonesia|Cibinong|PT Pusaka Kreasi Mandiri|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|198.46.200.118|12888|United States|Los Angeles|HostPapa|
-|12|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|19|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.58.115.185|8080|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|19|151.243.153.157|8118|United States|Seattle|Black Apple|
+|20|79.137.78.133|8005|France|Roubaix|OVH SAS|
 
 
 
