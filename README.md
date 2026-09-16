@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|9|62.113.112.246|10808|Russia|Moscow|Hosting technology LTD|
-|10|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|11|153.80.240.2|8080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|160.19.146.89|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|13|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
-|15|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|16|112.203.55.98|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|17|144.31.30.222|1080|The Netherlands|Amsterdam|Play2go International Limited|
-|18|185.65.202.28|8080|Germany|Frankfurt Am Main|Baykov Ilya Sergeevich|
-|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|10|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|58.147.186.31|3125|Indonesia|Samalantan|PT. Transhybrid Communication|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
+|16|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|17|37.59.125.131|8888|France|Roubaix|OVH SAS|
+|18|102.213.179.113|8080|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|19|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|20|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
 
 
 
