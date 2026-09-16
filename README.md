@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|11|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|14|65.109.87.121|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|23.95.218.235|3128|United States|Marietta|HostPapa|
-|18|23.95.218.238|3128|United States|Marietta|HostPapa|
-|19|23.95.218.236|3128|United States|Marietta|HostPapa|
-|20|23.95.218.234|3128|United States|Marietta|HostPapa|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|153.80.240.2|1080|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|10|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|209.182.234.151|40000|Japan|Tokyo|HIVELOCITY, Inc.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|113.11.120.105|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|20|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
