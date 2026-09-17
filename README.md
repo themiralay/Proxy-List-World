@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|103.174.122.89|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|14|101.255.105.222|8080|Indonesia|West Jakarta|PT Remala Abadi|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|43.252.107.46|8080|Indonesia|Kediri|PT Lintas Data Prima|
-|20|192.232.48.24|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|11|124.105.110.52|8082|Philippines|Santa Cruz|Philippine Long Distance Telephone Co.|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|45.194.47.134|8080|India|Noida|CtrlS|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
