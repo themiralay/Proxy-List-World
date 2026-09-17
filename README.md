@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|202.73.27.116|1080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|45.194.47.134|8080|India|Noida|CtrlS|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|212.69.85.83|8080|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|10|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
 |11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|16|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
-|18|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|13|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|14|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|15|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |19|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
 |20|107.172.232.2|7890|United States|Los Angeles|HostPapa|
 
