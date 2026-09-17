@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|203.150.128.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|9|37.58.221.247|3128|France|Montpellier|Adista SAS|
-|10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|12|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|13|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|180.191.137.251|5050|Philippines|Cebu City|Globe Telecom|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|10|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
+|13|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 |14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
-|16|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|18|37.58.221.247|3128|France|Montpellier|Adista SAS|
+|19|107.174.36.15|8888|United States|Buffalo|HostPapa|
 |20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
