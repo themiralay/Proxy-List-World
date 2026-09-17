@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4883** proxies at the latest update. Usable proxies are below.
+> Scraper found **4748** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|795|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2583|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|49.147.109.196|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|4|180.194.83.62|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|103.88.234.239|40019|Mexico|Mexico City|Latitude.sh|
-|8|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|11|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|14|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|103.88.234.239|40019|Mexico|Mexico City|Latitude.sh|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
