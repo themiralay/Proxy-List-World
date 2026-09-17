@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|9|144.48.163.104|8080|Bangladesh|Dhaka|Cue Club Technology|
-|10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|203.150.128.130|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|16|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
-|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|69.167.45.99|8118|United States|Austin|Paradise Networks LLC|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|19|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|20|194.163.175.167|40000|France|Lauterbourg|Contabo GmbH|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
 
 
 
