@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|124.217.67.142|8082|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
-|3|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|103.172.42.221|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
-|16|200.24.147.66|999|Ecuador|El Guabo|Ufinet Panama S.A.|
-|17|49.149.113.241|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|19|104.218.199.131|16062|United States|Denver|BraveWay LLC|
-|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|7|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|120.28.76.192|8082|Philippines|Caloocan|Globe Telecom|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|160.22.134.63|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|103.24.215.249|8082|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
+|20|152.0.45.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
 
 
 
