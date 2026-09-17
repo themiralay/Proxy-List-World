@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|16.79.71.2|8888|Indonesia|Jakarta|Amazon.com, Inc.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
-|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|88.80.186.173|19180|United Kingdom|London|Akamai Technologies, Inc.|
-|15|107.172.232.2|7890|United States|Los Angeles|HostPapa|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|107.172.232.2|7890|United States|Los Angeles|HostPapa|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
+|16|82.22.184.158|3128|Germany|Frankfurt am Main|Freakhosting LTD|
+|17|67.159.46.42|8899|France|Roubaix|FDCservers.net|
+|18|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 
 
 
