@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|202.8.29.91|8080|Indonesia|Medan|PT MULTI MEDIA ACCESS|
-|3|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
 |4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |9|45.194.47.134|8080|India|Noida|CtrlS|
-|10|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|107.172.232.2|7890|United States|Los Angeles|HostPapa|
-|20|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|103.68.215.115|8181|Indonesia|Sepatan|PT Media Grasi Internet|
+|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|18|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
