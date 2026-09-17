@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|3|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
 |8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|49.149.113.241|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|112.203.49.80|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|18|103.247.15.68|1080|Indonesia|Magelang|TERABIT|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|18|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|19|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|35.232.22.11|3128|United States|Council Bluffs|Google LLC|
 
 
 
