@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|2|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
 |3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|5|23.95.218.235|3128|United States|Marietta|HostPapa|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|23.95.218.234|3128|United States|Marietta|HostPapa|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|23.95.218.238|3128|United States|Marietta|HostPapa|
-|12|23.95.218.236|3128|United States|Marietta|HostPapa|
-|13|23.95.218.233|3128|United States|Marietta|HostPapa|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|23.95.218.234|3128|United States|Marietta|HostPapa|
-|18|23.95.218.235|3128|United States|Marietta|HostPapa|
-|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|20|123.231.252.218|8080|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
+|4|23.95.218.238|3128|United States|Marietta|HostPapa|
+|5|23.95.218.236|3128|United States|Marietta|HostPapa|
+|6|23.95.218.233|3128|United States|Marietta|HostPapa|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|23.95.218.235|3128|United States|Marietta|HostPapa|
+|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|12|23.95.218.234|3128|United States|Marietta|HostPapa|
+|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|45.194.47.134|8080|India|Noida|CtrlS|
+|16|23.95.218.238|3128|United States|Marietta|HostPapa|
+|17|23.95.218.233|3128|United States|Marietta|HostPapa|
+|18|23.95.218.236|3128|United States|Marietta|HostPapa|
+|19|103.31.135.214|8080|Indonesia|Bekasi|PT Arthatama Adhiprima Persada|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
