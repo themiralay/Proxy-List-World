@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|202.73.27.116|1080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
+|7|45.194.47.134|8080|India|Noida|CtrlS|
 |8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|9|202.73.27.116|1080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|103.139.200.230|8080|India|Galsi|Winnet Broadband Private Limited|
 |13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|16|103.166.158.41|1080|Indonesia|Cikupa|PT Timor Lintas Nusantara|
-|17|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|18|16.79.71.2|8888|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|93.123.30.53|3128|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
