@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|7|107.172.232.2|7890|United States|Los Angeles|HostPapa|
-|8|35.232.22.11|3128|United States|Council Bluffs|Google LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|12|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|13|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|17|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|107.172.232.2|7890|United States|Los Angeles|HostPapa|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
+|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|85.208.139.10|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|35.232.22.11|3128|United States|Council Bluffs|Google LLC|
+|20|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
