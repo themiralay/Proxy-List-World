@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|5|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.47.134|8080|India|Noida|CtrlS|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|180.183.36.21|8080|Thailand|Bang Phli|Triple T Broadband Public Company Limited|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|1|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|49.145.176.60|8080|Philippines|Tandayag|Philippine Long Distance Telephone Co.|
 
 
 
