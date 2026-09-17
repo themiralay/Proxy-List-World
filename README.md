@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 |4|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|103.88.234.239|40019|Mexico|Mexico City|Latitude.sh|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
-|18|212.69.85.83|8080|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|151.243.153.157|8118|United States|Seattle|Black Apple|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|15|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|16|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|19|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|20|188.17.93.62|1080|Russia|Perm|OJSC uralsvyazinform|
 
 
 
