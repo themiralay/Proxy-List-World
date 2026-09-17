@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|13|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|15|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|18|93.123.30.53|3128|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|103.175.80.202|8080|Indonesia|Purwodadi Grobogan|PT Panglima Kamayo Media|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|103.88.234.239|40019|Mexico|Mexico City|Latitude.sh|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
+|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
