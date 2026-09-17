@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|54.183.235.175|1001|United States|San Jose|Amazon.com, Inc.|
-|4|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|54.183.235.175|1001|United States|San Jose|Amazon.com, Inc.|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|103.88.234.239|40019|Mexico|Mexico City|Latitude.sh|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|18|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|54.183.235.175|1001|United States|San Jose|Amazon.com, Inc.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|54.183.235.175|1001|United States|San Jose|Amazon.com, Inc.|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
+|17|15.237.108.20|54588|France|Paris|Amazon Technologies Inc.|
+|18|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
