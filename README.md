@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
-|6|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|7|45.194.47.134|8080|India|Noida|CtrlS|
-|8|147.182.156.27|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|3|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|95.140.159.180|9950|The Netherlands|Amsterdam|Mamaev|
+|9|83.166.247.254|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
 |11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 |13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|37.58.221.247|3128|France|Montpellier|Adista SAS|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|14|115.178.53.117|8080|Indonesia|Lembang|NOC SIMAYA|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|163.181.207.170|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
+|20|14.251.13.20|8080|Vietnam|Hanoi|VNPT|
 
 
 
