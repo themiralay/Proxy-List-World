@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4615** proxies at the latest update. Usable proxies are below.
+> Scraper found **4521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1101|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1007|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2194|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|112.201.226.37|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
 |3|35.232.22.11|3128|United States|Council Bluffs|Google LLC|
-|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|23.95.218.236|3128|United States|Marietta|HostPapa|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|23.95.218.235|3128|United States|Marietta|HostPapa|
-|8|23.95.218.234|3128|United States|Marietta|HostPapa|
-|9|23.95.218.238|3128|United States|Marietta|HostPapa|
-|10|165.99.239.7|3125|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
-|11|23.95.218.233|3128|United States|Marietta|HostPapa|
-|12|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|13|157.15.67.181|80|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|14|3.99.188.108|1000|Canada|Montreal|Amazon Technologies Inc.|
-|15|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|16|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|157.20.252.229|1080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|20|49.48.50.47|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|58.136.169.5|8080|Thailand|Bangkok|AIS-Fibre|
+|9|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|35.232.22.11|3128|United States|Council Bluffs|Google LLC|
+|13|3.99.188.108|1000|Canada|Montreal|Amazon Technologies Inc.|
+|14|162.4.96.221|8080|Indonesia|Pasuruan|PT Azvi Multi Teknologi|
+|15|165.99.192.13|1111|Indonesia|Parung|PT IDN NUSANTARA NETWORK|
+|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|124.83.119.127|8085|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|19|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
