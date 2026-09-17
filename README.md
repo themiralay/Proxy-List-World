@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
 |2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|7|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|10|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|13|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|17|212.175.50.80|8085|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|18|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|20|46.17.43.219|7890|Russia|Moscow|LLC BAXET|
+|3|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|11|168.243.77.81|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY (CEMO), S.R.L|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|15|45.84.222.220|8080|The Netherlands|Amsterdam|Play2go International Limited|
+|16|37.58.221.247|3128|France|Montpellier|Adista SAS|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|83.166.247.254|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|19|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
