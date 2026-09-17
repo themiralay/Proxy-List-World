@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|2|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
-|3|175.184.236.2|1111|Indonesia|Cikarang|Indonesia Network Information Center|
-|4|103.248.9.95|8080|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|112.203.201.93|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|49.149.223.6|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|7|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|49.48.123.32|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|13|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|14|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|6|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|10|27.112.79.91|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|13|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|14|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|109.105.220.191|80|United States|Gunnison|Fly.io, Inc.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
