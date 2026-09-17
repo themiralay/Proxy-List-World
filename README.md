@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|13|62.113.112.246|10808|Russia|Moscow|Hosting technology LTD|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|14.161.87.244|2001|Vietnam|Ho Chi Minh City|VNPT|
-|16|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
-|17|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|20|93.123.30.53|3128|Finland|Helsinki|Baykov Ilya Sergeevich|
+|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|45.194.47.134|8080|India|Noida|CtrlS|
+|4|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|149.56.110.145|3128|Canada|Montreal|OVH SAS|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|152.228.134.176|48080|France|Strasbourg|OVH SAS|
+|9|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|10|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|11|204.13.233.74|3128|United States|Secaucus|Interserver, Inc|
+|12|62.113.112.246|10808|Russia|Moscow|Hosting technology LTD|
+|13|204.13.233.74|3128|United States|Secaucus|Interserver, Inc|
+|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|19|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|20|107.173.41.13|3128|United States|Buffalo|HostPapa|
 
 
 
