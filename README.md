@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
 |3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|5|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
 |6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|18.220.151.192|3128|United States|Columbus|Amazon.com, Inc.|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|15|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|18.220.151.192|3128|United States|Columbus|Amazon.com, Inc.|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|10|20.40.43.171|3128|India|Pune|Microsoft Corporation|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|18.220.151.192|3128|United States|Columbus|Amazon.com, Inc.|
+|15|103.214.124.9|3128|India|Delhi|Yotta Network Services Private Limited|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|20|18.220.151.192|3128|United States|Columbus|Amazon.com, Inc.|
 
 
 
