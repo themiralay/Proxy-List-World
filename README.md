@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4390** proxies at the latest update. Usable proxies are below.
+> Scraper found **4347** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2558|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2515|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|8.217.185.245|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|1|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|14|103.116.82.141|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|14|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|15.161.131.175|18291|Italy|Milan|Amazon Technologies Inc|
 |16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|19|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
