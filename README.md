@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|223.204.92.249|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|12|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|11|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|12|223.204.92.249|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|13|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|16|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
+|20|178.17.48.189|8080|Germany|Frankfurt am Main|WAIcore Ltd|
 
 
 
