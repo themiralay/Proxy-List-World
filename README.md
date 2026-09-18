@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|4|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|7|103.191.171.70|8181|Indonesia|Cianjur|PT Sahabat Manjur Grup|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.194.47.134|8080|India|Noida|CtrlS|
-|17|198.15.30.50|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
-|18|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.194.47.134|8080|India|Noida|CtrlS|
+|14|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|113.192.48.219|8080|Indonesia|Weleri|PT.Global Media Data Prima|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
