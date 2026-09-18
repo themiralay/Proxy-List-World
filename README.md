@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|6|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|45.194.47.134|8080|India|Noida|CtrlS|
-|13|160.19.146.89|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|9|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
 |14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 |15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|38.156.95.73|8080|Indonesia|Binjar|PT Nesta Indo Media|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|35.202.251.219|3128|United States|Council Bluffs|Google LLC|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 |20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 
 
