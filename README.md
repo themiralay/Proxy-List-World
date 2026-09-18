@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|10|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
-|15|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
+|6|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|73.162.86.230|3128|United States|San Jose|Comcast Cable Communications|
+|13|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
+|17|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|19|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|20|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
 
 
 
