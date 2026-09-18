@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
 |2|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 |4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|10|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|13|45.194.47.134|8080|India|Noida|CtrlS|
-|14|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|12|157.66.100.23|8888|Vietnam|Quận Bình Thạnh|DIGIDATA|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
