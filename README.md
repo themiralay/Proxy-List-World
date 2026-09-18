@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|73.162.86.230|8195|United States|San Jose|Comcast Cable Communications|
-|13|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|14|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|8|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|10|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
+|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 |18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
