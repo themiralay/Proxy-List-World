@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|107.172.50.187|7890|United States|Buffalo|HostPapa|
-|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|9|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|45.194.47.134|8080|India|Noida|CtrlS|
+|1|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
+|6|45.194.47.134|8080|India|Noida|CtrlS|
+|7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|16|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
-|17|178.17.48.189|8080|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|14|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|15|107.172.50.187|7890|United States|Buffalo|HostPapa|
+|16|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|178.17.48.189|8080|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
 
 
 
