@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|107.172.50.187|7890|United States|Buffalo|HostPapa|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|45.10.71.106|8888|United States|Los Angeles|Zenlayer Inc|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|107.172.50.187|7890|United States|Buffalo|HostPapa|
+|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|11|107.172.50.187|7890|United States|Buffalo|HostPapa|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|9|45.10.71.106|8888|United States|Los Angeles|Zenlayer Inc|
+|10|5.181.178.46|8080|Japan|Koto City|Lain.sh|
+|11|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|12|107.172.50.187|7890|United States|Buffalo|HostPapa|
 |13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|45.10.71.106|8888|United States|Los Angeles|Zenlayer Inc|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|20|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
 
 
 
