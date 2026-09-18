@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4773** proxies at the latest update. Usable proxies are below.
+> Scraper found **4982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|423|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|280|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2870|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|6|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|11|167.233.76.72|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|15|15.161.131.175|18291|Italy|Milan|Amazon Technologies Inc|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|45.136.13.110|12366|Hong Kong|Hong Kong|Lucidacloud Limited|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|165.99.194.184|8080|Indonesia|Guyangan|PT Network Bumi Saridin|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
+|13|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|16|77.221.158.175|3128|Finland|Helsinki|Aeza International LTD|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
 |18|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|20|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
