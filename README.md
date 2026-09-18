@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|43.163.78.54|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|4|43.163.78.54|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|23.95.218.235|3128|United States|Marietta|HostPapa|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|18|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|7|167.99.0.80|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|23.95.218.236|3128|United States|Marietta|HostPapa|
+|9|23.95.218.238|3128|United States|Marietta|HostPapa|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|107.172.50.187|7890|United States|Buffalo|HostPapa|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|16|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|17|45.194.47.134|8080|India|Noida|CtrlS|
+|18|23.95.218.235|3128|United States|Marietta|HostPapa|
+|19|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
