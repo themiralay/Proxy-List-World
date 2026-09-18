@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|5|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|20.2.221.52|3456|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
 |7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|14|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|193.23.200.64|3128|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|223.25.110.123|8080|Indonesia|Purbalingga|SinergiNet|
+|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
 |17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
-|20|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
