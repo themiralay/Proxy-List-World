@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.250.140.201|7000|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|7|45.194.47.134|8080|India|Noida|CtrlS|
-|8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|4|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|5|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|6|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
 |9|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |14|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
 |15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|19|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
-|20|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|2.26.89.85|3128|Russia|Moscow|SERV.HOST GROUP LTD|
 
 
 
