@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|3|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|7|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
 |13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|83.166.247.254|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
-|18|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|62.113.112.246|10808|Russia|Moscow|Hosting technology LTD|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|17|157.173.120.204|3128|France|Lauterbourg|Contabo GmbH|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
 
 
 
