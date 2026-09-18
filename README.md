@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|3|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
 |9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|11|169.58.34.213|3131|France|Lauterbourg|Contabo GmbH|
-|12|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|18|157.173.115.35|1081|France|Lauterbourg|Contabo GmbH|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
+|14|169.58.34.213|3131|France|Lauterbourg|Contabo GmbH|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|18|178.17.48.189|8080|Germany|Frankfurt am Main|WAIcore Ltd|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
