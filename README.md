@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|2|172.104.56.95|8888|Singapore|Singapore|Akamai Technologies|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|6|203.177.217.222|8082|Philippines|Aroroy|Globe Telecom|
-|7|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|15|91.186.221.141|8080|Finland|Helsinki|FIRST-SERVER-NET-VL|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|203.177.217.222|8082|Philippines|Aroroy|Globe Telecom|
+|4|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|13|109.164.35.23|8888|Czechia|Jičín|STARNET, s.r.o.|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|172.232.236.77|8888|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|16|91.186.221.141|8080|Finland|Helsinki|FIRST-SERVER-NET-VL|
+|17|65.109.217.164|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
