@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4893** proxies at the latest update. Usable proxies are below.
+> Scraper found **4891** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|239|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2792|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|8|54.205.1.212|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|45.194.47.134|8080|India|Noida|CtrlS|
+|1|118.193.37.78|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|54.205.1.212|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
 |12|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
 |15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |16|54.205.1.212|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
+|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
