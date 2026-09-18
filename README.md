@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|23.94.112.168|8080|United States|Los Angeles|HostPapa|
 |3|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|23.95.218.236|3128|United States|Marietta|HostPapa|
-|12|23.95.218.234|3128|United States|Marietta|HostPapa|
-|13|23.95.218.235|3128|United States|Marietta|HostPapa|
-|14|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|15|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|10|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|11|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 |19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|20|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 
 
 
