@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|45.194.47.134|8080|India|Noida|CtrlS|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|54.205.1.212|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|107.172.50.187|7890|United States|Buffalo|HostPapa|
-|17|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|18|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
-|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
+|11|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|45.194.47.134|8080|India|Noida|CtrlS|
+|13|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|107.172.50.187|7890|United States|Buffalo|HostPapa|
+|16|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|17|54.205.1.212|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|19|153.75.244.88|3128|United States|Secaucus|Interserver, Inc|
+|20|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
 
 
 
