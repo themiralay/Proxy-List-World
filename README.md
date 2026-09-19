@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.201.253.41|3128|South Korea|Incheon|Amazon.com, Inc.|
-|2|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|3|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|38.58.117.35|3128|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|178.92.72.165|8080|India|Mumbai|IPXO|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|9|178.92.72.165|8080|India|Mumbai|IPXO|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|12|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
-|14|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|15|154.201.126.24|8080|India|Noida|CtrlS|
-|16|154.201.126.21|8080|India|Noida|CtrlS|
-|17|45.194.47.134|8080|India|Noida|CtrlS|
-|18|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|178.92.72.134|8080|India|Mumbai|IPXO|
-|20|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|9|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|178.92.72.229|8080|India|Mumbai|IPXO|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|178.92.72.129|8080|India|Mumbai|IPXO|
+|18|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
