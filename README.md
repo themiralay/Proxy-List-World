@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|124.105.110.52|8082|Philippines|Santa Cruz|Philippine Long Distance Telephone Co.|
-|7|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
-|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|178.92.72.229|8080|India|Mumbai|IPXO|
-|11|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|12|178.92.72.134|8080|India|Mumbai|IPXO|
-|13|178.92.72.165|8080|India|Mumbai|IPXO|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|16|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|178.92.72.134|8080|India|Mumbai|IPXO|
+|8|178.92.72.229|8080|India|Mumbai|IPXO|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|178.92.72.165|8080|India|Mumbai|IPXO|
+|11|45.194.47.134|8080|India|Noida|CtrlS|
+|12|154.201.126.12|8080|India|Noida|CtrlS|
+|13|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
+|14|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|178.92.72.129|8080|India|Mumbai|IPXO|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |17|154.201.126.24|8080|India|Noida|CtrlS|
-|18|124.109.105.44|3128|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
-|19|154.201.126.43|8080|India|Noida|CtrlS|
-|20|154.201.126.12|8080|India|Noida|CtrlS|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
