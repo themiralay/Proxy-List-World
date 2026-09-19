@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
 |4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|45.194.47.134|8080|India|Noida|CtrlS|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
 |12|178.92.72.134|8080|India|Mumbai|IPXO|
-|13|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|14|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|17|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|13|45.194.47.134|8080|India|Noida|CtrlS|
+|14|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|15|103.247.14.138|7778|Indonesia|Magelang|TERABIT|
+|16|45.136.13.110|12366|Hong Kong|Hong Kong|Lucidacloud Limited|
+|17|178.92.72.229|8080|India|Mumbai|IPXO|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|20|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
