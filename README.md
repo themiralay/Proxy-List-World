@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|103.191.165.171|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|8|178.92.72.229|8080|India|Mumbai|IPXO|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|178.92.72.165|8080|India|Mumbai|IPXO|
-|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|13|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
-|14|154.201.126.21|8080|India|Noida|CtrlS|
-|15|154.201.126.24|8080|India|Noida|CtrlS|
-|16|124.109.105.44|3128|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
-|17|110.169.137.169|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|49.145.123.204|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|124.158.164.149|8080|Indonesia|Bekasi|ICON+|
+|8|178.92.72.134|8080|India|Mumbai|IPXO|
+|9|178.92.72.229|8080|India|Mumbai|IPXO|
+|10|178.92.72.165|8080|India|Mumbai|IPXO|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|124.109.105.44|3128|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
+|13|154.201.126.43|8080|India|Noida|CtrlS|
+|14|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
+|15|178.92.72.129|8080|India|Mumbai|IPXO|
+|16|43.229.79.231|8080|Thailand|Ron Phibun|Readyidc Company Limited|
+|17|154.201.126.24|8080|India|Noida|CtrlS|
 |18|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|19|154.201.126.43|8080|India|Noida|CtrlS|
-|20|192.220.110.45|8080|United States|Los Angeles|NTT America, Inc.|
+|19|201.171.176.215|3128|Mexico|Mexicali|Uninet S.A. de C.V.|
+|20|43.160.255.142|7890|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
