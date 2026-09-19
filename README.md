@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|178.92.72.134|8080|India|Mumbai|IPXO|
-|13|178.92.72.194|8080|India|Mumbai|IPXO|
-|14|178.92.72.94|8080|India|Mumbai|IPXO|
-|15|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|16|14.207.199.94|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|17|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|18|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|19|5.181.178.46|8080|Japan|Koto City|Lain.sh|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|178.92.72.165|8080|India|Mumbai|IPXO|
+|9|178.92.72.229|8080|India|Mumbai|IPXO|
+|10|178.92.72.194|8080|India|Mumbai|IPXO|
+|11|178.92.72.154|8080|India|Mumbai|IPXO|
+|12|178.92.72.162|8080|India|Mumbai|IPXO|
+|13|178.92.72.149|8080|India|Mumbai|IPXO|
+|14|178.92.72.129|8080|India|Mumbai|IPXO|
+|15|178.92.72.68|8080|India|Mumbai|IPXO|
+|16|49.145.55.76|5050|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|17|178.92.72.73|8080|India|Mumbai|IPXO|
+|18|178.92.72.134|8080|India|Mumbai|IPXO|
+|19|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
 
 
 
