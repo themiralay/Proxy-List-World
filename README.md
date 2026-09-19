@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.32.57.211|1080|Japan|Minamishinagawa|Choopa|
+|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
 |3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|178.92.72.154|8080|India|Mumbai|IPXO|
-|9|178.92.72.162|8080|India|Mumbai|IPXO|
-|10|178.92.72.194|8080|India|Mumbai|IPXO|
-|11|124.109.105.44|80|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
-|12|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|178.92.72.78|8080|India|Mumbai|IPXO|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|178.92.72.54|8080|India|Mumbai|IPXO|
-|16|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|178.92.72.68|8080|India|Mumbai|IPXO|
-|18|15.206.157.237|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|42.62.177.42|8080|Indonesia|Mataram|PT Andira IT Solutions|
+|4|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|178.92.72.68|8080|India|Mumbai|IPXO|
+|12|178.92.72.162|8080|India|Mumbai|IPXO|
+|13|178.92.72.73|8080|India|Mumbai|IPXO|
+|14|178.92.72.194|8080|India|Mumbai|IPXO|
+|15|178.92.72.78|8080|India|Mumbai|IPXO|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|19|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
