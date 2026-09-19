@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|8.217.64.30|11080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|178.92.72.134|8080|India|Mumbai|IPXO|
-|10|178.92.72.165|8080|India|Mumbai|IPXO|
-|11|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|178.92.72.78|8080|India|Mumbai|IPXO|
-|15|178.92.72.154|8080|India|Mumbai|IPXO|
-|16|178.92.72.194|8080|India|Mumbai|IPXO|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|178.92.72.78|8080|India|Mumbai|IPXO|
+|16|178.92.72.154|8080|India|Mumbai|IPXO|
+|17|178.92.72.162|8080|India|Mumbai|IPXO|
+|18|178.92.72.134|8080|India|Mumbai|IPXO|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|178.92.72.54|8080|India|Mumbai|IPXO|
 
 
 
