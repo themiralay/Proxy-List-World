@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
 |2|103.97.200.181|2080|Hong Kong|Kwai Chung|Zouter Limited|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.229|8080|India|Mumbai|IPXO|
-|5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
-|8|154.201.126.12|8080|India|Noida|CtrlS|
-|9|154.201.126.43|8080|India|Noida|CtrlS|
-|10|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|152.228.134.176|48080|France|Strasbourg|OVH SAS|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|124.109.105.44|3128|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
+|4|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
+|5|178.92.72.229|8080|India|Mumbai|IPXO|
+|6|154.201.127.126|8080|India|Noida|Real Time Data Services Private Limited|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|178.92.72.134|8080|India|Mumbai|IPXO|
+|9|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|10|45.194.47.134|8080|India|Noida|CtrlS|
+|11|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|154.201.126.12|8080|India|Noida|CtrlS|
+|15|178.92.72.165|8080|India|Mumbai|IPXO|
+|16|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|17|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
+|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|154.201.126.43|8080|India|Noida|CtrlS|
 
 
 
