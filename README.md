@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |5|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|178.92.72.154|8080|India|Mumbai|IPXO|
+|8|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|9|178.92.72.73|8080|India|Mumbai|IPXO|
+|10|178.92.72.54|8080|India|Mumbai|IPXO|
+|11|178.92.72.78|8080|India|Mumbai|IPXO|
 |12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|178.92.72.73|8080|India|Mumbai|IPXO|
-|14|178.92.72.165|8080|India|Mumbai|IPXO|
-|15|178.92.72.94|8080|India|Mumbai|IPXO|
-|16|178.92.72.134|8080|India|Mumbai|IPXO|
-|17|178.92.72.194|8080|India|Mumbai|IPXO|
-|18|178.92.72.78|8080|India|Mumbai|IPXO|
-|19|178.92.72.129|8080|India|Mumbai|IPXO|
-|20|178.92.72.154|8080|India|Mumbai|IPXO|
+|13|178.92.72.229|8080|India|Mumbai|IPXO|
+|14|178.92.72.134|8080|India|Mumbai|IPXO|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|17|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|18|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
+|19|45.189.252.226|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|20|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
 
 
 
