@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|178.92.72.154|8080|India|Mumbai|IPXO|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|7|178.92.72.78|8080|India|Mumbai|IPXO|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|178.92.72.54|8080|India|Mumbai|IPXO|
-|10|178.92.72.134|8080|India|Mumbai|IPXO|
-|11|178.92.72.94|8080|India|Mumbai|IPXO|
-|12|178.92.72.194|8080|India|Mumbai|IPXO|
+|1|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|178.92.72.73|8080|India|Mumbai|IPXO|
+|5|178.92.72.154|8080|India|Mumbai|IPXO|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|178.92.72.162|8080|India|Mumbai|IPXO|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|178.92.72.78|8080|India|Mumbai|IPXO|
+|10|178.92.72.94|8080|India|Mumbai|IPXO|
+|11|178.92.72.194|8080|India|Mumbai|IPXO|
+|12|178.92.72.165|8080|India|Mumbai|IPXO|
 |13|178.92.72.68|8080|India|Mumbai|IPXO|
-|14|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|47.237.138.184|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|19|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|16|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 |20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
