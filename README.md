@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|8.217.64.30|11080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|7|178.92.72.94|8080|India|Mumbai|IPXO|
-|8|178.92.72.154|8080|India|Mumbai|IPXO|
-|9|178.92.72.194|8080|India|Mumbai|IPXO|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|178.92.72.162|8080|India|Mumbai|IPXO|
-|12|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|178.92.72.73|8080|India|Mumbai|IPXO|
-|15|178.92.72.68|8080|India|Mumbai|IPXO|
-|16|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|17|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|178.92.72.134|8080|India|Mumbai|IPXO|
+|10|178.92.72.73|8080|India|Mumbai|IPXO|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|13|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|14|178.92.72.229|8080|India|Mumbai|IPXO|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|178.92.72.94|8080|India|Mumbai|IPXO|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|178.92.72.194|8080|India|Mumbai|IPXO|
+|19|178.92.72.162|8080|India|Mumbai|IPXO|
+|20|178.92.72.78|8080|India|Mumbai|IPXO|
 
 
 
