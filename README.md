@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|7|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|45.194.90.58|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|18|103.18.79.108|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|45.194.47.134|8080|India|Noida|CtrlS|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|14|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
 
 
 
