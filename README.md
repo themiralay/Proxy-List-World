@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.143.130.157|1080|United States|San Jose|BITSFLOWCLOUD|
-|4|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.97.200.181|2080|Hong Kong|Kwai Chung|Zouter Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|45.143.130.157|1080|United States|San Jose|BITSFLOWCLOUD|
-|9|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|178.92.72.129|8080|India|Mumbai|IPXO|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|178.92.72.134|8080|India|Mumbai|IPXO|
 |12|178.92.72.165|8080|India|Mumbai|IPXO|
 |13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|154.201.126.21|8080|India|Noida|CtrlS|
-|15|45.194.47.134|8080|India|Noida|CtrlS|
-|16|154.201.126.12|8080|India|Noida|CtrlS|
-|17|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|20|154.201.126.43|8080|India|Noida|CtrlS|
+|14|154.201.126.12|8080|India|Noida|CtrlS|
+|15|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
+|16|45.194.47.134|8080|India|Noida|CtrlS|
+|17|154.201.126.43|8080|India|Noida|CtrlS|
+|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|154.201.126.21|8080|India|Noida|CtrlS|
 
 
 
