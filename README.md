@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5147** proxies at the latest update. Usable proxies are below.
+> Scraper found **4739** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|320|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2669|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|1|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|23.95.218.234|3128|United States|Marietta|HostPapa|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
-|12|223.204.92.249|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|13|45.194.90.75|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|160.25.83.52|1086|Vietnam|Tây Hồ|Httvserver Technology Company Limited|
-|20|178.17.48.189|8080|Germany|Frankfurt am Main|WAIcore Ltd|
+|8|45.194.47.134|8080|India|Noida|CtrlS|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|23.95.218.236|3128|United States|Marietta|HostPapa|
+|11|23.95.218.235|3128|United States|Marietta|HostPapa|
+|12|23.95.218.233|3128|United States|Marietta|HostPapa|
+|13|45.194.91.166|8080|India|Noida|Real Time Data Services Private Limited|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|223.204.92.249|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|23.95.218.234|3128|United States|Marietta|HostPapa|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
