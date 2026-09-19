@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|216.128.150.191|8089|United States|Elk Grove Village|The Constant Company|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|178.92.72.54|8080|India|Mumbai|IPXO|
-|11|178.92.72.165|8080|India|Mumbai|IPXO|
-|12|178.92.72.162|8080|India|Mumbai|IPXO|
-|13|178.92.72.154|8080|India|Mumbai|IPXO|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|178.92.72.73|8080|India|Mumbai|IPXO|
+|10|103.72.101.61|3128|India|Mumbai|Ultahost, Inc.|
+|11|178.92.72.162|8080|India|Mumbai|IPXO|
+|12|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|13|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|178.92.72.129|8080|India|Mumbai|IPXO|
-|16|178.92.72.78|8080|India|Mumbai|IPXO|
+|15|178.92.72.54|8080|India|Mumbai|IPXO|
+|16|216.128.150.191|8089|United States|Elk Grove Village|The Constant Company|
 |17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|18|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
