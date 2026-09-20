@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|45.143.130.157|1080|United States|San Jose|BITSFLOWCLOUD|
-|5|178.92.72.194|8080|India|Mumbai|IPXO|
-|6|103.180.126.75|8080|Indonesia|Jakarta|PT Alam Media Data|
+|2|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|8|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|178.92.72.78|8080|India|Mumbai|IPXO|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|45.143.130.157|1080|United States|San Jose|BITSFLOWCLOUD|
-|14|178.92.72.73|8080|India|Mumbai|IPXO|
-|15|178.92.72.54|8080|India|Mumbai|IPXO|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|178.92.72.68|8080|India|Mumbai|IPXO|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|178.92.72.229|8080|India|Mumbai|IPXO|
+|11|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|12|178.92.72.194|8080|India|Mumbai|IPXO|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|178.92.72.54|8080|India|Mumbai|IPXO|
+|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|16|178.92.72.162|8080|India|Mumbai|IPXO|
+|17|178.92.72.165|8080|India|Mumbai|IPXO|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|178.92.72.78|8080|India|Mumbai|IPXO|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
