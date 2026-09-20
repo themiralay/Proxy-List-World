@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.129|8080|India|Mumbai|IPXO|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|178.92.72.229|8080|India|Mumbai|IPXO|
+|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|178.92.72.165|8080|India|Mumbai|IPXO|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |8|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|9|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|10|178.92.72.134|8080|India|Mumbai|IPXO|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|17|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
-|18|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|203.205.49.2|10163|Vietnam|Mai Dich|CMC Telecom Infrastructure Company|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|104.161.23.122|5013|United States|Phoenix|Input Output Flood LLC|
+|11|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
+|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|16|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
 
 
 
