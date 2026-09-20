@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5066** proxies at the latest update. Usable proxies are below.
+> Scraper found **4810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|426|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|244|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2940|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|5|52.184.96.136|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|12|178.92.72.229|8080|India|Mumbai|IPXO|
-|13|178.92.72.149|8080|India|Mumbai|IPXO|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|178.92.72.162|8080|India|Mumbai|IPXO|
-|16|178.92.72.194|8080|India|Mumbai|IPXO|
-|17|178.92.72.68|8080|India|Mumbai|IPXO|
-|18|178.92.72.73|8080|India|Mumbai|IPXO|
-|19|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|20|178.92.72.129|8080|India|Mumbai|IPXO|
+|5|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|112.169.99.71|8091|South Korea|Gangnam-gu|Korea Telecom|
+|11|178.92.72.94|8080|India|Mumbai|IPXO|
+|12|178.92.72.165|8080|India|Mumbai|IPXO|
+|13|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|14|178.92.72.149|8080|India|Mumbai|IPXO|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|178.92.72.129|8080|India|Mumbai|IPXO|
+|17|178.92.72.134|8080|India|Mumbai|IPXO|
+|18|178.92.72.54|8080|India|Mumbai|IPXO|
+|19|178.92.72.229|8080|India|Mumbai|IPXO|
+|20|178.92.72.162|8080|India|Mumbai|IPXO|
 
 
 
