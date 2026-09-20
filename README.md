@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|16.162.102.250|555|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
-|6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|178.92.72.54|8080|India|Mumbai|IPXO|
-|11|178.92.72.68|8080|India|Mumbai|IPXO|
-|12|178.92.72.154|8080|India|Mumbai|IPXO|
-|13|178.92.72.194|8080|India|Mumbai|IPXO|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|178.92.72.149|8080|India|Mumbai|IPXO|
-|16|178.92.72.78|8080|India|Mumbai|IPXO|
-|17|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|20|178.92.72.73|8080|India|Mumbai|IPXO|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|13|178.92.72.78|8080|India|Mumbai|IPXO|
+|14|178.92.72.165|8080|India|Mumbai|IPXO|
+|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|16|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|17|178.92.72.54|8080|India|Mumbai|IPXO|
+|18|202.183.236.220|8080|Thailand|Khlong Hoi Khong|Advanced Wireless Network Company Limited|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
 
 
 
