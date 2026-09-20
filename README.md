@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|12|178.92.72.54|8080|India|Mumbai|IPXO|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|16|3.84.245.86|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|8|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|9|103.156.248.100|3128|Indonesia|Kota Batam|Trans Media Telekomunikasi|
+|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|11|3.84.245.86|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|178.92.72.54|8080|India|Mumbai|IPXO|
+|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|17|178.92.72.165|8080|India|Mumbai|IPXO|
+|18|178.92.72.73|8080|India|Mumbai|IPXO|
+|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
