@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|178.92.72.229|8080|India|Mumbai|IPXO|
-|8|178.92.72.162|8080|India|Mumbai|IPXO|
-|9|178.92.72.129|8080|India|Mumbai|IPXO|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|178.92.72.165|8080|India|Mumbai|IPXO|
-|12|178.92.72.68|8080|India|Mumbai|IPXO|
-|13|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
-|14|178.92.72.54|8080|India|Mumbai|IPXO|
-|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|16|178.92.72.194|8080|India|Mumbai|IPXO|
-|17|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|18|178.92.72.134|8080|India|Mumbai|IPXO|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|45.136.13.110|12366|Hong Kong|Hong Kong|Lucidacloud Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|178.92.72.54|8080|India|Mumbai|IPXO|
+|7|103.177.92.227|8080|Indonesia|Tangerang|PT Jalur Satu Aman|
+|8|178.92.72.194|8080|India|Mumbai|IPXO|
+|9|178.92.72.165|8080|India|Mumbai|IPXO|
+|10|178.92.72.149|8080|India|Mumbai|IPXO|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|178.92.72.129|8080|India|Mumbai|IPXO|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|178.92.72.154|8080|India|Mumbai|IPXO|
+|16|103.109.96.180|6321|Bangladesh|Sirajganj|Digi Jadoo Broadband Ltd|
+|17|103.174.122.83|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|34.176.215.13|3128|Chile|Santiago|Google LLC|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
