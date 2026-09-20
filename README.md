@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
 |2|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|178.92.72.229|8080|India|Mumbai|IPXO|
-|6|178.92.72.154|8080|India|Mumbai|IPXO|
+|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|178.92.72.134|8080|India|Mumbai|IPXO|
 |7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|9|178.92.72.94|8080|India|Mumbai|IPXO|
-|10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|11|178.92.72.149|8080|India|Mumbai|IPXO|
-|12|178.92.72.73|8080|India|Mumbai|IPXO|
-|13|178.92.72.162|8080|India|Mumbai|IPXO|
-|14|178.92.72.194|8080|India|Mumbai|IPXO|
-|15|178.92.72.78|8080|India|Mumbai|IPXO|
-|16|178.92.72.54|8080|India|Mumbai|IPXO|
-|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|19|194.87.82.203|3128|The Netherlands|Amsterdam|Baxet Group Inc.|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|178.92.72.54|8080|India|Mumbai|IPXO|
+|9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|10|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|12|43.157.98.90|8080|Germany|Frankfurt am Main|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
+|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|18|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|19|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|20|185.200.188.234|10001|Russia|Moscow|Ihor Hosting LTD|
 
 
 
