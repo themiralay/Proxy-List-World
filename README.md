@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|130.162.192.208|8080|Australia|Melbourne|Oracle Corporation|
-|7|178.92.72.162|8080|India|Mumbai|IPXO|
+|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|5|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|6|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |8|178.92.72.154|8080|India|Mumbai|IPXO|
-|9|178.92.72.165|8080|India|Mumbai|IPXO|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|178.92.72.194|8080|India|Mumbai|IPXO|
-|12|178.92.72.54|8080|India|Mumbai|IPXO|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|178.92.72.68|8080|India|Mumbai|IPXO|
-|15|178.92.72.94|8080|India|Mumbai|IPXO|
-|16|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|17|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|9|178.92.72.78|8080|India|Mumbai|IPXO|
+|10|178.92.72.149|8080|India|Mumbai|IPXO|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|178.92.72.68|8080|India|Mumbai|IPXO|
+|13|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|103.177.92.226|1080|Indonesia|Tangerang|PT Jalur Satu Aman|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
