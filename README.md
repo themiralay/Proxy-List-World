@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|112.169.99.71|8091|South Korea|Gangnam-gu|Korea Telecom|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.92.72.229|8080|India|Mumbai|IPXO|
-|7|178.92.72.149|8080|India|Mumbai|IPXO|
-|8|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|178.92.72.73|8080|India|Mumbai|IPXO|
-|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|13|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|193.233.211.220|8443|The Netherlands|Amsterdam|Aeza International LTD|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|19|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|107.172.232.2|7890|United States|Los Angeles|HostPapa|
+|5|178.92.72.73|8080|India|Mumbai|IPXO|
+|6|178.92.72.162|8080|India|Mumbai|IPXO|
+|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|11|178.92.72.149|8080|India|Mumbai|IPXO|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
 
 
 
