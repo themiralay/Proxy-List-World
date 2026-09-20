@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|187.143.206.162|3128|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|10|178.92.72.229|8080|India|Mumbai|IPXO|
+|11|178.92.72.73|8080|India|Mumbai|IPXO|
+|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|13|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|14|178.92.72.129|8080|India|Mumbai|IPXO|
+|15|178.92.72.162|8080|India|Mumbai|IPXO|
 |16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|103.177.92.227|8080|Indonesia|Tangerang|PT Jalur Satu Aman|
-|18|178.92.72.129|8080|India|Mumbai|IPXO|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|17|178.92.72.149|8080|India|Mumbai|IPXO|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|178.92.72.94|8080|India|Mumbai|IPXO|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
