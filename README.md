@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|171.229.136.29|8080|Vietnam|Hanoi|Viettel Corporation|
-|6|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|7|178.92.72.54|8080|India|Mumbai|IPXO|
-|8|178.92.72.73|8080|India|Mumbai|IPXO|
-|9|178.92.72.162|8080|India|Mumbai|IPXO|
-|10|178.92.72.165|8080|India|Mumbai|IPXO|
-|11|178.92.72.68|8080|India|Mumbai|IPXO|
-|12|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|13|178.92.72.78|8080|India|Mumbai|IPXO|
-|14|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|15|178.92.72.154|8080|India|Mumbai|IPXO|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|178.92.72.94|8080|India|Mumbai|IPXO|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|2|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|3|178.92.72.154|8080|India|Mumbai|IPXO|
+|4|178.92.72.129|8080|India|Mumbai|IPXO|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|178.92.72.194|8080|India|Mumbai|IPXO|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|178.92.72.134|8080|India|Mumbai|IPXO|
+|10|178.92.72.68|8080|India|Mumbai|IPXO|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|43.157.98.90|8080|Germany|Frankfurt am Main|Shenzhen Tencent Computer Systems Company Limited|
+|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
