@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|589|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|589|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|589|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|178.92.72.194|8080|India|Mumbai|IPXO|
-|8|178.92.72.162|8080|India|Mumbai|IPXO|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|3|168.138.202.218|3128|Japan|Tokyo|Oracle Corporation|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
+|6|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|125.26.97.176|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
 |10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|178.92.72.229|8080|India|Mumbai|IPXO|
-|12|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|13|178.92.72.73|8080|India|Mumbai|IPXO|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|178.92.72.94|8080|India|Mumbai|IPXO|
-|16|178.92.72.68|8080|India|Mumbai|IPXO|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|178.92.72.78|8080|India|Mumbai|IPXO|
-|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|20|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|11|178.92.72.162|8080|India|Mumbai|IPXO|
+|12|178.92.72.149|8080|India|Mumbai|IPXO|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|178.92.72.154|8080|India|Mumbai|IPXO|
+|15|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|202.58.75.98|7777|Indonesia|Blitar|PT DBN|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
