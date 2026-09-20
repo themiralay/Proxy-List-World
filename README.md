@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.92.72.229|8080|India|Mumbai|IPXO|
-|7|178.92.72.54|8080|India|Mumbai|IPXO|
-|8|178.92.72.129|8080|India|Mumbai|IPXO|
-|9|178.92.72.194|8080|India|Mumbai|IPXO|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|178.92.72.154|8080|India|Mumbai|IPXO|
-|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|13|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
-|14|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|193.233.211.220|8443|The Netherlands|Amsterdam|Aeza International LTD|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|178.92.72.73|8080|India|Mumbai|IPXO|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|178.92.72.68|8080|India|Mumbai|IPXO|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
+|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|8|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|152.228.134.176|48080|France|Strasbourg|OVH SAS|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
+|18|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|19|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
