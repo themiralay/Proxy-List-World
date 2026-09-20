@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|178.92.72.194|8080|India|Mumbai|IPXO|
-|9|178.92.72.149|8080|India|Mumbai|IPXO|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.162|8080|India|Mumbai|IPXO|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|178.92.72.73|8080|India|Mumbai|IPXO|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 |10|178.92.72.68|8080|India|Mumbai|IPXO|
-|11|178.92.72.154|8080|India|Mumbai|IPXO|
-|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|178.92.72.73|8080|India|Mumbai|IPXO|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|20.110.224.54|3128|United States|Boydton|Microsoft Corporation|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|11|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|165.227.220.70|40001|United States|Clifton|DigitalOcean, LLC|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
 
 
 
