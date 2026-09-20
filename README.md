@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.180.95.216|8080|Hong Kong|Hong Kong|M247 Europe SRL|
 |2|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |3|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|178.92.72.229|8080|India|Mumbai|IPXO|
-|9|216.128.150.191|8089|United States|Elk Grove Village|The Constant Company|
-|10|178.92.72.73|8080|India|Mumbai|IPXO|
+|4|216.128.150.191|8089|United States|Elk Grove Village|The Constant Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|43.159.139.115|32080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|178.92.72.194|8080|India|Mumbai|IPXO|
+|9|178.92.72.94|8080|India|Mumbai|IPXO|
+|10|178.92.72.165|8080|India|Mumbai|IPXO|
 |11|178.92.72.78|8080|India|Mumbai|IPXO|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|178.92.72.68|8080|India|Mumbai|IPXO|
-|14|178.92.72.134|8080|India|Mumbai|IPXO|
-|15|178.92.72.194|8080|India|Mumbai|IPXO|
-|16|178.92.72.54|8080|India|Mumbai|IPXO|
-|17|178.92.72.162|8080|India|Mumbai|IPXO|
+|12|178.92.72.149|8080|India|Mumbai|IPXO|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|178.92.72.162|8080|India|Mumbai|IPXO|
+|16|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|17|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
 |18|178.92.72.129|8080|India|Mumbai|IPXO|
-|19|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|19|178.92.72.154|8080|India|Mumbai|IPXO|
+|20|216.128.150.191|8089|United States|Elk Grove Village|The Constant Company|
 
 
 
