@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
 |2|16.162.102.250|555|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
-|4|35.90.192.77|3128|United States|Boardman|Amazon.com, Inc.|
-|5|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|6|49.146.50.98|8082|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
-|7|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|178.92.72.162|8080|India|Mumbai|IPXO|
-|12|178.92.72.134|8080|India|Mumbai|IPXO|
-|13|178.92.72.73|8080|India|Mumbai|IPXO|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|23.149.60.70|5555|United States|Los Angeles|NetLab Global|
-|17|35.90.192.77|3128|United States|Boardman|Amazon.com, Inc.|
+|3|35.90.192.77|3128|United States|Boardman|Amazon.com, Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|35.90.254.156|3128|United States|Boardman|Amazon.com, Inc.|
+|7|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|8|178.92.72.165|8080|India|Mumbai|IPXO|
+|9|178.92.72.68|8080|India|Mumbai|IPXO|
+|10|178.92.72.229|8080|India|Mumbai|IPXO|
+|11|178.92.72.134|8080|India|Mumbai|IPXO|
+|12|178.92.72.149|8080|India|Mumbai|IPXO|
+|13|178.92.72.194|8080|India|Mumbai|IPXO|
+|14|18.221.147.109|3128|United States|Columbus|Amazon.com, Inc.|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|35.90.254.156|3128|United States|Boardman|Amazon.com, Inc.|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |18|178.92.72.94|8080|India|Mumbai|IPXO|
 |19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|35.90.192.77|3128|United States|Boardman|Amazon.com, Inc.|
 
 
 
