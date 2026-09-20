@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|43.161.240.20|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
-|5|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|178.92.72.194|8080|India|Mumbai|IPXO|
-|8|178.92.72.162|8080|India|Mumbai|IPXO|
-|9|178.92.72.78|8080|India|Mumbai|IPXO|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|17|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|178.92.72.194|8080|India|Mumbai|IPXO|
+|6|178.92.72.54|8080|India|Mumbai|IPXO|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|178.92.72.134|8080|India|Mumbai|IPXO|
+|9|178.92.72.154|8080|India|Mumbai|IPXO|
+|10|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|178.92.72.78|8080|India|Mumbai|IPXO|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|16|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|19|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
