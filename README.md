@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|160.19.146.221|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|4|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|7|178.92.72.194|8080|India|Mumbai|IPXO|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|5|178.92.72.154|8080|India|Mumbai|IPXO|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|16|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
-|17|217.12.215.163|10808|Germany|Düsseldorf|Route 95 LLC|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|178.92.72.165|8080|India|Mumbai|IPXO|
+|15|43.229.79.218|8080|Thailand|Ron Phibun|Readyidc Company Limited|
+|16|178.92.72.229|8080|India|Mumbai|IPXO|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 
 
 
