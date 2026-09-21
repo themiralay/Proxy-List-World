@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.88.46|3128|Japan|Tokyo|Akamai Technologies|
-|2|178.92.72.154|8080|India|Mumbai|IPXO|
-|3|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|8|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|153.51.201.35|999|Venezuela|Ciudad Bolivia|Valor Information Technologies|
-|16|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|17|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|178.92.72.134|8080|India|Mumbai|IPXO|
+|5|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|6|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|7|178.92.72.94|8080|India|Mumbai|IPXO|
+|8|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|14|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|15|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|20|153.51.201.35|999|Venezuela|Ciudad Bolivia|Valor Information Technologies|
 
 
 
