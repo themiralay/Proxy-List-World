@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|8|178.92.72.68|8080|India|Mumbai|IPXO|
-|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|3|178.92.72.54|8080|India|Mumbai|IPXO|
+|4|154.201.126.64|8080|India|Noida|CtrlS|
+|5|178.92.72.194|8080|India|Mumbai|IPXO|
+|6|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
 |11|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|12|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 |14|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|15|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|17|43.157.98.90|8080|Germany|Frankfurt am Main|Shenzhen Tencent Computer Systems Company Limited|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |20|190.97.236.130|999|Venezuela|San Carlos del Zulia|Viginet C.A|
 
 
