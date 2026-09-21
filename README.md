@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|9|178.92.72.162|8080|India|Mumbai|IPXO|
-|10|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
-|11|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|103.191.171.38|8080|Indonesia|Cianjur|PT Sahabat Manjur Grup|
-|13|178.92.72.165|8080|India|Mumbai|IPXO|
-|14|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|178.92.72.149|8080|India|Mumbai|IPXO|
-|20|178.92.72.54|8080|India|Mumbai|IPXO|
+|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|12|178.92.72.194|8080|India|Mumbai|IPXO|
+|13|103.31.135.214|8080|Indonesia|Bekasi|PT Arthatama Adhiprima Persada|
+|14|178.92.72.165|8080|India|Mumbai|IPXO|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|17|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|18|178.92.72.68|8080|India|Mumbai|IPXO|
+|19|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|144.24.111.128|3129|India|Mumbai|Oracle Corporation|
 
 
 
