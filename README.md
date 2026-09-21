@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|13|178.92.72.229|8080|India|Mumbai|IPXO|
-|14|178.92.72.194|8080|India|Mumbai|IPXO|
-|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|178.92.72.68|8080|India|Mumbai|IPXO|
+|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|178.92.72.194|8080|India|Mumbai|IPXO|
+|16|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
 |17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|178.92.72.162|8080|India|Mumbai|IPXO|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|18|178.92.72.154|8080|India|Mumbai|IPXO|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|178.92.72.229|8080|India|Mumbai|IPXO|
 
 
 
