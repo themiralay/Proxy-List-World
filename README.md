@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|3.39.226.35|3128|South Korea|Incheon|Amazon.com, Inc.|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|178.92.72.194|8080|India|Mumbai|IPXO|
 |4|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|5|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|6|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|10|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|11|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|12|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|19|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|5|103.172.42.191|1111|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
+|6|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|7|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|8|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|154.201.126.64|8080|India|Noida|CtrlS|
+|11|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|12|178.92.72.154|8080|India|Mumbai|IPXO|
+|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|14|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|15|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
