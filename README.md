@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|918|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|918|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|918|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|755|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|755|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|755|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|7|13.215.172.79|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|9|49.151.187.171|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|10|178.92.72.162|8080|India|Mumbai|IPXO|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|17|178.92.72.154|8080|India|Mumbai|IPXO|
-|18|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|6|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|13.215.172.79|80|Singapore|Singapore|Amazon Technologies Inc.|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|12|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|13|178.92.72.162|8080|India|Mumbai|IPXO|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
