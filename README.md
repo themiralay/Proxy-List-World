@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6104** proxies at the latest update. Usable proxies are below.
+> Scraper found **6241** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|781|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|781|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|781|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1420|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|513|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3108|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
 |4|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
-|5|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|178.92.72.134|8080|India|Mumbai|IPXO|
-|16|178.92.72.165|8080|India|Mumbai|IPXO|
-|17|178.92.72.154|8080|India|Mumbai|IPXO|
-|18|178.92.72.194|8080|India|Mumbai|IPXO|
-|19|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|20|178.92.72.78|8080|India|Mumbai|IPXO|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|11|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|13|178.92.72.229|8080|India|Mumbai|IPXO|
+|14|178.92.72.194|8080|India|Mumbai|IPXO|
+|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|178.92.72.162|8080|India|Mumbai|IPXO|
+|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|20|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
 
 
 
