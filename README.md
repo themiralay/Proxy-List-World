@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3649** proxies at the latest update. Usable proxies are below.
+> Scraper found **3890** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|272|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1968|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|4|154.201.126.130|8080|India|Noida|CtrlS|
-|5|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|178.92.72.68|8080|India|Mumbai|IPXO|
-|8|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|9|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|6|178.92.72.54|8080|India|Mumbai|IPXO|
+|7|178.92.72.165|8080|India|Mumbai|IPXO|
+|8|178.92.72.149|8080|India|Mumbai|IPXO|
+|9|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
 |10|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|14|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
-|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
-|17|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|19|190.97.236.130|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|20|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|11|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|14|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|15|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
 
 
 
