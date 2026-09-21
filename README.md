@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|13|178.92.72.165|8080|India|Mumbai|IPXO|
-|14|146.148.34.56|3128|United States|Council Bluffs|Google LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|146.148.34.56|3128|United States|Council Bluffs|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|178.92.72.78|8080|India|Mumbai|IPXO|
+|11|178.92.72.94|8080|India|Mumbai|IPXO|
+|12|178.92.72.165|8080|India|Mumbai|IPXO|
+|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|178.92.72.68|8080|India|Mumbai|IPXO|
+|19|104.161.23.122|5013|United States|Phoenix|Input Output Flood LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
