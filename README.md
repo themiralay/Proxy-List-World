@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|178.92.72.229|8080|India|Mumbai|IPXO|
+|8|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
 |9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|12|178.92.72.229|8080|India|Mumbai|IPXO|
+|10|178.92.72.162|8080|India|Mumbai|IPXO|
+|11|178.92.72.149|8080|India|Mumbai|IPXO|
+|12|178.92.72.78|8080|India|Mumbai|IPXO|
 |13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|15|178.92.72.129|8080|India|Mumbai|IPXO|
-|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|17|44.201.138.230|1001|United States|Ashburn|Amazon.com|
-|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|19|103.169.255.205|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|15|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|20|44.201.138.230|1001|United States|Ashburn|Amazon.com|
 
 
 
