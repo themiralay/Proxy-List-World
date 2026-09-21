@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|5|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|6|154.201.126.185|8080|India|Noida|CtrlS|
-|7|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|8|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|9|154.201.126.64|8080|India|Noida|CtrlS|
-|10|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|11|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|12|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|13|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|178.92.72.68|8080|India|Mumbai|IPXO|
-|15|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|20|178.92.72.162|8080|India|Mumbai|IPXO|
+|1|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.154|8080|India|Mumbai|IPXO|
+|5|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|6|178.92.72.68|8080|India|Mumbai|IPXO|
+|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|9|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|178.92.72.162|8080|India|Mumbai|IPXO|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|13|154.201.126.185|8080|India|Noida|CtrlS|
+|14|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|15|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|16|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|17|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|18|178.92.72.194|8080|India|Mumbai|IPXO|
+|19|154.201.126.64|8080|India|Noida|CtrlS|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
