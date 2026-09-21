@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.73|8080|India|Mumbai|IPXO|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|178.92.72.194|8080|India|Mumbai|IPXO|
-|8|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|9|202.58.77.114|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|10|178.92.72.68|8080|India|Mumbai|IPXO|
-|11|154.201.126.64|8080|India|Noida|CtrlS|
-|12|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|15|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|178.92.72.73|8080|India|Mumbai|IPXO|
+|6|178.92.72.134|8080|India|Mumbai|IPXO|
+|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|8|178.92.72.149|8080|India|Mumbai|IPXO|
+|9|178.92.72.78|8080|India|Mumbai|IPXO|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|15|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
 |17|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|19|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|20|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
