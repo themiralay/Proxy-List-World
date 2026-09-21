@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|622|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|622|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|622|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|728|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|728|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|728|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|201.144.20.238|3128|Mexico|Tlaquepaque|Uninet S.A. de C.V|
-|9|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
-|12|49.48.81.71|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|13|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|14|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|19|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|108.165.233.48|1020|Bulgaria|Sofia|InterLIR LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|103.167.61.168|3128|Hong Kong|Mid Levels|Stacks Inc|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|6|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|178.92.72.54|8080|India|Mumbai|IPXO|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|16|178.92.72.73|8080|India|Mumbai|IPXO|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|144.126.137.165|1080|United States|St Louis|Contabo Inc.|
+|19|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
