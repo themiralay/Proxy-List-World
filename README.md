@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|4|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|5|178.92.72.162|8080|India|Mumbai|IPXO|
-|6|178.92.72.154|8080|India|Mumbai|IPXO|
-|7|154.201.126.185|8080|India|Noida|CtrlS|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|154.201.126.130|8080|India|Noida|CtrlS|
+|6|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|7|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
 |8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|9|154.201.126.185|8080|India|Noida|CtrlS|
 |10|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|178.92.72.129|8080|India|Mumbai|IPXO|
-|15|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|16|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
-|17|178.92.72.194|8080|India|Mumbai|IPXO|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|20|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|11|178.92.72.165|8080|India|Mumbai|IPXO|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|14|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|15|178.92.72.129|8080|India|Mumbai|IPXO|
+|16|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|20|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
 
 
 
