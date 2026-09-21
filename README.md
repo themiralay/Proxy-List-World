@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|5|178.92.72.229|8080|India|Mumbai|IPXO|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|178.92.72.73|8080|India|Mumbai|IPXO|
-|9|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|10|178.92.72.129|8080|India|Mumbai|IPXO|
-|11|103.20.102.155|2080|Vietnam|Ho Chi Minh City|Thai An Khang|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
+|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|178.92.72.54|8080|India|Mumbai|IPXO|
+|6|178.92.72.229|8080|India|Mumbai|IPXO|
+|7|154.201.126.64|8080|India|Noida|CtrlS|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
 |13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|153.51.201.35|999|Venezuela|Ciudad Bolivia|Valor Information Technologies|
-|18|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
+|15|20.199.5.38|3128|France|Paris|Microsoft Corporation|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|18|153.51.201.35|999|Venezuela|Ciudad Bolivia|Valor Information Technologies|
 |19|190.97.236.129|999|Venezuela|San Carlos del Zulia|Viginet C.A|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|190.97.236.128|999|Venezuela|Maporal|Viginet C.A|
 
 
 
