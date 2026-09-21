@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|7|178.92.72.194|8080|India|Mumbai|IPXO|
-|8|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|9|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|10|178.92.72.68|8080|India|Mumbai|IPXO|
-|11|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|178.92.72.154|8080|India|Mumbai|IPXO|
-|16|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|1|3.39.226.35|3128|South Korea|Incheon|Amazon.com, Inc.|
+|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|8|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|154.201.126.64|8080|India|Noida|CtrlS|
+|12|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|178.92.72.194|8080|India|Mumbai|IPXO|
+|15|178.92.72.149|8080|India|Mumbai|IPXO|
+|16|178.92.72.162|8080|India|Mumbai|IPXO|
+|17|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|19|178.92.72.165|8080|India|Mumbai|IPXO|
+|20|8.215.112.240|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
