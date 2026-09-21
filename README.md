@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|158.140.128.44|9595|Singapore|Singapore|MYREPUBLIC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|12|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|13|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|14|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|9|103.18.77.101|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|178.92.72.162|8080|India|Mumbai|IPXO|
+|12|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|13|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
 |16|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|18|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|19|154.201.126.185|8080|India|Noida|CtrlS|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|20|213.32.70.99|3128|France|Roubaix|OVH SAS|
 
 
 
