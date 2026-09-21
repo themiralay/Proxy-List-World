@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|4|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|5|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|8|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|12|178.92.72.149|8080|India|Mumbai|IPXO|
-|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|3|154.201.126.130|8080|India|Noida|CtrlS|
+|4|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|178.92.72.134|8080|India|Mumbai|IPXO|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|10|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|13|178.92.72.149|8080|India|Mumbai|IPXO|
 |14|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
 |15|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
 |16|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|20|153.51.201.35|999|Venezuela|Ciudad Bolivia|Valor Information Technologies|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 
 
 
