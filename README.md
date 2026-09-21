@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|178.92.72.194|8080|India|Mumbai|IPXO|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|178.92.72.68|8080|India|Mumbai|IPXO|
+|6|178.92.72.165|8080|India|Mumbai|IPXO|
 |7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|162.255.110.24|8080|United States|Richland|Desert Winds Wireless|
+|8|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
 |9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|10|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|8.213.37.17|8888|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|14|146.190.60.147|8002|United States|Santa Clara|DigitalOcean, LLC|
+|10|171.244.199.151|1337|Vietnam|Hanoi|VIETEL|
+|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
-|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|16|57.129.24.167|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|45.32.1.83|9000|United States|Piscataway|Choopa|
+|18|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
 
 
 
