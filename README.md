@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|167.172.84.23|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|178.92.72.94|8080|India|Mumbai|IPXO|
 |6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|154.201.126.64|8080|India|Noida|CtrlS|
-|8|154.201.126.130|8080|India|Noida|CtrlS|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|34.176.215.13|3128|Chile|Santiago|Google LLC|
-|11|210.211.113.33|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|17|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|7|178.92.72.68|8080|India|Mumbai|IPXO|
+|8|178.92.72.73|8080|India|Mumbai|IPXO|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|19|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
 
 
 
