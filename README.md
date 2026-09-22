@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
-|4|112.202.247.125|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|4|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|113.23.230.90|8080|Malaysia|Putrajaya|Extreme Broadband|
+|7|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|8|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|10|151.243.153.157|8118|United States|Seattle|Black Apple|
 |11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|18|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|20|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|12|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|13|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|14|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|15|103.31.232.110|8080|Indonesia|Ciampea|PT. Usaha Adisanggoro|
+|16|154.21.89.32|12344|United States|Los Angeles|DMIT Cloud Services|
+|17|116.90.234.106|8080|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|116.204.166.43|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|20|34.148.25.49|8080|United States|North Charleston|Google LLC|
 
 
 
