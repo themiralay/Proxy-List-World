@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.94.215.253|80|United States|Boardman|Amazon.com, Inc.|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|35.94.215.253|80|United States|Boardman|Amazon.com, Inc.|
-|5|178.92.72.73|8080|India|Mumbai|IPXO|
-|6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|154.201.126.21|8080|India|Noida|CtrlS|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|113.161.93.6|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|95.153.31.227|3128|Estonia|Tallinn|TELE2/SWIPNET|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|1|54.255.90.26|8888|Singapore|Singapore|Amazon Technologies Inc.|
+|2|35.94.215.253|80|United States|Boardman|Amazon.com, Inc.|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.165|8080|India|Mumbai|IPXO|
+|5|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|35.94.215.253|80|United States|Boardman|Amazon.com, Inc.|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|58.136.4.57|8080|Thailand|Bangkok|AIS-Fibre|
+|11|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|16|103.193.145.163|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|19|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
+|20|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
 
 
 
