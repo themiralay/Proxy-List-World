@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
-|3|154.201.126.185|8080|India|Noida|CtrlS|
-|4|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|5|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|6|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|7|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|116.90.234.106|8080|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|178.92.72.194|8080|India|Mumbai|IPXO|
-|13|2.27.63.250|8888|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|14|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|15|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|16|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|17|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|19|74.242.169.16|3128|Switzerland|Zurich|Microsoft Corporation|
-|20|102.213.179.66|8080|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|1|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|154.201.126.21|8080|India|Noida|CtrlS|
+|5|154.201.126.185|8080|India|Noida|CtrlS|
+|6|178.92.72.162|8080|India|Mumbai|IPXO|
+|7|178.92.72.129|8080|India|Mumbai|IPXO|
+|8|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
+|9|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|154.201.126.130|8080|India|Noida|CtrlS|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|16|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|17|95.153.31.226|3128|Estonia|Tallinn|TELE2/SWIPNET|
+|18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|19|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
