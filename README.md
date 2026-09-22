@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4671** proxies at the latest update. Usable proxies are below.
+> Scraper found **4602** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|525|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|180|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|212|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2665|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|154.201.126.130|8080|India|Noida|CtrlS|
-|4|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|142.93.219.233|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|132.145.20.143|3128|United Kingdom|London|Oracle Corporation|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|141.98.235.33|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|13|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|151.243.153.157|8118|United States|Seattle|Black Apple|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|154.201.126.185|8080|India|Noida|CtrlS|
+|3|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|178.92.72.194|8080|India|Mumbai|IPXO|
+|7|34.215.184.211|3128|United States|Boardman|Amazon.com, Inc.|
+|8|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|14|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|17|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|206.1.97.133|3128|Türkiye|Istanbul|Cogent Communications|
+|20|198.46.170.48|443|United States|Buffalo|HostPapa|
 
 
 
