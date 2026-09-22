@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.39.226.35|3128|South Korea|Incheon|Amazon.com, Inc.|
-|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|178.92.72.162|8080|India|Mumbai|IPXO|
-|8|178.92.72.229|8080|India|Mumbai|IPXO|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|11|178.92.72.165|8080|India|Mumbai|IPXO|
-|12|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|13|158.101.113.18|80|United States|Ashburn|Oracle Corporation|
-|14|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|15|178.92.72.94|8080|India|Mumbai|IPXO|
-|16|154.201.126.130|8080|India|Noida|CtrlS|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|19|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|20|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|178.92.72.129|8080|India|Mumbai|IPXO|
+|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|8|178.92.72.154|8080|India|Mumbai|IPXO|
+|9|178.92.72.94|8080|India|Mumbai|IPXO|
+|10|178.92.72.162|8080|India|Mumbai|IPXO|
+|11|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|14|178.92.72.78|8080|India|Mumbai|IPXO|
+|15|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|154.201.126.185|8080|India|Noida|CtrlS|
+|18|154.201.126.130|8080|India|Noida|CtrlS|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
 
 
 
