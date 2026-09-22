@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|178.92.72.162|8080|India|Mumbai|IPXO|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|178.92.72.154|8080|India|Mumbai|IPXO|
-|6|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
-|7|159.65.169.211|3128|United States|Clifton|DigitalOcean, LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|178.92.72.165|8080|India|Mumbai|IPXO|
-|14|129.213.27.240|3128|United States|Ashburn|Oracle Corporation|
-|15|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|16|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|17|36.95.82.69|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|18|154.201.126.21|8080|India|Noida|CtrlS|
-|19|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|20|130.185.123.29|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|10|178.92.72.78|8080|India|Mumbai|IPXO|
+|11|154.201.126.64|8080|India|Noida|CtrlS|
+|12|159.65.169.211|3128|United States|Clifton|DigitalOcean, LLC|
+|13|154.201.126.21|8080|India|Noida|CtrlS|
+|14|104.218.199.8|16062|United States|Denver|BraveWay LLC|
+|15|154.201.126.185|8080|India|Noida|CtrlS|
+|16|178.92.72.68|8080|India|Mumbai|IPXO|
+|17|154.201.126.130|8080|India|Noida|CtrlS|
+|18|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
+|19|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|20|62.60.216.244|3128|Germany|Frankfurt am Main|NetCrafters OU|
 
 
 
