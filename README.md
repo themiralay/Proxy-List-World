@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4406** proxies at the latest update. Usable proxies are below.
+> Scraper found **4653** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|282|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2665|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
-|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|13|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|16|178.92.72.94|8080|India|Mumbai|IPXO|
-|17|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|163.227.252.5|8080|Indonesia|Wiralaga Mulya|PT DASA INFRA INDONESIA|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|7|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|8|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|14|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|15|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|16|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|20|85.209.156.148|1080|United States|Los Angeles|Oy Crea Nova Hosting Solution Ltd|
 
 
 
