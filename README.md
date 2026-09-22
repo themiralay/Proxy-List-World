@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
-|4|163.223.150.97|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|10|182.253.6.236|8080|Indonesia|West Jakarta|Biznet Networks|
-|11|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|12|200.229.65.172|3128|Brazil|Americana|Saveincloud Hospedagem na Internet Ltda|
-|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|14|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|15|5.202.191.225|8080|Iran|Tehran|PTS-Network|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|18|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|9|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
+|10|178.92.72.78|8080|India|Mumbai|IPXO|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|112.203.55.98|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
 
 
 
