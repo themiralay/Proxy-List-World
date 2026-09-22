@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.154|8080|India|Mumbai|IPXO|
-|5|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|6|178.92.72.149|8080|India|Mumbai|IPXO|
-|7|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|178.92.72.134|8080|India|Mumbai|IPXO|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|14|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
-|17|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|1|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|38.210.201.144|999|Mexico|Aguascalientes|Soluciones de Tecnologia Jah sa de Cv|
+|6|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|7|178.92.72.134|8080|India|Mumbai|IPXO|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|13|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|14|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
+|15|201.186.41.170|999|Chile|Ancud|Telefonica del Sur S.A.|
+|16|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|17|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
 |18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|19|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|20|200.229.65.172|3128|Brazil|Americana|Saveincloud Hospedagem na Internet Ltda|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|177.10.202.115|35452|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
 
 
 
