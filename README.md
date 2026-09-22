@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|52.168.83.190|25252|United States|Boydton|Microsoft Corporation|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|52.168.83.190|25252|United States|Boydton|Microsoft Corporation|
+|11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|12|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|16|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|17|34.220.80.147|12345|United States|Boardman|Amazon.com, Inc.|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|151.243.153.157|8118|United States|Seattle|Black Apple|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|14|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
