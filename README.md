@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4174** proxies at the latest update. Usable proxies are below.
+> Scraper found **4294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|246|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2059|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|2|178.92.72.129|8080|India|Mumbai|IPXO|
+|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|103.116.82.141|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|6|154.201.126.64|8080|India|Noida|CtrlS|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|103.177.8.119|10263|Indonesia|Rengasdengklok|PT Helium Sinergi Telekomunikasi|
-|9|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|11|151.243.153.157|8118|United States|Seattle|Black Apple|
-|12|47.57.8.67|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|7|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|103.158.62.37|2626|Bangladesh|Maulavi Bāzār|SEARCH IT|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|190.94.232.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|200.229.65.172|3128|Brazil|Americana|Saveincloud Hospedagem na Internet Ltda|
+|13|154.201.126.185|8080|India|Noida|CtrlS|
+|14|103.174.122.98|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 |15|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|16|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
-|17|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|18|187.249.37.227|2024|Mexico|Reynosa|Transtelco Inc|
+|16|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|17|163.181.207.170|9999|Vietnam|Hanoi|Zhejiang Taobao Network Co., Ltd|
+|18|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
 |19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|3.141.0.252|9000|United States|Columbus|Amazon.com, Inc.|
 
 
 
