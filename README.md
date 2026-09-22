@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|4|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|8|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|9|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
-|12|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|178.156.206.253|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|17|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|19|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|178.92.72.73|8080|India|Mumbai|IPXO|
+|5|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|154.201.126.21|8080|India|Noida|CtrlS|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|178.92.72.94|8080|India|Mumbai|IPXO|
+|10|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|11|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|14|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|191.7.114.63|8080|Brazil|Campo Novo do Parecis|Teleturbo Servicos De Telecomunicacoes Ltda|
+|20|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
 
 
 
