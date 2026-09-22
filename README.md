@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|154.201.126.64|8080|India|Noida|CtrlS|
-|8|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|10|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
-|11|178.92.72.68|8080|India|Mumbai|IPXO|
-|12|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|13|178.92.72.149|8080|India|Mumbai|IPXO|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|16|103.174.122.88|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|17|103.153.211.220|8080|Bangladesh|Bogra|Idea TEC LTD|
-|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|79.137.78.133|8010|France|Roubaix|OVH SAS|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|154.201.126.64|8080|India|Noida|CtrlS|
+|9|178.92.72.73|8080|India|Mumbai|IPXO|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|12|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|15|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|16|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|17|45.143.130.157|1080|United States|San Jose|BITSFLOWCLOUD|
+|18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|19|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|20|66.175.235.158|8118|United States|Sulphur Springs|IONOS SE|
 
 
 
