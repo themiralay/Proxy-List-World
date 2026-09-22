@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.92.72.129|8080|India|Mumbai|IPXO|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|151.243.153.157|8118|United States|Seattle|Black Apple|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|178.92.72.54|8080|India|Mumbai|IPXO|
-|12|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|13|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|14|103.227.187.19|6090|Indonesia|Curahjati|PT Master Star Network|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|178.92.72.94|8080|India|Mumbai|IPXO|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|178.92.72.134|8080|India|Mumbai|IPXO|
+|11|198.15.30.50|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
+|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|13|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
+|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|20|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|20|103.174.122.88|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 
 
 
