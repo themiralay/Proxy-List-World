@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4544** proxies at the latest update. Usable proxies are below.
+> Scraper found **4452** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|499|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|407|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|180|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2665|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|2|154.201.126.21|8080|India|Noida|CtrlS|
-|3|178.92.72.68|8080|India|Mumbai|IPXO|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|178.92.72.165|8080|India|Mumbai|IPXO|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|10|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|12|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|13|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
-|14|154.201.126.111|8080|India|Noida|CtrlS|
-|15|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|16|89.222.252.166|10808|Russia|Moscow|Netorn LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|19|132.145.20.143|3128|United Kingdom|London|Oracle Corporation|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|4|178.92.72.194|8080|India|Mumbai|IPXO|
+|5|178.92.72.73|8080|India|Mumbai|IPXO|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|8|154.201.126.130|8080|India|Noida|CtrlS|
+|9|103.20.102.155|8182|Vietnam|Ho Chi Minh City|Thai An Khang|
+|10|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|178.92.72.162|8080|India|Mumbai|IPXO|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|14|132.145.20.143|3128|United Kingdom|London|Oracle Corporation|
+|15|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|16|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|17|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|19|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
