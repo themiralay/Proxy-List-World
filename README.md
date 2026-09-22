@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5248** proxies at the latest update. Usable proxies are below.
+> Scraper found **5127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|757|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2913|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|178.92.72.165|8080|India|Mumbai|IPXO|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|178.92.72.73|8080|India|Mumbai|IPXO|
 |6|178.92.72.162|8080|India|Mumbai|IPXO|
-|7|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|178.92.72.54|8080|India|Mumbai|IPXO|
-|9|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|10|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|11|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|12|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
-|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|178.92.72.165|8080|India|Mumbai|IPXO|
+|9|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|178.92.72.54|8080|India|Mumbai|IPXO|
+|11|178.92.72.78|8080|India|Mumbai|IPXO|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|154.201.126.21|8080|India|Noida|CtrlS|
+|14|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
+|15|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
 
 
 
