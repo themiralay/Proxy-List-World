@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|8|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|9|38.7.22.165|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
-|13|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
-|14|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|15|34.220.80.147|12345|United States|Boardman|Amazon.com, Inc.|
-|16|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
-|17|124.109.105.44|3128|Bangladesh|Bhātāra|Mutual Trust Bank Limited|
-|18|144.91.73.196|3128|France|Lauterbourg|Contabo GmbH|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|157.10.90.65|8080|Indonesia|Ponorogo|PNGWIFI|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|188.165.76.164|3128|France|Gravelines|OVH SAS|
+|11|178.92.72.94|8080|India|Mumbai|IPXO|
+|12|18.170.45.5|34702|United Kingdom|London|Amazon Technologies Inc.|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|15|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|34.220.80.147|12345|United States|Boardman|Amazon.com, Inc.|
+|18|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
+|19|38.7.22.165|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
+|20|45.161.191.17|999|Chile|Requínoa|Telecomunicaciones Roberto Marcelo Fuenzalida Valdes Eirl|
 
 
 
