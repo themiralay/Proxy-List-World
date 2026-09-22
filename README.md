@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|178.92.72.229|8080|India|Mumbai|IPXO|
+|6|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
 |7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|178.92.72.78|8080|India|Mumbai|IPXO|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|16|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|178.92.72.68|8080|India|Mumbai|IPXO|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|12|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|13|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|17|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|19|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
 
 
 
