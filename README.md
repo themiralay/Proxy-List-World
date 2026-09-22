@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|142.93.219.233|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|5|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|8|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|9|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|10|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|11|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|167.99.0.80|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
-|15|198.46.170.48|443|United States|Buffalo|HostPapa|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|95.153.31.228|3128|Estonia|Tallinn|TELE2/SWIPNET|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|1|166.1.61.57|1080|Japan|Tokyo|Amarutu Technology Ltd|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|6|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|7|43.108.35.203|8899|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|9|198.46.170.48|443|United States|Buffalo|HostPapa|
+|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|11|208.115.214.157|3128|France|Paris|Limestone Networks, Inc.|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|17|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|18|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|19|179.1.241.200|999|Colombia|Campoalegre|Internexa S.a. E.S.P|
+|20|52.184.96.136|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
