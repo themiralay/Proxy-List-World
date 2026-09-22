@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|10|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|178.92.72.229|8080|India|Mumbai|IPXO|
-|12|103.102.131.30|3128|Vietnam|Hanoi|VGP Joint Stock Company|
+|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|154.201.126.130|8080|India|Noida|CtrlS|
+|6|178.92.72.162|8080|India|Mumbai|IPXO|
+|7|178.92.72.165|8080|India|Mumbai|IPXO|
+|8|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|9|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|202.73.27.154|8080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|178.92.72.129|8080|India|Mumbai|IPXO|
 |13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|103.172.42.177|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |15|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|16|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|16|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|18|154.201.126.64|8080|India|Noida|CtrlS|
+|19|107.167.18.122|443|United States|Los Angeles|Sharktech|
 |20|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
 
 
