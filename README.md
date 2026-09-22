@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|178.92.72.229|8080|India|Mumbai|IPXO|
-|8|23.94.25.198|1084|United States|Santa Clara|HostPapa|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|178.92.72.78|8080|India|Mumbai|IPXO|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|178.92.72.229|8080|India|Mumbai|IPXO|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|178.92.72.78|8080|India|Mumbai|IPXO|
+|8|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
+|9|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 |14|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|23.94.25.198|1084|United States|Santa Clara|HostPapa|
-|17|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|18|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|19|95.153.31.226|3128|Estonia|Tallinn|TELE2/SWIPNET|
-|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|135.181.79.187|40001|Finland|Helsinki|Hetzner Online GmbH|
+|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|20|34.220.80.147|12345|United States|Boardman|Amazon.com, Inc.|
 
 
 
