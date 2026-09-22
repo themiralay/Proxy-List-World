@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|175.194.197.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|7|178.92.72.129|8080|India|Mumbai|IPXO|
-|8|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|178.92.72.78|8080|India|Mumbai|IPXO|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|178.92.72.68|8080|India|Mumbai|IPXO|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|200.142.97.66|3128|Brazil|Rio de Janeiro|Mundivox Do Brasil Ltda|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|103.174.122.98|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|17|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|18|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|4|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|178.92.72.162|8080|India|Mumbai|IPXO|
+|10|178.92.72.134|8080|India|Mumbai|IPXO|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|35.91.115.187|3128|United States|Boardman|Amazon.com, Inc.|
+|13|178.92.72.78|8080|India|Mumbai|IPXO|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|17|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|18|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|19|116.105.27.177|8080|Vietnam|Da Nang|Viettel Group|
+|20|178.92.72.68|8080|India|Mumbai|IPXO|
 
 
 
