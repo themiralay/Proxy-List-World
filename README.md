@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|178.92.72.229|8080|India|Mumbai|IPXO|
-|3|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|178.92.72.165|8080|India|Mumbai|IPXO|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|14|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
-|17|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|160.19.146.173|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|20|182.253.40.39|8080|Indonesia|North Jakarta|BIZNET|
+|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|178.92.72.78|8080|India|Mumbai|IPXO|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|6|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|7|178.92.72.149|8080|India|Mumbai|IPXO|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|178.92.72.73|8080|India|Mumbai|IPXO|
+|10|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|14|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|15|64.188.71.169|3128|Germany|Frankfurt am Main|Senko Digital LLC|
+|16|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|17|154.201.126.21|8080|India|Noida|CtrlS|
+|18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|19|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
