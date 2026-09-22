@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.39.226.35|3128|South Korea|Incheon|Amazon.com, Inc.|
 |2|34.219.86.78|3128|United States|Boardman|Amazon.com, Inc.|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|34.219.86.78|3128|United States|Boardman|Amazon.com, Inc.|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|7|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|10|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
-|13|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
-|14|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|15|188.165.76.164|3128|France|Gravelines|OVH SAS|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|3|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|6|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|7|154.201.126.185|8080|India|Noida|CtrlS|
+|8|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|34.219.86.78|3128|United States|Boardman|Amazon.com, Inc.|
+|11|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|13|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
+|14|159.65.233.169|54321|United States|North Bergen|DigitalOcean, LLC|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|188.165.76.164|3128|France|Gravelines|OVH SAS|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|37.32.20.216|8080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|19|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|20|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
 
 
 
