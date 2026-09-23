@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|2|178.92.72.134|8080|India|Mumbai|IPXO|
+|1|139.135.170.12|8082|Philippines|Tarlac City|Converge Information and Communications Technology Solutions|
+|2|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.162|8080|India|Mumbai|IPXO|
-|5|178.92.72.68|8080|India|Mumbai|IPXO|
-|6|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|7|178.92.72.165|8080|India|Mumbai|IPXO|
-|8|154.201.126.21|8080|India|Noida|CtrlS|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|11|178.92.72.78|8080|India|Mumbai|IPXO|
-|12|178.92.72.54|8080|India|Mumbai|IPXO|
-|13|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|103.150.166.160|8090|Bangladesh|Comilla|Kazi Md Mukid|
-|16|172.237.102.212|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|77.73.68.222|65000|Russia|St Petersburg|Veesp datacenter|
+|4|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|6|178.92.72.54|8080|India|Mumbai|IPXO|
+|7|154.201.126.185|8080|India|Noida|CtrlS|
+|8|178.92.72.149|8080|India|Mumbai|IPXO|
+|9|178.92.72.78|8080|India|Mumbai|IPXO|
+|10|103.18.79.108|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|103.150.166.160|8090|Bangladesh|Comilla|Kazi Md Mukid|
+|14|172.237.102.212|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|15|89.163.231.2|3128|Germany|Düsseldorf|WIIT AG|
+|16|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|17|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|154.201.126.21|8080|India|Noida|CtrlS|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
