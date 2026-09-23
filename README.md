@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|6|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|178.92.72.194|8080|India|Mumbai|IPXO|
-|9|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|152.53.183.107|8082|Germany|Nuremberg|netcup GmbH|
-|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|13|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|131.163.89.148|3128|Norway|Lorenskog|Microsoft Corporation|
-|15|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|1|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 
 
 
