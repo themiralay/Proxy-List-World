@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|178.92.72.149|8080|India|Mumbai|IPXO|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|202.73.27.116|1080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|89.110.127.63|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
-|15|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|16|178.92.72.229|8080|India|Mumbai|IPXO|
-|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|126.209.84.5|8082|Philippines|Cebu City|Infinivan Incorporated|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|9|178.92.72.149|8080|India|Mumbai|IPXO|
+|10|154.201.126.21|8080|India|Noida|CtrlS|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|178.92.72.165|8080|India|Mumbai|IPXO|
+|13|151.243.153.157|8118|United States|Seattle|Black Apple|
+|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
+|17|38.76.138.130|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
+|18|165.101.102.25|8088|Philippines|Quezon City|iRateNet Solutions|
+|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|178.92.72.134|8080|India|Mumbai|IPXO|
 
 
 
