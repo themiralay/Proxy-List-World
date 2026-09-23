@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|5|178.92.72.194|8080|India|Mumbai|IPXO|
-|6|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|45.194.3.169|8888|India|Noida|CtrlS|
-|9|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|10|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
-|15|103.26.131.29|3125|Indonesia|Salatiga|PT Indonesia Media Komunikasi Masyarakat|
-|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|17|92.119.127.212|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|5.166.12.63|4444|Russia|Yaroslavl|CJSC "ER-Telecom Holding" Yaroslavl' branch|
+|3|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|154.201.126.185|8080|India|Noida|CtrlS|
+|7|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|8|178.92.72.73|8080|India|Mumbai|IPXO|
+|9|154.201.126.130|8080|India|Noida|CtrlS|
+|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|163.47.25.10|8080|Indonesia|Cikampek|PT STAR HOME INDONESIA|
+|13|178.92.72.194|8080|India|Mumbai|IPXO|
+|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|17|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
+|19|185.107.44.221|1337|The Netherlands|Roosendaal|NFOrce Entertainment BV|
+|20|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
 
 
 
