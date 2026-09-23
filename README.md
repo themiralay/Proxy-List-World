@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|95.169.7.214|8080|United States|Los Angeles|IT7 Networks Inc|
+|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.194|8080|India|Mumbai|IPXO|
-|5|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|4|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|45.194.3.169|8888|India|Noida|CtrlS|
-|8|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|11|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|7|45.194.3.116|8080|India|Noida|CtrlS|
+|8|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|9|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|10|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
-|16|144.124.251.24|10485|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
-|18|200.106.124.208|999|Peru|Tacna|Telefonica del Peru|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|13|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|176.111.37.5|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|15|200.106.124.208|999|Peru|Tacna|Telefonica del Peru|
+|16|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
+|17|95.3.69.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|18|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
 
 
 
