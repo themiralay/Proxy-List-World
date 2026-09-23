@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|2|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.162|8080|India|Mumbai|IPXO|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|178.92.72.73|8080|India|Mumbai|IPXO|
-|8|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|9|178.92.72.229|8080|India|Mumbai|IPXO|
-|10|178.92.72.149|8080|India|Mumbai|IPXO|
-|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|12|178.92.72.134|8080|India|Mumbai|IPXO|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|15|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|16|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|45.194.3.116|8080|India|Noida|CtrlS|
-|20|178.92.72.78|8080|India|Mumbai|IPXO|
+|4|178.92.72.165|8080|India|Mumbai|IPXO|
+|5|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|178.92.72.134|8080|India|Mumbai|IPXO|
+|8|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
+|9|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|45.194.3.169|8888|India|Noida|CtrlS|
+|12|178.92.72.94|8080|India|Mumbai|IPXO|
+|13|45.194.3.119|8080|India|Noida|CtrlS|
+|14|154.201.126.21|8080|India|Noida|CtrlS|
+|15|45.194.3.116|8080|India|Noida|CtrlS|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|19|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|20|167.160.190.215|8080|Canada|Toronto|HostPapa|
 
 
 
