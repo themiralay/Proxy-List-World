@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|653|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|653|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|653|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|178.92.72.134|8080|India|Mumbai|IPXO|
-|6|178.92.72.129|8080|India|Mumbai|IPXO|
-|7|178.92.72.94|8080|India|Mumbai|IPXO|
-|8|178.92.72.149|8080|India|Mumbai|IPXO|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|12|178.92.72.229|8080|India|Mumbai|IPXO|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|178.92.72.194|8080|India|Mumbai|IPXO|
-|19|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|20|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|2|45.32.57.211|1080|Japan|Minamishinagawa|Choopa|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
+|7|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|10|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|178.92.72.229|8080|India|Mumbai|IPXO|
+|12|154.201.126.21|8080|India|Noida|CtrlS|
+|13|45.194.3.119|8080|India|Noida|CtrlS|
+|14|154.201.126.64|8080|India|Noida|CtrlS|
+|15|45.194.3.116|8080|India|Noida|CtrlS|
+|16|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|17|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|18|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
