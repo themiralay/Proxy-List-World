@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|178.92.72.165|8080|India|Mumbai|IPXO|
-|6|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|9|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|11|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
-|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|15|103.6.171.243|8888|Australia|Sydney|Kamatera, Inc.|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|178.92.72.134|8080|India|Mumbai|IPXO|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|8|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|19|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
