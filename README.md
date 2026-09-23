@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.169.99.71|8089|South Korea|Gangnam-gu|Korea Telecom|
+|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|154.201.126.185|8080|India|Noida|CtrlS|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|45.194.3.116|8080|India|Noida|CtrlS|
-|12|45.194.3.169|8888|India|Noida|CtrlS|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|178.92.72.194|8080|India|Mumbai|IPXO|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|45.194.3.119|8080|India|Noida|CtrlS|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|34.69.84.111|443|United States|Council Bluffs|Google LLC|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|49.0.27.175|1111|Indonesia|Lamongan|SIMS Jabar Banten Medianet|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.194.3.169|8888|India|Noida|CtrlS|
+|12|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|13|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|154.201.126.64|8080|India|Noida|CtrlS|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|34.69.84.111|443|United States|Council Bluffs|Google LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
