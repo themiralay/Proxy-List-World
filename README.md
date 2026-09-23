@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|178.92.72.134|8080|India|Mumbai|IPXO|
-|3|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|4|178.92.72.129|8080|India|Mumbai|IPXO|
-|5|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|2|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|3|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|4|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|5|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|154.201.126.185|8080|India|Noida|CtrlS|
 |7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|103.226.0.237|8080|India|Thane|MACH1 Broadband|
+|8|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|9|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
 |12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|14|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|15|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
 |16|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
-|17|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|19|171.234.162.101|2031|Vietnam|Hanoi|Viettel Corporation|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|93.123.30.53|3128|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|19|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
+|20|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
