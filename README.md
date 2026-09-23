@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|157.20.100.194|8080|Indonesia|Kudus|PT Muria Global Network|
-|6|178.92.72.154|8080|India|Mumbai|IPXO|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|9|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|14|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
-|15|65.21.201.149|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|17|167.57.191.62|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|18|180.149.45.180|3128|Azerbaijan|Baku|G-Core Labs S.A.|
-|19|2.56.178.88|808|Russia|Moscow|UFO Hosting LLC|
-|20|43.163.78.54|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|178.92.72.162|8080|India|Mumbai|IPXO|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|9|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|10|154.201.126.130|8080|India|Noida|CtrlS|
+|11|154.201.126.64|8080|India|Noida|CtrlS|
+|12|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|13|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|19|79.137.78.133|8011|France|Roubaix|OVH SAS|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
