@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |2|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|45.194.3.169|8888|India|Noida|CtrlS|
-|5|45.194.3.119|8080|India|Noida|CtrlS|
-|6|45.194.3.116|8080|India|Noida|CtrlS|
-|7|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|8|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|9|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|178.92.72.149|8080|India|Mumbai|IPXO|
-|12|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|13|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|14|154.201.126.185|8080|India|Noida|CtrlS|
-|15|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|16|154.201.126.130|8080|India|Noida|CtrlS|
-|17|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|5|103.129.95.61|8010|Indonesia|Tangerang|PT. Eka Mas Republik|
+|6|178.92.72.134|8080|India|Mumbai|IPXO|
+|7|45.194.3.169|8888|India|Noida|CtrlS|
+|8|45.194.3.119|8080|India|Noida|CtrlS|
+|9|103.172.42.221|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
+|10|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|151.243.153.157|8118|United States|Seattle|Black Apple|
+|12|178.92.72.129|8080|India|Mumbai|IPXO|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|178.92.72.54|8080|India|Mumbai|IPXO|
+|15|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|17|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|178.92.72.194|8080|India|Mumbai|IPXO|
+|19|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|20|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
