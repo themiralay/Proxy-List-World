@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|178.92.72.229|8080|India|Mumbai|IPXO|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|154.201.126.130|8080|India|Noida|CtrlS|
-|11|178.92.72.54|8080|India|Mumbai|IPXO|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|154.201.126.64|8080|India|Noida|CtrlS|
-|14|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|15|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|178.92.72.94|8080|India|Mumbai|IPXO|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|45.194.3.116|8080|India|Noida|CtrlS|
+|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|6|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|154.201.126.130|8080|India|Noida|CtrlS|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|154.201.126.21|8080|India|Noida|CtrlS|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|154.201.126.185|8080|India|Noida|CtrlS|
+|12|178.92.72.165|8080|India|Mumbai|IPXO|
+|13|178.92.72.129|8080|India|Mumbai|IPXO|
+|14|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|91.196.163.113|8888|The Netherlands|Amsterdam|NetCrafters OU|
+|17|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
