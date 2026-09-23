@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5902** proxies at the latest update. Usable proxies are below.
+> Scraper found **5866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|372|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3150|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|6|103.191.196.211|8080|Indonesia|Majalengka|PT Pangkalan Lintas Data|
-|7|178.92.72.165|8080|India|Mumbai|IPXO|
-|8|178.92.72.54|8080|India|Mumbai|IPXO|
-|9|35.87.224.176|80|United States|Boardman|Amazon.com, Inc.|
-|10|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|11|45.194.3.116|8080|India|Noida|CtrlS|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
-|14|35.87.224.176|80|United States|Boardman|Amazon.com, Inc.|
-|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|19|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|14.225.68.207|1337|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|178.92.72.68|8080|India|Mumbai|IPXO|
+|6|103.174.122.83|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|7|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|178.92.72.165|8080|India|Mumbai|IPXO|
+|10|45.194.3.116|8080|India|Noida|CtrlS|
+|11|178.92.72.54|8080|India|Mumbai|IPXO|
+|12|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|13|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|154.201.126.130|8080|India|Noida|CtrlS|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|17|35.87.224.176|80|United States|Boardman|Amazon.com, Inc.|
+|18|115.127.178.50|2572|Bangladesh|Dhaka|BRACNet Limited|
+|19|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
