@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|221.141.140.132|8118|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
-|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|8|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|154.201.126.64|8080|India|Noida|CtrlS|
-|10|178.92.72.229|8080|India|Mumbai|IPXO|
-|11|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|12|178.92.72.154|8080|India|Mumbai|IPXO|
-|13|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|45.194.3.116|8080|India|Noida|CtrlS|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|20|178.92.72.129|8080|India|Mumbai|IPXO|
+|5|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|45.194.3.119|8080|India|Noida|CtrlS|
+|7|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
+|9|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|154.201.126.130|8080|India|Noida|CtrlS|
+|13|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|19|195.144.24.57|3128|North Macedonia|Skopje|Andrew Kristuli|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
