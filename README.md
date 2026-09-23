@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|157.15.62.173|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|5|129.150.57.5|55555|Singapore|Singapore|Oracle Corporation|
-|6|178.92.72.194|8080|India|Mumbai|IPXO|
-|7|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|8|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|178.92.72.154|8080|India|Mumbai|IPXO|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|178.92.72.162|8080|India|Mumbai|IPXO|
-|14|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|15|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|20|92.119.127.212|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|178.92.72.54|8080|India|Mumbai|IPXO|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|12|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|16|151.243.153.157|8118|United States|Seattle|Black Apple|
+|17|92.119.127.212|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|18|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|19|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
