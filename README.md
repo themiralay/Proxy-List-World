@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.92.72.54|8080|India|Mumbai|IPXO|
-|2|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|6|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|7|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|8|154.201.126.130|8080|India|Noida|CtrlS|
-|9|178.92.72.78|8080|India|Mumbai|IPXO|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|12|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|178.92.72.165|8080|India|Mumbai|IPXO|
+|3|95.169.7.214|8080|United States|Los Angeles|IT7 Networks Inc|
+|4|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|45.194.3.119|8080|India|Noida|CtrlS|
+|7|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|8|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|154.201.126.21|8080|India|Noida|CtrlS|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|103.107.136.70|8081|Indonesia|Pare|PT Bayu Group|
+|13|178.92.72.154|8080|India|Mumbai|IPXO|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|16|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|18|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|14.139.235.82|3128|India|Rāipur|National Knowledge Network|
 
 
 
