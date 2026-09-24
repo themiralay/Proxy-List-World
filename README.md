@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|671|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|671|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|671|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|2|167.172.84.23|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|4|178.92.72.73|8080|India|Mumbai|IPXO|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|7|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|178.92.72.94|8080|India|Mumbai|IPXO|
-|9|178.92.72.194|8080|India|Mumbai|IPXO|
-|10|3.92.65.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|178.92.72.129|8080|India|Mumbai|IPXO|
-|12|107.173.41.13|3128|United States|Buffalo|HostPapa|
-|13|157.10.90.65|8080|Indonesia|Ponorogo|PNGWIFI|
-|14|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|16|45.194.3.116|8080|India|Noida|CtrlS|
-|17|178.92.72.229|8080|India|Mumbai|IPXO|
-|18|45.194.3.119|8080|India|Noida|CtrlS|
-|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|154.201.126.64|8080|India|Noida|CtrlS|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|4|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|5|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|6|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|7|154.201.126.130|8080|India|Noida|CtrlS|
+|8|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|9|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|178.92.72.154|8080|India|Mumbai|IPXO|
+|11|154.201.126.64|8080|India|Noida|CtrlS|
+|12|3.92.65.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|107.173.41.13|3128|United States|Buffalo|HostPapa|
+|14|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|15|172.237.102.212|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|16|139.162.146.29|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|20|146.196.40.146|8080|Indonesia|Rengasdengklok|UNINA|
 
 
 
