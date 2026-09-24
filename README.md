@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|664|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|664|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|664|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|715|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|715|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|715|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|101.47.74.252|8888|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|6|161.49.219.212|8082|Philippines|Camiling|Converge Information and Communications Technology Solutions|
-|7|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
-|8|43.156.26.108|11080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|178.92.72.154|8080|India|Mumbai|IPXO|
-|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|178.92.72.229|8080|India|Mumbai|IPXO|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|178.92.72.78|8080|India|Mumbai|IPXO|
-|16|103.151.227.170|8080|Indonesia|Parigi|URBANACCESS|
-|17|154.201.126.21|8080|India|Noida|CtrlS|
-|18|223.25.110.123|8080|Indonesia|Purbalingga|SinergiNet|
-|19|178.92.72.194|8080|India|Mumbai|IPXO|
-|20|178.92.72.73|8080|India|Mumbai|IPXO|
+|1|45.76.104.147|40001|Japan|Minamishinagawa|The Constant Company|
+|2|43.156.26.108|11080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|101.96.105.87|8080|Vietnam|Tây Hồ District|NetNam Corporation|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
+|9|178.92.72.194|8080|India|Mumbai|IPXO|
+|10|154.201.126.130|8080|India|Noida|CtrlS|
+|11|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|12|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
+|13|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
+|14|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|15|178.92.72.73|8080|India|Mumbai|IPXO|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|18|178.92.72.165|8080|India|Mumbai|IPXO|
+|19|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
