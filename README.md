@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|178.92.72.129|8080|India|Mumbai|IPXO|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|178.92.72.162|8080|India|Mumbai|IPXO|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|103.174.236.88|8080|Indonesia|Sukasari|PT Global Erasiber Teknologi|
+|5|154.201.126.64|8080|India|Noida|CtrlS|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |9|154.201.126.44|8080|India|Noida|CtrlS|
-|10|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|178.92.72.68|8080|India|Mumbai|IPXO|
-|12|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|178.92.72.54|8080|India|Mumbai|IPXO|
-|14|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|15|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|178.92.72.229|8080|India|Mumbai|IPXO|
-|18|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|45.194.3.132|8080|India|Noida|CtrlS|
-|20|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
+|11|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|43.156.26.108|11080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|8.213.37.17|8888|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
+|20|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
 
 
 
