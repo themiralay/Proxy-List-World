@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |6|54.153.122.255|1001|United States|San Jose|Amazon.com, Inc.|
-|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|54.183.163.115|1001|United States|San Jose|Amazon.com, Inc.|
-|11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|13|154.201.127.12|8080|India|Noida|Real Time Data Services Private Limited|
-|14|98.80.76.64|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|54.153.122.255|1001|United States|San Jose|Amazon.com, Inc.|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|10|43.156.26.108|11080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|178.92.72.149|8080|India|Mumbai|IPXO|
+|12|98.80.76.64|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|54.153.122.255|1001|United States|San Jose|Amazon.com, Inc.|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|20|213.32.70.99|3128|France|Roubaix|OVH SAS|
 
 
 
