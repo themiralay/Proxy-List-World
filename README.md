@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|154.201.126.44|8080|India|Noida|CtrlS|
-|9|151.243.153.157|8118|United States|Seattle|Black Apple|
-|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|107.210.56.161|80|United States|Birmingham|AT&T Enterprises, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|172.210.12.8|3128|United States|Boydton|Microsoft Corporation|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|103.133.26.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|19|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
