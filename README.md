@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|139.162.23.118|3128|Singapore|Singapore|LINODE|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|178.92.72.134|8080|India|Mumbai|IPXO|
-|11|178.92.72.194|8080|India|Mumbai|IPXO|
-|12|103.13.204.84|8082|Indonesia|Guyangan|PT JARINGANKU SARANA NUSANTARA|
-|13|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|14|144.79.180.45|8080|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
-|15|154.201.127.207|8080|India|Noida|Real Time Data Services Private Limited|
-|16|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
-|17|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
-|18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|19|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|178.92.72.78|8080|India|Mumbai|IPXO|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|139.162.23.118|3128|Singapore|Singapore|LINODE|
+|4|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|49.51.252.36|3128|United States|Santa Clara|OPHL|
+|7|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.26.176.31|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|9|113.23.230.90|8080|Malaysia|Putrajaya|Extreme Broadband|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|136.113.23.93|443|United States|Council Bluffs|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|178.92.72.154|8080|India|Mumbai|IPXO|
+|14|178.92.72.68|8080|India|Mumbai|IPXO|
+|15|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|154.201.127.61|8080|India|Noida|Real Time Data Services Private Limited|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|19|178.92.72.54|8080|India|Mumbai|IPXO|
+|20|154.201.127.182|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
