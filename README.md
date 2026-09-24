@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|2|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|178.92.72.73|8080|India|Mumbai|IPXO|
-|6|167.160.190.215|8080|Canada|Toronto|HostPapa|
-|7|178.92.72.165|8080|India|Mumbai|IPXO|
-|8|178.92.72.162|8080|India|Mumbai|IPXO|
-|9|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|178.92.72.54|8080|India|Mumbai|IPXO|
-|13|154.201.126.130|8080|India|Noida|CtrlS|
-|14|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|1|101.47.74.252|8888|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|2|139.162.23.118|3128|Singapore|Singapore|LINODE|
+|3|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|95.169.7.214|8080|United States|Los Angeles|IT7 Networks Inc|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|8|167.160.190.215|8080|Canada|Toronto|HostPapa|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|178.92.72.78|8080|India|Mumbai|IPXO|
+|11|178.92.72.165|8080|India|Mumbai|IPXO|
+|12|178.92.72.194|8080|India|Mumbai|IPXO|
+|13|178.92.72.154|8080|India|Mumbai|IPXO|
+|14|178.92.72.54|8080|India|Mumbai|IPXO|
+|15|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
 |19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|154.201.126.21|8080|India|Noida|CtrlS|
 
 
 
