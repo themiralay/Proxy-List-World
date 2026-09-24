@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|178.92.72.129|8080|India|Mumbai|IPXO|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|178.92.72.73|8080|India|Mumbai|IPXO|
-|6|154.201.126.44|8080|India|Noida|CtrlS|
-|7|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|9|45.194.3.132|8080|India|Noida|CtrlS|
-|10|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|12|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.97.140.199|8080|Indonesia|Lembang|PT Jembatan Data Pangrango|
-|16|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
-|17|154.201.127.85|8080|India|Noida|Real Time Data Services Private Limited|
-|18|213.165.208.163|1080|Russia|Moscow|Yandex.Cloud LLC|
-|19|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|8|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|154.201.126.44|8080|India|Noida|CtrlS|
+|11|45.194.3.132|8080|India|Noida|CtrlS|
+|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|13|178.92.72.149|8080|India|Mumbai|IPXO|
+|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|178.92.72.194|8080|India|Mumbai|IPXO|
+|19|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
