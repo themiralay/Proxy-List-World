@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
 |8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|154.201.126.44|8080|India|Noida|CtrlS|
-|12|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|13|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|213.32.70.99|3128|France|Roubaix|OVH SAS|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
+|15|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
+|16|193.29.225.77|8080|Finland|Helsinki|Aeza International LTD|
+|17|45.151.102.248|10808|Russia|Moscow|Aeza Group LLC|
 |18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|19|45.151.102.248|10808|Russia|Moscow|Aeza Group LLC|
-|20|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
+|19|131.153.1.43|8254|United States|Ashburn|Secured Servers LLC|
+|20|185.58.115.185|8080|Sweden|Stockholm|Baykov Ilya Sergeevich|
 
 
 
