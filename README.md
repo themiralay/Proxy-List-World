@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|18.181.45.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|202.58.77.195|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|13|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
-|14|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|15|193.29.225.77|8080|Finland|Helsinki|Aeza International LTD|
-|16|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
-|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|45.151.102.248|10808|Russia|Moscow|Aeza Group LLC|
-|20|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|13|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|17|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|193.29.225.77|8080|Finland|Helsinki|Aeza International LTD|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
