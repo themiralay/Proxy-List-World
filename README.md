@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4780** proxies at the latest update. Usable proxies are below.
+> Scraper found **4997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|812|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|138|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2847|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|5|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
-|6|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|192.232.48.66|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|10|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
-|14|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
-|15|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|208.68.37.38|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|45.194.3.132|8080|India|Noida|CtrlS|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|5|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|10|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|12|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|192.232.48.66|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|16|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
+|17|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
+|18|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|20|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
