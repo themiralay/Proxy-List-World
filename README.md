@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|130.162.192.208|8080|Australia|Melbourne|Oracle Corporation|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|154.201.127.26|8080|India|Noida|Real Time Data Services Private Limited|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|7|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|9|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|208.68.37.38|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |15|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
-|17|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
-|18|45.194.3.132|8080|India|Noida|CtrlS|
-|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|20|185.68.185.4|8888|France|Paris|Baykov Ilya Sergeevich|
+|16|45.194.3.119|8080|India|Noida|CtrlS|
+|17|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|18|154.201.127.26|8080|India|Noida|Real Time Data Services Private Limited|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
 
 
 
