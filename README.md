@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
-|2|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.194.3.132|8080|India|Noida|CtrlS|
-|10|36.89.82.54|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|154.201.126.44|8080|India|Noida|CtrlS|
-|17|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|18|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|8|45.194.3.132|8080|India|Noida|CtrlS|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|15|103.155.198.44|1994|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|16|1.231.81.166|3128|South Korea|Dobong-gu|SK Broadband Co Ltd|
+|17|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|18|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|34.223.255.1|3128|United States|Boardman|Amazon.com, Inc.|
+|20|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
 
 
 
