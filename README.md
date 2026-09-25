@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5292** proxies at the latest update. Usable proxies are below.
+> Scraper found **4842** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1067|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|311|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2714|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|16|54.198.86.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|18.170.45.5|34702|United Kingdom|London|Amazon Technologies Inc.|
-|18|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
-|19|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
-|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|208.68.37.38|10000|United States|North Bergen|DigitalOcean, LLC|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|208.68.37.38|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|185.68.185.4|8888|France|Paris|Baykov Ilya Sergeevich|
+|18|5.129.249.123|61925|Russia|Moscow|JSC "TIMEWEB"|
+|19|54.198.86.133|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|144.76.61.252|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
