@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
-|6|34.223.255.1|3128|United States|Boardman|Amazon.com, Inc.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
-|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|14|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
-|15|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
-|16|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
-|17|34.223.255.1|3128|United States|Boardman|Amazon.com, Inc.|
-|18|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|19|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|7|34.223.255.1|3128|United States|Boardman|Amazon.com, Inc.|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|14|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
