@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|16|18.181.45.54|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|17|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|173.254.204.118|7890|United States|Los Angeles|HostPapa|
-|20|45.194.3.119|8080|India|Noida|CtrlS|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|154.201.126.44|8080|India|Noida|CtrlS|
+|18|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|19|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
