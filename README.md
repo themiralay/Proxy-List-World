@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|5|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|6|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|103.172.120.33|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|10|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
-|11|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|12|103.133.26.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|15|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|16|66.23.231.213|3128|United States|Secaucus|Interserver, Inc|
-|17|103.175.84.6|80|Indonesia|Kartasura|Proxy-registered|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
+|6|45.77.148.203|9000|United States|Piscataway|Choopa|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|9|165.22.99.36|8008|Singapore|Singapore|DigitalOcean, LLC|
+|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|150.241.245.230|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|15|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|16|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|45.77.148.203|9000|United States|Piscataway|Choopa|
+|19|167.99.8.113|8008|United States|North Bergen|DigitalOcean, LLC|
+|20|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 
 
 
