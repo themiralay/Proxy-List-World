@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|16|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|193.233.233.62|21840|Austria|Vienna|xorek.cloud International LTD|
-|19|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|15|45.194.90.16|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|45.194.3.119|8080|India|Noida|CtrlS|
+|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|19|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
