@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6126** proxies at the latest update. Usable proxies are below.
+> Scraper found **5863** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1309|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3408|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|6|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|11|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|103.19.78.243|1080|Indonesia|Karangrejo|PT Persada Data Multimedia|
-|14|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|14.139.235.82|3128|India|Raipur|National Knowledge Network|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
+|3|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|4|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|7|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|8|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|9|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|41.216.191.186|8080|Indonesia|South Jakarta|Perwira|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|17|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|14.139.235.82|3128|India|Raipur|National Knowledge Network|
+|19|213.32.70.99|3128|France|Roubaix|OVH SAS|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
