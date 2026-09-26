@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|5|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|13.218.48.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|7|103.133.26.73|3128|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|9|13.218.48.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|14|200.71.109.10|999|Mexico|Naranjos|Digy Networks|
 |15|13.218.48.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|193.233.233.62|21840|Austria|Vienna|xorek.cloud International LTD|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|35.175.204.137|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|19|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
