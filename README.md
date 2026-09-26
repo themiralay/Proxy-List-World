@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|5|157.254.20.12|10808|Hong Kong|Hong Kong|Vantiva USA Shared Services Inc.|
-|6|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|103.166.159.93|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|3|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|8|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|45.194.3.113|8080|India|Noida|CtrlS|
+|12|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|14|223.207.114.63|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 |15|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|14.139.235.82|3128|India|Raipur|National Knowledge Network|
-|19|131.153.163.86|8001|United States|Ashburn|Secured Servers LLC|
-|20|103.174.122.98|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|16|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
