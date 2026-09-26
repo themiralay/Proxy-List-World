@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|49.147.59.16|8082|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|10|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|12|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+|4|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|5|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|64.83.19.216|10808|United States|Los Angeles|NetLab Global|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|15|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|49.147.59.16|8082|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|20|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
