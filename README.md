@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|2|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|202.52.48.42|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|6|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|45.194.3.119|8080|India|Noida|CtrlS|
-|12|103.156.114.46|8080|Indonesia|Tangerang|MYREPUBLIC|
-|13|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|103.124.139.197|8181|Indonesia|Tangerang|Global Media Data Prima|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|5|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|8|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|8.213.135.48|3128|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|154.201.126.44|8080|India|Noida|CtrlS|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
 |19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|154.201.126.44|8080|India|Noida|CtrlS|
+|20|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
