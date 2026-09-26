@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|103.56.163.147|3128|Vietnam|Ho Chi Minh City|INETSOFT|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.32.1.83|9000|United States|Piscataway|Choopa|
 |9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|11|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|12|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|16|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
-|17|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|174.138.161.187|63495|United States|Phoenix|Secured Servers LLC|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|19|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
