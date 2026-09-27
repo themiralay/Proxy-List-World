@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|4|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|45.194.3.119|8080|India|Noida|CtrlS|
-|12|14.139.235.82|3128|India|Raipur|National Knowledge Network|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|5|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|11|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|15|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
+|16|35.175.204.137|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|19|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
+|20|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
 
 
 
