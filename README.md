@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|45.194.3.119|8080|India|Noida|CtrlS|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|45.80.37.229|20005|The Netherlands|Amsterdam|Telkom Internet LTD|
-|16|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|17|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|193.233.233.62|21840|Austria|Vienna|xorek.cloud International LTD|
-|20|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|218.102.111.110|1080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|3|54.219.167.135|1001|United States|San Jose|Amazon.com, Inc.|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|54.219.167.135|1001|United States|San Jose|Amazon.com, Inc.|
+|6|103.169.38.106|8080|Indonesia|Trucuk|PT Boombas Carlo Medianet|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|103.112.163.131|8080|Indonesia|Jakarta|24AS|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|103.174.123.5|8089|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|11|60.53.14.146|8088|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
+|12|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.156.96.129|8080|Indonesia|Malili|PT Karya Panca Telekomunikasi|
+|16|27.131.14.9|8812|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|45.80.37.229|20005|The Netherlands|Amsterdam|Telkom Internet LTD|
+|19|151.243.153.157|8118|United States|Seattle|Black Apple|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
