@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|4|144.217.69.205|7890|Canada|Beauharnois|OVH SAS|
-|5|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|11|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
-|12|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|13|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|14|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|15|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|157.15.1.190|8080|Indonesia|Ngawi|Gopalnet|
-|17|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
-|18|45.147.179.118|3129|Russia|St Petersburg|BEGET.RU|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|107.172.79.218|1080|United States|Santa Clara|HostPapa|
+|5|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|35.175.204.137|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
+|10|174.138.161.150|8254|United States|Phoenix|Secured Servers LLC|
+|11|35.175.204.137|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|107.172.79.218|1080|United States|Santa Clara|HostPapa|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|16|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
 
 
 
