@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|703|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|703|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|703|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|669|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|669|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|669|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|3|217.216.37.99|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|43.164.129.36|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|12|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|103.97.141.67|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
 |15|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|103.231.236.133|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|17|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|108.61.160.231|1080|Japan|Minamishinagawa|Choopa|
+|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
