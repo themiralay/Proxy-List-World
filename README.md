@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.151.227.170|8080|Indonesia|Parigi|URBANACCESS|
-|3|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|6|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|101.47.74.252|8888|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|124.243.150.41|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|7|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.162.83.26|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
 |10|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|103.156.15.122|8087|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
+|13|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
+|18|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|19|66.23.230.120|3128|United States|Secaucus|Interserver, Inc|
+|20|66.23.230.125|3128|United States|Secaucus|Interserver, Inc|
 
 
 
