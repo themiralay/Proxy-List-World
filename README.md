@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|6|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|9|45.194.3.132|8080|India|Noida|CtrlS|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|144.217.69.205|7890|Canada|Beauharnois|OVH SAS|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|7|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|8|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
+|9|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|31.58.158.158|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|12|154.201.126.44|8080|India|Noida|CtrlS|
-|13|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|14.139.235.82|3128|India|Raipur|National Knowledge Network|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|66.23.230.125|3128|United States|Secaucus|Interserver, Inc|
+|15|45.194.3.132|8080|India|Noida|CtrlS|
+|16|66.23.230.119|3128|United States|Secaucus|Interserver, Inc|
+|17|66.23.230.120|3128|United States|Secaucus|Interserver, Inc|
+|18|66.23.230.118|3128|United States|Secaucus|Interserver, Inc|
+|19|173.254.204.118|7890|United States|Los Angeles|HostPapa|
+|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
 
 
 
