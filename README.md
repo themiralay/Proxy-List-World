@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|6|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|154.201.126.44|8080|India|Noida|CtrlS|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|185.68.185.4|8888|France|Paris|Baykov Ilya Sergeevich|
-|17|34.238.148.125|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|7|191.222.217.204|9443|Hong Kong|Kwai Chung|DMIT Cloud Services|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
+|19|79.76.121.87|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
 
 
 
