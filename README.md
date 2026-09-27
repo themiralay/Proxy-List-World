@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6123** proxies at the latest update. Usable proxies are below.
+> Scraper found **6040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1125|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|195|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3520|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|2|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|43.110.40.117|8888|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|174.138.162.236|8914|United States|Phoenix|Secured Servers LLC|
-|15|134.195.90.236|8080|United States|New York|HostHatch|
-|16|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|1|47.242.155.74|12522|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|134.195.90.236|8080|United States|New York|HostHatch|
+|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|134.195.90.236|8080|United States|New York|HostHatch|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|174.138.161.148|8254|United States|Phoenix|Secured Servers LLC|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|185.68.185.4|8888|France|Paris|Baykov Ilya Sergeevich|
+|20|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
 
 
 
