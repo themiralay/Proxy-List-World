@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|171.245.253.160|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|7|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
 |8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|9|144.217.69.205|7890|Canada|Beauharnois|OVH SAS|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|172.236.189.209|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
-|20|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|49.147.104.23|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|34.235.136.74|1001|United States|Ashburn|Amazon.com, Inc.|
+|18|49.146.63.135|8082|Philippines|Tacurong|Philippine Long Distance Telephone Co.|
+|19|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|20|35.175.204.137|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
