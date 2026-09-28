@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.74.197|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|101.47.74.252|8888|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|4|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|3|195.86.215.2|3128|Philippines|Manila|Octopus Web Solution Inc|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|101.47.74.252|8888|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |10|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|15|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|20|103.132.52.63|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|11|205.172.56.239|3128|United States|New York|HOSTKEY|
+|12|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
