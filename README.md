@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
-|12|154.201.126.44|8080|India|Noida|CtrlS|
-|13|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|154.201.126.44|8080|India|Noida|CtrlS|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|45.194.3.119|8080|India|Noida|CtrlS|
+|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|167.148.33.122|8081|United States|Miami|ReliableSite.Net LLC|
+|15|14.139.235.82|3128|India|Raipur|National Knowledge Network|
+|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |18|167.148.33.122|8081|United States|Miami|ReliableSite.Net LLC|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|14.139.235.82|3128|India|Raipur|National Knowledge Network|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
 
 
 
