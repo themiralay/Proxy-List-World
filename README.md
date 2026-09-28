@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
-|7|151.243.153.157|8118|United States|Seattle|Black Apple|
-|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|45.194.3.132|8080|India|Noida|CtrlS|
-|11|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
-|13|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|8|14.251.13.17|8080|Vietnam|Hanoi|VNPT|
+|9|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|11|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
+|12|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
 |15|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
 |18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
