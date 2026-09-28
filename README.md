@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |5|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|6|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|14.139.235.82|3128|India|Raipur|National Knowledge Network|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|62.141.38.35|3128|Germany|Düsseldorf|WIIT AG|
-|15|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
-|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.148.150.35|10808|Hong Kong|Mong Kok|Arosscloud Inc.|
-|18|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|103.148.150.35|10808|Hong Kong|Mong Kok|Arosscloud Inc.|
+|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|14.139.235.82|3128|India|Raipur|National Knowledge Network|
+|13|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
+|14|85.133.250.27|80|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|185.226.194.248|999|Venezuela|Valencia|DAT - COM SERVICES, C.A.|
+|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|19|192.227.184.201|7777|United States|Buffalo|HostPapa|
+|20|45.147.179.118|3129|Russia|St Petersburg|BEGET.RU|
 
 
 
