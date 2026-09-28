@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|12|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|18|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|20|103.148.150.35|10808|Hong Kong|Mong Kok|Arosscloud Inc.|
+|1|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|3|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|4|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|6|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
+|9|14.139.235.82|3128|India|Raipur|National Knowledge Network|
+|10|103.148.150.35|10808|Hong Kong|Mong Kok|Arosscloud Inc.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|172.85.99.53|16062|United States|Atlanta|Host Wagon LLC|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|190.120.185.25|999|Argentina|Quilmes|Coseidi S.A.|
 
 
 
