@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|5|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|38.60.252.110|18080|Vietnam|Hanoi|Kaopu Cloud HK Limited|
+|10|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|45.87.251.214|8088|The Netherlands|Eindhoven|HNielsen Technologies ApS|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+
 
 
 ## Contributing
