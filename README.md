@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|1|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
 |8|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|167.148.33.122|8081|United States|Miami|ReliableSite.Net LLC|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|157.10.90.65|8080|Indonesia|Ponorogo|PNGWIFI|
+|10|154.201.127.145|8080|India|Noida|Real Time Data Services Private Limited|
+|11|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|151.243.153.157|8118|United States|Seattle|Black Apple|
+|13|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|103.166.158.41|1080|Indonesia|Cikupa|PT Timor Lintas Nusantara|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|167.148.33.122|8081|United States|Miami|ReliableSite.Net LLC|
+|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
 |18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|20|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|160.25.242.250|8080|Indonesia|Magetan|PT Sarana Media Cemerlang|
 
 
 
