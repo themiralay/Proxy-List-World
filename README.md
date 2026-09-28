@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|193.233.233.62|21840|Austria|Vienna|xorek.cloud International LTD|
-|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|102.53.227.181|30001|Morocco|Rabat|Casa Marrakech 4G MarocTelecom|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
+|5|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|172.236.242.244|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|17|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|18|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|193.233.233.62|56736|Austria|Vienna|xorek.cloud International LTD|
 
 
 
