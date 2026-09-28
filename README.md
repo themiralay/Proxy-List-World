@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|4|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|5|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|7|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|45.194.3.119|8080|India|Noida|CtrlS|
-|11|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
-|12|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|45.174.242.142|999|Mexico|Alfredo V. Bonfil|Sistemas Y Soluciones De Campeche SAS De CV|
-|16|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|4|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|5|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|6|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|45.194.3.119|8080|India|Noida|CtrlS|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|12|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|13|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|16|185.68.185.4|8888|France|Paris|Baykov Ilya Sergeevich|
+|17|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
+|18|89.36.161.137|3128|Latvia|Riga|Melbikomas UAB|
+|19|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
 
 
 
