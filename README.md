@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|573|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|2|198.44.33.180|10809|United States|Dallas|HostPapa|
-|3|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
+|3|198.44.33.180|10809|United States|Dallas|HostPapa|
 |4|198.44.33.180|10809|United States|Dallas|HostPapa|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|167.148.33.122|8082|United States|Miami|ReliableSite.Net LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|103.160.68.215|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|17|103.90.67.44|8087|Indonesia|Belawan|PT Rajawali Bintang Cemerlang Telkomedia|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|45.194.3.119|8080|India|Noida|CtrlS|
+|5|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|11|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|167.148.33.122|8082|United States|Miami|ReliableSite.Net LLC|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
 |20|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
