@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|154.201.127.145|8080|India|Noida|Real Time Data Services Private Limited|
+|15|154.201.126.44|8080|India|Noida|CtrlS|
+|16|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|17|34.101.138.238|3128|Indonesia|Jakarta|Google LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|34.84.162.206|38080|Japan|Tokyo|Google LLC|
+
 
 
 ## Contributing
