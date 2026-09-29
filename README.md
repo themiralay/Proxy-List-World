@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|198.44.33.180|10809|United States|Dallas|HostPapa|
+|2|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.251.225.168|8080|Hong Kong|Hong Kong|cognetcloud INC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|7|103.186.97.193|8080|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
-|8|198.44.33.180|10809|United States|Dallas|HostPapa|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|151.243.153.157|8118|United States|Seattle|Black Apple|
-|12|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|151.243.153.157|8118|United States|Seattle|Black Apple|
-|17|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|17|167.148.33.122|8081|United States|Miami|ReliableSite.Net LLC|
+|18|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|19|45.194.3.132|8080|India|Noida|CtrlS|
+|20|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
