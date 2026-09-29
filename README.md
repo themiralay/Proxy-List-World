@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|119.28.77.134|3128|Hong Kong|Hong Kong|ComsenzNet|
+|1|119.28.77.134|3128|Hong Kong|Hong Kong|ComsenzNet|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|18|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|103.166.158.193|1080|Indonesia|Cikupa|PT Timor Lintas Nusantara|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|45.194.3.132|8080|India|Noida|CtrlS|
+|12|73.35.156.222|3128|United States|Seattle|Comcast Cable Communications|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |19|154.201.127.145|8080|India|Noida|Real Time Data Services Private Limited|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
