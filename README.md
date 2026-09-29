@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|3|198.44.33.180|10809|United States|Dallas|HostPapa|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|198.44.33.180|10809|United States|Dallas|HostPapa|
-|6|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|8|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|198.44.33.180|10809|United States|Dallas|HostPapa|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
+|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|198.44.33.180|10809|United States|Dallas|HostPapa|
+|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
 |13|189.51.168.165|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|14|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|109.120.186.8|8443|United Kingdom|London|Aeza International LTD|
-|17|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
+|14|45.194.3.132|8080|India|Noida|CtrlS|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|18|95.211.174.135|3128|The Netherlands|Haarlem|LeaseWeb Netherlands B.V.|
+|19|82.117.87.250|3128|Russia|Moscow|Aeza Group LLC|
+|20|163.5.53.34|8082|Turkey|Bursa|IONIS|
 
 
 
