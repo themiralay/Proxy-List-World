@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|198.44.33.180|10809|United States|Dallas|HostPapa|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|198.44.33.180|10809|United States|Dallas|HostPapa|
-|6|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|7|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|4|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
+|5|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|198.44.33.180|10809|United States|Dallas|HostPapa|
+|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
 |14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|45.194.3.119|8080|India|Noida|CtrlS|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|70.36.125.37|10808|United States|Los Angeles|Perfect International|
+|17|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
