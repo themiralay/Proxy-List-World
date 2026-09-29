@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|585|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|585|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|585|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|207.246.98.83|40001|United States|Los Angeles|Choopa|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|207.246.98.83|40001|United States|Los Angeles|Choopa|
-|6|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
 |8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|19|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|107.174.36.15|8888|United States|Buffalo|HostPapa|
+|19|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
