@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.236.188.63|10808|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
-|9|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|10|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.56.71.124|10808|Singapore|Singapore|Perfect International|
+|4|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 |14|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|15|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|82.153.50.222|3128|Germany|Limburg an der Lahn|Eclipse Networking Ltd.|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|147.139.173.50|7777|Indonesia|Jakarta|Alibaba Cloud LLC|
+|15|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|16|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|82.153.50.222|3128|Germany|Limburg an der Lahn|Eclipse Networking Ltd.|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
