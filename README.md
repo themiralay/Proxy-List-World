@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|4|49.146.59.176|8082|Philippines|Tacurong|Philippine Long Distance Telephone Co.|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|38.226.243.97|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|202.59.201.175|8080|Indonesia|West Jakarta|PT. Interkoneksi Internet Indonesia|
-|13|45.194.3.132|8080|India|Noida|CtrlS|
-|14|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
-|15|54.184.229.146|3128|United States|Boardman|Amazon.com, Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|6|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|7|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|9|202.58.77.235|1080|Indonesia|Blitar|PT Data Buana Nusantara|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|54.184.229.146|3128|United States|Boardman|Amazon.com, Inc.|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|45.194.3.119|8080|India|Noida|CtrlS|
 |16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|45.194.3.119|8080|India|Noida|CtrlS|
-|18|54.184.229.146|3128|United States|Boardman|Amazon.com, Inc.|
-|19|154.201.126.44|8080|India|Noida|CtrlS|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|19|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
