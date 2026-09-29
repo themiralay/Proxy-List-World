@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|7|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|54.242.130.125|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|54.242.130.125|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|82.153.50.222|3128|Germany|Limburg an der Lahn|Eclipse Networking Ltd.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|19|45.86.245.81|8080|United States|Seattle|RapidSeedbox Ltd|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+
 
 
 ## Contributing
