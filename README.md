@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|2|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|3|198.44.33.180|10809|United States|Dallas|HostPapa|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|8|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|9|198.44.33.180|10809|United States|Dallas|HostPapa|
-|10|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|14|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|15|54.184.229.146|3128|United States|Boardman|Amazon.com, Inc.|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|4|198.44.33.180|10809|United States|Dallas|HostPapa|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|103.148.45.191|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|11|198.44.33.180|10809|United States|Dallas|HostPapa|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|17|54.184.229.146|3128|United States|Boardman|Amazon.com, Inc.|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|19|115.127.105.164|6699|Bangladesh|Dhaka|BRACNet Limited|
+|20|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
