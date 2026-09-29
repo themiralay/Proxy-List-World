@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|2|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|3|159.223.167.188|10000|United States|North Bergen|DigitalOcean, LLC|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|7|198.44.33.180|10809|United States|Dallas|HostPapa|
-|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|12|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|3.85.62.124|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|3.85.62.124|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
+|2|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|5|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|6|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|3.85.62.124|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|198.44.33.180|10809|United States|Dallas|HostPapa|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|154.201.127.145|8080|India|Noida|Real Time Data Services Private Limited|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|13|149.248.18.106|8118|United States|Los Angeles|The Constant Company|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|3.85.62.124|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|198.44.33.180|10809|United States|Dallas|HostPapa|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
