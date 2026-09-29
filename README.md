@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|2|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|3|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|8|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|12|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
-|14|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|17|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|45.194.3.132|8080|India|Noida|CtrlS|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|104.244.95.184|1088|United States|New York|IT7 Networks Inc|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|9|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|24.52.147.103|5999|United States|Havana|Cass Cable TV, Inc.|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|45.194.3.132|8080|India|Noida|CtrlS|
+|18|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|20|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
