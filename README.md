@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|6|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|45.194.3.132|8080|India|Noida|CtrlS|
-|8|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|10|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|13|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
+|1|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|3|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|7|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
+|10|152.53.183.107|8081|Germany|Nuremberg|netcup GmbH|
+|11|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|38.51.207.104|8080|Venezuela|Maracaibo|Tecnoven Services C.A|
 |14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|20|14.225.2.98|808|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|16|216.173.68.250|3128|Latvia|Riga|SIA VEESP|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|103.142.61.187|8080|Indonesia|Klaten|UTARAMEDIANET|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|136.114.233.244|3128|United States|Council Bluffs|Google LLC|
 
 
 
