@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.128.63.68|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|206.237.106.160|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|4|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|8|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|9|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|11|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|198.44.33.180|10809|United States|Dallas|HostPapa|
+|11|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
 |15|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|167.148.33.122|8082|United States|Miami|ReliableSite.Net LLC|
-|17|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|167.148.33.122|8082|United States|Miami|ReliableSite.Net LLC|
+|16|103.166.0.25|1111|Indonesia|Banjar Sambangan|PT Balian Media Online Nusantara|
+|17|198.44.33.180|10809|United States|Dallas|HostPapa|
+|18|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|65.20.79.228|40000|India|Mumbai|The Constant Company|
 
 
 
