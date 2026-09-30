@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1044|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1044|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1044|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|966|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|966|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|966|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.162.206|38080|Japan|Tokyo|Google LLC|
-|2|43.165.191.196|1082|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|103.27.177.186|808|Hong Kong|Mong Kok|HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED|
 |3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|103.146.38.53|1080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|6|103.27.177.186|808|Hong Kong|Mong Kok|HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED|
-|7|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.80.26.236|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
-|13|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|103.39.51.156|1080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|16|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|163.223.116.209|8080|Indonesia|Kuningan|PT Signall Network Nusantara|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|157.20.128.49|8080|Indonesia|Sagaranten|PT Citra Meta Data|
+|4|47.80.26.236|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|178.128.26.157|10000|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|12|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|14|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|43.165.191.196|1082|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
