@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|717|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|717|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|717|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|16|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|154.201.126.44|8080|India|Noida|CtrlS|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|45.194.3.132|8080|India|Noida|CtrlS|
+|16|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
 |17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|19|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|18|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|19|34.56.238.31|8888|United States|Council Bluffs|Google LLC|
 |20|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
 
 
