@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|714|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|714|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|714|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|665|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|665|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|665|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |9|38.211.24.26|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|10|165.99.239.7|3125|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
-|11|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|12|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|16|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|5.181.178.46|8080|Japan|Koto City|Lain.sh|
+|16|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
 |17|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
-|18|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|180.148.25.42|8181|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
+|18|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
