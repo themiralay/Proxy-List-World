@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|756|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|756|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|756|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|43.165.191.196|1082|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|207.246.98.83|40001|United States|Los Angeles|Choopa|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|13|207.246.98.83|40001|United States|Los Angeles|Choopa|
-|14|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|154.201.126.44|8080|India|Noida|CtrlS|
-|18|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|19|45.194.3.119|8080|India|Noida|CtrlS|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.81.59.32|3128|Thailand|Bangkok|Alibaba.com LLC|
+|8|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|9|192.241.137.170|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|12|103.133.26.73|3128|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|45.194.3.132|8080|India|Noida|CtrlS|
+|15|154.201.126.44|8080|India|Noida|CtrlS|
+|16|45.195.90.228|8080|India|Noida|Shanxi Liyun Breeding Co|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|146.190.60.147|8007|United States|Santa Clara|DigitalOcean, LLC|
+|19|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|20|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
 
 
 
