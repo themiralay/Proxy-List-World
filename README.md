@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6307** proxies at the latest update. Usable proxies are below.
+> Scraper found **6299** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|756|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|756|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|756|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1448|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1440|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3189|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.18.255.112|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|207.246.98.83|40001|United States|Los Angeles|Choopa|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|198.44.33.180|10809|United States|Dallas|HostPapa|
-|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|45.81.131.145|8888|United States|Los Angeles|Zenlayer Inc|
+|6|124.217.1.21|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|157.15.211.48|8080|Indonesia|VILLA PERMATA HIJAU|PT Gaisar Teknologi Bersama|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|119.93.87.65|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
-|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|198.44.33.180|10809|United States|Dallas|HostPapa|
+|8|103.180.123.183|3125|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|47.81.59.32|3128|Thailand|Bangkok|Alibaba.com LLC|
+|11|103.152.21.59|3128|Indonesia|Jakarta|PT Sarana Intimedia Telematika|
+|12|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|103.160.41.8|8080|Indonesia|Kadugadung|WISTEL|
+|15|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|16|45.81.131.145|8888|United States|Los Angeles|Zenlayer Inc|
+|17|202.58.77.235|1080|Indonesia|Blitar|PT Data Buana Nusantara|
+|18|172.234.38.154|3128|United States|Ashburn|Akamai Technologies, Inc.|
+|19|154.201.126.44|8080|India|Noida|CtrlS|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
