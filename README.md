@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|4|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
-|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|11|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|154.201.126.245|8080|India|Noida|CtrlS|
-|18|172.245.168.179|21241|United States|Buffalo|HostPapa|
-|19|154.201.126.44|8080|India|Noida|CtrlS|
-|20|45.194.3.132|8080|India|Noida|CtrlS|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|5|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|68.183.27.147|10000|United States|North Bergen|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|23.254.196.69|8888|United States|Los Angeles|HostPapa|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|154.201.126.245|8080|India|Noida|CtrlS|
+|20|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
