@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.191.196|1082|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.165.191.196|1082|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|89.36.160.2|3128|Poland|Warsaw|Melbikomas UAB|
-|11|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|15.235.145.229|1081|Singapore|Singapore|OVH SAS|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|47.89.248.70|8888|United States|Minkler|Alibaba Cloud LLC|
+|15|89.36.160.2|3128|Poland|Warsaw|Melbikomas UAB|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|68.183.22.37|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
