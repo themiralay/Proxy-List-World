@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|14|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|45.194.3.119|8080|India|Noida|CtrlS|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
