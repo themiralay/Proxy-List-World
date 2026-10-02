@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|38.175.202.151|443|Japan|Tokyo|NetLab Global|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.153.135.2|8181|Indonesia|Tigaraksa|WMINET|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|10|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
-|13|68.183.27.147|10000|United States|North Bergen|DigitalOcean, LLC|
-|14|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|19|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|103.153.135.2|8181|Indonesia|Tigaraksa|WMINET|
+|7|154.222.24.226|8888|Hong Kong|Hong Kong|Ipbuysell LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|68.183.27.147|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
 
 
 
