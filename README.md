@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.255.80.167|8080|South Korea|Gasan-dong|Hostcenter|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.198.11.217|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|7|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|45.198.11.217|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
 |10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|45.198.11.162|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|12|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|13|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|15|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|20|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
+|11|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|18|122.52.27.1|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|20|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
