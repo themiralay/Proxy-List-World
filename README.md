@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4572** proxies at the latest update. Usable proxies are below.
+> Scraper found **4585** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|364|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2480|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|1|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |3|172.236.242.244|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|4|156.240.114.210|3129|Hong Kong|Chai Wan|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|5|43.161.221.15|8181|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|11|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|172.236.242.244|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|16|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|68.183.27.147|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|14|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|16|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
+|17|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|18|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|68.183.27.147|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
