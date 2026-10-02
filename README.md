@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|42.116.103.107|2080|Vietnam|Hanoi|FPT Telecom Company|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|108.186.180.7|5555|United States|San Jose|WawaCloud Inc.|
-|11|116.101.7.160|2095|Vietnam|Ngo Quyen Ward|Viettel Group|
-|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|68.183.17.102|10000|United States|North Bergen|DigitalOcean, LLC|
-|14|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|77.73.14.147|1080|United States|Los Angeles|CNServer LLC|
-|17|45.194.3.132|8080|India|Noida|CtrlS|
-|18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|108.186.180.7|5555|United States|San Jose|WawaCloud Inc.|
+|10|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
+|11|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|68.183.27.6|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
