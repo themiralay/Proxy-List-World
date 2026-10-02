@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|38.175.202.151|443|Japan|Tokyo|NetLab Global|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|107.175.215.32|1080|United States|Los Angeles|HostPapa|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|107.175.215.32|1080|United States|Los Angeles|HostPapa|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|107.175.215.32|1080|United States|Los Angeles|HostPapa|
+|7|77.73.14.147|1080|United States|Los Angeles|CNServer LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|10|107.175.215.32|1080|United States|Los Angeles|HostPapa|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
 |12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|16|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|17|165.101.231.107|8181|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|18|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|108.186.180.7|5555|United States|San Jose|WawaCloud Inc.|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|17|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|18|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|20|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
