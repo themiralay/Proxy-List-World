@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|112.169.99.71|8053|South Korea|Gangnam-gu|Korea Telecom|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|178.128.26.157|10000|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|112.169.99.71|8053|South Korea|Gangnam-gu|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|178.128.26.157|10000|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
 |11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|15|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |17|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|65.109.215.187|8090|Finland|Helsinki|Hetzner Online GmbH|
+|18|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
