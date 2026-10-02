@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|813|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|813|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|813|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|42.116.103.107|2080|Vietnam|Hanoi|FPT Telecom Company|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|108.186.180.7|5555|United States|San Jose|WawaCloud Inc.|
 |5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|42.112.14.245|2080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|11|68.183.130.198|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|8|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|42.116.103.107|2080|Vietnam|Hanoi|FPT Telecom Company|
+|11|159.89.51.75|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
 |14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|15.235.145.229|1081|Singapore|Singapore|OVH SAS|
-|17|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|18|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|16|154.201.126.245|8080|India|Noida|CtrlS|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|19|42.112.14.245|2080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|20|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
