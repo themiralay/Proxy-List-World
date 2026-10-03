@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|765|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|765|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|765|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|3|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
 |4|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
-|5|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|6|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|12|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|210.16.122.12|1080|Hong Kong|Hong Kong|Liberally Network LLC|
-|17|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
+|13|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|17|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
