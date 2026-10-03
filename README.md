@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|3|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|7|108.61.29.163|10001|United States|Piscataway|The Constant Company|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
-|11|103.155.196.180|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|12|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|19|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|15|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
