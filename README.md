@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|5|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|74.176.239.44|3128|Japan|Tokyo|Microsoft Corporation|
+|3|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|6|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
 |12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|17|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|20|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|16|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|17|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
