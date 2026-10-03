@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|4|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|5|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|12|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|13|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|14|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|15|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|16|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
-|19|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|20|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|8|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
+|18|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|19|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|20|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 
 
 
