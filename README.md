@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
+|3|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |7|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|8|70.36.125.37|10808|United States|Los Angeles|Perfect International|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|11|108.61.29.163|10001|United States|Piscataway|The Constant Company|
 |12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|20|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|38.246.232.62|20000|United States|Los Angeles|Cogent Communications|
+|15|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|17|49.147.106.172|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|19|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
