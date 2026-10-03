@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
-|3|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|4|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
-|11|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|13|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|117.236.124.168|3128|India|Gandhinagar|BSNL Internet|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|4|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
+|5|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|122.52.27.1|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
+|8|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|9|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|202.58.77.131|7777|Indonesia|Blitar|PT Data Buana Nusantara|
+|16|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|154.201.126.245|8080|India|Noida|CtrlS|
+|18|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 
 
 
