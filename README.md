@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|823|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|823|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|823|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|5|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|47.81.56.193|8888|Thailand|Bangkok|Alibaba.com LLC|
-|11|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|14|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|15|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|74.176.239.44|3128|Japan|Tokyo|Microsoft Corporation|
+|4|213.163.192.247|8080|Singapore|Singapore|ITEX CI|
+|5|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|6|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|13|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|14|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|15|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|65.20.79.228|40000|India|Mumbai|The Constant Company|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|151.241.100.164|1080|United States|Los Angeles|Freakhosting LTD|
+|20|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
