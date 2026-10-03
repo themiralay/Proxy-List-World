@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|8|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|15|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|17|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|6|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|9|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|65.20.79.228|40001|India|Mumbai|The Constant Company|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|20|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
 
 
 
