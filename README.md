@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|65.20.79.228|40000|India|Mumbai|The Constant Company|
-|14|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
 |15|178.128.146.125|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.80.37.229|10801|The Netherlands|Amsterdam|Telkom Internet LTD|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|18|38.18.230.153|8888|United States|Ashburn|Tier.Net Technologies LLC|
+|19|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|20|45.80.37.229|10801|The Netherlands|Amsterdam|Telkom Internet LTD|
 
 
 
