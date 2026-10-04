@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|816|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|816|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|816|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|185.115.207.64|28080|Singapore|Singapore|ByteVirt LLC|
-|4|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|185.115.207.64|28080|Singapore|Singapore|ByteVirt LLC|
+|5|126.209.107.11|8080|Philippines|Manila|Infinivan Incorporated|
 |6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|9|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|16|45.194.3.132|8080|India|Noida|CtrlS|
-|17|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|18|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|103.22.99.90|1111|Indonesia|Magetan|KHALISTAGROUP|
+|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|10|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|11|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|15|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|103.80.214.241|8097|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.194.3.119|8080|India|Noida|CtrlS|
+|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
