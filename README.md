@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|64.112.42.97|20000|United States|Los Angeles|Axedale|
+|2|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|3|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|9|162.214.159.94|3128|United States|Phoenix|Unified Layer|
 |10|3.14.79.144|3128|United States|Columbus|Amazon.com, Inc.|
-|11|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|11|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |13|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|14|64.112.42.97|20000|United States|Los Angeles|Axedale|
-|15|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|202.46.28.20|8080|Indonesia|Gubengairlangga|Universitas Katolik Widya Mandala|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|17|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|18|159.223.167.188|10000|United States|North Bergen|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
