@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|119.202.84.129|8080|South Korea|Pohang|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|5|119.202.84.129|8080|South Korea|Pohang|Korea Telecom|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|14|154.201.126.245|8080|India|Noida|CtrlS|
-|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|12|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|14|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
