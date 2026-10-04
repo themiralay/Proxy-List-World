@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|7|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|8|103.194.46.99|8082|Indonesia|Cikokong|JABNET|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|54.187.155.186|3128|United States|Boardman|Amazon.com, Inc.|
-|19|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
-|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|54.187.155.186|3128|United States|Boardman|Amazon.com, Inc.|
+|12|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|147.78.1.156|3128|Mexico|Mexico City|ONEPROVIDER|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|159.89.87.80|10000|United States|North Bergen|DigitalOcean, LLC|
+|18|112.204.254.89|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
