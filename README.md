@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|786|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|786|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|755|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|755|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|755|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.41.55.25|10808|United States|Las Vegas|INJ LLC|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|7|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|45.41.55.25|10808|United States|Las Vegas|INJ LLC|
+|10|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|49.145.117.162|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|12|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|154.201.126.44|8080|India|Noida|CtrlS|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|76.13.193.225|8080|Indonesia|Jakarta|Hostinger ID|
+|18|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|154.201.126.245|8080|India|Noida|CtrlS|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+
 
 
 ## Contributing
