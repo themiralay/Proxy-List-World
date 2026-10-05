@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|34.69.126.219|443|United States|Council Bluffs|Google LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|31.214.245.238|8080|Germany|Münster|ZAP-Hosting GmbH|
-|15|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|109.205.61.251|10808|United States|New York|Siberfy Lahore|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|213.171.212.110|8080|United Kingdom|Worcester|IONOS SE|
-|20|194.31.108.109|2080|Iran|Tehran|Avaye Segal Net Co. PJS|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|16|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|17|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|18|34.69.126.219|443|United States|Council Bluffs|Google LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
