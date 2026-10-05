@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|680|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|680|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|680|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|4|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
+|3|43.155.165.117|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.74.197|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|47.236.188.63|10808|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|151.243.153.157|8118|United States|Seattle|Black Apple|
 |7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|11|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|12|34.69.126.219|443|United States|Council Bluffs|Google LLC|
-|13|43.155.165.117|1080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|18|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|151.243.153.157|8118|United States|Seattle|Black Apple|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|148.100.84.192|5252|United States|Poughkeepsie|Marist College|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|20|76.13.193.225|8081|Indonesia|Jakarta|Hostinger ID|
 
 
 
