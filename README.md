@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
+|2|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
+|3|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|8|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
-|9|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|18|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
-|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|16|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
+|20|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
 
 
 
