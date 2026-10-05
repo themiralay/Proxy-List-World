@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
 |3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
-|5|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
+|4|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|7|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|15|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
-|16|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|17|118.71.44.176|2080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|18|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|19|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|20|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
+|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|13|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
+|15|103.19.78.242|1080|Indonesia|Pasuruan|PT Persada Data Multimedia|
+|16|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
