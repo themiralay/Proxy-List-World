@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|3|154.223.77.54|10001|Hong Kong|Hong Kong|Kaopu Cloud HK Limited|
+|4|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
 |5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|7|34.69.126.219|443|United States|Council Bluffs|Google LLC|
-|8|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|9|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|10|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
-|13|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.69.126.219|443|United States|Council Bluffs|Google LLC|
+|7|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|10|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
+|11|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|202.58.77.112|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|19|34.69.126.219|443|United States|Council Bluffs|Google LLC|
+|20|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
 
 
 
