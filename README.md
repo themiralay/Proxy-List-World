@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.156.248.100|3128|Indonesia|Kota Batam|Trans Media Telekomunikasi|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|109.205.61.251|10808|United States|New York|Siberfy Lahore|
-|15|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|16|154.201.126.245|8080|India|Noida|CtrlS|
-|17|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|18|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|11|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|17|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
 
 
 
