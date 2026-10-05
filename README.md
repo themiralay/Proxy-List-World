@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|618|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|618|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|618|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
-|6|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|9|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
-|13|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|17|50.110.229.125|8118|United States|Inwood|Frontier Communications Solutions|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
+|1|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
+|8|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|210.23.181.248|8082|Philippines|Malate|Pacific Internet Philippines, Inc.|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|15|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|41.216.191.85|8080|Indonesia|South Jakarta|Perwira|
+|19|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|20|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
