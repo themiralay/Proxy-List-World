@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
-|2|64.112.42.97|20000|United States|Los Angeles|Axedale|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|64.112.42.97|20000|United States|Los Angeles|Axedale|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|144.24.102.103|8080|India|Mumbai|Oracle Corporation|
-|9|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|10|143.244.160.252|10000|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|2|213.163.198.77|8080|Singapore|Singapore|UpCloud Ltd|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.112.42.97|20000|United States|Los Angeles|Axedale|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|64.112.42.97|20000|United States|Los Angeles|Axedale|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|162.214.159.94|3128|United States|Phoenix|Unified Layer|
 |12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|15|147.139.173.50|7777|Indonesia|Jakarta|Alibaba Cloud LLC|
-|16|113.11.179.128|8080|Indonesia|Kudus|Biznet Networks|
-|17|143.244.160.252|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|51.170.133.249|80|Morocco|Casablanca|Oracle Corporation|
-|20|68.183.35.25|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|13|143.244.160.252|10000|United States|North Bergen|DigitalOcean, LLC|
+|14|74.208.207.247|2095|United States|Kansas City|IONOS SE|
+|15|107.167.18.122|443|United States|Los Angeles|Sharktech|
+|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|8.215.112.214|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|57.128.183.212|21|United Kingdom|Erith|OVH SAS|
+|19|172.236.242.244|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
