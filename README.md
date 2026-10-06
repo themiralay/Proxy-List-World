@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4846** proxies at the latest update. Usable proxies are below.
+> Scraper found **4722** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|287|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2479|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|150.109.81.136|18080|South Korea|Seoul|Aceville Pte.ltd|
-|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|170.106.188.46|5432|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|10|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|178.92.72.229|8080|India|Mumbai|Micro Hosting Private Limited|
-|16|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|178.92.72.54|8080|India|Mumbai|Micro Hosting Private Limited|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|103.155.196.166|3125|Indonesia|Sukabumi|JEMBATANDATA|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|24.249.94.165|3128|United States|Lafayette|Cox Communications Inc.|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|24.249.94.165|3128|United States|Lafayette|Cox Communications Inc.|
 
 
 
