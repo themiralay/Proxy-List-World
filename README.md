@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|3|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|7|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|2|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|6|178.92.72.154|8080|India|Mumbai|Micro Hosting Private Limited|
+|7|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
 |10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|103.174.121.134|8080|Indonesia|Tangerang|PT Jangkau Lintas Nusantara|
-|13|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
-|14|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
-|15|43.98.172.166|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|161.156.6.106|3128|Germany|Frankfurt am Main|IBM Cloud|
+|11|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|12|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
+|15|161.156.6.106|3128|Germany|Frankfurt am Main|IBM Cloud|
+|16|108.61.29.163|10001|United States|Piscataway|The Constant Company|
 |17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|103.174.236.88|8080|Indonesia|Sukasari|PT Global Erasiber Teknologi|
-|20|38.194.246.34|999|Mexico|Los Ramírez|IENTC S de RL de CV|
+|18|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
