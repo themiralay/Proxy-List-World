@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|4|172.105.120.179|443|Singapore|Singapore|Akamai Technologies|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|10|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
-|18|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.171.194.96|3128|United States|Sterling|Auproxies LLC|
+|9|139.171.194.91|3128|United States|Sterling|Auproxies LLC|
+|10|139.171.194.94|3128|United States|Sterling|Auproxies LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|139.171.194.85|3128|United States|Sterling|Auproxies LLC|
+|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
