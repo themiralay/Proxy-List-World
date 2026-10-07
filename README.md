@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|601|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|601|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|601|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
 |4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|6|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|7|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.250.140.201|7000|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|17|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|18|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
-|19|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
-|20|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|5|20.197.84.160|8080|Singapore|Singapore|Microsoft Corporation|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
+|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|113.192.30.240|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|15|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|58.187.44.103|2081|Vietnam|Hanoi|FPT Telecom Company|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 
 
 
