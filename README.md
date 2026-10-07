@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|669|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|669|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|669|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|946|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|946|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|946|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|64.112.42.97|20000|United States|Los Angeles|Axedale|
-|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
-|11|34.64.154.62|40001|South Korea|Seoul|Google LLC|
-|12|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|13|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|64.112.42.97|20000|United States|Los Angeles|Axedale|
+|3|150.109.81.136|18080|South Korea|Seoul|Aceville Pte.ltd|
+|4|151.243.153.157|8118|United States|Seattle|Black Apple|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|4.194.233.145|3128|Singapore|Singapore|Microsoft Corporation|
+|13|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|34.64.154.62|40001|South Korea|Seoul|Google LLC|
 |15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|23.230.253.121|10808|United States|Dallas|LINVEO, LLC|
-|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|45.198.11.219|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|16|45.198.10.189|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|85.137.244.175|80|Hong Kong|Mong Kok|cognetcloud INC|
+|20|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
