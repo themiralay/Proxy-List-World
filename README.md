@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|900|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|900|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|900|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|785|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|785|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|785|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.64.154.62|40001|South Korea|Seoul|Google LLC|
-|4|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|20.197.84.160|8080|Singapore|Singapore|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|18.163.100.225|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|123.231.252.218|8080|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|65.20.79.228|40002|India|Mumbai|The Constant Company|
+|2|34.64.154.62|40001|South Korea|Seoul|Google LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
+|12|34.130.142.151|40001|Canada|Toronto|Google LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
