@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|5|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|151.243.153.157|8118|United States|Seattle|Black Apple|
-|14|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|4|23.230.253.121|10808|United States|Dallas|LINVEO, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|10|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|11|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
+|12|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|23.230.253.121|10808|United States|Dallas|LINVEO, LLC|
 |15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|141.148.206.170|3129|India|Mumbai|Oracle Corporation|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|154.201.126.44|8080|India|Noida|CtrlS|
 
 
 
