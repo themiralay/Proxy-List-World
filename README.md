@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|34.87.80.221|30000|Singapore|Singapore|Google LLC|
-|5|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
-|6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
-|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|13|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|3|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|9|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
+|12|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
 |14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|15|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|20|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
