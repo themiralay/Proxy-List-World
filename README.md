@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|150.109.81.136|18080|South Korea|Seoul|Aceville Pte.ltd|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|126.209.16.170|5050|Philippines|Manila|Infinivan Incorporated|
-|6|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
-|14|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|159.89.239.204|10000|United States|North Bergen|DigitalOcean, LLC|
-|16|45.123.142.179|8086|Indonesia|Curug|PT Anten Sarana Teknologi|
-|17|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|19|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
-|20|122.54.139.32|5050|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|161.33.8.226|1314|Japan|Osaka|Oracle Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
+|6|132.145.80.92|1080|South Korea|Seoul|Oracle Corporation|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|150.109.81.136|18080|South Korea|Seoul|Aceville Pte.ltd|
+|9|58.187.44.103|2081|Vietnam|Hanoi|FPT Telecom Company|
+|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|154.201.126.44|8080|India|Noida|CtrlS|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|154.51.41.113|2020|United States|Los Angeles|Easy Link LLC|
+|19|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
