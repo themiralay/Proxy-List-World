@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|38.175.202.151|443|Japan|Tokyo|NetLab Global|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.192.198.50|40001|Japan|Tokyo|Acck LLC|
+|5|18.163.100.225|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|38.175.202.151|443|Japan|Tokyo|NetLab Global|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|107.167.18.122|443|United States|Los Angeles|Sharktech|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|178.92.72.149|8080|India|Mumbai|Micro Hosting Private Limited|
-|18|65.20.79.228|40002|India|Mumbai|The Constant Company|
-|19|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|20|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|65.20.79.228|40002|India|Mumbai|The Constant Company|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
