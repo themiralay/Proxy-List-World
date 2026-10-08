@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|100.36.219.18|1080|United States|Silver Spring|Verizon Communications|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.110.126.151|18080|United States|Charlotte|NetCrafters OU|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|65.20.79.228|40002|India|Mumbai|The Constant Company|
+|10|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|65.109.215.187|8090|Finland|Helsinki|Hetzner Online GmbH|
+|18|155.103.69.127|1314|Türkiye|Istanbul|FibaCloud|
+|19|167.233.243.116|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|20|107.167.18.122|443|United States|Los Angeles|Sharktech|
 
 
 
