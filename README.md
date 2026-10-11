@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|194.87.10.245|1234|Singapore|Singapore|Baxet Group Inc.|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|185.241.211.232|19000|United States|New York|1337 Services GmbH|
-|13|45.194.3.132|8080|India|Noida|CtrlS|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|185.241.211.232|19000|United States|New York|1337 Services GmbH|
-|20|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
+|3|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|194.87.10.245|1234|Singapore|Singapore|Baxet Group Inc.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|178.128.26.157|10000|Singapore|Singapore|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|185.241.211.232|19000|United States|New York|1337 Services GmbH|
+|14|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|104.225.162.20|8082|United States|Charlotte|iboss, inc|
+|20|185.241.211.232|19000|United States|New York|1337 Services GmbH|
 
 
 
