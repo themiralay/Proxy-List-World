@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|662|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|662|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|662|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|6|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|65.20.79.228|40002|India|Mumbai|The Constant Company|
+|11|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|103.171.161.96|9090|Indonesia|Central Jakarta|MYREPUBLIC|
 |13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
-|15|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|187.251.230.15|8080|Mexico|Dos Ríos|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|143.110.161.67|10000|United Kingdom|Slough|DigitalOcean, LLC|
-|20|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
+|19|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|20|108.61.29.163|10001|United States|Piscataway|The Constant Company|
 
 
 
