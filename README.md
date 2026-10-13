@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|5|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|6|198.105.115.233|2000|Germany|Frankfurt am Main|YottaSrc|
+|2|45.192.198.50|40001|Japan|Tokyo|Acck LLC|
+|3|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|34.105.252.3|3128|United Kingdom|London|Google LLC|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|108.61.29.163|10001|United States|Piscataway|The Constant Company|
-|11|46.4.84.244|8088|Germany|Falkenstein|Hetzner Online GmbH|
-|12|104.225.162.20|8082|United States|Charlotte|iboss, inc|
+|9|46.4.84.244|8088|Germany|Falkenstein|Hetzner Online GmbH|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|13.127.222.175|443|India|Mumbai|Amazon Technologies Inc|
+|12|34.105.252.3|3128|United Kingdom|London|Google LLC|
 |13|138.124.125.51|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|5.39.255.142|8118|Germany|Frankfurt am Main|Anton Levin|
-|17|13.127.222.175|443|India|Mumbai|Amazon Technologies Inc|
-|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|82.47.161.152|8443|Turkey|Istanbul||
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|17|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|18|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|38.191.161.182|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
 
 
 
