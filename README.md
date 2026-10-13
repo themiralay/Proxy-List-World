@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|3.35.49.14|8080|South Korea|Incheon|Amazon.com, Inc.|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|3.35.49.14|8080|South Korea|Incheon|Amazon.com, Inc.|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|10|13.127.222.175|443|India|Mumbai|Amazon Technologies Inc|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|104.225.162.20|8082|United States|Charlotte|iboss, inc|
 |13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|104.225.162.20|8082|United States|Charlotte|iboss, inc|
+|14|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
 |15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|3.27.16.140|80|Australia|Sydney|Amazon Technologies Inc.|
-|18|104.225.162.20|8082|United States|Charlotte|iboss, inc|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|103.109.96.180|1994|Bangladesh|Sarishābāri|Digi Jadoo Broadband Ltd|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|18|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|104.225.162.20|8082|United States|Charlotte|iboss, inc|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
