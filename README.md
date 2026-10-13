@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|194.87.10.245|1234|Singapore|Singapore|Baxet Group Inc.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|18|104.225.162.20|8082|United States|Charlotte|iboss, inc|
-|19|13.127.222.175|443|India|Mumbai|Amazon Technologies Inc|
-|20|46.4.84.244|8088|Germany|Falkenstein|Hetzner Online GmbH|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|12|65.20.79.228|40002|India|Mumbai|The Constant Company|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|126.209.107.170|8082|Philippines|Cavite|Infinivan Incorporated|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|13.127.222.175|443|India|Mumbai|Amazon Technologies Inc|
+|18|43.173.120.13|8899|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|194.87.10.245|1234|Singapore|Singapore|Baxet Group Inc.|
 
 
 
