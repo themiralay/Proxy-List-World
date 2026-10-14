@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5372** proxies at the latest update. Usable proxies are below.
+> Scraper found **5655** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|998|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|998|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|998|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1241|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|421|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|3.35.49.14|8080|South Korea|Incheon|Amazon.com, Inc.|
+|1|3.35.49.14|8080|South Korea|Incheon|Amazon.com, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
 |4|172.104.60.153|3128|Singapore|Singapore|Akamai Technologies|
 |5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|172.105.35.25|3128|India|Mumbai|Akamai Technologies|
+|6|172.105.35.25|3128|India|Mumbai|Akamai Technologies|
+|7|108.61.29.163|10001|United States|Piscataway|The Constant Company|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|10|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|9|47.242.218.151|9001|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|108.61.29.163|10001|United States|Piscataway|The Constant Company|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |13|172.104.151.179|3128|Germany|Frankfurt am Main|Akamai Technologies|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|180.148.25.78|8080|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
-|18|138.124.125.51|3128|United Kingdom|Coventry|Baykov Ilya Sergeevich|
-|19|157.66.67.16|8080|Indonesia|Makassar|PT Buraq Telekomunikasi Indonesia|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|172.232.173.157|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|15|27.73.208.144|2109|Vietnam|Hanoi|Viettel Group|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|19|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
