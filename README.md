@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5916** proxies at the latest update. Usable proxies are below.
+> Scraper found **5906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1306|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1296|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|617|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|103.178.86.93|8080|Indonesia|Cianjur|PT ADHI PRADANA MAKAYASA|
-|6|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|150.241.245.131|8080|India|Bengaluru|Micro Hosting Private Limited|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|103.234.35.141|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|134.195.196.161|40000|Canada|Toronto|GLOBALTELEHOST Corp.|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|45.194.3.119|8080|India|Noida|CtrlS|
-|16|45.76.104.147|40001|Japan|Minamishinagawa|The Constant Company|
-|17|107.149.30.29|80|Canada|Newmarket|WawaCloud Inc.|
-|18|107.149.30.29|80|Canada|Newmarket|WawaCloud Inc.|
-|19|158.101.23.103|40002|United States|Phoenix|Oracle Corporation|
-|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.210.119.157|8080|Indonesia|Karanganyar|PT Yesi Media Utama|
+|7|178.92.72.78|8080|India|Mumbai|Micro Hosting Private Limited|
+|8|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
+|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|14|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|190.82.221.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|17|98.81.207.72|1001|United States|Ashburn|Amazon.com, Inc.|
+|18|202.58.77.112|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
