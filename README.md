@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|818|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|818|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|818|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|68.183.124.90|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|7|98.81.207.72|1001|United States|Ashburn|Amazon.com, Inc.|
-|8|178.92.72.162|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|49.228.12.204|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|14|154.201.126.245|8080|India|Noida|CtrlS|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|68.183.124.90|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|47.242.218.151|9001|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|98.81.207.72|1001|United States|Ashburn|Amazon.com, Inc.|
-|19|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
-|20|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|116.100.241.82|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|98.81.207.72|1001|United States|Ashburn|Amazon.com, Inc.|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|154.201.126.245|8080|India|Noida|CtrlS|
+|14|98.81.207.72|1001|United States|Ashburn|Amazon.com, Inc.|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
