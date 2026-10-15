@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|47.80.86.165|10808|Philippines|Manila|Alibaba.com LLC|
-|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|6|47.237.12.129|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|13|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|17|66.95.81.180|8080|United States|Lanham-Seabrook|Ipxo LLC|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|45.195.91.105|8080|India|Noida|Real Time Data Services Private Limited|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.237.12.129|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|66.95.81.180|8080|United States|Lanham-Seabrook|Ipxo LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|15|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|17|45.194.46.57|8080|India|Noida|CtrlS|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|66.95.81.180|8080|United States|Lanham-Seabrook|Ipxo LLC|
 
 
 
