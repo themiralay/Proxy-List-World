@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|10|192.34.60.217|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|137.184.76.67|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|45.195.91.105|8080|India|Noida|Real Time Data Services Private Limited|
-|14|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|19|137.184.76.67|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|200.76.169.46|999|Mexico|Ramos Arizpe|Alestra, S. de R.L. de C.V.|
+|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|58.187.26.252|2061|Vietnam|Hanoi|FPT Telecom Company|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
