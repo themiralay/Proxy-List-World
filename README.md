@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|202.58.77.195|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|4|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
-|5|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|6|45.195.91.105|8080|India|Noida|Real Time Data Services Private Limited|
-|7|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|8|45.194.46.57|8080|India|Noida|CtrlS|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|134.195.196.161|40000|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|178.92.72.165|8080|India|Mumbai|Micro Hosting Private Limited|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|115.127.166.86|8080|Bangladesh|Dhaka|BRACNet Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|45.194.46.57|8080|India|Noida|CtrlS|
+|14|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
+|15|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|16|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|19|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
