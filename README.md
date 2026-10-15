@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|154.201.126.44|8080|India|Noida|CtrlS|
+|7|103.180.118.122|1080|Indonesia|Bean|PT Persada Data Multimedia|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|9|134.195.196.161|40000|Canada|Toronto|GLOBALTELEHOST Corp.|
+|10|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |13|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
-|14|74.91.117.249|3128|United States|Seattle|Nuclearfallout Enterprises, Inc.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|19|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|45.194.46.57|8080|India|Noida|CtrlS|
+|15|5.8.41.106|3128|United States|New York|G-Core Labs S.A|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|74.91.117.249|3128|United States|Seattle|Nuclearfallout Enterprises, Inc.|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|95.81.107.187|3128|Sweden|Stockholm|Melbikomas UAB|
 
 
 
