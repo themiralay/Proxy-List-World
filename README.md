@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|602|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|602|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|602|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|47.83.149.169|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
 |5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|6|47.83.149.169|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.125.234.138|40001|United States|Las Vegas|Google LLC|
-|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
 |10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|136.0.7.206|20001|United States|New York|Ace Data Centers II|
 |13|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|34.125.234.138|40001|United States|Las Vegas|Google LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|89.36.162.217|3128|United Arab Emirates|Fujairah|Melbikomas UAB|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|103.189.249.210|8080|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|19|116.101.0.43|2100|Vietnam|Ngo Quyen Ward|Viettel Group|
+|20|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
