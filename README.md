@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|34.106.133.182|40001|United States|Salt Lake City|Google LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|34.106.133.182|40001|United States|Salt Lake City|Google LLC|
-|20|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
