@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5145** proxies at the latest update. Usable proxies are below.
+> Scraper found **5003** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1091|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|949|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|443|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2411|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|8.220.189.51|8118|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|5|177.201.224.186|8888|Hong Kong|Hong Kong|Hong Kong Communications International Co., Limited|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|103.74.103.37|1080|Vietnam|Da Nang|Viet Digital Technology Liability Company|
-|11|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|89.36.162.217|3128|United Arab Emirates|Fujairah|Melbikomas UAB|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
 |16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|213.183.61.198|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
