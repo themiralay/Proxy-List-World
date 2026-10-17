@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|642|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|642|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|642|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.83.149.169|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|34.125.234.138|40001|United States|Las Vegas|Google LLC|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.42.30.134|3128|Hong Kong|Kwai Chung|Longkou good easy Technology Co. Ltd|
-|9|136.0.7.206|20001|United States|New York|Ace Data Centers II|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|143.198.90.221|3129|Singapore|Singapore|DigitalOcean, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|27.73.165.225|8000|Vietnam|Hanoi|Viettel Group|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|34.125.234.138|40001|United States|Las Vegas|Google LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|113.192.48.253|8080|Indonesia|Weleri|PT.Global Media Data Prima|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|89.36.162.217|3128|United Arab Emirates|Fujairah|Melbikomas UAB|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|136.0.7.206|20001|United States|New York|Ace Data Centers II|
-|20|103.112.139.162|8080|Indonesia|Serang|PT Power Networking Indonesia|
+|15|103.247.23.27|8382|Indonesia|Bogor|PT wifian Solution|
+|16|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|89.36.162.217|3128|United Arab Emirates|Fujairah|Melbikomas UAB|
+|18|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
