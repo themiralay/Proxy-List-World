@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|159.138.24.221|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|34.106.133.182|40001|United States|Salt Lake City|Google LLC|
-|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|47.242.218.151|9020|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|115.127.166.86|8080|Bangladesh|Dhaka|BRACNet Limited|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|115.127.166.86|8080|Bangladesh|Dhaka|BRACNet Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|145.220.227.154|8080|The Netherlands|Utrecht|SURFnet III d|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|91.107.247.193|7001|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|103.74.103.37|1080|Vietnam|Da Nang|Viet Digital Technology Liability Company|
 
 
 
