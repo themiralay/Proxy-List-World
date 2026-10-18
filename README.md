@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5392** proxies at the latest update. Usable proxies are below.
+> Scraper found **5219** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|916|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2708|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
-|9|34.106.133.182|40001|United States|Salt Lake City|Google LLC|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|203.150.128.118|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|12|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|13|159.138.24.221|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.194.46.57|8080|India|Noida|CtrlS|
-|16|34.106.133.182|40001|United States|Salt Lake City|Google LLC|
-|17|46.101.148.225|10000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|5|42.200.177.213|10808|Hong Kong|Hok Yuen|PCCW IMSBiz|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.138.24.221|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|10|178.92.72.73|8080|India|Mumbai|Micro Hosting Private Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|203.150.128.118|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|14|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|178.92.72.129|8080|India|Mumbai|Micro Hosting Private Limited|
+|16|144.31.146.190|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|18|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
