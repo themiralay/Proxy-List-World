@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5384** proxies at the latest update. Usable proxies are below.
+> Scraper found **5249** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1082|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|947|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|381|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2721|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|45.198.11.193|8282|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|8|82.22.54.131|5050|Philippines|Ormoc City|Code Asset LTD|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|1.10.133.83|8081|Thailand|Ko Lanta Yai|TOT Public Company Limited|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|145.220.227.154|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|172.236.140.184|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|10|82.22.54.131|5050|Philippines|Ormoc City|Code Asset LTD|
+|11|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|103.80.214.177|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|14|159.89.119.49|10000|Canada|Toronto|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|17|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|147.92.32.3|10800|Hong Kong|Tseung Kwan O|DNC|
 
 
 
