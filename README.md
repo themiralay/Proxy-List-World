@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|941|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|941|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|941|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|796|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|796|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|796|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|213.35.113.150|6969|Singapore|Singapore|Oracle Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.53.77.179|8050|Indonesia|Pandaan|INTI|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|103.205.223.49|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|11|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|12|103.112.163.46|8080|Indonesia|Jakarta|24AS|
-|13|103.146.38.53|1080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.250.69.190|9249|Bangladesh|Bhatara|Next Online Ltd.|
-|17|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|10|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
+|12|154.201.126.245|8080|India|Noida|CtrlS|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|19|103.125.17.99|8080|Indonesia|Pangradin Satu|JAVAMEDIA|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
