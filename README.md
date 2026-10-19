@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1018|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1018|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1018|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|6|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|146.190.60.147|8013|United States|Santa Clara|DigitalOcean, LLC|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|103.147.135.19|8082|Indonesia|Gunungtengah|PT.MURNI MAKMUR ABADI|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|7|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|192.119.102.215|1314|United States|Los Angeles|HostPapa|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|45.194.46.57|8080|India|Noida|CtrlS|
+|17|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|18|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
