@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|917|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|917|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|917|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.194.46.57|8080|India|Noida|CtrlS|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.74.103.37|1080|Vietnam|Da Nang|Viet Digital Technology Liability Company|
-|16|95.81.107.187|3128|Sweden|Stockholm|Melbikomas UAB|
-|17|103.166.159.115|1080|Indonesia|Ciputih|PT Timor Lintas Nusantara|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|47.242.218.151|9020|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|42.200.177.213|10808|Hong Kong|Hok Yuen|PCCW IMSBiz|
+|5|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|178.92.72.94|8080|India|Mumbai|Micro Hosting Private Limited|
+|14|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|15|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|178.92.72.134|8080|India|Mumbai|Micro Hosting Private Limited|
+|19|178.92.72.194|8080|India|Mumbai|Micro Hosting Private Limited|
+|20|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
 
 
 
