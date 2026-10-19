@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|815|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|815|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|815|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|942|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|942|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|942|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
-|12|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|154.201.126.44|8080|India|Noida|CtrlS|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|159.138.24.221|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|17|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|150.241.245.249|8080|India|Bengaluru|Micro Hosting Private Limited|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|144.31.146.10|8080|India|Mumbai|Micro Hosting Private Limited|
+|13|192.119.102.215|1314|United States|Los Angeles|HostPapa|
+|14|178.92.72.68|8080|India|Mumbai|Micro Hosting Private Limited|
+|15|192.119.102.215|1314|United States|Los Angeles|HostPapa|
+|16|144.31.146.195|8080|India|Mumbai|Micro Hosting Private Limited|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|150.241.245.211|8080|India|Bengaluru|Micro Hosting Private Limited|
 
 
 
