@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.216.40.169|7890|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|38.246.200.34|999|Mexico|Ixmiquilpan|Radiocomunicaciones de Ixmiquilpan SA de CV|
-|16|43.157.224.190|40001|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|46.232.249.209|40001|Germany|Nuremberg|netcup GmbH|
 
 
 
