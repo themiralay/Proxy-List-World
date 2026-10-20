@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|830|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|830|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|830|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|863|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|863|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|863|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |6|203.177.217.222|8082|Philippines|Aroroy|Globe Telecom|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|14|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|15|103.74.103.37|1080|Vietnam|Da Nang|Viet Digital Technology Liability Company|
-|16|111.90.188.156|8080|Cambodia|Phnom Penh|MekongNet|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|157.66.37.72|8080|Indonesia|Sungaigerong|PT Speed Network Indonesia|
+|12|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
 |17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|111.90.188.156|8080|Cambodia|Phnom Penh|MekongNet|
+|20|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 
 
 
