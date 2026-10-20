@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.0.22.78|40001|Japan|Tokyo|Dromatics Systems Pte Ltd|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|151.243.153.157|8118|United States|Seattle|Black Apple|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|151.243.153.157|8118|United States|Seattle|Black Apple|
-|14|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
-|18|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|8|34.142.210.154|40001|Singapore|Singapore|Google LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|103.14.111.188|3128|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|154.201.126.245|8080|India|Noida|CtrlS|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|151.243.153.157|8118|United States|Seattle|Black Apple|
 
 
 
