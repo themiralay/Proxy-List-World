@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|6|159.138.24.221|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|202.136.82.116|8099|Indonesia|Driyorejo|PT GIRI DATA SOLUSINDO|
-|10|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
-|11|45.194.46.57|8080|India|Noida|CtrlS|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|154.201.126.44|8080|India|Noida|CtrlS|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|124.105.42.227|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|103.251.232.5|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
-|19|103.251.232.32|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
+|6|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|7|9.154.247.138|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia TBK|
+|8|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|9|103.124.137.171|8080|Indonesia|Tangerang|Global Media Data Prima|
+|10|112.203.217.178|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|203.175.126.229|8000|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
+|14|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|15|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|16|160.22.137.6|1080|Indonesia|Palembang|STNET|
+|17|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|103.156.16.235|8818|Indonesia|Jatibarang|RSTNET|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
