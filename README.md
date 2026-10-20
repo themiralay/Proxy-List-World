@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|633|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|633|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|633|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|122.252.180.102|8080|Cambodia|Phnom Penh|Phnom Penh Cable TV|
-|12|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|165.22.233.59|10000|Canada|Toronto|DigitalOcean, LLC|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|54.162.190.161|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|151.243.153.157|8118|United States|Seattle|Black Apple|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|10|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|165.22.233.59|10000|Canada|Toronto|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|122.252.180.102|8080|Cambodia|Phnom Penh|Phnom Penh Cable TV|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|20|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
 
 
 
