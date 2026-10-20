@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|6|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|145.220.227.145|8080|The Netherlands|Utrecht|SURFnet III d|
-|17|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|103.178.86.93|8080|Indonesia|Cianjur|PT ADHI PRADANA MAKAYASA|
+|16|45.194.46.57|8080|India|Noida|CtrlS|
+|17|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
