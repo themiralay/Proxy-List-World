@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|104.219.55.50|40001|United States|Dallas|Atlantic.net|
-|15|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|34.142.210.154|40001|Singapore|Singapore|Google LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|17|154.201.126.245|8080|India|Noida|CtrlS|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
