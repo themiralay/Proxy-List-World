@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6661** proxies at the latest update. Usable proxies are below.
+> Scraper found **6428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|804|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|804|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|804|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1041|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1041|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1041|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1341|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3305|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|54.162.190.161|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|203.177.217.222|8082|Philippines|Aroroy|Globe Telecom|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|2|222.107.15.175|1080|South Korea|Seoul|Korea Telecom|
+|3|192.119.102.215|1314|United States|Los Angeles|HostPapa|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|192.119.102.215|1314|United States|Los Angeles|HostPapa|
 |7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|103.84.203.57|8080|India|Gurugram|Cloudnet Broadband Services Private Limited|
-|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|12|43.156.55.191|5001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|103.169.255.202|6080|Indonesia|Banyuwangi|PT Master Star Network|
 |13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|188.93.147.168|8118|United States|Gunnison|Fly.io, Inc.|
-|15|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|16|213.183.61.198|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|14|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|15|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 |17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|41.216.191.85|8080|Indonesia|South Jakarta|Perwira|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|54.162.190.161|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|113.20.7.76|30002|United States|Los Angeles|Multacom Corporation|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
