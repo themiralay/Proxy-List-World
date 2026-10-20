@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4915** proxies at the latest update. Usable proxies are below.
+> Scraper found **4809** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1083|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2266|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.17.215.9|8089|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|47.79.33.142|3128|Japan|Tokyo|Alibaba.com LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|172.105.149.160|5000|United States|Atlanta|Akamai Technologies, Inc.|
-|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|45.194.41.103|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|47.79.33.142|3128|Japan|Tokyo|Alibaba.com LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|110.76.147.27|1080|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|158.101.23.103|40002|United States|Phoenix|Oracle Corporation|
+|18|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|19|157.254.20.12|10808|Hong Kong|Hong Kong|Vantiva USA Shared Services Inc.|
+|20|172.105.149.160|5000|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
