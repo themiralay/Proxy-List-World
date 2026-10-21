@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
 |10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|13|125.24.167.131|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
+|14|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|103.109.96.180|1994|Bangladesh|Sarishābāri|Digi Jadoo Broadband Ltd|
+|17|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|18|103.180.126.90|8080|Indonesia|Jakarta|PT Alam Media Data|
+|19|103.157.79.17|8080|Indonesia|Jakarta|EASTMEDIA|
+|20|156.67.110.124|10808|India|Mumbai|Contabo Asia Private Limited|
 
 
 
