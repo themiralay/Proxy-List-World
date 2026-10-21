@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|151.243.153.157|8118|United States|Seattle|Black Apple|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|87.99.130.93|11080|United States|Ashburn|Hetzner Online GmbH|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|192.119.102.215|1314|United States|Los Angeles|HostPapa|
-|17|87.99.130.93|11080|United States|Ashburn|Hetzner Online GmbH|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|162.43.106.22|60000|Japan|Chiyoda City|XSERVER Inc.|
+|8|151.243.153.157|8118|United States|Seattle|Black Apple|
+|9|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|87.99.130.93|11080|United States|Ashburn|Hetzner Online GmbH|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|172.232.173.157|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
