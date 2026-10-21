@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|6|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|34.142.210.154|40001|Singapore|Singapore|Google LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|163.61.245.26|1452|Indonesia|Kota Sambas|PT NAOMI AURORA TEKNOLOGI|
-|12|103.14.111.188|3128|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|15|126.209.17.226|8080|Philippines|Manila|Infinivan Incorporated|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|45.194.46.57|8080|India|Noida|CtrlS|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.142.210.154|40001|Singapore|Singapore|Google LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|171.245.71.217|2105|Vietnam|Hanoi|Viettel Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|194.182.163.117|3128|Switzerland|Geneva|Akenes SA|
 
 
 
