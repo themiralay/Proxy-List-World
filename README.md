@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.162.16.224|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|154.201.127.158|8080|India|Noida|Real Time Data Services Private Limited|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|154.36.146.23|10000|Hong Kong|Hong Kong|NetLab Global|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|202.47.188.189|1111|Indonesia|Madiun|Lintas Data Prima, PT|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|171.245.71.236|2095|Vietnam|Hanoi|Viettel Corporation|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|151.243.153.157|8118|United States|Seattle|Black Apple|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
