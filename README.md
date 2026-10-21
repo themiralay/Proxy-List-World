@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|166.1.61.101|8081|Japan|Tokyo|Amarutu Technology Ltd|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|16|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|19|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|20|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|166.1.61.101|8081|Japan|Tokyo|Amarutu Technology Ltd|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|14|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
+|15|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|189.51.168.164|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|18|71.26.9.161|3128|United States|Washington|Comcast Cable Communications, LLC|
+|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
