@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|103.22.181.107|3128|Thailand|Pak Kret|Readyidc Company Limited|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|45.198.11.183|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|103.174.123.5|8089|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|41.216.191.154|8080|Indonesia|South Jakarta|Perwira|
-|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|19|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
-|20|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|103.22.181.107|3128|Thailand|Pak Kret|Readyidc Company Limited|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|20|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 
 
 
