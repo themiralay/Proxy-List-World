@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.208.167.50|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|6|189.194.81.12|999|Mexico|León|Mega Cable, S.A. de C.V.|
-|7|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|159.223.167.188|10000|United States|North Bergen|DigitalOcean, LLC|
+|3|103.116.49.115|8080|Indonesia|Temanggung|MEGADATA-ISP|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|15|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|17|112.208.167.50|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
 |19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|182.52.149.68|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
