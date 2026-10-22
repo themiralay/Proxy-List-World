@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|10|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|19|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
