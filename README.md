@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|802|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|802|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|802|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|8|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|9|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|17|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|192.238.196.211|8080|Hong Kong|Central|Antbox Networks Limited|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|198.15.30.70|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
+|18|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|202.58.77.214|8080|Indonesia|Blitar|PT Data Buana Nusantara|
 
 
 
