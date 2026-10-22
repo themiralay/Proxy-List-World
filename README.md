@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5687** proxies at the latest update. Usable proxies are below.
+> Scraper found **5428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1212|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|953|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|182|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3093|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|7|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|8|104.51.39.146|8080|United States|San Diego|AT&T Enterprises, LLC|
-|9|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|10|208.67.28.19|58090|United States|Minneapolis|SonicNet Inc.|
-|11|113.161.93.6|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|49.149.89.202|8080|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|13|116.204.166.178|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|14|38.156.14.138|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|15|24.153.226.234|8056|United States|Dallas|Charter Communications Inc|
-|16|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|17|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|18|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|19|124.217.0.75|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|116.204.166.202|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|10|52.68.207.71|8081|Japan|Tokyo|Amazon Technologies Inc.|
+|11|116.204.166.44|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|12|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|113.161.93.6|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|38.9.184.137|999|Venezuela|Ocumare|INVERSIONES RED NET 2030, C.A|
+|16|101.255.209.249|3128|Indonesia|Bogor|PT Remala Abadi|
+|17|154.88.129.10|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|20|180.190.84.19|8082|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
