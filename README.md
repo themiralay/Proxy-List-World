@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|172.236.140.184|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|146.190.60.147|8013|United States|Santa Clara|DigitalOcean, LLC|
-|9|41.216.191.85|8080|Indonesia|South Jakarta|Perwira|
-|10|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|11|146.190.60.147|8013|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|3|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|198.15.30.117|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.139.85.2|3128|United States|Charlotte|RAPIDSEEDBOX|
+|16|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|17|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|18|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|45.139.85.2|3128|United States|Charlotte|RAPIDSEEDBOX|
 
 
 
