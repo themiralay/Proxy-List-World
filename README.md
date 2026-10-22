@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|154.18.255.112|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|163.61.245.26|1452|Indonesia|Kota Sambas|PT NAOMI AURORA TEKNOLOGI|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|7|41.216.191.154|8080|Indonesia|South Jakarta|Perwira|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|103.174.236.178|1111|Indonesia|Sukasari|PT Global Erasiber Teknologi|
+|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|145.220.227.195|1080|The Netherlands|Utrecht|SURFnet III d|
-|14|89.58.42.118|3129|Germany|Nuremberg|netcup GmbH|
-|15|103.171.83.49|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|102.244.78.61|8086|Cameroon|Douala|Orange CAM INTERNET|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|14|145.220.227.208|8080|The Netherlands|Utrecht|SURFnet III d|
+|15|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|16|145.220.227.195|8080|The Netherlands|Utrecht|SURFnet III d|
+|17|103.145.34.101|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|192.238.196.211|8080|Hong Kong|Central|Antbox Networks Limited|
+|20|145.220.227.145|8080|The Netherlands|Utrecht|SURFnet III d|
 
 
 
