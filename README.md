@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|34.142.210.154|40001|Singapore|Singapore|Google LLC|
 |9|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|45.194.46.57|8080|India|Noida|CtrlS|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|43.157.224.190|40001|Indonesia|Jakarta|Shenzhen Tencent Computer Systems Company Limited|
-|18|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 
 
