@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|698|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|698|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|698|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|151.243.153.157|8118|United States|Seattle|Black Apple|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|139.162.60.92|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|45.194.46.57|8080|India|Noida|CtrlS|
+|12|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
 |13|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|154.201.126.44|8080|India|Noida|CtrlS|
+|16|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
 |17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|20|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|18|38.58.66.167|999|Mexico|Huejutla de Reyes|Velocom SA De CV|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
