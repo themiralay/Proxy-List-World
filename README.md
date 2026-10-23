@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|718|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|718|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|718|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|752|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|752|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|752|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|206.237.107.157|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|11|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|16|203.175.103.193|8080|Indonesia|Garawangi|PT. Mitra Kita Brilian|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|45.194.46.57|8080|India|Noida|CtrlS|
-|19|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|7|216.176.200.37|3128|United States|Los Angeles|Krypt Technologies|
+|8|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|49.156.22.238|1080|Indonesia|Salatiga|PalapaNET|
+|11|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|154.201.126.245|8080|India|Noida|CtrlS|
+|16|216.176.200.37|3128|United States|Los Angeles|Krypt Technologies|
+|17|203.175.103.193|8080|Indonesia|Garawangi|PT. Mitra Kita Brilian|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|20|45.194.46.57|8080|India|Noida|CtrlS|
 
 
 
