@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 |3|206.237.107.157|8080|Philippines|Makati City|PT Herza Digital Indonesia|
-|4|34.142.210.154|40001|Singapore|Singapore|Google LLC|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|9|103.176.96.218|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|13|43.224.171.232|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
-|14|179.236.231.81|8080|United States|Boston|Hostinger Operations UAB|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|151.243.153.157|8118|United States|Seattle|Black Apple|
+|6|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|7|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|8|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|12|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|179.236.231.81|8080|United States|Boston|Hostinger Operations UAB|
+|17|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|179.236.231.81|8080|United States|Boston|Hostinger Operations UAB|
 
 
 
