@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|11|172.236.140.184|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|12|144.79.180.37|8080|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
-|13|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|14|103.153.149.59|8034|Indonesia|Gianyar|JARINGANKU|
-|15|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|154.201.126.245|8080|India|Noida|CtrlS|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|20|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|10|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|13|58.69.196.149|8345|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|45.194.46.57|8080|India|Noida|CtrlS|
+|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|16|125.27.241.98|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
