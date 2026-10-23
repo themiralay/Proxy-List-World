@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|975|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|975|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|975|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|720|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|720|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|720|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
 |6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|45.194.46.57|8080|India|Noida|CtrlS|
-|14|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|17|45.194.3.119|8080|India|Noida|CtrlS|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|34.142.210.154|40001|Singapore|Singapore|Google LLC|
+|7|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|3.211.120.181|443|United States|Ashburn|Amazon Technologies Inc.|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|103.189.249.145|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|15|45.194.3.119|8080|India|Noida|CtrlS|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|18|45.194.3.132|8080|India|Noida|CtrlS|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|103.160.68.215|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
 
 
 
