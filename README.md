@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|707|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|707|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|707|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|842|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|842|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|842|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|13.231.38.152|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|13.231.38.152|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
 |5|13.124.142.45|8080|South Korea|Incheon|Amazon Technologies Inc.|
-|6|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
 |7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|52.77.211.166|8080|Singapore|Singapore|Amazon.com, Inc.|
+|8|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|9|52.77.211.166|8080|Singapore|Singapore|Amazon.com, Inc.|
+|10|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
 |11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |13|171.252.130.172|4001|Vietnam|Hanoi|Viettel Corporation|
 |14|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|49.146.57.136|8080|Philippines|Tacurong|Philippine Long Distance Telephone Co.|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|112.121.173.84|808|Hong Kong|Hong Kong|Netsec Limited|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|113.20.7.76|30002|United States|Los Angeles|Multacom Corporation|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
