@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|1|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|9|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|10|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|159.138.84.187|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|14|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|43.134.39.221|10000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|17|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|151.243.153.157|8118|United States|Seattle|Black Apple|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|151.243.153.157|8118|United States|Seattle|Black Apple|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|10|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|13|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|20|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
 
 
 
