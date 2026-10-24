@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|839|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|839|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|839|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|647|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|647|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|647|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|13.231.38.152|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|8|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|9|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|5|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
+|6|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|112.121.173.84|808|Hong Kong|Hong Kong|Netsec Limited|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
 |10|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|172.105.28.24|3128|Canada|Toronto|Akamai Technologies|
-|15|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|103.242.104.150|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|18|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
-|19|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|13|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|151.243.153.157|8118|United States|Seattle|Black Apple|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|19|176.65.151.240|1080|The Netherlands|Eygelshoven|Pfcloud UG (haftungsbeschrankt)|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
