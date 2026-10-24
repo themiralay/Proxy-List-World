@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|3|34.142.210.154|40001|Singapore|Singapore|Google LLC|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|34.142.210.154|40001|Singapore|Singapore|Google LLC|
-|6|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|10|151.243.153.157|8118|United States|Seattle|Black Apple|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|17|112.121.173.84|808|Hong Kong|Hong Kong|Netsec Limited|
-|18|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|41.216.191.85|8080|Indonesia|South Jakarta|Perwira|
+|12|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|151.243.153.157|8118|United States|Seattle|Black Apple|
+|17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|112.121.173.84|808|Hong Kong|Hong Kong|Netsec Limited|
+|20|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
 
 
 
