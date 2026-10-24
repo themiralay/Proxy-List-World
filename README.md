@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|10|42.117.232.131|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|3|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|88.210.37.30|3128|United States|Los Angeles|Melbikomas UAB|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|67.207.92.87|3129|United States|North Bergen|DigitalOcean, LLC|
 |12|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|13|152.67.22.144|1080|India|Mumbai|Oracle Corporation|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|17|154.201.126.44|8080|India|Noida|CtrlS|
-|18|45.194.46.57|8080|India|Noida|CtrlS|
-|19|154.201.126.245|8080|India|Noida|CtrlS|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|15|154.201.126.44|8080|India|Noida|CtrlS|
+|16|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|17|42.117.232.131|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|43.156.66.78|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|45.194.41.70|8080|India|Mumbai|Real Time Data Services Private Limited|
 
 
 
