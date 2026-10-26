@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|157.120.37.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|2|157.120.37.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |6|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
 |17|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|18|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|19|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
+|20|194.182.163.117|3128|Switzerland|Geneva|Akenes SA|
 
 
 
