@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|972|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|972|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|972|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|10|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|12|34.142.210.154|40001|Singapore|Singapore|Google LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
