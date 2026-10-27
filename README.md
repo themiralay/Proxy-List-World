@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
 |7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|10|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|9|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|20|162.214.159.94|3128|United States|Phoenix|Unified Layer|
 
 
 
