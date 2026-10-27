@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.165.135.162|60000|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|47.251.100.26|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|8|154.26.232.100|3128|United States|Rancho Cucamonga|Starcloud Global Pte. LTD|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|12|47.251.100.26|3128|United States|Minkler|Alibaba Cloud LLC|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|11|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|12|82.152.138.127|999|Mexico|San Juan del Río|Wantelco SAS de CV|
 |13|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
-|14|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|15|119.93.94.108|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|45.194.3.132|8080|India|Noida|CtrlS|
-|17|159.223.142.17|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|19|189.51.168.165|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
-|20|154.26.232.100|3128|United States|Rancho Cucamonga|Starcloud Global Pte. LTD|
+|14|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
+|15|189.51.168.165|999|Mexico|Mérida|Comunicación por Fibra SA de CV|
+|16|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|104.168.218.25|3111|United States|Seattle|HostPapa|
+|20|194.182.163.117|3128|Switzerland|Geneva|Akenes SA|
 
 
 
