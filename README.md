@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|663|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|663|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|663|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|6|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|7|27.69.71.250|2065|Vietnam|Cẩm Thủy|Viettel Group|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|49.0.26.43|1080|Indonesia|Driyorejo|SIMS Jabar Banten Medianet|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|162.214.159.94|3128|United States|Phoenix|Unified Layer|
-|17|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|43.159.62.17|40001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|162.214.159.94|3128|United States|Phoenix|Unified Layer|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|19|18.221.175.172|8000|United States|Columbus|Amazon.com, Inc.|
+|20|45.194.3.132|8080|India|Noida|CtrlS|
 
 
 
