@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|36.89.82.54|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|11|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
-|17|47.88.14.212|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|12|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|80.225.231.172|9090|India|Mumbai|Oracle Corporation|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|124.121.2.155|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
