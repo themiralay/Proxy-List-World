@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1029|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1029|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1029|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1013|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1013|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1013|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
 |4|144.24.94.153|1080|South Korea|Chuncheon|Oracle Corporation|
-|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|10|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|5|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|222.111.130.73|8080|South Korea|Dongdaemun|Korea Telecom|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|10|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|20|103.155.166.226|7850|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|12|45.194.41.16|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|17|103.227.187.3|6090|Indonesia|Wirodayan|PT Master Star Network|
+|18|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|41.216.186.200|8080|Indonesia|South Jakarta|FASTHOSTING|
 
 
 
