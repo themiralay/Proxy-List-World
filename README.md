@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|14.225.205.152|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.159.62.17|40001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.142.210.154|40001|Singapore|Singapore|Google LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|212.18.104.77|3128|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|10|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|18|118.99.65.131|8080|Indonesia|Pontianak|BIZNET|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|34.43.46.91|443|United States|Mountain View|Google LLC|
 
 
 
