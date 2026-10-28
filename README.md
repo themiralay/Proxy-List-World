@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|6|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|13|14.225.205.152|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|12|103.154.146.74|8080|Indonesia|Sidoarjo|MORATELINDONAP|
+|13|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |15|130.127.204.197|8080|United States|Seneca|Clemson University|
 |16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|145.220.227.132|8118|The Netherlands|Utrecht|SURFnet III d|
-|18|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|19|130.127.204.197|8080|United States|Seneca|Clemson University|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|18|91.92.155.207|3128|Switzerland|Zurich|Akenes SA|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
