@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5783** proxies at the latest update. Usable proxies are below.
+> Scraper found **5629** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|699|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|699|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|699|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1271|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1117|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|561|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2751|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|218.103.246.223|1080|Hong Kong|Hong Kong|PCCW IMS Limited|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|218.103.246.223|1080|Hong Kong|Hong Kong|PCCW IMS Limited|
-|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|4|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|5|202.73.27.154|8080|Indonesia|Cicurug|PT. Usaha Adisanggoro|
 |6|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|175.184.236.2|1111|Indonesia|Cikarang|Indonesia Network Information Center|
-|10|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|11|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
-|12|152.67.191.232|6800|India|Hyderabad|Oracle Corporation|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|182.253.40.39|8080|Indonesia|Depok|BIZNET|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|103.139.98.69|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
+|7|125.25.167.202|443|Thailand|Bangkok|TOT Public Company Limited|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|13|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
