@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.166.158.41|1080|Indonesia|Kresek|PT Timor Lintas Nusantara|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|39.109.101.250|1080|Hong Kong|Wan Chai|VH-GLOBAL|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
+|5|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|154.201.126.44|8080|India|Noida|CtrlS|
+|10|103.166.158.41|1080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
 |13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|39.109.101.250|1080|Hong Kong|Wan Chai|VH-GLOBAL|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|129.150.57.5|55555|Singapore|Singapore|Oracle Corporation|
-|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|14|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|45.194.3.132|8080|India|Noida|CtrlS|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|18|103.49.166.193|83|India|Pune|Nettvox Private Limited|
+|19|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
+|20|189.148.34.54|8080|Mexico|Tapachula|Uninet S.A. de C.V|
 
 
 
