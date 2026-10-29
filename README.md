@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5501** proxies at the latest update. Usable proxies are below.
+> Scraper found **5533** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|694|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|726|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|633|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2974|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|45.125.64.215|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|184.82.165.88|8080|Thailand|Huai Mek|AIS-Fibre|
-|10|103.126.86.130|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|184.82.172.192|8080|Thailand|Huai Mek|AIS-Fibre|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|112.216.54.226|12121|South Korea|Yongin-si|LG DACOM Corporation|
+|3|218.103.246.223|1080|Hong Kong|Hong Kong|PCCW IMS Limited|
+|4|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|10|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|165.22.99.36|8011|Singapore|Singapore|DigitalOcean, LLC|
+|13|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
 |15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|19|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|20|187.199.21.71|80|Mexico|Los Cabos|Uninet S.A. de C.V.|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
