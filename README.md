@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|720|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|720|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|720|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|739|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|739|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|739|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|8|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
 |11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|14|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
-|17|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|117.18.16.47|1111|Indonesia|Kertosono|PT ALUCIO|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|158.101.23.103|40002|United States|Phoenix|Oracle Corporation|
+|14|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|15|103.174.122.83|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|16|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
