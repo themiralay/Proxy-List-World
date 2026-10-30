@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6167** proxies at the latest update. Usable proxies are below.
+> Scraper found **6152** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|929|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|929|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|929|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|812|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|812|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|812|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1366|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|881|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2705|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|42.200.230.45|10808|Hong Kong|Central|PCCW IMSBiz|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.174.122.92|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|11|49.151.120.81|8080|Philippines|San Lorenzo|Philippine Long Distance Telephone Co.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|103.189.117.82|1111|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|154.201.126.245|8080|India|Noida|CtrlS|
-|17|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|38.9.97.67|8080|Canada|Montreal|Rica Web Services|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|145.220.227.132|1081|The Netherlands|Utrecht|SURFnet III d|
+|15|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
+|16|64.118.155.2|22222|United States|San Jose|Eons Data Communications Limited|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
