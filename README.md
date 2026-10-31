@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.61.97.16|7071|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|49.0.26.43|1080|Indonesia|Driyorejo|SIMS Jabar Banten Medianet|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|112.121.173.84|808|Hong Kong|Hong Kong|Netsec Limited|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|203.150.128.172|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|80.74.30.136|31286|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
+|14|117.18.21.2|8080|Indonesia|Blitar|PT ALUCIO|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|80.74.30.136|31286|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|130.127.204.197|8080|United States|Seneca|Clemson University|
+|20|85.75.15.152|8080|Greece|Athens|OTE|
 
 
 
