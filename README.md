@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|5|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
-|6|163.223.117.175|1080|Indonesia|Kuningan|PT Signall Network Nusantara|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|10|42.115.72.145|2026|Vietnam|Hanoi|FPT Telecom Company|
-|11|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
-|12|101.255.209.166|8080|Indonesia|Bogor|PT Remala Abadi|
-|13|103.189.249.134|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|14|1.10.133.83|8081|Thailand|Ko Lanta Yai|TOT Public Company Limited|
-|15|182.53.202.228|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|103.125.17.99|8080|Indonesia|Pangradin Satu|JAVAMEDIA|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|206.135.62.8|999|Mexico|Pachuca|Ientc S De RL De CV|
-|20|103.11.218.223|8787|Cambodia|Phnom Penh|M.A.T Co., Ltd.|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.254.36.25|11080|United States|Minkler|Alibaba Cloud LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|14|187.147.213.105|8080|Mexico|Mérida|Uninet S.A. de C.V.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|9.154.247.138|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia TBK|
+|17|85.234.158.253|5002|United Kingdom|London|Team Blue Carrier Limited|
+|18|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|20|144.124.251.24|10051|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
