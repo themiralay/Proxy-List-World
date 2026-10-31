@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|822|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|822|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|822|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|803|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|803|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|803|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|210.87.93.42|8080|Indonesia|Pasuruan|PT Indo Telemedia Solusi|
-|10|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|190.80.209.160|999|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|198.15.30.233|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
+|9|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|45.194.3.132|8080|India|Noida|CtrlS|
+|18|82.29.72.145|30501|United States|El Segundo|Hosteons Pte. Ltd.|
+|19|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
