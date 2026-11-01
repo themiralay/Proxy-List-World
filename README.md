@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|149.104.29.39|20000|Singapore|Singapore|Cogent Communications|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
 |5|149.104.29.39|20000|Singapore|Singapore|Cogent Communications|
-|6|23.254.196.200|11080|United States|Los Angeles|HostPapa|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|10|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|11|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
 |13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|16|38.44.248.146|8080|Indonesia|Karawang|PT Media Solusi Sukses/ Shafanet|
-|17|45.194.90.184|8080|India|Noida|Shanxi Liyun Breeding Co|
-|18|23.254.196.200|11080|United States|Los Angeles|HostPapa|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|23.254.196.200|11080|United States|Los Angeles|HostPapa|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|145.220.227.144|8118|The Netherlands|Utrecht|SURFnet III d|
+|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
