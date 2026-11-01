@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|151.243.153.157|8118|United States|Seattle|Black Apple|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|5|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.22.99.36|8011|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|167.99.8.113|8011|United States|North Bergen|DigitalOcean, LLC|
-|11|42.115.72.145|2026|Vietnam|Hanoi|FPT Telecom Company|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|151.243.153.157|8118|United States|Seattle|Black Apple|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|45.194.90.184|8080|India|Noida|Shanxi Liyun Breeding Co|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
 |13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|16|23.95.60.62|8080|United States|Los Angeles|HostPapa|
-|17|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|18|167.99.8.113|8011|United States|North Bergen|DigitalOcean, LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|15|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|145.220.227.154|8080|The Netherlands|Utrecht|SURFnet III d|
+|20|34.105.252.3|3128|United Kingdom|London|Google LLC|
 
 
 
