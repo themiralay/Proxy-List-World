@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5609** proxies at the latest update. Usable proxies are below.
+> Scraper found **5603** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|949|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|821|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2633|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|149.104.29.39|20000|Singapore|Singapore|Cogent Communications|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.254.196.200|11080|United States|Los Angeles|HostPapa|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|149.104.29.39|20000|Singapore|Singapore|Cogent Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|45.194.90.184|8080|India|Noida|Shanxi Liyun Breeding Co|
-|15|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
-|16|23.254.196.200|11080|United States|Los Angeles|HostPapa|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.254.196.200|11080|United States|Los Angeles|HostPapa|
+|9|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|149.104.29.39|20000|Singapore|Singapore|Cogent Communications|
+|13|23.254.196.200|11080|United States|Los Angeles|HostPapa|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|70.32.0.18|3128|United States|Ashburn|GigeNET|
 |17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|19|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|18|201.79.50.139|10000|Brazil|Salvador|DigitalOcean|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |20|34.105.252.3|3128|United Kingdom|London|Google LLC|
 
 
