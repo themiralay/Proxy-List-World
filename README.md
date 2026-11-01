@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|151.243.153.157|8118|United States|Seattle|Black Apple|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
+|1|151.243.153.157|8118|United States|Seattle|Black Apple|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|47.253.242.75|8080|United States|Henrico|Alibaba Cloud LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|45.194.90.184|8080|India|Noida|Shanxi Liyun Breeding Co|
-|12|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|15|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|42.115.72.145|2026|Vietnam|Hanoi|FPT Telecom Company|
-|18|47.176.240.250|4228|United States|Rowland Heights|Verizon Business|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|7|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|8|42.115.72.145|2026|Vietnam|Hanoi|FPT Telecom Company|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|14|23.95.60.62|8080|United States|Los Angeles|HostPapa|
+|15|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
+|16|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|20|130.127.204.197|8080|United States|Seneca|Clemson University|
 
 
 
