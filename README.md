@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|705|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|705|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|705|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|729|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|729|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|729|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|42.117.137.116|2080|Vietnam|Hanoi|FPT Telecom Company|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|42.115.72.145|2026|Vietnam|Hanoi|FPT Telecom Company|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|45.194.3.132|8080|India|Noida|CtrlS|
-|18|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|202.150.89.243|3128|Indonesia|Cileungsir|PT SPEED INTERNET DIGITAL|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|45.194.90.184|8080|India|Noida|Shanxi Liyun Breeding Co|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|18|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|19|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|20|13.126.254.112|3128|India|Mumbai|Amazon.com, Inc.|
 
 
 
