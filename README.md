@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
 |7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|12|45.194.91.7|8080|India|Noida|Real Time Data Services Private Limited|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|138.84.67.59|5050|Philippines|Davao City|Globe Telecom|
-|17|113.20.7.76|30002|United States|Los Angeles|Multacom Corporation|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|130.127.204.197|8080|United States|Seneca|Clemson University|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|130.127.204.197|8080|United States|Seneca|Clemson University|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|172.236.140.184|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 
 
 
