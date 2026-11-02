@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|668|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|668|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|668|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|671|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|671|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|671|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|161.118.152.153|8118|South Korea|Seoul|Oracle Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|42.117.137.116|2080|Vietnam|Hanoi|FPT Telecom Company|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|159.89.138.136|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|159.89.138.136|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|157.245.129.129|10000|United States|North Bergen|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|82.41.42.229|1080|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
