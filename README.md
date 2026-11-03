@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|750|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|750|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|750|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|810|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|810|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|810|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|116.104.155.66|2044|Vietnam|Hanoi|Viettel Group|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|45.194.46.57|8080|India|Noida|CtrlS|
-|15|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
+|17|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
