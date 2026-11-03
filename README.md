@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|820|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|820|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|820|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|852|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|852|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|852|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.155.168.158|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|79.154.54.178|8080|Spain|Barcelona|RIMA (Red IP Multi Acceso)|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|176.57.214.169|10808|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|5.42.97.67|8080|Russia|Moscow|JSC "TIMEWEB"|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
+|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|176.57.214.169|10808|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
