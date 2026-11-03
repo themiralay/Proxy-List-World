@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|709|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|709|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|709|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|13.115.246.29|18080|Japan|Tokyo|Amazon Technologies Inc|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|13.115.246.29|18080|Japan|Tokyo|Amazon Technologies Inc|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|116.104.155.66|2044|Vietnam|Hanoi|Viettel Group|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|20|116.254.118.180|80|Indonesia|Semarang|PT Media Sarana Data|
+|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|16|172.245.168.179|21241|United States|Buffalo|HostPapa|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|5.230.201.190|3128|The Netherlands|Amsterdam|Rizki Abdul Azis|
 
 
 
