@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6741** proxies at the latest update. Usable proxies are below.
+> Scraper found **6762** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,25 +13,25 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|947|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|947|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|947|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|856|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|856|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|856|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|184|✅|
+|[us-proxy.org](https://www.us-proxy.org)|195|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1226|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1211|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1226|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3105|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|43.132.189.30|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|182.253.109.163|8080|Indonesia|Semarang|Biznet Networks|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|159.138.84.187|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|42.117.137.116|2080|Vietnam|Hanoi|FPT Telecom Company|
+|7|157.245.129.129|10000|United States|North Bergen|DigitalOcean, LLC|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|172.245.168.179|21241|United States|Buffalo|HostPapa|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|85.234.158.253|5002|United Kingdom|London|Team Blue Carrier Limited|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|149.56.110.145|3128|Canada|Montreal|OVH SAS|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|16|157.245.129.129|10000|United States|North Bergen|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|19|78.17.173.220|8081|Poland|Warsaw|Snowd Security OU|
+|20|23.94.68.53|3128|United States|Buffalo|HostPapa|
 
 
 
