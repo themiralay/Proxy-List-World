@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|103.178.42.73|3128|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|51.161.137.166|8080|Australia|Sydney|OVH SAS|
+|12|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|13|51.81.22.6|18080|United States|Reston|OVH SAS|
+|14|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|15|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|18|82.152.138.127|999|Mexico|San Juan del Río|Wantelco SAS de CV|
 |19|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|203.115.123.163|1256|India|Mumbai|PRIMENET|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
