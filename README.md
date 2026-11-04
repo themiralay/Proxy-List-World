@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1829|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1829|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
-|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|5|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|6|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|182.253.42.232|2026|Indonesia|Central Jakarta|BIZNET|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|154.18.255.112|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|103.116.49.115|8080|Indonesia|Temanggung|MEGADATA-ISP|
-|14|116.101.54.121|8080|Vietnam|Hanoi|Viettel Group|
-|15|103.195.65.199|8080|Indonesia|Purbalingga Regency|PT Perwira Media Solusi|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|157.15.139.103|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
-|18|123.231.252.218|8080|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|103.19.78.125|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|45.194.3.132|8080|India|Noida|CtrlS|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|11|103.7.248.24|8080|Bangladesh|Dhaka|Fiber@Home Global Limited|
+|12|157.20.229.225|8080|India|Agra|Windnet Pvt Ltd|
+|13|201.79.50.139|10000|Canada|Toronto|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|45.9.72.212|2080|Finland|Helsinki|First Server Limited|
+|18|46.232.249.209|40001|Germany|Nuremberg|netcup GmbH|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
 
 
 
