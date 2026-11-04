@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.138.84.187|3128|Singapore|Singapore|Huawei International Pte. LTD|
 |5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|8|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
 |11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|45.10.71.106|8888|United States|Los Angeles|Zenlayer Inc|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|19|130.127.204.197|8080|United States|Seneca|Clemson University|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
