@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|920|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|920|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|920|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|999|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|999|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|999|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|7|201.79.50.139|10000|Canada|Toronto|DigitalOcean, LLC|
+|3|116.104.154.193|2081|Vietnam|Hanoi|Viettel Group|
+|4|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|45.194.3.132|8080|India|Noida|CtrlS|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|11|201.79.50.139|10000|Canada|Toronto|DigitalOcean, LLC|
 |12|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 |14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|45.9.72.212|2080|Finland|Helsinki|First Server Limited|
-|16|78.17.173.220|8081|Poland|Warsaw|Snowd Security OU|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|37.153.71.144|3128|Russia|St Petersburg|EuroByte LLC|
-|20|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|78.17.173.220|8081|Poland|Warsaw|Snowd Security OU|
+|20|157.245.129.129|10000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
