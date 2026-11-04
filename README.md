@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|828|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|828|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|828|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|717|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|717|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|717|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
-|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|17|185.200.177.61|3128|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|20|45.9.72.212|2080|Finland|Helsinki|First Server Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|116.104.155.66|2044|Vietnam|Hanoi|Viettel Group|
+|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|7|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|201.79.50.139|10000|Canada|Toronto|DigitalOcean, LLC|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|116.104.154.193|2081|Vietnam|Hanoi|Viettel Group|
+|13|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|20|185.192.21.82|8080|Germany|Frankfurt am Main|Scalaxy B.V.|
 
 
 
