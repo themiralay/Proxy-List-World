@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1549|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1549|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1582|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|103.169.255.137|3125|Indonesia|Banyuwangi|PT Master Star Network|
-|12|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|13|203.28.53.59|8090|Indonesia|Sungguminasa|PT DELTA SKY TECH|
-|14|45.194.3.132|8080|India|Noida|CtrlS|
-|15|103.203.234.217|8080|Indonesia|Baekrajan|PT Nesta Indo Media|
-|16|45.194.46.57|8080|India|Noida|CtrlS|
-|17|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|18|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|20|103.13.221.149|20000|South Korea|Anyang-si|90QH|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|12|103.203.234.217|8080|Indonesia|Baekrajan|PT Nesta Indo Media|
+|13|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|14|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|165.99.239.23|8080|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
+|17|103.156.248.247|8080|Indonesia|Kota Batam|Trans Media Telekomunikasi|
+|18|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|20|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
