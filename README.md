@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1003|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1003|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1003|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|948|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|948|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|948|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|9|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|134.199.145.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|6|103.230.48.110|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|7|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|8|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|45.194.3.132|8080|India|Noida|CtrlS|
-|17|141.144.206.124|1080|Netherlands|Amsterdam|Oracle Corporation|
-|18|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
