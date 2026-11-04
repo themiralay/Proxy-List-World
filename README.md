@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|969|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|969|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|969|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|113.192.12.78|8080|Indonesia|Bekasi|PT Parsaoran Global Datatrans|
-|8|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|9|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|11|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|4|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|5|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|165.99.239.23|8080|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.198.11.162|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|11|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|203.28.53.59|8090|Indonesia|Sungguminasa|PT DELTA SKY TECH|
-|17|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|103.165.157.107|8080|Indonesia|Taman|MEGADATA-ISP|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|103.153.135.90|1080|Indonesia|Tigaraksa|WMINET|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|45.194.46.57|8080|India|Noida|CtrlS|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|20|185.196.61.251|8081|Canada|Toronto|BrainStorm Network, Inc|
 
 
 
