@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|10|172.245.168.179|21241|United States|Buffalo|HostPapa|
-|11|103.247.83.238|3128|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
-|12|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|159.138.84.187|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|9|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|17|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|18|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|157.15.62.72|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|144.79.37.148|8080|Indonesia|Pematangsiantar|PT Netindo Persada Nusantara|
+|18|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|20|103.183.8.243|8080|Indonesia|Cilaja|PT Cepat Multi Data|
 
 
 
