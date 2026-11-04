@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8291** proxies at the latest update. Usable proxies are below.
+> Scraper found **8266** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1462|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1355|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1330|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2008|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3728|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.161.137.166|8080|Australia|Sydney|OVH SAS|
-|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
-|11|103.174.236.67|8999|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|12|45.194.46.57|8080|India|Noida|CtrlS|
-|13|154.201.126.44|8080|India|Noida|CtrlS|
-|14|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|15|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|103.247.83.238|3128|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.124.137.171|8080|Indonesia|Ungaran|Global Media Data Prima|
+|4|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|5|103.153.135.90|1080|Indonesia|Tigaraksa|WMINET|
+|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|103.178.42.73|3128|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|162.4.219.137|8080|Indonesia|Utan|PT Nexzet Network Digital|
+|9|45.198.11.183|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|14|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|45.194.46.57|8080|India|Noida|CtrlS|
+|16|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|17|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|154.201.126.44|8080|India|Noida|CtrlS|
 
 
 
