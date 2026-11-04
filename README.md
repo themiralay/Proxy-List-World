@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1536|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|202.21.101.37|8088|Mongolia|Ulan Bator|Mobinet LLC|
-|7|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|8|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.250.137.200|3128|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|11|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|12|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|13|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|216.243.112.164|999|Indonesia|Central Jakarta|PT Integrasi Jaringan Ekosistem|
-|15|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|16|123.231.252.218|8080|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
-|17|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|103.80.82.7|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|20|45.194.3.132|8080|India|Noida|CtrlS|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|154.219.101.12|1081|Hong Kong|Hong Kong|Vapeline Technology(HK)Co|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|9|103.155.166.226|7850|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|134.199.145.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|13|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|14|182.253.42.232|2026|Indonesia|Central Jakarta|BIZNET|
+|15|103.133.223.118|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|18|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
 
 
 
