@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|7|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
+|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 |13|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|14|201.79.50.139|10000|Canada|Toronto|DigitalOcean, LLC|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|14|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |17|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|20|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
 
 
 
