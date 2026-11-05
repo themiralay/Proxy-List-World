@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|745|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|745|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|745|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|682|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|682|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|682|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|45.194.3.119|8080|India|Noida|CtrlS|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.153.135.90|1080|Indonesia|Tigaraksa|WMINET|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
 |17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|18|103.171.31.56|8080|Indonesia|Bekasi|MORATELINDONAP|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
