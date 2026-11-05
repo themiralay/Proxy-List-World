@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1096|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1096|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1096|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|3|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|43.229.79.231|8080|Thailand|Ron Phibun|Readyidc Company Limited|
-|10|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|16|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|18|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|19|103.174.122.215|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|14|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|20|23.94.68.53|3128|United States|Buffalo|HostPapa|
 
 
 
