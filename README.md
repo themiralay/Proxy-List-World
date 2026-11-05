@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7980** proxies at the latest update. Usable proxies are below.
+> Scraper found **8072** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1936|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1936|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1658|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1750|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3728|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|7|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
-|8|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|14|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|15|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|16|45.194.46.57|8080|India|Noida|CtrlS|
-|17|103.53.79.106|8080|Indonesia|Jakarta|INTI|
-|18|111.95.161.133|8080|Indonesia|Bekasi|Linknet-Fastnet ASN|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|112.207.166.195|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|8|163.61.245.70|8080|Indonesia|Kota Sambas|PT NAOMI AURORA TEKNOLOGI|
+|9|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|10|151.158.133.165|8080|Indonesia|Karawang|PT SANET MEDIA TEKNOLOGI|
+|11|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.180.127.114|8080|Indonesia|Jakarta|PT Alam Media Data|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|103.173.138.225|8080|Indonesia|Kotaagung|PT Serayu Multi Connection|
+|16|103.158.210.21|8090|Indonesia|Babat|DIGITNET|
+|17|103.124.138.149|8080|Indonesia|Pasarkemis|Global Media Data Prima|
+|18|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|180.180.156.53|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
