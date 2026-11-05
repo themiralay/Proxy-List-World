@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|835|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|835|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|835|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|885|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|885|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|885|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|7|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|155.138.236.211|18080|United States|Atlanta|The Constant Company|
-|15|43.205.6.106|3129|India|Mumbai|Amazon.com, Inc.|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|19|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|103.178.86.178|8080|Indonesia|Cianjur|PT ADHI PRADANA MAKAYASA|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|122.102.52.24|1080|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|14|222.111.130.73|8080|South Korea|Dongdaemun|Korea Telecom|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|172.245.168.179|21241|United States|Buffalo|HostPapa|
+|17|43.205.6.106|3129|India|Mumbai|Amazon.com, Inc.|
+|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|155.138.236.211|18080|United States|Atlanta|The Constant Company|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
