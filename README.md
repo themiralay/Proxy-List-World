@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8472** proxies at the latest update. Usable proxies are below.
+> Scraper found **8493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1642|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1642|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1691|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2069|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3533|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.111.130.73|8080|South Korea|Dongdaemun|Korea Telecom|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|165.99.239.23|8080|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
-|19|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|20|154.18.255.11|1256|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|222.111.130.73|8080|South Korea|Dongdaemun|Korea Telecom|
+|4|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|154.18.255.112|1080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.175.236.180|8382|Indonesia|Singosari|PT Marva Global Telekomunikasi|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
