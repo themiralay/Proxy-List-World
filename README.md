@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8621** proxies at the latest update. Usable proxies are below.
+> Scraper found **8540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,8 +13,8 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1907|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1907|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1890|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1890|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1500|
 
 ## Sources
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1806|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1725|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2082|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3533|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|45.198.10.82|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|11|125.135.105.153|8080|South Korea|Ulju-gun|Korea Telecom|
-|12|103.66.46.18|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|13|45.194.41.141|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|20|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.198.132.107|8082|Philippines|Nasugbu|Globe Telecom|
+|10|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|103.116.49.115|8080|Indonesia|Temanggung|MEGADATA-ISP|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|20|148.244.84.34|3128|Mexico|Encrucijada 4ta. Sección B|Alestra, S. de R.L. de C.V.|
 
 
 
