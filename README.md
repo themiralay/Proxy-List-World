@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|842|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|842|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|842|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|36.89.236.126|8080|Indonesia|Karangdowo|PT. Telekomunikasi Indonesia|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|202.21.101.37|8088|Mongolia|Ulan Bator|Mobinet LLC|
-|13|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
-|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|16|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
 |18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|24.153.226.234|8056|United States|Dallas|Charter Communications Inc|
-|20|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|19|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
 
 
 
