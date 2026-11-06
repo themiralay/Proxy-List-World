@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|944|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|944|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|944|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|997|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|997|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|997|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.61.97.16|7071|Taiwan|Zhongli District|Chunghwa Telecom Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|70.32.0.18|3128|United States|Ashburn|GigeNET|
-|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|17|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|5|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|11|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|5.200.72.58|3128|Iran|Tehran|Bahar Samaneh Shargh|
+|19|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|20|82.41.42.113|8080|Singapore|Singapore|PT Perwira Media Solusi|
 
 
 
