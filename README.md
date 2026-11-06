@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|4|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|5|43.247.135.61|1080|Hong Kong|Kwun Tong|VH Global Limited|
-|6|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|16|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|43.247.135.61|1080|Hong Kong|Kwun Tong|VH Global Limited|
+|9|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
