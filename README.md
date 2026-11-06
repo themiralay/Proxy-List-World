@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7357** proxies at the latest update. Usable proxies are below.
+> Scraper found **7356** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1398|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1227|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3532|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.31.199.68|8118|United States|Los Angeles|Multacom Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|171.244.129.3|3128|Vietnam|Hanoi|Viettel Corporation|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|18|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|171.244.129.3|3128|Vietnam|Hanoi|Viettel Corporation|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|154.201.126.44|8080|India|Noida|CtrlS|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|103.147.77.212|8080|Indonesia|Madiun|TRIDATA|
+|20|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
