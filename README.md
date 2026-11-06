@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1020|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1020|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1020|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|994|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|994|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|994|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|103.153.135.90|1080|Indonesia|Tigaraksa|WMINET|
-|7|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|8|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|163.223.78.125|8090|Indonesia|Soko|PT Big Network Indonesia|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|165.154.20.187|10808|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|45.194.3.132|8080|India|Noida|CtrlS|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|13|38.188.63.169|8080|Indonesia|Margasari|PT Nesta Indo Media|
+|14|154.201.126.44|8080|India|Noida|CtrlS|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|103.132.53.28|8080|Indonesia|Pemalang|PT Adeaksa Indo Jayatama|
+|17|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|18|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|19|45.194.3.132|8080|India|Noida|CtrlS|
+|20|119.93.252.134|1452|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
