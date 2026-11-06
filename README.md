@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|858|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|858|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|858|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|801|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|801|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|801|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.215.25.3|2081|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|12|45.194.3.119|8080|India|Noida|CtrlS|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|149.56.110.145|3128|Canada|Montreal|OVH SAS|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|23.94.68.53|3128|United States|Buffalo|HostPapa|
-|19|103.148.45.51|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|20|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|150.107.244.200|8080|India|Surat|Infrastruktur STARNET|
+|10|45.194.3.119|8080|India|Noida|CtrlS|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|23.94.68.53|3128|United States|Buffalo|HostPapa|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|70.32.0.18|3128|United States|Ashburn|GigeNET|
+|20|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
 
 
 
