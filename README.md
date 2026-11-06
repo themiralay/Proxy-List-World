@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.215.25.3|2080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|14|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|106.104.177.158|60808|Taiwan|Houli|Digital United Inc.|
+|6|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|7|210.87.74.189|3125|Indonesia|Kebumen|PT.Global Media Data Prima|
+|8|154.18.255.11|1256|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|202.150.151.81|8080|Indonesia|Depok|PT Comtronics Systems|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|116.101.54.121|8080|Vietnam|Hanoi|Viettel Group|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
