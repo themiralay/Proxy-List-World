@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|122.102.52.24|1080|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
-|7|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|8|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
 |9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|15|160.22.136.10|1080|Indonesia|Palembang|PT SUMATERA TEKNOLOGI NETWORK|
-|16|158.173.80.27|8888|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|18|82.41.42.229|1080|Singapore|Singapore|PT Perwira Media Solusi|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|45.198.11.177|9191|Indonesia|Margabakti|PT Jaringan Lintas Artha|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|18|158.173.80.27|8888|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
