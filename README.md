@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|7|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|14|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|20|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|4|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|9|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|14|202.58.77.239|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|17|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|18|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
+|19|124.106.122.97|8086|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
