@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|122.102.52.24|1080|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |6|146.190.0.12|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|122.102.52.24|1080|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
 |8|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|12|146.190.0.12|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|146.190.0.12|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
