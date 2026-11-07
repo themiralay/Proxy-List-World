@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|5|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|6|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|103.175.202.138|8090|Indonesia|Batulicin|PT Ameera Mega Buana|
 |8|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|9|165.101.230.155|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|10|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|9|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |12|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|13|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|138.124.53.81|8080|Germany|Frankfurt am Main|Aeza Group LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|18|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|186.33.0.203|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|138.124.53.81|8080|Germany|Frankfurt am Main|Aeza Group LLC|
+|15|171.101.72.82|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|16|209.62.196.68|8080|United States|Cut Off|EATEL|
+|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
