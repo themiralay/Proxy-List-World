@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6344** proxies at the latest update. Usable proxies are below.
+> Scraper found **6359** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|718|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|718|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|718|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|644|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|644|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|644|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1248|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1263|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1327|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2569|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|4|222.111.130.73|8080|South Korea|Dongdaemun|Korea Telecom|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.156.137.7|10809|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
 |5|122.102.52.24|1083|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.173.140.147|8080|Indonesia|Brak|WIFIAN ID|
-|10|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|11|182.253.42.232|2026|Indonesia|Central Jakarta|BIZNET|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|203.28.53.59|8090|Indonesia|Sungguminasa|PT DELTA SKY TECH|
-|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|16|45.194.3.132|8080|India|Noida|CtrlS|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|157.15.62.72|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|8|101.255.104.54|8080|Indonesia|West Jakarta|PT Remala Abadi|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|11|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|138.124.53.81|8080|Germany|Frankfurt am Main|Aeza Group LLC|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
