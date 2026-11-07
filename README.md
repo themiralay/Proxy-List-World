@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|8|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|149.104.94.47|8080|Saudi Arabia|Jeddah|Bedge CO Limited|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|17|37.193.95.9|10808|Russia|Novosibirsk|Novotelecom Ltd|
-|18|103.144.102.82|8080|Indonesia|Jatibarang|PANDAWANET|
-|19|103.118.85.75|6321|Bangladesh|Joypur Hāt|Abuzz IT Limited|
-|20|45.6.224.76|1256|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|198.46.87.212|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|209.182.199.206|3128|United States|Ashburn|InMotion Hosting, Inc.|
+|16|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|17|202.150.141.98|3128|Indonesia|Cirebon|PT Comtronics Systems|
+|18|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|19|202.21.101.37|8088|Mongolia|Ulan Bator|Mobinet LLC|
+|20|163.223.78.163|8080|Indonesia|Jombang|PT Big Network Indonesia|
 
 
 
