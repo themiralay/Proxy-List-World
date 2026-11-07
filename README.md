@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|680|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|680|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|680|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|737|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|737|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|737|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|122.102.52.24|1081|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|7|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|8|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|9|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|10|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|103.131.19.51|8080|Indonesia|Bilo|PT Global Media Data Prima|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|122.102.52.24|1080|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
 |14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|34.43.46.91|80|United States|Mountain View|Google LLC|
-|16|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|108.186.222.230|1090|United States|San Jose|WawaCloud Inc.|
+|20|158.173.80.27|8888|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
