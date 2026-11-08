@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6230** proxies at the latest update. Usable proxies are below.
+> Scraper found **6228** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|851|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|851|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|851|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|905|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|905|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|905|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1339|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1337|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|829|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2862|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|39.109.76.241|8080|Hong Kong|Hong Kong|Union FU WAH Digital Technology Limited|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|6|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|198.15.30.101|8080|Indonesia|Pamekasan|PT Trimafa Computindo Networking|
-|9|203.150.113.206|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.46.11.160|8080|Indonesia|Sukoanyar|Lintas Data Prima, PT|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|154.201.126.245|8080|India|Noida|CtrlS|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|203.150.113.206|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|154.201.126.245|8080|India|Noida|CtrlS|
+|17|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|18|158.173.80.27|8888|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|5.181.178.46|8080|Japan|Koto City|Lain.sh|
 
 
 
