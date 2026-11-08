@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1049|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1049|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1049|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1069|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1069|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1069|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |5|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|154.201.126.245|8080|India|Noida|CtrlS|
-|10|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|11|154.201.126.44|8080|India|Noida|CtrlS|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
+|8|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|12|103.229.14.115|8080|Indonesia|Bandung|PT Arthaloka Reka Teknologi|
+|13|158.173.80.27|8888|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|149.104.94.47|8080|Saudi Arabia|Jeddah|Bedge CO Limited|
 |16|203.76.220.126|16464|Bangladesh|Nawāb Char|BUSINESSNETWORK|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|19|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|103.195.65.213|1080|Indonesia|Purbalingga Regency|PT Perwira Media Solusi|
+|17|5.42.97.67|8080|Russia|Moscow|JSC "TIMEWEB"|
+|18|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
