@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|697|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|697|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|697|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|3|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|4|154.94.239.25|80|Hong Kong|Hong Kong|cognetcloud INC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|7|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|7|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
 |8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|10|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|13|107.210.56.161|80|United States|Birmingham|AT&T Enterprises, LLC|
-|14|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|17|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
-|18|103.156.16.235|8818|Indonesia|Maribaya|RSTNET|
-|19|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
 
 
 
