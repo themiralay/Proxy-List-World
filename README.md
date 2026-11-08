@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|828|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|828|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|828|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|8|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|9|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|103.174.122.4|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|18|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|3|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|4|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|15|154.201.126.44|8080|India|Noida|CtrlS|
+|16|168.93.199.119|10808|United States|Los Angeles|Turing Group Limited|
+|17|119.235.220.194|3128|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|18|152.53.81.29|8888|United States|Manassas|netcup GmbH|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
 
 
 
