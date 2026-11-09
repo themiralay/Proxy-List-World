@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|877|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|877|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|877|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|969|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|969|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|969|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.104.82.216|18080|Japan|Tokyo|Akamai Technologies|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|7|154.201.126.44|8080|India|Noida|CtrlS|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|12|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|18|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|19|46.232.249.209|40001|Germany|Nuremberg|netcup GmbH|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|7|103.188.173.99|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|152.53.81.29|8888|United States|Manassas|netcup GmbH|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|13|144.48.163.108|8080|Bangladesh|Kafrul|Cue Club Technology|
+|14|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|79.127.223.28|8080|United States|Ashburn|Datacamp Limited|
 
 
 
