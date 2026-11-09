@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|152.53.81.29|8888|United States|Manassas|netcup GmbH|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|10|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|15|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|16|176.111.37.216|39811|Hong Kong|Tsim Sha Tsui|Cogento Backbone Limited|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|152.53.81.29|8888|United States|Manassas|netcup GmbH|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
