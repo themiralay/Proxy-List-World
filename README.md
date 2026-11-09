@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|12|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|13|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|113.192.12.78|8080|Indonesia|Bekasi|PT Parsaoran Global Datatrans|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|148.253.212.68|8080|Poland|Warsaw|SEBEK sp. z o.o|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|160.22.136.10|1080|Indonesia|Palembang|PT SUMATERA TEKNOLOGI NETWORK|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|130.110.103.245|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|194.55.234.58|8080|Russia|Moscow|Kviktel LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
