@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6701** proxies at the latest update. Usable proxies are below.
+> Scraper found **6601** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|958|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|958|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|958|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|893|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|893|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|893|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1353|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1253|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1235|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2914|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|172.104.82.216|18080|Japan|Tokyo|Akamai Technologies|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|6|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|7|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|168.93.199.119|10808|United States|Los Angeles|Turing Group Limited|
+|1|172.104.82.216|18080|Japan|Tokyo|Akamai Technologies|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|45.198.32.137|8080|Indonesia|Percut|PT Global Media Data Prima|
+|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|103.160.205.86|8080|Indonesia|Gerung|PRIME|
+|14|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
 |15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|17|203.28.53.55|8090|Indonesia|Sungguminasa|PT DELTA SKY TECH|
-|18|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|103.174.122.4|3128|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|17|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
 
 
 
