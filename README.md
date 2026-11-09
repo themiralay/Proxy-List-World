@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1034|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1034|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1034|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1013|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1013|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1013|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
 |3|172.104.82.216|18080|Japan|Tokyo|Akamai Technologies|
-|4|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
-|14|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|45.195.90.142|8080|India|Noida|Shanxi Liyun Breeding Co|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|20|103.167.156.22|1080|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
+|5|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|45.194.41.231|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.254.31.207|1080|United States|Minkler|Alibaba Cloud LLC|
+|13|152.53.81.29|8888|United States|Manassas|netcup GmbH|
+|14|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
