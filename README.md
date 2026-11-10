@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4898** proxies at the latest update. Usable proxies are below.
+> Scraper found **4751** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|606|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2710|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|180.191.124.206|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|3|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|161.22.33.129|999|Venezuela|Caracas|THUNDERNET, C.A|
-|6|31.76.32.2|8888|Germany|Falkenstein|Emil Vitukhnovskii trading as Great Flower|
-|7|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|1.20.101.22|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|10|1.20.178.212|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|182.52.136.68|80|Thailand|Bangkok|TOT Public Company Limited|
-|12|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
-|13|116.254.113.85|8080|Indonesia|Semarang|PT Media Sarana Data|
-|14|95.140.113.74|6666|Serbia|Belgrade|Orion Telekom Network|
-|15|190.131.205.150|999|Colombia|Cartagena|Liberty Networks De Colombia S.A.S|
-|16|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|162.4.96.24|4567|Indonesia|Pasuruan|PT Azvi Multi Teknologi|
-|18|160.19.19.102|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|19|103.4.95.90|8080|Pakistan|Islamabad|HEC|
-|20|103.172.71.140|8989|Indonesia|Tangerang|AZNET|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|6|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|8|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|9|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
+|10|202.1.24.49|8080|Indonesia|Brebes|PT Global Media Jaringan Nasional|
+|11|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
+|12|125.25.167.176|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|95.170.205.202|8080|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|14|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|41.216.186.231|8099|Indonesia|South Jakarta|FASTHOSTING|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|91.26.188.170|8080|Germany|Cochem|Deutsche Telekom AG|
+|19|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
 
 
 
