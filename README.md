@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|2|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|45.198.11.183|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|6|182.53.202.218|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|1.20.101.18|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|8|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|1|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|187.245.202.245|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|4|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|5|203.9.195.110|8080|Philippines|Zamboanga City|Go Wiser Corporation|
+|6|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|45.198.11.183|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |9|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|13|202.62.57.235|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|14|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|15|151.158.133.165|8080|Indonesia|Karawang|PT SANET MEDIA TEKNOLOGI|
-|16|43.134.136.152|80|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.138.145.130|8090|Bangladesh|Kishoreganj Sadar Upazila|Neef IT Limited|
-|18|186.167.114.146|999|Venezuela|Valencia|Corporacion Digitel C.A|
-|19|1.20.101.30|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|20|177.234.211.175|999|Ecuador|Naranjito|VUELATECHNOLOGY|
+|12|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
+|13|103.90.27.126|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
+|14|46.197.137.173|8080|Turkey|Ankara|Turksat Internet Services|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|103.188.169.93|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|17|190.97.254.235|999|Venezuela|Higuerote|Viginet C.A|
+|18|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|185.246.155.83|8080|The Netherlands|Amsterdam|Melbikomas UAB|
+|20|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
