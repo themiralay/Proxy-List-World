@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|6|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|7|182.253.62.38|8080|Indonesia|North Jakarta|BIZNET|
-|8|203.190.53.177|8080|Indonesia|West Jakarta|PT POWER TELECOM|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
-|11|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|12|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
-|13|116.204.166.178|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|14|203.205.49.2|10012|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|15|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|16|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|17|38.199.250.4|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
-|18|103.138.145.130|8090|Bangladesh|Kishoreganj Sadar Upazila|Neef IT Limited|
-|19|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|20|124.217.5.100|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|38.199.250.4|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|9|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
+|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|11|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
+|12|182.52.136.76|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|161.97.94.168|6001|France|Lauterbourg|Contabo GmbH|
+|14|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|16|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|17|89.43.133.165|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
+|18|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|19|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|202.125.155.121|8080|Pakistan|Rawalpindi|Micronet|
 
 
 
