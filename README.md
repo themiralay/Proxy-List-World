@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|152.53.81.29|8888|United States|Manassas|netcup GmbH|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|10|124.6.156.226|8082|Philippines|San Martin|Globe Telecom|
-|11|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|122.166.79.199|80|India|Hubballi|Bharti Airtel Ltd.|
-|14|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|49.145.62.154|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
-|17|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|5|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|6|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
+|10|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|11|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|118.97.164.19|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|13|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
+|14|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|16|61.130.176.21|14993|China|Lishui|Chinanet|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
