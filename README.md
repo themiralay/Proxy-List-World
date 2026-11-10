@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|207.180.29.28|3128|United States|Dallas|Hivelocity Ventures Corp|
-|4|15.204.129.229|8080|United States|Reston|OVH SAS|
-|5|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|6|154.19.39.220|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|7|45.131.214.22|8080|Germany|Frankfurt am Main|MHost LLC|
-|8|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|9|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|10|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|89.43.134.39|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|12|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|13|79.98.32.82|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|14|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|15|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|1.20.178.251|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.102.14.48|1111|Indonesia|Rembang|FISNET|
-|19|181.37.240.89|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|20|41.216.186.231|8099|Indonesia|South Jakarta|FASTHOSTING|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|4|202.5.47.228|8080|Bangladesh|Chittagong|BBTS-NEW|
+|5|14.34.180.21|38157|South Korea|Pyeongtaek-si|Korea Telecom|
+|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|7|180.191.152.7|8082|Philippines|Makati City|Globe Telecom|
+|8|154.19.39.50|80|Indonesia|Tangerang|PT Lintas Network Solusi|
+|9|103.208.102.93|1080|Indonesia|Muntilan|PT Tidar Lintas Nusa|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|165.101.231.92|8090|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|12|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
+|13|112.202.39.81|3128|Philippines|Santa Barbara|Philippine Long Distance Telephone Co.|
+|14|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|126.209.105.227|5050|Philippines|Manila|Infinivan Incorporated|
+|16|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|154.19.39.220|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
+|18|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|19|134.249.86.47|8080|Ukraine|Kyiv|Kyivstar UA|
+|20|101.255.45.46|8080|Indonesia|East Jakarta|PT Remala Abadi|
 
 
 
