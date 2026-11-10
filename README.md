@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5052** proxies at the latest update. Usable proxies are below.
+> Scraper found **5133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|826|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2621|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|186.15.187.158|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
-|4|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|8|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|9|1.20.101.18|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|10|112.198.134.143|8081|Philippines|Nasugbu|Globe Telecom|
-|11|217.219.83.186|2222|Iran|Tehran|Iran Telecommunication Company PJS|
-|12|46.122.16.54|8080|Slovenia|Ljubljana|A1 Slovenija|
-|13|182.53.202.218|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|62.201.217.194|8080|Iraq|Kelar|BAG|
-|15|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|36.66.130.147|8080|Indonesia|Kota Cilegon|PT. Telekomunikasi Indonesia|
-|17|125.25.167.176|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|19|103.172.71.140|8989|Indonesia|Tangerang|AZNET|
-|20|45.131.214.22|8080|Germany|Frankfurt am Main|MHost LLC|
+|1|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|2|182.253.62.38|8080|Indonesia|North Jakarta|BIZNET|
+|3|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
+|4|103.189.231.209|8181|Indonesia|Tasikmalaya|PT Media Access Telematika|
+|5|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
+|10|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|101.255.45.44|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|14|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|144.124.251.24|10492|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
