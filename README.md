@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.62.38|8080|Indonesia|North Jakarta|BIZNET|
-|2|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|116.196.150.180|17981|China|Hangzhou|JHWA|
-|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.147.134.71|8081|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
-|7|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
-|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|9|182.52.136.76|80|Thailand|Bangkok|TOT Public Company Limited|
-|10|160.19.19.227|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|11|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
-|12|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|13|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
-|14|38.58.76.201|999|Mexico|Zapopan|Cogent Communications|
-|15|103.181.255.105|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|16|103.4.95.90|8080|Pakistan|Islamabad|HEC|
-|17|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|103.134.221.52|1111|Indonesia|Ciampea|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|1|119.93.120.93|8000|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|31.76.32.2|8888|Germany|Falkenstein|Emil Vitukhnovskii trading as Great Flower|
+|5|175.106.13.114|8080|Indonesia|West Jakarta|Quantum Dist POP IDC|
+|6|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|116.196.150.180|17981|China|Hangzhou|JHWA|
+|9|180.180.217.53|80|Thailand|Chon Buri|TOT Public Company Limited|
+|10|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|11|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|12|201.7.31.122|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|13|168.197.104.45|8080|Brazil|Guaratuba|Gtba Telecom Ltda ME|
+|14|43.153.227.239|12345|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|161.22.33.213|999|Venezuela|Caracas|THUNDERNET, C.A|
+|16|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|17|118.103.236.153|8080|Pakistan|Karachi|Connect Communication|
+|18|38.158.83.65|999|Peru|Arequipa|Fiberred SAC|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|175.136.209.251|8080|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
 
 
 
