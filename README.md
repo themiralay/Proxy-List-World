@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.32.108|3128|Japan|Tokyo|Oracle Corporation|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|134.185.85.16|3128|Singapore|Singapore|Oracle Corporation|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|151.243.153.157|8118|United States|Seattle|Black Apple|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|9|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|104.161.23.122|5006|United States|Phoenix|Input Output Flood LLC|
-|13|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|103.133.201.133|8090|Bangladesh|Dhaka|Antaranga Networks|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|157.66.36.86|8080|Indonesia|Ciruas|PT Trik Media Data|
+|20|185.128.84.132|10808|Russia|Moscow|SafeData LLC|
 
 
 
