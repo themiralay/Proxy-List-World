@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|2|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|1.20.101.18|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|5|31.76.32.2|8888|Germany|Falkenstein|Emil Vitukhnovskii trading as Great Flower|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|38.80.12.251|999|Dominican Republic|San Cristobal|Cogent Communications|
-|11|116.196.150.180|17981|China|Hangzhou|JHWA|
-|12|104.243.157.1|8080|United States|Evansville|LiteWire Internet Services, Inc.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
-|16|1.2.248.34|8080|Thailand|Bang Khen|TOT Public Company Limited|
-|17|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
-|20|1.10.248.239|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|157.15.64.181|8080|Indonesia|Kendal|PT Cynet Indonesia Networks|
+|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|175.106.15.186|8080|Indonesia|West Jakarta|Quantum Dist Cyber|
+|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|181.78.1.227|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|10|103.90.27.126|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
+|11|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
+|12|178.251.111.26|8080|Ukraine|Berdychiv|Dataline LLC|
+|13|203.175.102.190|8080|Indonesia|Garawangi|PT. Mitra Kita Brilian|
+|14|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|15|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|17|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|201.230.121.228|999|Peru|Puno|Telefonica Del Peru|
+|19|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|103.184.54.9|8080|Indonesia|Tegalgede Kulon|PT Proxi Jaringan Nusantara|
 
 
 
