@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|2|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|154.18.255.123|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
-|7|180.191.120.247|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|8|112.210.155.150|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|13|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
-|14|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|72.244.37.205|8080|United States|Dallas|Newserverlife LLC|
-|17|190.61.40.134|999|Colombia|Caimito|Ufinet Panama S.A.|
-|18|24.153.226.234|8056|United States|Dallas|Charter Communications Inc|
-|19|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|4|103.208.102.93|1080|Indonesia|Muntilan|PT Tidar Lintas Nusa|
+|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|6|185.204.169.123|8080|Germany|Frankfurt am Main|Arvancloud Global Technologies L.L.C|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|160.22.45.58|8080|Indonesia|Marisa|PT Celebes Multi Network|
+|10|144.48.163.108|8080|Bangladesh|Kafrul|Cue Club Technology|
+|11|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|109.224.242.211|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
+|14|103.138.145.130|8090|Bangladesh|Kishoreganj Sadar Upazila|Neef IT Limited|
+|15|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|17|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|18|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
+|19|193.43.140.101|8080|Syria|Zākīyah|Syrian Telecom|
 |20|111.125.154.86|8080|Afghanistan|Taloqan|Telecom Development Company Afghanistan|
 
 
