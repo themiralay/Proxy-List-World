@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|122.246.4.30|17981|China|Ningbo|China Telecom|
-|3|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|4|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
-|5|103.165.155.163|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|6|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|7|46.197.137.173|8080|Turkey|Ankara|Turksat Internet Services|
-|8|181.78.44.63|999|Honduras|La Unión|Ufinet Panama S.A.|
-|9|205.234.123.108|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|10|89.43.132.239|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|11|202.10.55.50|8181|Indonesia|Jakarta Pusat|HIGEN|
-|12|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|125.25.167.176|80|Thailand|Bangkok|TOT Public Company Limited|
-|14|182.52.113.106|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|16|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
-|17|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
-|18|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|20|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|1|160.202.146.48|8080|Bangladesh|Brāhmanbāria|Antaranga Dot Com Ltd|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|124.105.110.52|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|160.19.16.148|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|5|1.2.248.34|443|Thailand|Bang Khen|TOT Public Company Limited|
+|6|38.199.250.4|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
+|7|1.20.101.30|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|154.18.255.27|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|12|103.19.59.186|8080|Indonesia|Banyuwangi|BITSNET|
+|13|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|41.169.135.242|8080|South Africa|Bryanston|Liquid Telecommunications South Africa (Pty) Ltd|
+|15|103.190.62.137|3125|Indonesia|Utan|PT Retbizz Exabit Indonesia|
+|16|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|17|103.178.41.46|9291|Indonesia|Purwokerto|PT Cakrawala Media Data|
+|18|103.184.52.66|8080|Indonesia|Semarang|PT Milenial Inti Telekomunikasi|
+|19|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|20|181.78.44.63|999|Honduras|La Unión|Ufinet Panama S.A.|
 
 
 
