@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|202.125.155.121|8080|Pakistan|Rawalpindi|Micronet|
-|4|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|9|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
-|10|171.239.136.134|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|182.52.136.68|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|222.127.68.126|8080|Philippines|Lahug|INNOVE|
-|14|103.81.65.77|8080|Indonesia|Sukoharjo Satu|QIUNET|
-|15|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|16|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|1.4.141.68|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|10|9.154.240.122|8085|Indonesia|Surabaya|PT Mora Telematika Indonesia TBK|
+|11|1.20.101.18|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|31.76.32.2|8888|Germany|Falkenstein|Emil Vitukhnovskii trading as Great Flower|
+|13|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|14|103.172.42.189|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|1.2.248.34|8080|Thailand|Bang Khen|TOT Public Company Limited|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |18|12.199.82.230|8080|United States|Fort Lauderdale|AT&T Enterprises, LLC|
-|19|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|24.153.226.234|8056|United States|Dallas|Charter Communications Inc|
+|19|182.253.62.38|8080|Indonesia|North Jakarta|BIZNET|
+|20|190.97.232.128|999|Venezuela|Barrancas|Viginet C.A|
 
 
 
