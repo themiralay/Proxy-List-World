@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|146.190.60.147|8008|United States|Santa Clara|DigitalOcean, LLC|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
-|8|144.124.251.24|10097|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|201.165.172.3|999|Mexico|Tuxtla Gutiérrez|Mega Cable, S.A. de C.V.|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|12|49.145.62.154|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|181.78.1.227|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|17|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|19|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.247.23.204|8080|Indonesia|Ngawi|PT wifian Solution|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|201.165.172.3|999|Mexico|Tuxtla Gutiérrez|Mega Cable, S.A. de C.V.|
+|7|144.124.251.24|10097|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|9|209.255.132.243|8080|United States|Midvale|Windstream Communications LLC|
+|10|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|181.78.1.227|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|13|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|14|182.52.136.68|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|113.192.48.253|8080|Indonesia|Weleri|PT.Global Media Data Prima|
+|16|161.22.33.72|999|Venezuela|Caracas|THUNDERNET, C.A|
+|17|79.98.32.137|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|18|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|19|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|49.145.62.154|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 
 
 
