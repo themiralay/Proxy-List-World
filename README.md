@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
-|6|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|119.93.151.254|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|6|1.10.248.226|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|8|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
 |9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|46.166.167.60|8080|Lithuania|Šiauliai|UAB Cherry Servers|
-|13|38.19.43.187|999|Colombia|Soacha|Super Redes S.A.S|
-|14|201.7.31.122|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|15|1.10.248.226|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
-|20|203.28.53.54|8090|Indonesia|Sungguminasa|PT DELTA SKY TECH|
+|11|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|13|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|15|90.146.196.18|8080|Austria|Traun|LIWEST Kabelmedien GmbH|
+|16|103.153.134.89|8080|Indonesia|Cikupa|WMINET|
+|17|45.229.16.34|999|Ecuador|San Juan|Turbonet S.A.|
+|18|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|19|203.142.71.53|8080|Indonesia|Jakarta|BIZNET|
+|20|201.7.31.122|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
 
 
 
