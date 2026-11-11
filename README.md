@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|144.79.217.1|8090|Bangladesh|Khulna|Bright Technologies Limited|
-|4|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|5|38.45.153.78|5555|Indonesia|Jakarta|PT Global Asta Systelematika|
-|6|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
-|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|1.20.101.34|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|10|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|181.119.185.194|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|103.210.123.197|8080|Indonesia|Makassar|JNETWORK|
-|14|45.194.3.119|8080|India|Noida|CtrlS|
-|15|182.252.89.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|16|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|167.99.3.26|8666|United States|North Bergen|DigitalOcean, LLC|
+|5|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
+|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|7|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|116.196.150.180|17981|China|Hangzhou|JHWA|
+|9|114.141.54.2|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|11|103.18.205.162|8080|Bangladesh|Dhaka|Circle Network|
+|12|181.225.107.53|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|14|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|15|103.205.82.246|8080|Indonesia|Magetan|Pemerintah Kabupaten Magetan|
+|16|101.255.32.41|8080|Indonesia|East Jakarta|PT Remala Abadi|
 |17|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|18|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|20|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|149.50.228.91|8080|Türkiye|Istanbul|Veganet Teknolojileri VE Hizmetleri Limited Sirketi|
 
 
 
