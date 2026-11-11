@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|626|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|626|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|626|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|2|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|3|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
-|4|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
-|5|157.15.186.71|8080|Indonesia|Banyuwangi|HAPPYINET|
-|6|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|8|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|9|1.20.101.26|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|10|181.13.221.154|999|Argentina|Sachayoj|Telecom Argentina S.A.|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|185.200.37.231|8686|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|14|202.154.19.202|8090|Indonesia|Jombang|DIGITNET|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|79.98.32.137|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|17|45.65.226.174|999|Argentina|Buenos Aires|Solution LAN S.A|
-|18|205.234.123.37|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|19|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
-|20|103.189.138.254|8080|Indonesia|Bandung|PT. Nexa Media Pratama|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|7|124.105.110.243|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|38.76.138.46|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
+|12|182.52.136.44|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|14|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|15|79.98.32.137|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|16|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
+|18|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|19|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|103.147.134.71|8081|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
 
 
 
