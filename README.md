@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|164.90.182.187|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|186.33.42.171|999|Ecuador|Shushufindi|Ufinet Panama S.A.|
-|7|125.25.167.202|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|184.170.169.216|8888|United States|Westfield|Metronet|
-|9|182.253.21.26|46977|Indonesia|West Jakarta|Biznet Networks|
-|10|154.88.136.189|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|15|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|18|181.78.10.110|999|Colombia|Pamplona|Ufinet Panama S.A.|
-|19|38.19.50.74|999|Colombia|Tunja|ONE TELECOMUNICACIONES|
-|20|119.159.233.2|8080|Pakistan|Lahore|PTCL Triple Play Project|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|184.170.169.216|8888|United States|Westfield|Metronet|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|1.20.101.32|443|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|13|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|131.221.65.109|8090|Argentina|San Miguel de Tucumán|Level Seven SRL|
+|15|103.46.8.85|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|16|181.209.114.220|8080|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|27.147.169.75|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|170.244.91.129|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
