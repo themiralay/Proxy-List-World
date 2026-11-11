@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|49.149.198.166|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|125.26.97.40|8080|Thailand|Tha Ruea|TOT Public Company Limited|
-|9|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|49.149.198.166|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|7|58.69.61.79|8082|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
 |11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|1.20.101.35|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|13|138.118.106.237|999|Guatemala|San José Pinula|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|14|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
-|15|58.69.61.79|8082|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|16|2.87.228.161|18080|Greece|Athens|OTEnet|
-|17|23.185.192.66|8181|United States|Frankfort|Swayzee Telephone Company, Inc.|
-|18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|19|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
-|20|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|12|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|13|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|14|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|16|150.107.104.125|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
+|17|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|18|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|116.196.150.180|17981|China|Hangzhou|JHWA|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
