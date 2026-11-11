@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.233.16|8085|Philippines|Marilao|Globe Telecom|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|161.97.94.168|6001|France|Lauterbourg|Contabo GmbH|
-|9|45.229.16.33|999|Ecuador|San Juan|Turbonet S.A.|
-|10|103.149.239.42|8080|Indonesia|Mojokerto|PT BITNIAGA CIPTA GEMILANG|
-|11|103.147.134.203|8080|Indonesia|Probolinggo|PT.MURNI MAKMUR ABADI|
-|12|202.166.220.40|8080|Nepal|Kathmandu|WorldLink Communications|
-|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|38.224.32.188|999|Venezuela|Valera|SPEEDNET, C.A|
-|15|206.135.80.194|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|16|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|136.228.129.86|8080|Cambodia|Phnom Penh|SIGROUPS|
-|18|161.22.33.194|999|Venezuela|Caracas|THUNDERNET, C.A|
-|19|177.55.68.68|8080|Brazil|Canaã dos Carajás|IR Tecnologia (Fibralink)|
-|20|119.93.64.216|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|180.191.229.218|8080|Philippines|Talisay City|Globe Telecom|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|180.191.233.16|8085|Philippines|Marilao|Globe Telecom|
+|6|161.22.33.194|999|Venezuela|Caracas|THUNDERNET, C.A|
+|7|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|10|38.224.32.188|999|Venezuela|Valera|SPEEDNET, C.A|
+|11|177.136.32.202|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|12|216.243.112.164|999|Indonesia|Central Jakarta|PT Integrasi Jaringan Ekosistem|
+|13|38.76.251.244|999|Dominican Republic|Pizarrete|Cogent Communications|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|190.61.37.142|999|Honduras|La Entrada|Ufinet Panama S.A.|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|18|110.38.233.122|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|19|185.27.144.74|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|20|45.229.16.33|999|Ecuador|San Juan|Turbonet S.A.|
 
 
 
