@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|2|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|146.70.233.11|9443|France|Paris 09 Opéra|M247 Europe Infra|
-|6|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|7|1.10.248.237|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
-|11|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|12|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
-|13|42.116.10.198|514|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|178.177.1.173|8989|Russia|Moscow|PJSC MegaFon|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|18|143.255.87.206|999|Venezuela|Mérida|Viginet C.A|
-|19|160.22.45.58|8080|Indonesia|Marisa|PT Celebes Multi Network|
-|20|67.20.129.199|8080|United States|Okatie|Hargray Communications Group, Inc.|
+|1|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
+|2|104.219.55.50|8118|United States|Dallas|Atlantic.net|
+|3|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
+|4|38.58.174.85|999|Mexico|San José del Rincón Centro|Cogent Communications|
+|5|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|6|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
+|7|43.251.215.2|8080|India|New Delhi|World Phone Infrastructure services private ltd|
+|8|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
+|9|193.19.190.59|8095|Russia|Voronezh|Voronezh Telecom LLC|
+|10|178.177.1.173|8989|Russia|Moscow|PJSC MegaFon|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
+|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|14|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|15|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|16|186.33.42.171|999|Ecuador|Shushufindi|Ufinet Panama S.A.|
+|17|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
+|20|119.92.26.89|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
