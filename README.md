@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
-|2|103.178.42.7|8080|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|1|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|2|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 |3|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
-|4|103.48.68.126|84|India|Hyderabad|Country Online Services PVT LTD|
-|5|38.19.43.187|999|Colombia|Soacha|Super Redes S.A.S|
-|6|186.33.42.171|999|Ecuador|Shushufindi|Ufinet Panama S.A.|
-|7|136.228.129.86|8080|Cambodia|Phnom Penh|SIGROUPS|
-|8|181.119.124.101|999|Panama|David|Ufinet Panama S.A.|
-|9|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|10|182.53.202.218|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|157.15.62.44|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|14|14.207.199.94|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|15|1.20.178.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|182.52.113.61|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|181.119.190.196|999|Honduras|Azacualpa|Ufinet Panama S.A.|
-|18|89.251.21.179|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|19|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
-|20|200.49.241.146|999|Peru|Pichari|Nocperu-latin Technologies|
+|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|5|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|6|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
+|7|187.245.202.245|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|8|212.175.50.76|8085|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
+|9|38.49.152.198|999|Mexico|Rancho Nuevo|IENTC S de RL de CV|
+|10|202.62.67.89|53281|India|Rasapūdipalem|CityOnline Services|
+|11|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|12|103.162.54.94|8080|Indonesia|Jatiwangi|PT Pratama Asia Globalindo|
+|13|202.5.47.228|8080|Bangladesh|Chittagong|BBTS-NEW|
+|14|45.170.131.218|999|Paraguay|Ciudad del Este|Yassin Jaber|
+|15|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|16|189.148.34.54|8080|Mexico|Tapachula|Uninet S.A. de C.V|
+|17|181.119.124.101|999|Panama|David|Ufinet Panama S.A.|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|1.20.178.221|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|175.107.30.126|8080|Pakistan|Lahore|National Telecommunication Corporation|
 
 
 
