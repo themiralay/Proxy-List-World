@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
 |3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.51.205.94|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|5|144.124.251.24|10809|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
 |8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
-|10|103.170.97.210|7777|Indonesia|Pandaan|PT. Global Data Akses Persada|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|13|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|14|116.196.150.180|17981|China|Hangzhou|JHWA|
-|15|182.52.113.109|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
-|17|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|19|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
-|20|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|9|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|11|167.99.3.26|9054|United States|North Bergen|DigitalOcean, LLC|
+|12|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|16|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|17|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|103.170.97.210|7777|Indonesia|Pandaan|PT. Global Data Akses Persada|
 
 
 
