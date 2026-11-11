@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
 |3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
-|6|41.90.161.175|8080|Kenya|Nairobi|Safaricom Limited|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|222.252.97.26|8008|Vietnam|Phú Thương|VietNam Post and Telecom Corporation|
 |7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|8|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
-|9|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|10|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|49.149.198.166|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|12|1.20.101.34|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|13|103.124.138.213|8090|Indonesia|Pasarkemis|Global Media Data Prima|
-|14|167.250.141.73|8080|Brazil|Caicó|Meganet Servicos De Comunicacao E Multimidia Ltda|
-|15|222.252.97.26|8008|Vietnam|Phú Thương|VietNam Post and Telecom Corporation|
-|16|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|17|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|18|149.50.228.91|8080|Türkiye|Istanbul|Veganet Teknolojileri VE Hizmetleri Limited Sirketi|
-|19|190.49.113.64|5555|Argentina|Lanus|Telefonica de Argentina|
-|20|90.38.232.85|8118|France|Saint-Etienne|Orange|
+|8|206.135.80.194|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|9|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
+|10|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|11|134.249.86.47|8080|Ukraine|Kyiv|Kyivstar UA|
+|12|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|13|103.210.123.197|8080|Indonesia|Makassar|JNETWORK|
+|14|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|119.63.130.153|8080|Pakistan|Lahore|TW Obj|
+|16|182.252.89.134|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|17|178.88.19.16|18080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|18|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
+|19|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
+|20|1.20.101.34|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
 
 
 
