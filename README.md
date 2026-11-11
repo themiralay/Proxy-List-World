@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
-|4|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|5|103.14.111.188|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|6|103.132.53.28|8080|Indonesia|Pemalang|PT Adeaksa Indo Jayatama|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|72.244.37.205|8080|United States|Dallas|Newserverlife LLC|
-|10|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
-|11|61.130.176.21|17485|China|Lishui|Chinanet|
-|12|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
-|13|151.158.133.165|8080|Indonesia|Karawang|PT SANET MEDIA TEKNOLOGI|
-|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|15|125.25.167.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|17|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|18|190.61.40.134|999|Colombia|Caimito|Ufinet Panama S.A.|
-|19|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
-|20|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|3|184.170.169.216|8888|United States|Westfield|Metronet|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|6|103.14.111.188|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|7|117.5.162.133|8080|Vietnam|Ho Chi Minh City|VIETTEL|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
+|12|103.19.78.125|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
+|13|20.33.10.79|9443|South Africa|Johannesburg|Microsoft Corporation|
+|14|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
+|15|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|16|61.130.176.21|17485|China|Lishui|Chinanet|
+|17|191.44.91.30|8080|France|Paris|High Speed For Internet Services L.L.C|
+|18|187.110.232.118|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
