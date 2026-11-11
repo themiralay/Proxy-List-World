@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|5|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|11|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|12|144.124.251.24|10097|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|1.4.141.66|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|20|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|4|172.239.170.24|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|5|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|12|1.4.141.68|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|13|180.183.135.169|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|14|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|15|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|18|171.239.136.134|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
