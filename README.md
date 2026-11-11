@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|714|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|714|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|714|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |4|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
-|5|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
-|6|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|7|163.47.25.50|8080|Indonesia|Purwakarta|PT STAR HOME INDONESIA|
-|8|51.81.22.6|18080|United States|Reston|OVH SAS|
-|9|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
-|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
-|12|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|49.149.198.166|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|20|109.122.240.157|8118|Iran|Tehran|Avini cultural and Art Institute|
+|5|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
+|7|51.81.22.6|18080|United States|Reston|OVH SAS|
+|8|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|10|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|11|38.191.204.110|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Limited|
+|13|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|14|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|15|46.166.167.60|8080|Lithuania|Šiauliai|UAB Cherry Servers|
+|16|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|49.149.198.166|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|19|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
