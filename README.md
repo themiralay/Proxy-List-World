@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|122.52.202.231|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|4|165.22.99.36|8011|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
-|7|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|8|45.198.20.224|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|9|103.21.54.61|3128|India|Indore|Khetan Cable Network Pvt. Limited|
-|10|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|222.167.236.143|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|16|149.50.228.91|8080|Türkiye|Istanbul|Veganet Teknolojileri VE Hizmetleri Limited Sirketi|
-|17|103.80.99.164|8080|Indonesia|Madiun|Advertise via PT Menaksopal|
-|18|180.191.142.206|8081|Philippines|Makati City|Globe Telecom|
-|19|193.181.35.167|8118|Sweden|Stockholm|PVDataNet AB|
-|20|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|165.22.99.36|8011|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.167.132.161|80|Indonesia|Jakarta|IRT-GARAPAN|
+|5|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|49.147.46.158|8082|Philippines|Silay|Philippine Long Distance Telephone Co.|
+|10|180.191.100.135|8082|Philippines|Makati City|Globe Telecom|
+|11|65.109.65.238|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
+|13|189.148.34.54|8080|Mexico|Tapachula|Uninet S.A. de C.V|
+|14|116.196.150.180|17981|China|Hangzhou|JHWA|
+|15|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|16|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|17|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
+|18|101.255.32.41|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|19|45.198.20.224|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|20|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
 
 
 
