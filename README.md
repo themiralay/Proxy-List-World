@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.8.113|8008|United States|North Bergen|DigitalOcean, LLC|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|3|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|4|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|6|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
 |7|157.20.220.51|8080|Indonesia|Parung|PT Nawasena Andalan Indonesia|
-|8|38.191.219.10|999|Colombia|Yumbo|TV&MÁS S.A.S|
-|9|114.141.54.2|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|10|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
-|11|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|12|167.99.8.113|8008|United States|North Bergen|DigitalOcean, LLC|
+|8|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|9|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
+|10|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|11|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
+|12|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
 |13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|14|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|16|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|17|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|18|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
-|19|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
-|20|202.152.142.98|8080|Indonesia|Surakarta|PT Jembatan Citra Nusantara|
+|14|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|15|179.1.182.25|999|Colombia|Villavieja|Internexa S.a. E.S.P|
+|16|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
+|18|185.226.194.0|999|Venezuela|Tinaquillo|Aethen Communications C.A|
+|19|103.230.48.110|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|193.43.140.240|8080|Syria|Damascus|Syrian Telecom|
 
 
 
