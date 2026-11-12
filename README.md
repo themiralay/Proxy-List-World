@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.22.99.36|8017|Singapore|Singapore|DigitalOcean, LLC|
-|2|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|3|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|5|38.134.224.179|999|Venezuela|Sabana de Mendoza|Cogent Communications|
-|6|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
-|7|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|10|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|45.26.30.144|8888|United States|Friendswood|AT&T Enterprises, LLC|
-|12|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
-|13|2.139.41.14|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|14|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|15|203.190.53.210|8080|Indonesia|West Jakarta|PT POWER TELECOM|
-|16|148.224.14.251|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
-|17|85.198.12.19|2080|Iran|Tehran|Asre Dadeha Asiatech|
-|18|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|20|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|2|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|122.53.48.41|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|7|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|8|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|9|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|10|151.243.153.157|8118|United States|Seattle|Black Apple|
+|11|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|12|38.134.224.179|999|Venezuela|Sabana de Mendoza|Cogent Communications|
+|13|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
+|14|36.93.173.108|8118|Indonesia|West Jakarta|Telekomunikasi Indonesia|
+|15|1.20.178.221|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|85.198.12.19|2080|Iran|Tehran|Asre Dadeha Asiatech|
+|17|2.139.41.14|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|18|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
+|19|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|20|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
 
 
 
