@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.229.218|8080|Philippines|Talisay City|Globe Telecom|
-|2|167.99.3.26|6800|United States|North Bergen|DigitalOcean, LLC|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|151.243.153.157|8118|United States|Seattle|Black Apple|
-|5|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
-|9|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|13|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|14|49.0.26.43|1080|Indonesia|Bean|SIMS Jabar Banten Medianet|
-|15|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|16|183.88.214.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
-|18|189.196.32.16|8080|Mexico|Toluca|Mega Cable, S.A. de C.V.|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|177.234.210.47|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|103.230.48.110|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|4|154.88.132.50|8080|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|7|38.191.204.98|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|167.99.3.26|6061|United States|North Bergen|DigitalOcean, LLC|
+|14|167.99.3.26|6061|United States|North Bergen|DigitalOcean, LLC|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|139.59.140.242|5228|Germany|Frankfurt am Main|DIGITALOCEAN|
+|17|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|18|187.245.202.244|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|19|181.119.111.53|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|103.175.240.80|7777|Indonesia|Pemalang|LDP|
 
 
 
