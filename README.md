@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
-|3|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|116.196.150.180|17981|China|Hangzhou|JHWA|
-|6|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|7|222.167.236.151|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|8|45.232.210.177|999|Chile|La Pintana|Nanotik Telecomunicaciones SPA|
-|9|222.127.54.16|8080|Philippines|Lahug|INNOVE|
-|10|157.100.12.149|999|Ecuador|Guayaquil|Telconet S.A|
-|11|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
-|12|187.251.230.15|8080|Mexico|Mérida|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|13|103.97.46.10|8080|India|New Delhi|Esto Media Private Limited|
-|14|125.135.105.153|8080|South Korea|Ulju-gun|Korea Telecom|
-|15|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|16|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|38.190.120.65|999|Colombia|Puerto Nare|Raser Telecomunicaciones|
-|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|20|201.230.121.228|999|Peru|Puno|Telefonica Del Peru|
+|1|116.101.73.52|2080|Vietnam|Hanoi|Viettel Group|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
+|6|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|7|180.191.124.206|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|8|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|9|1.10.248.237|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|122.102.126.74|8080|India|Chennai|Arjun Wireless Solutions Private Limited|
+|11|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
+|12|94.247.128.156|3129|Kazakhstan|Almaty|PS Internet Company LLP|
+|13|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|182.253.40.39|8080|Indonesia|Central Jakarta|BIZNET|
+|16|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|17|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
+|18|34.43.46.91|80|United States|Mountain View|Google LLC|
+|19|103.124.138.213|8090|Indonesia|Pasarkemis|Global Media Data Prima|
+|20|116.196.150.180|17981|China|Hangzhou|JHWA|
 
 
 
