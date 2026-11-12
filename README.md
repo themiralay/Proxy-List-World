@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.43.46.91|80|United States|Mountain View|Google LLC|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|5|190.115.0.164|999|Guatemala|Poptún|Ufinet Panama S.A.|
-|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|181.209.114.220|8080|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|8|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|157.20.252.170|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|12|188.132.249.145|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|2|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
+|3|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|4|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|5|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|9|75.109.189.86|8080|United States|Nacogdoches|Suddenlink Communications|
+|10|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|103.90.27.126|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
 |13|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|36.89.56.169|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|183.88.213.178|8080|Thailand|Si Racha|Triple T Broadband Public Company Limited|
-|17|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|167.99.3.26|5249|United States|North Bergen|DigitalOcean, LLC|
-|20|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
+|14|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.46.8.85|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|16|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|185.32.4.210|8070|Poland|Chociwel|AS Consulting Sp. z o. o.|
+|19|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|45.86.72.52|8080|United States|Washington|WorkTitans B.V|
 
 
 
