@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.43.46.91|80|United States|Mountain View|Google LLC|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|6|163.223.117.211|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
-|7|1.10.248.235|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|103.189.254.18|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|10|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|11|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|12|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|103.31.103.71|8080|Pakistan|Karachi|Cyber Internet Services Pakistan|
-|14|5.198.179.172|10800|Iran|Isfahan|Iran Telecommunication Company PJS|
-|15|45.141.116.141|18080|Germany|Frankfurt am Main|Mario Kurz trading as LUME Solutions|
-|16|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|17|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|18|181.78.195.136|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|19|202.58.77.31|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|20|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|4|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|5|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
+|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|7|103.80.88.77|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
+|8|49.147.46.158|8082|Philippines|Silay|Philippine Long Distance Telephone Co.|
+|9|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|103.230.48.110|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|161.49.219.181|8082|Philippines|Camiling|Converge Information and Communications Technology Solutions|
+|13|65.109.87.121|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|15|180.180.156.92|443|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|115.147.47.214|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|163.223.117.211|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|18|202.29.215.78|8080|Thailand|Sai Buri|Office of Info.Tech. Admin. for Educational Development|
+|19|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|20|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
 
 
 
