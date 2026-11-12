@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5014** proxies at the latest update. Usable proxies are below.
+> Scraper found **4976** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|710|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|643|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2923|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.196.150.180|17981|China|Hangzhou|JHWA|
-|4|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|6|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|9|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|212.252.73.18|8080|Türkiye|Yalova|Superonline Iletisim Hizmetleri A.S.|
-|11|5.39.255.142|8118|Germany|Frankfurt am Main|Anton Levin|
-|12|103.160.41.8|8080|Indonesia|Ciruas|WISTEL|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|45.198.10.130|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|15|103.86.44.77|30008|South Korea|Seoul|Shanghai Xima Internet Technology Limited|
-|16|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|17|103.86.44.77|30008|South Korea|Seoul|Shanghai Xima Internet Technology Limited|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|43.240.67.101|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|20|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|3|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|111.125.242.34|80|India|Mumbai|Microscan Internet Limited|
+|8|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
+|9|178.252.171.229|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|10|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|74.214.254.17|8080|United States|Price|Emery Telcom|
+|13|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|14|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|15|161.18.226.135|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP BIC|
+|16|69.171.214.160|999|United States|Dallas|Ipxo LLC|
+|17|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|18|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|160.25.237.73|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
 
 
 
