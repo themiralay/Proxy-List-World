@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|703|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|703|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|703|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|913|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|913|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|913|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|165.99.151.252|8080|Indonesia|Bogor|PT Win Akselerasi Net Indonesia|
-|4|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
-|5|180.191.59.10|8081|Philippines|Tarlac City|Globe Telecom|
-|6|144.79.181.33|8080|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
-|7|183.236.232.160|8080|China|Guangzhou|China Mobile communications corporation|
-|8|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|9|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
-|10|103.132.52.189|8080|Indonesia|Buaran|PT Adeaksa Indo Jayatama|
-|11|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|12|179.1.182.28|999|Colombia|Medellín|Internexa S.a. E.S.P|
-|13|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
-|14|180.191.140.185|8082|Philippines|Makati City|Globe Telecom|
-|15|94.179.153.218|8081|Ukraine|Stepanivka|UKRTELECOM|
-|16|124.6.156.226|8082|Philippines|San Martin|Globe Telecom|
-|17|202.179.69.216|58080|India|Pune|Ankhnet|
-|18|160.22.134.93|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
-|19|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|20|201.7.31.179|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|2|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
+|3|49.149.127.28|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|210.87.92.212|8080|Indonesia|Jepara|PT Indo Telemedia Solusi|
+|6|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
+|7|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|116.196.150.180|17981|China|Hangzhou|JHWA|
+|9|38.76.251.244|999|Dominican Republic|Pizarrete|Cogent Communications|
+|10|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|11|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|12|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|13|201.165.172.3|999|Mexico|Tuxtla Gutiérrez|Mega Cable, S.A. de C.V.|
+|14|36.253.25.11|8181|Nepal|Kathmandu|Ncell Pty. Ltd.|
+|15|194.124.37.122|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|163.223.78.125|8090|Indonesia|Soko|PT Big Network Indonesia|
+|17|160.22.134.93|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|20|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
 
 
 
