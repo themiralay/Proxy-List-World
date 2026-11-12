@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.172.71.165|9191|Indonesia|Colomadu|AZNET|
-|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|3|182.253.151.24|3128|Indonesia|Sukabumi|BIZNET|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|7|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
-|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|1|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|8|161.49.219.181|8082|Philippines|Camiling|Converge Information and Communications Technology Solutions|
 |9|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|10|1.20.178.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|203.14.18.246|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
-|12|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
-|13|191.44.91.59|8080|France|Paris|High Speed For Internet Services L.L.C|
-|14|38.7.23.106|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|15|2.139.41.14|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|16|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
-|17|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|192.58.98.33|8080|Indonesia|Cibeunying|PT Sinergi Jaringan Telekomunikasi|
-|20|190.61.40.134|999|Colombia|Caimito|Ufinet Panama S.A.|
+|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|11|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|12|116.196.150.180|17981|China|Hangzhou|JHWA|
+|13|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|15|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|16|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|17|103.86.135.98|8080|Pakistan|Multan|Mian Internet Services (Pvt) Ltd|
+|18|89.43.132.226|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
+|19|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
 
 
 
