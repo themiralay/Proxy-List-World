@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.219.55.50|8118|United States|Dallas|Atlantic.net|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|160.19.18.173|3125|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|5|103.60.173.173|8080|Bangladesh|Dhaka|Mazeda Networks Limited|
-|6|49.147.46.158|8082|Philippines|Silay|Philippine Long Distance Telephone Co.|
-|7|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|9|143.208.57.165|999|Guatemala|Tecpán Guatemala|Comunicaciones Metropolitanas Cablecolor|
-|10|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|11|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
-|12|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
-|13|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|14|62.220.129.81|8080|Switzerland|Lausanne|Saitis Network, N.Desir|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|182.52.136.43|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|18|191.44.71.208|8080|The Netherlands|Amsterdam|High Speed For Internet Services L.L.C|
-|19|38.58.174.8|999|Mexico|Guadalupe Coté|Cogent Communications|
-|20|180.180.156.69|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|38.7.20.200|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|3|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|161.22.33.226|999|Venezuela|Caracas|THUNDERNET, C.A|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|8|151.253.146.146|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|9|202.10.55.50|8181|Indonesia|Jakarta Pusat|HIGEN|
+|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|11|36.92.61.75|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|13|212.175.50.76|8085|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|202.166.220.40|8080|Nepal|Kathmandu|WorldLink Communications|
+|16|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|41.79.9.229|8080|Kenya|Nairobi|Frontier Optical Networks Ltd|
+|18|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|19|1.10.248.235|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|122.176.158.103|80|India|Ghaziabad|Bharti Airtel|
 
 
 
