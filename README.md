@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5544** proxies at the latest update. Usable proxies are below.
+> Scraper found **5740** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|802|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3307|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|1.20.101.22|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|6|183.88.214.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|193.33.157.118|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|8|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
-|9|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|10|125.25.167.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|12|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
-|13|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|14|217.29.208.206|9999|South Africa|Potchefstroom|HERO TELECOMS (PTY) LTD|
-|15|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|16|201.165.172.3|999|Mexico|Tuxtla Gutiérrez|Mega Cable, S.A. de C.V.|
-|17|38.191.211.252|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|18|201.4.68.243|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|19|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
-|20|38.191.166.50|999|Colombia|Barranquilla|EXPERTOS EN TECNOLOGIA Y TELECOMUNICACIONES S.A.S / XPERT-TIC|
+|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|3|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|4|103.23.236.191|8080|India|Phalodi|Kappa Internet Services Private Limited|
+|5|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|6|205.234.123.37|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
+|7|180.211.161.26|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|124.217.5.100|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|11|191.97.16.18|999|Venezuela|Petare|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|12|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|13|2.32.175.26|8080|Italy|Milan|VODAFONE|
+|14|103.167.30.238|64999|Indonesia|Bekasi|PT iForte Global Internet|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|17|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
+|18|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|19|79.98.32.68|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|20|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
 
 
 
