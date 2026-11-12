@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.229.218|8080|Philippines|Talisay City|Globe Telecom|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|38.19.43.187|999|Colombia|Soacha|Super Redes S.A.S|
-|5|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|116.101.73.52|2080|Vietnam|Hanoi|Viettel Group|
-|7|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
-|8|103.154.73.14|8080|Indonesia|Jakarta|Media Infrastruktur Teknik|
-|9|129.151.130.247|1111|United Arab Emirates|Abu Dhabi|Oracle Corporation|
-|10|190.61.40.134|999|Colombia|Caimito|Ufinet Panama S.A.|
-|11|69.171.214.160|999|United States|Dallas|Ipxo LLC|
-|12|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
-|15|206.135.80.194|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|18|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|20|38.158.83.65|999|Peru|Arequipa|Fiberred SAC|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|112.211.84.86|8585|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|160.179.210.73|5002|Morocco|Settat|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|11|27.77.63.197|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
+|12|45.198.11.183|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|13|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|14|179.63.6.249|999|Peru|Lima|RED AMONES S.A.C.|
+|15|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|16|212.86.52.106|8080|Germany|Berlin|DNS:NET Internet Service GmbH|
+|17|181.233.89.119|999|Venezuela|Cabimas|Colnetwork C.A.|
+|18|154.59.206.186|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|19|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|80.191.46.62|1090|Iran|Tehran|Telecommunication Company of Iran|
 
 
 
