@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
-|3|202.10.55.50|8181|Indonesia|Jakarta Pusat|HIGEN|
-|4|144.124.251.24|10097|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|124.217.0.75|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|3|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
+|4|218.100.23.130|8080|New Zealand|Te Aro|Vital Data Ltd|
 |5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
-|7|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
-|8|124.107.173.219|8082|Philippines|Marikina City|Philippine Long Distance Telephone Co.|
-|9|182.52.149.67|80|Thailand|Bangkok|TOT Public Company Limited|
-|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|11|180.180.156.95|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|103.80.215.123|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|13|38.210.160.159|8080|Costa Rica|San José|Comunicaciones Metropolitanas METROCOM, S.A.|
-|14|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|15|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|17|89.251.21.165|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|18|160.19.103.182|8080|Libya|Tripoli|AWAL TELECOM & TECHNOLOGY|
-|19|101.255.45.44|8080|Indonesia|East Jakarta|PT Remala Abadi|
-|20|148.224.14.198|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|6|180.125.216.109|8118|China|Nanjing|China Telecom|
+|7|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|167.99.8.113|8006|United States|North Bergen|DigitalOcean, LLC|
+|9|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
+|10|82.139.141.206|8080|Poland|Bialystok|Politechnika Bialostocka|
+|11|45.198.20.252|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|12|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|13|157.10.226.93|8080|Pakistan|Lahore|ROUTE 1 DIGITAL (PVT.) LIMITED|
+|14|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|15|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|16|124.107.173.219|8082|Philippines|Marikina City|Philippine Long Distance Telephone Co.|
+|17|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|18|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|19|181.78.80.122|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|20|38.121.212.134|999|Venezuela|Caracas|Galanet Solution C.A|
 
 
 
