@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|180.191.229.218|8080|Philippines|Talisay City|Globe Telecom|
-|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|94.76.224.104|5002|United Kingdom|Reading|Simply Transit Ltd|
-|6|45.150.166.149|8888|United States|Seattle|Spartan Host Ltd|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|11|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
-|12|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|13|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
-|14|92.86.207.198|8080|Romania|Vaideeni|Romtelecom|
-|15|27.77.63.197|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|16|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
-|17|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|45.150.166.149|8888|United States|Seattle|Spartan Host Ltd|
+|5|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|8|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|9|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|124.6.156.226|8082|Philippines|San Martin|Globe Telecom|
+|11|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
+|13|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
+|14|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|38.7.23.105|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|16|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|213.217.34.2|8080|Syria|Damascus|ISP-TARASSUL|
 |18|182.48.82.33|8090|Bangladesh|Rajshahi|Corporate Office|
-|19|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|20|38.19.43.187|999|Colombia|Soacha|Super Redes S.A.S|
+|19|180.191.229.218|8080|Philippines|Talisay City|Globe Telecom|
+|20|170.254.228.90|999|Colombia|Aguazul|Media Commerce Partners S.A|
 
 
 
