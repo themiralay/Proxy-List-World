@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|2|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|202.183.236.221|8080|Thailand|Yala|Advanced Wireless Network Company Limited|
-|6|41.216.186.88|8080|Indonesia|South Jakarta|FASTHOSTING|
-|7|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|8|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|9|36.66.130.147|8080|Indonesia|Kota Cilegon|PT. Telekomunikasi Indonesia|
-|10|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|11|103.118.175.85|3125|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|12|69.171.214.160|999|United States|Dallas|Ipxo LLC|
-|13|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|14|103.68.215.123|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|15|38.75.80.32|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|16|38.211.68.83|999|Colombia|Popayán|Cogent Communications|
-|17|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
-|18|45.70.239.243|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
-|20|203.76.220.121|4840|Bangladesh|Nawāb Char|BUSINESSNETWORK|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|4|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|8|1.10.133.83|8081|Thailand|Tha Kham|TOT Public Company Limited|
+|9|197.248.59.159|8082|Kenya|Nairobi|Safaricom Limited|
+|10|103.172.71.205|8080|Indonesia|Karangampel|AZNET|
+|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|12|125.135.105.153|8080|South Korea|Ulju-gun|Korea Telecom|
+|13|45.232.210.193|999|Chile|La Pintana|Nanotik Telecomunicaciones SPA|
+|14|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|18|77.50.183.34|8080|Russia|Moscow|StarLink Telecom Network|
+|19|181.176.68.118|8443|Peru|Quemazon|VIETTEL PERÚ S.A.C.|
+|20|79.175.100.126|6666|Serbia|Belgrade|OT 100|
 
 
 
