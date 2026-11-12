@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.43.46.91|443|United States|Mountain View|Google LLC|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
-|5|154.88.132.50|8080|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|6|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
-|7|103.158.210.80|8082|Indonesia|Babat|DIGITNET|
-|8|185.194.121.232|8085|France|Roppenheim|Netcom Group SAS|
-|9|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
-|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|181.119.124.101|999|Panama|David|Ufinet Panama S.A.|
-|13|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|14|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|15|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|16|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
-|17|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|18|1.10.248.237|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|206.135.74.172|999|Mexico|Reynosa|Ientc S De RL De CV|
-|20|200.62.236.156|999|Peru|Cashapampa|America Movil Peru S.A.C.|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|186.101.49.211|8080|Ecuador|Guayaquil|Telconet S.A|
+|5|180.180.156.74|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|45.149.24.137|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|101.255.137.2|80|Indonesia|West Jakarta|PT Remala Abadi|
+|11|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|12|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|13|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|16|182.253.21.26|46977|Indonesia|West Jakarta|Biznet Networks|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|103.66.148.86|9999|Pakistan|Sialkot|Sambrial Cable Network|
+|19|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
+|20|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
 
 
 
