@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|8|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|11|150.107.244.200|8080|India|Surat|Infrastruktur STARNET|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|14|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|184.170.169.216|8888|United States|Westfield|Metronet|
-|20|180.180.217.53|80|Thailand|Chon Buri|TOT Public Company Limited|
+|3|45.198.20.252|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|4|182.53.202.220|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|5|1.4.141.34|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|6|1.20.101.27|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|7|182.52.149.67|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|114.7.20.60|3128|Indonesia|North Jakarta|PT. INDOSAT Tbk|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|1.10.248.238|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|15|201.7.31.179|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|16|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|18|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|19|34.43.46.91|443|United States|Mountain View|Google LLC|
+|20|181.225.107.53|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
