@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |3|116.196.150.180|17981|China|Hangzhou|JHWA|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|202.183.236.221|8080|Thailand|Yala|Advanced Wireless Network Company Limited|
-|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|45.198.10.130|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|9|178.252.171.229|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|10|119.93.158.162|9090|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|11|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|12|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|13|119.92.26.89|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|15|64.76.73.131|999|Peru|Lima|Fiberlink E.I.R.L.|
-|16|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
-|17|36.66.130.147|8080|Indonesia|Kota Cilegon|PT. Telekomunikasi Indonesia|
-|18|118.179.191.167|81|Bangladesh|Khulna|Amber IT Limited|
-|19|45.179.200.65|999|Colombia|Bogotá|NET&COM LTDA.|
-|20|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|4|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|6|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|9|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|212.252.73.18|8080|Türkiye|Yalova|Superonline Iletisim Hizmetleri A.S.|
+|11|5.39.255.142|8118|Germany|Frankfurt am Main|Anton Levin|
+|12|103.160.41.8|8080|Indonesia|Ciruas|WISTEL|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|45.198.10.130|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|15|103.86.44.77|30008|South Korea|Seoul|Shanghai Xima Internet Technology Limited|
+|16|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|17|103.86.44.77|30008|South Korea|Seoul|Shanghai Xima Internet Technology Limited|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|43.240.67.101|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|69.75.140.157|8080|United States|Los Angeles|Spectrum|
 
 
 
