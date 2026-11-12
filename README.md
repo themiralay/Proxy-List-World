@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|49.149.127.28|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|2|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|125.26.97.40|8080|Thailand|Tha Ruea|TOT Public Company Limited|
-|6|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|126.209.105.227|5050|Philippines|Manila|Infinivan Incorporated|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|13|205.234.123.37|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|14|74.62.179.122|8080|United States|Anaheim|Charter Communications Inc|
-|15|77.42.95.221|8889|Finland|Helsinki|Hetzner Online GmbH|
-|16|49.148.17.137|9999|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|18|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|19|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
-|20|41.216.186.88|8080|Indonesia|South Jakarta|FASTHOSTING|
+|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|9|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|10|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|11|1.20.101.35|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.143.108.115|8080|Georgia|Tbilisi|Airmax LLC|
+|14|154.88.136.187|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|15|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
+|18|81.90.144.170|9000|Iran|Tehran|Afranet Co|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
