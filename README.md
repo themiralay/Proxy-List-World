@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|216.152.149.246|80|United States|Newark|GTHost|
-|3|161.248.171.26|8585|Indonesia|Pringsewu|PT JALUR DATA INDONESIA|
-|4|180.183.39.159|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
-|8|151.236.23.117|443|Spain|Seville|Comvive Servidores S.L.|
+|1|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|157.20.208.250|8080|Indonesia|Pamekasan|PT Barokah Sistem Telematika|
+|4|216.152.149.246|80|United States|Newark|GTHost|
+|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|6|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
 |9|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|10|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|11|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|12|38.188.63.169|8080|Indonesia|Margasari|PT Nesta Indo Media|
-|13|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|200.48.35.124|999|Peru|Acobamba|Telefonica del Peru S.A.A.|
-|16|181.119.177.229|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|221.141.140.132|8118|South Korea|Hanam|SK Broadband Co Ltd|
-|18|101.51.121.149|80|Thailand|Mueang Nonthaburi|TOT Public Company Limited|
-|19|180.191.232.115|8082|Philippines|Marilao|Globe Telecom|
-|20|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|10|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
+|12|103.132.52.189|8080|Indonesia|Buaran|PT Adeaksa Indo Jayatama|
+|13|104.243.157.1|8080|United States|Evansville|LiteWire Internet Services, Inc.|
+|14|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
+|15|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|16|101.255.137.2|80|Indonesia|West Jakarta|PT Remala Abadi|
+|17|189.203.181.34|8080|Mexico|Cuauhtémoc|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|18|190.121.4.157|999|Chile|Rauco|Telefonica del Sur S.A.|
+|19|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|20|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 
 
 
