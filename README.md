@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|4|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|5|216.152.149.246|80|United States|Newark|GTHost|
-|6|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
-|11|157.15.0.144|8112|Indonesia|Ngawi|Gopalnet|
+|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|3|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|103.208.101.34|8080|Indonesia|Bojongsari|PT Tidar Lintas Nusa|
+|7|89.43.133.116|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|116.101.73.52|2080|Vietnam|Hanoi|Viettel Group|
+|10|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|11|222.127.54.16|8080|Philippines|Lahug|INNOVE|
 |12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|38.80.12.142|999|Dominican Republic|San Cristobal|Cogent Communications|
-|14|222.167.236.73|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|15|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|16|171.103.19.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|87.76.138.37|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|14|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|15|201.4.64.78|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |17|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|20|202.62.67.89|53281|India|Rasapūdipalem|CityOnline Services|
+|18|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|19|45.174.243.20|999|Mexico|Xbacab|Sistemas Y Soluciones De Campeche SAS De CV|
+|20|180.183.199.199|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
 
 
 
