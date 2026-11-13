@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
+|1|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|216.152.149.246|80|United States|Newark|GTHost|
-|8|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|185.196.182.22|8080|Albania|Krume|shqiponjaisp.al LLC|
+|7|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|216.152.149.246|80|United States|Newark|GTHost|
 |11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|13|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|14|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|15|38.75.80.32|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|16|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|17|201.190.178.191|8080|Argentina|Mendoza|Arlink S.A.|
-|18|1.20.178.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|19|103.199.117.121|7777|Indonesia|Banyumas|PT Hepra Teknologi Indonesia|
-|20|183.45.79.102|1081|China|Guangzhou|Chinanet|
+|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|14|102.210.40.125|8080|Kenya|Juja|Skylink Networks|
+|15|38.41.0.116|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|16|45.4.200.67|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|62.220.129.81|8080|Switzerland|Lausanne|Saitis Network, N.Desir|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
