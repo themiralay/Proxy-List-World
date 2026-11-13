@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|116.196.150.180|17981|China|Hangzhou|JHWA|
-|9|182.48.82.33|8090|Bangladesh|Rajshahi|Corporate Office|
-|10|122.54.120.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|12|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|13|148.230.17.252|999|Guatemala|Santa Catarina Pinula|Navega.com S.A.|
-|14|38.252.110.183|999|Venezuela|Maracay|Novopos C.A|
-|15|178.134.242.26|8080|Georgia|Batumi|JSC "Silknet"|
-|16|191.5.126.28|8080|Brazil|Olímpia|Via Fibra Internet Banda Larga EIRELI|
-|17|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
-|18|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|19|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
-|20|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|182.48.82.33|8090|Bangladesh|Rajshahi|Corporate Office|
+|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|38.7.18.150|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|9|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
+|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|12|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|116.196.150.180|17981|China|Hangzhou|JHWA|
+|14|122.54.160.148|8082|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
+|15|38.9.184.137|999|Venezuela|Ocumare|Cogent Communications|
+|16|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|82.138.122.43|80|Türkiye|Istanbul|VEGANET-CGNT|
+|18|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
+|19|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|20|103.193.145.1|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 
 
 
