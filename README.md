@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|2|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
-|3|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|4|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|5|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|6|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|7|124.217.0.75|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|8|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|9|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
-|10|38.188.63.147|8080|Indonesia|Karanganyar|PT Nesta Indo Media|
-|11|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|12|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
-|13|89.251.21.165|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|14|181.188.203.40|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|15|45.174.149.222|999|Argentina|Puerto Iguazú|Cable Video Imagen Canal 5 S.R.L|
-|16|152.32.64.43|8095|Philippines|Mandaluyong|Converge ICT Solution Inc|
-|17|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|1|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|2|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|3|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|4|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|5|202.58.73.246|1111|Indonesia|Blitar|PT Data Buana Nusantara|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|7|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|9|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|186.167.53.178|8282|Venezuela|Barquisimeto|Corporacion Digitel C.A|
+|11|45.174.243.232|999|Mexico|Candelaria|Sistemas Y Soluciones De Campeche SAS De CV|
+|12|160.202.146.48|8080|Bangladesh|Brāhmanbāria|Antaranga Dot Com Ltd|
+|13|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|180.191.100.135|8082|Philippines|Makati City|Globe Telecom|
+|15|45.143.108.114|8080|Georgia|Tbilisi|Airmax LLC|
+|16|103.19.78.125|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
+|17|181.121.65.62|999|Paraguay|Encarnación|Telecel S.A.|
+|18|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
 |19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|117.18.16.73|8080|Indonesia|Kertosono|PT ALUCIO|
+|20|123.0.19.42|10000|Bangladesh|Naogaon|Icon Infotech|
 
 
 
