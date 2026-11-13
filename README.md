@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|146.190.60.147|8015|United States|Santa Clara|DigitalOcean, LLC|
-|4|180.183.39.159|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|6|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|7|103.180.122.64|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|163.227.87.123|5050|Philippines|Mabini|Clian Internet and I.T. Services|
-|10|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
-|11|103.39.51.160|80|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|12|138.118.51.137|8080|Argentina|La Plata|CyberWave S.A.|
-|13|1.10.248.237|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|179.1.213.232|999|Colombia|La Mesa|Internexa S.a. E.S.P|
-|15|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|16|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|17|103.31.235.251|8080|Indonesia|Caringin|PT Usaha Adi Sanggoro|
-|18|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|19|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
-|20|103.157.78.63|8080|Indonesia|Jakarta|PT Super Media Indonesia|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|103.156.75.215|9980|Indonesia|Gianyar|PT Trika Global Media|
+|9|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|10|103.180.122.64|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|11|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|181.78.203.3|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|14|181.176.68.118|8443|Peru|Quemazon|VIETTEL PERÚ S.A.C.|
+|15|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|16|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
+|17|103.53.184.186|8080|Indonesia|Makassar|BOSOWA|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|181.176.2.246|8443|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|20|69.171.214.160|999|United States|Dallas|Ipxo LLC|
 
 
 
