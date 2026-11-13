@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4793** proxies at the latest update. Usable proxies are below.
+> Scraper found **4718** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|555|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2896|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|112.210.155.150|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|6|187.245.202.17|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
-|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|8|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|9|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|10|200.160.212.83|2083|Brazil|São Paulo|DataZone Networks LLC|
-|11|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|12|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
-|13|125.25.33.137|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|16|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|178.251.111.28|8080|Ukraine|Berdychiv|Dataline LLC|
-|18|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
-|19|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
+|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|45.38.22.64|999|United States|Santa Clara|Corporacion Gala IT C.A|
+|9|175.103.41.192|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
+|10|216.152.149.246|80|United States|Newark|GTHost|
+|11|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|12|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
+|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|14|45.198.10.130|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|15|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|181.78.73.117|8080|Colombia|Moniquirá|Ufinet Panama S.A.|
+|18|157.10.97.37|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|19|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|20|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
 
 
 
