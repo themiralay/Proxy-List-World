@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4744** proxies at the latest update. Usable proxies are below.
+> Scraper found **4842** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|779|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|467|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2896|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.124.251.24|10097|The Netherlands|Amsterdam|Servers Tech Fzco|
-|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|7|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
-|8|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|9|202.148.13.182|8080|Indonesia|Mojosari|DNET-SBY|
-|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|103.103.8.222|8080|India|Chennai|F2h Networks Pvt Ltd|
-|13|38.49.159.54|999|Mexico|Querétaro City|IENTC S de RL de CV|
-|14|61.130.176.21|18379|China|Lishui|Chinanet|
-|15|170.244.91.144|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|185.146.138.178|8080|Syria|Al Ḩaffah|Abdul Rahman Mustafa trading as Alfateh Company for Communications|
-|20|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
+|7|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|8|114.141.54.2|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|9|144.79.181.33|8080|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
+|10|173.205.202.241|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|11|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
+|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|13|182.52.136.73|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|15|150.107.104.24|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|45.194.3.119|8080|India|Noida|CtrlS|
+|18|113.192.31.79|8099|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|19|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
