@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|146.190.60.147|8005|United States|Santa Clara|DigitalOcean, LLC|
 |3|167.99.8.113|8013|United States|North Bergen|DigitalOcean, LLC|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|6|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|7|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.218.41.98|8082|South Africa|Durban|IMVULA ITECHNOLOGIES (PTY) LTD|
-|13|103.155.196.182|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|14|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
-|15|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
-|16|1.20.178.221|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|38.80.12.142|999|Dominican Republic|San Cristobal|Cogent Communications|
-|19|49.146.48.103|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|20|167.99.8.113|8013|United States|North Bergen|DigitalOcean, LLC|
+|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|6|119.93.151.254|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|7|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
+|8|158.140.181.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|9|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
+|10|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|13|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|14|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
+|15|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|16|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
+|17|191.102.109.113|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
+|19|218.100.23.130|8080|New Zealand|Te Aro|Vital Data Ltd|
+|20|36.95.208.13|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
