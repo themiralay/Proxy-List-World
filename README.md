@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
 |6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|183.45.79.102|1081|China|Guangzhou|Chinanet|
-|10|125.25.167.196|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|38.252.110.183|999|Venezuela|Maracay|Novopos C.A|
-|12|216.152.152.44|80|United States|Los Angeles|GTHost|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|216.152.149.246|80|United States|Newark|GTHost|
-|16|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
-|17|180.180.123.40|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
-|20|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
+|8|216.152.149.246|80|United States|Newark|GTHost|
+|9|216.152.152.44|80|United States|Los Angeles|GTHost|
+|10|43.240.67.101|80|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|11|34.43.46.91|443|United States|Mountain View|Google LLC|
+|12|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|181.78.44.63|999|Honduras|La Unión|Ufinet Panama S.A.|
+|14|111.125.242.34|80|India|Mumbai|Microscan Internet Limited|
+|15|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|16|160.19.145.101|3127|Indonesia|Demak|Lintas Data Prima, PT|
+|17|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|38.190.120.65|999|Colombia|Puerto Nare|Raser Telecomunicaciones|
+|20|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
