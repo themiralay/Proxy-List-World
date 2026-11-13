@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|2|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|9|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|10|216.152.149.246|80|United States|Newark|GTHost|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|14|154.88.132.50|8080|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|15|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|16|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
-|17|216.152.152.44|80|United States|Los Angeles|GTHost|
-|18|103.178.171.161|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|19|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
-|20|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|45.136.57.153|8443|Kazakhstan|Almaty|Megahost KZ Uralsk|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|6|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|7|154.88.132.50|8080|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|8|216.152.152.44|80|United States|Los Angeles|GTHost|
+|9|1.20.101.27|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|10|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|12|216.152.149.246|80|United States|Newark|GTHost|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
+|15|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
+|18|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|19|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
 
 
 
