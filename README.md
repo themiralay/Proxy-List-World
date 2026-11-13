@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|77.37.44.179|3128|India|Mumbai|HOSTINGER IN|
-|3|165.22.99.36|8005|Singapore|Singapore|DigitalOcean, LLC|
-|4|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|5|45.198.20.252|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|6|180.191.136.92|8082|Philippines|Cebu City|Globe Telecom|
-|7|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|8|190.26.209.126|999|Colombia|Bogotá|ETB - Colombia|
-|9|45.198.33.119|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|10|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
-|12|109.224.242.230|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|13|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|109.120.156.237|3128|Sweden|Stockholm|Aeza Group LLC|
-|15|223.207.97.249|8080|Thailand|Loei|Triple T Broadband Public Company Limited|
-|16|103.242.104.150|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|17|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
-|18|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
-|19|205.234.123.22|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|20|206.42.12.58|3132|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|77.37.44.179|3128|India|Mumbai|HOSTINGER IN|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|36.67.194.162|8042|Indonesia|West Jakarta|PT. Telekomunikasi Indonesia|
+|7|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|8|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|9|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|10|103.242.104.150|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
+|11|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
+|12|112.211.84.86|8585|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|13|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|14|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.178.3.243|8818|Indonesia|Majalengka|RSTNET|
+|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|17|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
