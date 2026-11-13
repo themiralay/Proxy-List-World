@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|216.152.149.246|80|United States|Newark|GTHost|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|6|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|10|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|112.202.39.81|3128|Philippines|Santa Barbara|Philippine Long Distance Telephone Co.|
-|13|38.50.165.122|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
-|14|61.130.176.21|18379|China|Lishui|Chinanet|
-|15|216.152.149.246|80|United States|Newark|GTHost|
-|16|182.52.136.70|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|18|182.52.136.46|80|Thailand|Bangkok|TOT Public Company Limited|
-|19|112.198.134.143|8081|Philippines|Nasugbu|Globe Telecom|
-|20|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
+|9|116.196.150.180|17981|China|Hangzhou|JHWA|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|61.130.176.21|18379|China|Lishui|Chinanet|
+|12|223.207.97.249|8080|Thailand|Loei|Triple T Broadband Public Company Limited|
+|13|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|14|182.52.136.46|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|204.199.106.226|999|Colombia|Bogotá|CTL Colombia|
+|16|187.49.178.237|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|17|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
+|19|103.102.14.48|1111|Indonesia|Rembang|FISNET|
+|20|181.209.118.254|999|Argentina|General Guemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
