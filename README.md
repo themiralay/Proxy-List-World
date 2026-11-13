@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|153.132.216.83|8080|Japan|Araichō|NTT Communications Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|38.58.174.85|999|Mexico|San José del Rincón Centro|Cogent Communications|
-|6|180.183.39.159|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|7|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|9|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|10|216.152.152.44|80|United States|Los Angeles|GTHost|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|13|182.52.149.42|443|Thailand|Bangkok|TOT Public Company Limited|
-|14|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
-|15|20.33.10.79|443|South Africa|Johannesburg|Microsoft Corporation|
-|16|27.147.169.75|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|18|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
-|19|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|20|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|216.152.152.44|80|United States|Los Angeles|GTHost|
+|6|103.168.210.122|80|India|Delhi|ATC INFOCOM SOLUTIONS|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|11|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
+|12|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
+|13|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|14|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
+|16|154.18.255.123|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|18|45.65.226.171|999|Argentina|Buenos Aires|Solution LAN S.A|
+|19|182.52.149.42|443|Thailand|Bangkok|TOT Public Company Limited|
+|20|2.27.29.96|3128|Germany|Frankfurt am Main|Senko Digital LLC|
 
 
 
