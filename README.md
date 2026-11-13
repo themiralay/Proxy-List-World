@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.12.161.248|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|3|216.152.152.44|80|United States|Los Angeles|GTHost|
+|4|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
 |6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|8|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|11|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|116.196.150.180|17981|China|Hangzhou|JHWA|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|1.10.248.249|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|119.93.151.254|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|49.156.44.166|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|18|103.242.107.19|3125|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|19|216.152.152.44|80|United States|Los Angeles|GTHost|
-|20|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|7|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|8|216.152.152.44|80|United States|Los Angeles|GTHost|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
+|12|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|16|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
+|17|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|1.10.248.235|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|157.66.3.20|1111|Indonesia|Bekasi Regency|PT Ashyla Karya Abadi|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
