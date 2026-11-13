@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5202** proxies at the latest update. Usable proxies are below.
+> Scraper found **5124** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2896|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|8|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|1|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|187.245.202.17|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|6|182.52.113.71|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|38.190.120.65|999|Colombia|Puerto Nare|Raser Telecomunicaciones|
+|8|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
 |9|119.17.211.204|8080|Vietnam|Hanoi|Netnam Corporation|
-|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|124.158.190.130|64999|Indonesia|Jakarta|PT Jala Lintas Media|
-|13|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|14|183.173.65.195|4780|China|Beijing|CERNET|
-|15|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|16|191.44.71.208|8080|The Netherlands|Amsterdam|High Speed For Internet Services L.L.C|
-|17|101.51.121.149|80|Thailand|Mueang Nonthaburi|TOT Public Company Limited|
-|18|181.121.65.62|999|Paraguay|Encarnación|Telecel S.A.|
-|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|20|185.109.244.69|8080|Iran|Tehran|Asiatech Data Transmission company|
+|10|45.174.149.222|999|Argentina|Puerto Iguazú|Cable Video Imagen Canal 5 S.R.L|
+|11|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|12|188.132.249.148|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|13|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|14|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|15|210.87.125.57|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|16|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|38.196.216.19|999|Dominican Republic|Boca Chica|Cogent Communications|
+|20|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
 
 
 
