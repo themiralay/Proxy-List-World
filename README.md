@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4562** proxies at the latest update. Usable proxies are below.
+> Scraper found **4666** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|774|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|547|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2645|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|9|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|10|36.93.163.219|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|122.166.79.199|80|India|Hubballi|Bharti Airtel Ltd.|
-|14|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|15|148.224.14.252|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
-|16|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|17|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|163.227.87.123|5050|Philippines|Mabini|Clian Internet and I.T. Services|
-|19|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|6|202.169.51.45|8080|Indonesia|North Jakarta|Biznet - PSN-NAP|
+|7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|8|185.8.148.81|8085|Italy|Portiglioni|DIGITAL TELECOMMUNICATION SERVICES 3th|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|11|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|185.144.61.151|8080|Russia|Voronezh|VORONEZHTELECOM|
+|13|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|14|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|113.192.30.240|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
+|16|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
+|18|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|19|139.5.75.83|8080|Nepal|Patan|WLINK|
+|20|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
