@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|3|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|7|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|8|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|16|101.51.121.149|80|Thailand|Mueang Nonthaburi|TOT Public Company Limited|
-|17|45.198.8.222|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
-|18|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
-|20|182.53.202.228|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|182.52.113.71|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|1.20.101.31|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|9|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
+|10|103.97.46.10|8080|India|New Delhi|Esto Media Private Limited|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|13|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|16|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|17|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
+|19|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|183.240.64.46|9090|China|Guangzhou|China Mobile communications corporation|
 
 
 
