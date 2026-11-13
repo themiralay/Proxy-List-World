@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.4.76.242|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
+|1|34.43.46.91|80|United States|Mountain View|Google LLC|
 |2|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
 |3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|5|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|98.153.152.141|7070|United States|Los Angeles|Charter Communications Inc|
-|9|185.94.164.182|8080|The Netherlands|Amsterdam|First Server Limited|
-|10|181.37.240.89|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|11|79.98.32.73|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|12|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
-|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|14|219.148.171.178|9445|China|Hechi|Chinanet|
-|15|43.249.227.186|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|16|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
-|17|14.34.180.21|38157|South Korea|Pyeongtaek-si|Korea Telecom|
-|18|157.15.62.44|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|19|79.98.32.94|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|20|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
+|4|203.190.53.210|8080|Indonesia|West Jakarta|PT POWER TELECOM|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|7|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|8|190.237.238.174|999|Peru|Lima|TDP-GRS|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|10|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|12|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|13|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|14|14.172.88.126|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|16|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
+|17|113.53.29.74|8080|Thailand|Phuket|TOT Public Company Limited|
+|18|180.190.184.233|8082|Philippines|Lahug|Globe Telecom|
+|19|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
+|20|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
 
 
 
