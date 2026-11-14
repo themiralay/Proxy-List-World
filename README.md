@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|8|45.198.10.53|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|9|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|185.196.182.22|8080|Albania|Krume|shqiponjaisp.al LLC|
-|13|1.10.248.249|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|1.20.101.31|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|206.245.135.193|8888|Finland|Helsinki|Hostkey B.V.|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
 |14|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|15|27.147.28.73|8080|Taiwan|Xindian District|Extra-Lan Technologies Co., LTD|
-|16|182.52.113.74|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
-|18|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|15|31.135.214.17|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|16|112.201.227.236|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|17|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|18|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
 |19|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|20|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
