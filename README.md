@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|6|1.53.63.191|3128|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|9|180.180.156.69|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|146.190.60.147|8004|United States|Santa Clara|DigitalOcean, LLC|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
+|7|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|8|38.76.251.130|8080|Dominican Republic|Pizarrete|Cogent Communications|
+|9|216.152.149.246|80|United States|Newark|GTHost|
+|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |11|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|12|182.53.202.218|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|14|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
+|15|161.22.33.194|999|Venezuela|Caracas|THUNDERNET, C.A|
 |16|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |17|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|18|116.196.150.180|17981|China|Hangzhou|JHWA|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|19|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|20|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
