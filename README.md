@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.230.48.110|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|3|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|146.190.60.147|8005|United States|Santa Clara|DigitalOcean, LLC|
-|7|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|9|38.236.240.74|999|Colombia|Florencia|Cogent Communications|
-|10|187.188.171.231|10101|Mexico|Puebla City|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|11|187.19.200.121|8080|Brazil|Carapicuíba|Brisanet Servicos De Telecomunicacoes S.A|
-|12|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
-|13|160.19.18.121|8181|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|14|87.76.1.80|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|15|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|114.4.251.26|8080|Indonesia|North Jakarta|PT. INDOSAT Tbk|
-|18|138.118.107.29|999|Guatemala|Santa María de Jesús|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|20|61.130.176.21|18523|China|Lishui|Chinanet|
+|1|154.94.239.25|80|Hong Kong|Hong Kong|cognetcloud INC|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|61.130.176.21|18523|China|Lishui|Chinanet|
+|6|222.167.236.143|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|7|116.196.150.180|17981|China|Hangzhou|JHWA|
+|8|45.229.16.33|999|Ecuador|San Juan|Turbonet S.A.|
+|9|201.7.31.122|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|10|47.83.142.187|6666|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|216.152.152.44|80|United States|Los Angeles|GTHost|
+|12|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|202.58.77.214|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
+|15|191.102.109.113|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|16|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|17|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|18|103.235.181.245|8080|Indonesia|Sindangsari|PT Top Class Universal|
+|19|103.132.53.28|8080|Indonesia|Pemalang|PT Adeaksa Indo Jayatama|
+|20|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
