@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|113.192.30.240|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|7|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|157.66.236.199|1111|Indonesia|Kediri|PT DHAHA PRIMA NET|
-|13|103.132.53.28|8080|Indonesia|Pemalang|PT Adeaksa Indo Jayatama|
+|2|103.132.53.28|8080|Indonesia|Pemalang|PT Adeaksa Indo Jayatama|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|157.66.236.199|1111|Indonesia|Kediri|PT DHAHA PRIMA NET|
+|5|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|6|103.177.153.121|8080|Indonesia|Bandung|PT Beibi Cemerlang Indonesia|
+|7|136.226.162.24|12345|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|8|136.226.162.24|12345|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|9|136.226.162.24|12345|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|10|165.225.92.14|10443|Spain|Madrid|Zscaler Switzerland GmbH|
+|11|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
+|12|203.150.113.243|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
 |14|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |15|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|16|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
-|17|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|18|40.160.36.112|999|United States|Reston|OVH SAS|
-|19|1.20.101.32|443|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|20|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|17|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|18|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|19|103.227.186.217|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
