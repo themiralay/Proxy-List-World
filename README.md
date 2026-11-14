@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|38.147.162.108|1081|Hong Kong|Hong Kong|Xnnet LLC|
-|4|216.152.152.44|80|United States|Los Angeles|GTHost|
-|5|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|216.152.152.44|80|United States|Los Angeles|GTHost|
-|8|216.152.149.246|80|United States|Newark|GTHost|
-|9|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|10|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|11|34.43.46.91|443|United States|Mountain View|Google LLC|
-|12|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
-|13|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|15|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|16|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|17|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|18|181.119.185.194|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|36.95.82.69|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|20|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|216.152.152.44|80|United States|Los Angeles|GTHost|
+|4|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|216.152.149.246|80|United States|Newark|GTHost|
+|8|1.10.248.226|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
+|10|1.20.101.26|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|11|177.234.217.45|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|46.246.162.81|8080|Greece|Athens|FORTHnet SA address|
+|15|122.52.202.231|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|201.4.68.236|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|197.248.75.221|8105|Kenya|Nairobi|Safaricom Limited|
+|18|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|19|124.6.156.226|8082|Philippines|San Martin|Globe Telecom|
+|20|160.19.19.122|8090|Indonesia|Bandung|PT Indo Telemedia Solusi|
 
 
 
