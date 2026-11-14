@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
 |4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|186.96.111.214|999|Colombia|San Martín|TV AZTECA SUCURSAL COLOMBIA|
-|6|216.152.149.246|80|United States|Newark|GTHost|
-|7|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
-|8|102.0.20.92|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|9|216.152.152.44|80|United States|Los Angeles|GTHost|
-|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
-|12|180.183.184.8|3128|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|13|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
-|15|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
-|16|116.196.150.180|17981|China|Hangzhou|JHWA|
-|17|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|18|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|19|104.129.203.244|9443|United States|San Jose|ZSCALER, INC.|
-|20|103.147.109.250|3128|Singapore|Singapore|Duke Host Pte. Ltd.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|11|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|13|216.152.149.246|80|United States|Newark|GTHost|
+|14|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|15|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|16|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|178.134.242.26|8080|Georgia|Batumi|JSC "Silknet"|
+|18|103.124.136.219|8080|Indonesia|Subang|Global Media Data Prima|
+|19|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|20|103.177.153.121|8080|Indonesia|Bandung|PT Beibi Cemerlang Indonesia|
 
 
 
