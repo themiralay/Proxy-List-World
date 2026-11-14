@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|9|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|11|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|12|116.196.150.180|17981|China|Hangzhou|JHWA|
-|13|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|103.184.54.9|8080|Indonesia|Tegalgede Kulon|PT Proxi Jaringan Nusantara|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|17|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
-|18|182.53.202.228|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|2|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|3|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
+|8|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
+|9|157.230.219.85|8118|United States|North Bergen|DigitalOcean, LLC|
+|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|15|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|201.238.242.38|999|Chile|Santiago|Gtd Internet S.A|
+|17|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|20|2.144.13.68|443|Iran|Tehran|Iran Cell Service and Communication Company|
 
 
 
