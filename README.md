@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
-|3|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|4|36.93.173.108|8118|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|5|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|6|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|7|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|36.64.44.51|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|14|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|15|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
-|16|75.109.189.86|8080|United States|Nacogdoches|Suddenlink Communications|
-|17|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|77.37.44.179|3128|India|Mumbai|HOSTINGER IN|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|3|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|74.50.211.190|8080|Myanmar|Daik-u|Nine Communications Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|8|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|10|111.125.242.34|1111|India|Mumbai|Microscan Internet Limited|
+|11|216.152.152.44|80|United States|Los Angeles|GTHost|
+|12|216.152.152.44|80|United States|Los Angeles|GTHost|
+|13|20.33.10.132|443|South Africa|Johannesburg|Microsoft Corporation|
+|14|176.118.150.178|8080|Ukraine|Lityn|VINASTERISK, PP|
+|15|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|16|77.37.44.179|3128|India|Mumbai|HOSTINGER IN|
+|17|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|19|103.48.71.6|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
