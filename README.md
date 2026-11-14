@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.124.251.24|10009|The Netherlands|Amsterdam|Servers Tech Fzco|
-|2|45.194.3.132|8080|India|Noida|CtrlS|
+|1|165.154.236.164|3128|Singapore|Singapore|Scloud Pte Ltd|
+|2|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
 |3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|7|41.216.186.88|8080|Indonesia|South Jakarta|FASTHOSTING|
-|8|216.152.152.44|80|United States|Los Angeles|GTHost|
-|9|157.66.236.199|1111|Indonesia|Kediri|PT DHAHA PRIMA NET|
-|10|210.87.92.212|8080|Indonesia|Jepara|PT Indo Telemedia Solusi|
-|11|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|27.131.14.9|8812|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
-|13|157.15.40.222|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|14|190.121.4.157|999|Chile|Rauco|Telefonica del Sur S.A.|
-|15|180.180.156.70|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|165.22.99.36|8018|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|20|38.250.183.132|8069|Peru|Tacna|Desarrollo De Infraestructura De Telecomunicaciones Peru S.A.C.|
+|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|6|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|216.152.152.44|80|United States|Los Angeles|GTHost|
+|8|122.246.4.30|17981|China|Ningbo|China Telecom|
+|9|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|104.218.199.159|16062|United States|Denver|BraveWay LLC|
+|11|45.70.52.248|8080|Brazil|São João de Meriti|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|13|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|160.22.45.50|8080|Indonesia|Marisa|PT Celebes Multi Network|
+|16|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|17|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|45.198.20.195|3125|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
