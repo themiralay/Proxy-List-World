@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|3|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|4|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|103.27.177.186|808|Hong Kong|Mong Kok|HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED|
 |5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
-|8|1.4.141.10|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|9|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
-|10|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
-|11|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
-|12|62.201.217.243|40010|Iraq|Kelar|BAG|
-|13|45.198.8.110|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
-|14|180.183.39.159|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|6|103.27.177.187|808|Hong Kong|Mong Kok|HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED|
+|7|139.84.135.33|80|India|Bengaluru|The Constant Company|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
+|10|1.4.141.10|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|11|45.198.8.110|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
+|12|216.49.115.7|8080|United States|Huntingburg|Perry-Spencer Communications, Inc.|
+|13|157.15.62.74|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|14|181.233.88.218|999|Venezuela|Cabimas|Colnetwork C.A.|
 |15|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|16|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|18|151.243.153.157|8118|United States|Seattle|Black Apple|
-|19|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|103.103.8.222|8080|India|Chennai|F2h Networks Pvt Ltd|
+|17|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|119.73.109.210|8080|Pakistan|Lahore|LDNPK|
+|19|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|109.252.226.30|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
 
 
 
