@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|38.191.149.127|999|Mexico|Santa Cruz de Rosales|GRIDNED|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|165.101.231.153|8080|Indonesia|Weru|PT Anugerah Cimanuk Raya|
-|6|38.51.233.102|999|Colombia|Pasto|SP SISTEMAS PALACIOS|
-|7|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|10|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
-|13|64.76.73.131|999|Peru|Lima|Fiberlink E.I.R.L.|
-|14|191.44.91.59|8080|France|Paris|High Speed For Internet Services L.L.C|
-|15|148.224.14.253|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
-|16|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
-|17|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|222.252.97.26|8008|Vietnam|Phú Thương|VietNam Post and Telecom Corporation|
-|19|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|20|144.79.181.33|8080|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
+|4|167.99.3.26|5086|United States|North Bergen|DigitalOcean, LLC|
+|5|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|8|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|9|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|10|93.118.120.60|8080|Iran|Tehran|Telecommunication Company of Iran|
+|11|154.19.39.220|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
+|12|182.253.151.24|3128|Indonesia|Sukabumi|BIZNET|
+|13|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|14|149.2.83.156|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|15|190.97.226.232|999|Venezuela|Santa Bárbara|Viginet C.A|
+|16|103.126.87.125|8090|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|17|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
+|19|110.76.147.22|3128|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|20|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
 
 
 
