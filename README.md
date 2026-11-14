@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|216.152.152.44|80|United States|Los Angeles|GTHost|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|216.152.152.44|80|United States|Los Angeles|GTHost|
-|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|9|45.198.10.39|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
-|12|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|8|103.124.137.193|8181|Indonesia|Pandaan|Global Media Data Prima|
+|9|116.196.150.180|17981|China|Hangzhou|JHWA|
+|10|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |13|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|14|190.12.150.244|999|Ecuador|La Concordia|Servitelconet Cia. Ltda.|
-|15|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|17|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
-|18|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|19|14.172.88.126|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|20|123.0.19.210|10000|Bangladesh|Naogaon|Icon Infotech|
+|14|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|15|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|16|103.61.226.182|8080|Indonesia|Cikampek|PT Pusat Fiber Indonesia|
+|17|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|212.200.223.89|8080|Serbia|Novi Sad|TELEKOM SRBIJA a.d.|
+|20|41.33.173.82|8080|Egypt|Cairo|TE Data|
 
 
 
