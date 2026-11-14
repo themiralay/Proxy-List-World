@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|4|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|8|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
 |10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|13|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|38.210.160.159|8080|Costa Rica|San José|Comunicaciones Metropolitanas METROCOM, S.A.|
-|15|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|19|157.20.220.51|8080|Indonesia|Parung|PT Nawasena Andalan Indonesia|
-|20|38.191.211.253|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|14|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|16|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|17|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
+|18|178.134.242.26|8080|Georgia|Batumi|JSC "Silknet"|
+|19|38.51.206.73|999|Venezuela|Maracaibo|Tecnoven Services C.A|
+|20|180.191.100.63|5050|Philippines|Makati City|Globe Telecom|
 
 
 
