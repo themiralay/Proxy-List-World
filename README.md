@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|2|122.246.4.30|17981|China|Ningbo|China Telecom|
-|3|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
-|4|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|5|182.253.40.39|8080|Indonesia|Central Jakarta|BIZNET|
-|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|147.161.138.13|11724|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|3|147.161.138.13|11724|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
 |8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|9|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|223.207.97.249|8080|Thailand|Loei|Triple T Broadband Public Company Limited|
-|11|203.76.220.121|4840|Bangladesh|Nawāb Char|BUSINESSNETWORK|
-|12|216.152.149.246|80|United States|Newark|GTHost|
-|13|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|14|38.248.80.21|999|Dominican Republic|San Juan|GB TELECORP DOMINICANA, S.R.L|
-|15|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
-|16|188.72.42.241|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
-|17|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|18|147.161.138.13|11514|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|167.99.3.26|9325|United States|North Bergen|DigitalOcean, LLC|
+|10|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
+|11|38.156.145.128|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.a. De C.V|
+|12|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
+|13|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
+|14|148.230.17.251|999|Guatemala|Guazacapán|Navega.com S.A.|
+|15|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|181.209.118.252|999|Argentina|General Guemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
 
 
 
