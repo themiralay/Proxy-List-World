@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|182.52.149.67|80|Thailand|Bangkok|TOT Public Company Limited|
-|4|103.148.216.121|8080|Bangladesh|Narayanganj|Little Boys|
-|5|185.196.182.22|8080|Albania|Krume|shqiponjaisp.al LLC|
-|6|181.78.195.136|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|7|134.249.86.47|8080|Ukraine|Kyiv|Kyivstar UA|
-|8|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|116.196.150.180|17981|China|Hangzhou|JHWA|
-|10|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|12|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
-|14|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
-|15|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|216.152.149.246|80|United States|Newark|GTHost|
-|19|103.227.187.19|6090|Indonesia|Wirodayan|PT Master Star Network|
-|20|181.129.252.124|999|Colombia|Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|2|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
+|3|160.202.146.48|8080|Bangladesh|Brāhmanbāria|Antaranga Dot Com Ltd|
+|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|9|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|90.146.196.18|8080|Austria|Traun|LIWEST Kabelmedien GmbH|
+|11|201.230.121.228|999|Peru|Puno|Telefonica Del Peru|
+|12|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
+|13|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|116.68.162.174|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|15|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|16|181.78.1.227|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|17|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET PRIVATE LIMITED|
+|18|79.98.32.82|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|19|202.179.188.6|8080|Indonesia|East Jakarta|PT. Telemedia Dinamika Sarana|
+|20|58.65.202.159|808|Pakistan|Karachi|Cyber Internet Services Pakistan|
 
 
 
