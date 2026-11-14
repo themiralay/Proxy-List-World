@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|167.99.8.113|8003|United States|North Bergen|DigitalOcean, LLC|
+|4|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
 |5|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|6|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|10|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
-|11|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
-|12|75.109.189.86|8080|United States|Nacogdoches|Suddenlink Communications|
-|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|14|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
-|16|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|17|103.80.215.77|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|18|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|19|201.7.31.179|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|20|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
+|6|200.62.236.156|999|Peru|Cashapampa|America Movil Peru S.A.C.|
+|7|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
+|9|173.205.202.241|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|12|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|38.156.233.173|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|14|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|15|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|111.125.242.34|1111|India|Mumbai|Microscan Internet Limited|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|41.216.57.75|8080|Benin|Cotonou|Benin Telecoms Infrastructures SA|
 
 
 
