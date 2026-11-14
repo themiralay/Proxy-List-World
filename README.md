@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|2|144.124.251.24|10009|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
-|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|1|216.152.152.44|80|United States|Los Angeles|GTHost|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|144.124.251.24|10552|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
 |8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|9|2.179.95.57|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|10|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|11|138.118.51.137|8080|Argentina|La Plata|CyberWave S.A.|
-|12|222.127.54.16|8080|Philippines|Lahug|INNOVE|
-|13|116.204.166.148|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|14|38.196.221.146|999|Dominican Republic|Boca Chica|Cogent Communications|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|17|165.101.231.153|8080|Indonesia|Weru|PT Anugerah Cimanuk Raya|
-|18|182.160.100.142|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|193.33.157.2|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|20|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|13|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|2.87.228.161|18080|Greece|Athens|OTEnet|
+|16|182.160.100.142|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|103.169.255.202|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|18|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
+|19|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
