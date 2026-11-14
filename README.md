@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|4|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|6|157.15.63.48|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|7|36.92.61.75|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|8|103.147.134.133|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
-|9|223.207.97.249|8080|Thailand|Loei|Triple T Broadband Public Company Limited|
-|10|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
-|11|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|38.63.122.4|999|Venezuela|Cabimas|Colnetwork C.A|
-|13|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
-|14|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|15|112.208.174.83|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
-|18|111.95.161.133|8080|Indonesia|Bekasi|Linknet-Fastnet ASN|
-|19|112.205.155.25|3128|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|20|216.152.149.246|80|United States|Newark|GTHost|
+|1|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
+|9|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|10|38.50.165.122|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|11|103.161.30.141|83|India|Tadepalligudem|Venkata Sai Internet Pvt Ltd|
+|12|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|13|223.207.97.249|8080|Thailand|Loei|Triple T Broadband Public Company Limited|
+|14|38.51.233.102|999|Colombia|Pasto|SP SISTEMAS PALACIOS|
+|15|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|16|201.4.69.46|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|186.10.150.185|8080|Chile|Santiago|Entel Chile S.A.|
+|18|45.229.16.36|999|Ecuador|San Juan|Turbonet S.A.|
+|19|38.76.221.188|8888|Hong Kong|Hong Kong|Cogent Communications|
+|20|103.142.255.32|8080|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
 
 
 
