@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3724** proxies at the latest update. Usable proxies are below.
+> Scraper found **3742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|476|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|520|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|423|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2125|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|157.66.239.17|8080|Indonesia|Ponorogo|ADILINKINA|
-|4|144.124.251.24|10009|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|151.243.153.157|8118|United States|Seattle|Black Apple|
-|7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|8|116.196.150.180|17981|China|Hangzhou|JHWA|
-|9|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
-|10|182.160.100.142|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
-|12|78.155.65.204|8080|Syria|Qadsayyā|ISP-TARASSUL|
-|13|103.48.71.142|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
-|14|64.76.106.145|999|Peru|Lima|Loa Network|
-|15|81.90.144.170|9000|Iran|Tehran|Afranet Co|
-|16|103.139.200.230|8080|India|Galsi|Winnet Broadband Private Limited|
-|17|117.5.162.133|8080|Vietnam|Ho Chi Minh City|VIETTEL|
-|18|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
-|19|1.10.248.239|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|190.121.4.157|999|Chile|Rauco|Telefonica del Sur S.A.|
+|1|144.124.251.24|10088|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|3|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|4|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|5|182.160.100.142|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|6|167.99.8.113|8013|United States|North Bergen|DigitalOcean, LLC|
+|7|103.53.184.186|8080|Indonesia|Makassar|BOSOWA|
+|8|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|11|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
+|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|13|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
+|14|151.243.153.157|8118|United States|Seattle|Black Apple|
+|15|103.147.135.17|8082|Indonesia|Gunungtengah|PT.MURNI MAKMUR ABADI|
+|16|104.218.199.159|16062|United States|Denver|BraveWay LLC|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|19|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
+|20|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
