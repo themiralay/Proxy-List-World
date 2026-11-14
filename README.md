@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
-|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|216.152.149.246|80|United States|Newark|GTHost|
-|6|161.82.141.220|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|8|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
-|9|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
-|10|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|61.130.176.21|18215|China|Lishui|Chinanet|
-|12|45.65.226.174|999|Argentina|Buenos Aires|Solution LAN S.A|
-|13|185.159.130.30|8080|The Netherlands|Amsterdam|Livi Hosting LTD|
-|14|216.152.152.44|80|United States|Los Angeles|GTHost|
-|15|85.117.56.29|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
-|18|85.97.190.88|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|19|37.230.57.238|999|Paraguay|San Ignacio|Startelecom S.A.|
-|20|119.159.251.98|8080|Pakistan|Kotla Arab Ali Khan|Pakistan Telecommuication company limited|
+|1|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
+|3|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|4|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
+|5|1.10.248.195|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
+|7|216.152.149.246|80|United States|Newark|GTHost|
+|8|45.172.142.38|999|Argentina|Mendoza|Techtron Argentina S.A.|
+|9|124.105.196.148|8081|Philippines|Paco|Philippine Long Distance Telephone Co.|
+|10|61.130.176.21|18215|China|Lishui|Chinanet|
+|11|45.65.226.174|999|Argentina|Buenos Aires|Solution LAN S.A|
+|12|103.53.184.186|8080|Indonesia|Makassar|BOSOWA|
+|13|124.6.156.226|8082|Philippines|San Martin|Globe Telecom|
+|14|38.158.83.65|999|Peru|Arequipa|Fiberred SAC|
+|15|216.152.152.44|80|United States|Los Angeles|GTHost|
+|16|47.84.179.9|3128|Singapore|Singapore|Alibaba.com LLC|
+|17|151.243.153.157|8118|United States|Seattle|Black Apple|
+|18|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|19|38.196.176.131|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
+|20|112.207.166.195|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
 
 
 
