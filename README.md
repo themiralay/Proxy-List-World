@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.12.161.248|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|47.83.142.187|6666|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|103.39.51.160|80|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|13|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
-|14|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|15|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|16|173.205.202.241|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|17|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|38.183.146.183|1717|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|5|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|182.52.113.74|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
+|9|38.248.80.21|999|Dominican Republic|San Juan|GB TELECORP DOMINICANA, S.R.L|
+|10|31.135.214.17|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|11|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|12|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|13|38.183.146.183|1717|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|14|45.232.211.1|999|Chile|La Pintana|Nanotik Telecomunicaciones SPA|
+|15|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|16|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|18|123.0.19.210|10000|Bangladesh|Naogaon|Icon Infotech|
+|19|104.218.199.217|16062|United States|Denver|BraveWay LLC|
+|20|203.99.183.197|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 
 
 
