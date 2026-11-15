@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4181** proxies at the latest update. Usable proxies are below.
+> Scraper found **4221** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|500|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2390|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
-|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|116.196.150.180|17981|China|Hangzhou|JHWA|
-|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|47.239.140.6|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
-|13|103.67.85.150|3127|Indonesia|Padang Krajan|PT Tujuh Fondasi Teknologi|
-|14|154.18.255.123|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|151.242.173.217|8080|Indonesia|Jakarta|PT Mahawira Nusantara Grup|
-|16|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|18|38.196.176.130|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
-|19|38.194.226.210|999|Mexico|Atengo|IENTC S de RL de CV|
-|20|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|3|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|4|167.99.8.113|8009|United States|North Bergen|DigitalOcean, LLC|
+|5|182.52.149.68|80|Thailand|Bangkok|TOT Public Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|8|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
+|9|116.196.150.180|17981|China|Hangzhou|JHWA|
+|10|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|122.176.158.103|80|India|Ghaziabad|Bharti Airtel|
+|12|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|13|143.255.87.206|999|Venezuela|Mérida|Viginet C.A|
+|14|45.198.20.252|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|15|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|103.180.127.114|8080|Indonesia|Jakarta|PT Alam Media Data|
+|17|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|18|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
+|19|119.159.251.98|8080|Pakistan|Kotla Arab Ali Khan|Pakistan Telecommuication company limited|
+|20|38.49.138.197|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
 
 
 
