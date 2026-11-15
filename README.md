@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4509** proxies at the latest update. Usable proxies are below.
+> Scraper found **4596** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2845|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|5|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|6|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|7|200.36.152.6|999|Venezuela|Concepción|NAVEGANTE NETWORK, C.A.|
-|8|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|11|157.20.253.187|80|Indonesia|Jakarta|PT.Global Media Data Prima|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|14|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
-|15|190.8.164.64|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
-|16|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|17|187.190.114.59|999|Mexico|Texcoco|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|18|103.18.205.162|8080|Bangladesh|Dhaka|Circle Network|
-|19|89.135.59.77|8090|Hungary|Budapest|One Hungary Ltd.|
-|20|89.43.133.102|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
+|5|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|6|103.247.23.204|8080|Indonesia|Ngawi|PT wifian Solution|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|202.125.155.121|8080|Pakistan|Rawalpindi|Micronet|
+|10|45.198.10.194|9191|Indonesia|Karawang|PT Jaringan Lintas Artha|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|14|1.10.248.226|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|138.121.113.12|8787|Argentina|Formosa|Refsa Telecomunicaciones|
+|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|17|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|18|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|19|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
+|20|148.101.72.91|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
 
 
 
