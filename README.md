@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4528** proxies at the latest update. Usable proxies are below.
+> Scraper found **4544** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|425|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|441|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|558|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2845|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|4|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|6|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
-|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|8|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|9|216.152.152.44|80|United States|Los Angeles|GTHost|
-|10|89.43.132.219|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|11|161.22.33.129|999|Venezuela|Caracas|THUNDERNET, C.A|
-|12|104.219.55.50|8118|United States|Dallas|Atlantic.net|
-|13|116.196.150.180|17981|China|Hangzhou|JHWA|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|103.125.50.234|8080|Indonesia|West Jakarta|PT. Eka Mas Republik|
-|19|160.19.112.18|8080|South Africa|Cape Town|Interworks|
-|20|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|10|103.18.205.162|8080|Bangladesh|Dhaka|Circle Network|
+|11|190.104.35.30|8081|Argentina|Buenos Aires|Jumpnet Soluciones de Internet S.R.L.|
+|12|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|13|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
+|15|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|17|112.208.173.248|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|192.147.114.171|8080|Indonesia|Surabaya|PT Global Asta Systelematika|
+|19|80.246.16.160|3128|Russia|Vladivostok|Server-Center JSC Network|
+|20|186.190.224.86|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
