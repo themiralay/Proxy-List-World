@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
-|3|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
-|4|167.99.8.113|8003|United States|North Bergen|DigitalOcean, LLC|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
-|7|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|8|180.211.161.26|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
-|11|78.155.67.224|8080|Syria|Babīlā|ISP-TARASSUL|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|14|172.85.99.37|16062|United States|Atlanta|Host Wagon LLC|
-|15|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|16|45.86.72.52|8080|United States|Washington|WorkTitans B.V|
-|17|216.152.149.246|80|United States|Newark|GTHost|
-|18|45.26.30.144|8888|United States|Friendswood|AT&T Enterprises, LLC|
-|19|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
+|5|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|6|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|7|36.64.54.98|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|8|136.228.129.86|8080|Cambodia|Phnom Penh|SIGROUPS|
+|9|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|10|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|11|179.1.213.233|999|Colombia|La Mesa|Internexa S.a. E.S.P|
+|12|171.239.136.134|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|201.4.68.236|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|14|178.252.171.229|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|15|111.68.122.154|8080|Indonesia|Jakarta|Varnion Technology Semesta, PT|
+|16|1.20.101.32|443|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|17|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|18|45.65.226.174|999|Argentina|Buenos Aires|Solution LAN S.A|
+|19|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
