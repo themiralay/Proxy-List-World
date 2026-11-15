@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4359** proxies at the latest update. Usable proxies are below.
+> Scraper found **4325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|647|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2125|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.12.161.248|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|2|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|216.152.149.246|80|United States|Newark|GTHost|
-|6|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
-|9|218.100.23.130|8080|New Zealand|Te Aro|Vital Data Ltd|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|103.172.71.165|9191|Indonesia|Colomadu|AZNET|
-|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|15|122.246.4.30|17981|China|Ningbo|China Telecom|
-|16|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|17|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|18|38.194.253.83|999|Mexico|Apaseo el Alto|IENTC S de RL de CV|
-|19|110.93.227.229|8080|Pakistan|Islamabad|TW RO|
-|20|45.86.72.52|8080|United States|Washington|WorkTitans B.V|
+|8|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|12|216.152.149.246|80|United States|Newark|GTHost|
+|13|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|14|1.20.101.16|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|15|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|16|38.196.221.146|999|Dominican Republic|Boca Chica|Cogent Communications|
+|17|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|20|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
 
 
 
