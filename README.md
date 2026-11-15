@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.12.161.248|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|1|216.152.152.44|80|United States|Los Angeles|GTHost|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|216.152.149.246|80|United States|Newark|GTHost|
+|3|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
 |4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|5|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|6|1.4.141.68|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|5|216.152.149.246|80|United States|Newark|GTHost|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|38.236.240.198|999|Colombia|Florencia|Cogent Communications|
-|12|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|13|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
-|14|200.41.149.66|12323|Argentina|Buenos Aires|Telefonica de Argentina|
-|15|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|16|182.52.136.44|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|18|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|19|122.52.184.149|8082|Philippines|San Agustin|Philippine Long Distance Telephone Co.|
-|20|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|182.52.136.76|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|122.52.184.149|8082|Philippines|San Agustin|Philippine Long Distance Telephone Co.|
+|12|37.32.26.209|10808|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|125.25.167.199|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|31.131.248.48|3129|Russia|St Petersburg|JSC Selectel|
+|15|36.89.56.169|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|181.37.240.89|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|17|45.226.130.66|3128|Brazil|Lauro de Freitas|Link NET|
+|18|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|182.52.136.32|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
