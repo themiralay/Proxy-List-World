@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|163.227.87.123|5050|Philippines|Mabini|Clian Internet and I.T. Services|
-|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|103.158.210.80|8082|Indonesia|Babat|DIGITNET|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|7|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
-|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|9|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
-|10|202.145.5.208|8080|Indonesia|Semarang|PT Jala Lintas Media|
-|11|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|14|38.19.238.36|999|Colombia|Riosucio|RED PLANET TELECOMUNICACIONES|
-|15|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|82.41.42.243|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|18|116.196.150.180|17981|China|Hangzhou|JHWA|
-|19|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|20|80.90.178.167|1081|Russia|St Petersburg|Mamaev|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|5|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|7|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
+|8|203.190.53.177|8080|Indonesia|West Jakarta|PT POWER TELECOM|
+|9|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|12|116.196.150.180|17981|China|Hangzhou|JHWA|
+|13|171.239.136.134|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|157.15.186.71|8080|Indonesia|Banyuwangi|HAPPYINET|
+|15|157.15.40.253|7777|Indonesia|Madiun|PT Trisari Data Indonusa|
+|16|186.167.114.146|999|Venezuela|Valencia|Corporacion Digitel C.A|
+|17|103.235.181.245|8080|Indonesia|Sindangsari|PT Top Class Universal|
+|18|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|19|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
