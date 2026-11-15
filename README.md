@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|2|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|3|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|4|165.16.58.131|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|5.200.72.60|3128|Iran|Tehran|Bahar Samaneh Shargh|
+|4|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|6|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|8|103.191.165.171|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|138.118.106.237|999|Guatemala|San José Pinula|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|12|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|13|103.86.135.98|8080|Pakistan|Multan|Mian Internet Services (Pvt) Ltd|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|16|206.135.80.194|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|17|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|18|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
-|19|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|20|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|67.20.129.199|8080|United States|Okatie|Hargray Communications Group, Inc.|
+|7|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|8|98.153.152.141|7070|United States|Los Angeles|Charter Communications Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.191.165.171|8181|Indonesia|Subang|PT Sakti Wijaya Network|
+|11|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
+|12|179.1.182.28|999|Colombia|Medellín|Internexa S.a. E.S.P|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|15|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|1.4.141.10|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|18|45.70.52.248|8080|Brazil|São João de Meriti|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|19|160.19.16.29|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|20|157.66.2.101|1111|Indonesia|Bekasi Regency|PT Ashyla Karya Abadi|
 
 
 
