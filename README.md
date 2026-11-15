@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.43.46.91|443|United States|Mountain View|Google LLC|
-|2|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
-|3|181.119.224.25|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|4|69.171.214.160|999|United States|Dallas|Ipxo LLC|
-|5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|180.194.237.219|5002|Philippines|Dayapan|Philippine Long Distance Telephone Co.|
-|7|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|8|103.172.42.43|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|79.98.32.82|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|10|178.217.99.33|3129|Russia|Moscow|Hosting technology LTD|
-|11|112.210.155.150|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|12|201.4.65.190|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|13|209.61.77.188|999|Peru|Lima|Nextnet S.A.C|
-|14|167.99.3.26|6719|United States|North Bergen|DigitalOcean, LLC|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|17|89.213.106.98|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|38.63.98.55|999|Venezuela|Cabimas|Colnetwork C.A|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|45.178.74.54|999|Mexico|Solidaridad|Abix Telecomunicaciones S.a. De C.V.|
+|2|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|6|201.4.68.250|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|1.10.248.226|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|45.229.16.33|999|Ecuador|San Juan|Turbonet S.A.|
+|11|201.4.65.190|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|14|46.50.144.9|8080|Russia|Novosibirsk|ZSTTK|
+|15|186.10.150.185|8080|Chile|Santiago|Entel Chile S.A.|
+|16|191.102.109.113|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|17|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|19|154.59.206.32|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|20|181.78.1.227|999|Colombia|Bogotá|Ufinet Panama S.A.|
 
 
 
