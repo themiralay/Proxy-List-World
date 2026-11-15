@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.8.113|8009|United States|North Bergen|DigitalOcean, LLC|
-|2|154.201.127.198|8080|India|Noida|Real Time Data Services Private Limited|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|181.119.224.25|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|181.119.224.25|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|3|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|4|103.53.184.186|8080|Indonesia|Makassar|BOSOWA|
 |5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|6|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
-|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|3.15.191.50|1081|United States|Columbus|Amazon.com, Inc.|
-|9|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
-|10|125.25.167.199|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|203.192.217.6|8080|India|Pune|Entire In2Cable|
-|12|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
-|13|45.175.39.95|999|Venezuela|Caracas|TCA SERVICES C.A.|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|103.161.131.110|8080|Indonesia|Kresek|PT Jaringan Internet Nusantara|
-|16|180.194.237.219|5002|Philippines|Dayapan|Philippine Long Distance Telephone Co.|
-|17|117.18.16.73|8080|Indonesia|Kertosono|PT ALUCIO|
-|18|101.255.104.117|8181|Indonesia|West Jakarta|PT Remala Abadi|
-|19|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
-|20|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|9|9.154.240.122|8085|Indonesia|Surabaya|PT Mora Telematika Indonesia TBK|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|41.216.186.88|8080|Indonesia|South Jakarta|FASTHOSTING|
+|12|38.156.23.225|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|13|200.60.102.51|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|14|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|15|38.9.184.177|999|Venezuela|Ocumare|Cogent Communications|
+|16|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|17|181.78.208.227|999|Colombia|Prado-Sevilla|Ufinet Panama S.A.|
+|18|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|19|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
+|20|85.92.127.42|999|Mexico|Huixtla|Roger Edwin Monzon Mejia|
 
 
 
