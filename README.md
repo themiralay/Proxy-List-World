@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4637** proxies at the latest update. Usable proxies are below.
+> Scraper found **4688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|558|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2845|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
-|2|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|157.15.186.71|8080|Indonesia|Banyuwangi|HAPPYINET|
+|1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|2|1.4.141.34|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|3|41.90.161.175|8080|Kenya|Nairobi|Safaricom Limited|
+|4|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
 |6|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|7|61.130.176.21|18353|China|Lishui|Chinanet|
-|8|1.10.248.235|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|45.178.74.54|999|Mexico|Solidaridad|Abix Telecomunicaciones S.a. De C.V.|
-|10|201.4.68.250|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|11|116.196.150.180|17981|China|Hangzhou|JHWA|
-|12|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|125.25.33.137|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|180.191.142.241|8081|Philippines|Makati City|Globe Telecom|
-|15|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.97.46.10|8080|India|New Delhi|Esto Media Private Limited|
-|17|45.194.3.132|8080|India|Noida|CtrlS|
-|18|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
-|19|126.209.107.12|8080|Philippines|Manila|Infinivan Incorporated|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|45.86.72.52|8080|United States|Washington|WorkTitans B.V|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|10|205.234.123.108|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
+|11|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|12|160.19.18.121|8181|Indonesia|Bandung|PT Indo Telemedia Solusi|
+|13|103.66.62.187|8080|Indonesia|Jambi City|PT Buana Visualnet Sentra|
+|14|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|15|18.130.47.116|9080|United Kingdom|London|Amazon Technologies Inc.|
+|16|181.233.89.119|999|Venezuela|Cabimas|Colnetwork C.A.|
+|17|216.152.152.44|80|United States|Los Angeles|GTHost|
+|18|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|190.61.37.138|999|Honduras|La Entrada|Ufinet Panama S.A.|
+|20|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
 
 
 
