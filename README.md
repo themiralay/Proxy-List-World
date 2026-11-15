@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
-|2|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
+|3|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |5|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|116.196.150.180|17981|China|Hangzhou|JHWA|
-|8|103.172.71.85|9191|Indonesia|Tangerang|AZNET|
-|9|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
-|11|103.171.82.29|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
-|12|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|154.58.138.231|8088|Indonesia|Purbalingga|Cogent Communications|
-|14|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|17|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|167.99.8.113|8008|United States|North Bergen|DigitalOcean, LLC|
-|19|160.22.134.77|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
-|20|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
+|6|116.196.150.180|17981|China|Hangzhou|JHWA|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|47.239.140.6|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|101.255.120.77|8085|Indonesia|Central Jakarta|PT Remala Abadi|
+|13|103.67.85.150|3127|Indonesia|Padang Krajan|PT Tujuh Fondasi Teknologi|
+|14|154.18.255.123|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|151.242.173.217|8080|Indonesia|Jakarta|PT Mahawira Nusantara Grup|
+|16|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
+|18|38.196.176.130|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
+|19|38.194.226.210|999|Mexico|Atengo|IENTC S de RL de CV|
+|20|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 
 
 
