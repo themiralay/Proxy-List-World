@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.15.40.253|7777|Indonesia|Madiun|PT Trisari Data Indonusa|
-|4|122.102.52.24|1082|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|5|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|6|58.69.61.79|8082|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|2|122.102.52.24|1082|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|116.196.150.180|17981|China|Hangzhou|JHWA|
+|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|11|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|12|216.152.149.246|80|United States|Newark|GTHost|
-|13|119.17.211.204|8080|Vietnam|Hanoi|Netnam Corporation|
-|14|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
-|15|103.19.58.139|8080|Indonesia|Sragen|BITSNET|
-|16|112.208.174.83|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
-|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|9|185.196.182.22|8080|Albania|Krume|shqiponjaisp.al LLC|
+|10|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
+|11|89.43.134.39|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|12|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|216.152.149.246|80|United States|Newark|GTHost|
+|16|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
+|17|129.222.204.27|10000|Nigeria|Lagos|Space Exploration Technologies Corporation|
+|18|105.154.3.25|7080|Morocco|Casablanca|ADSL Maroc telecom|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |20|176.88.65.164|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
 
 
