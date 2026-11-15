@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|2|157.15.40.253|7777|Indonesia|Madiun|PT Trisari Data Indonusa|
-|3|201.4.68.250|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
-|6|89.43.133.102|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
-|7|1.10.248.239|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|67.43.112.129|8080|United States|Russellville|Wisper ISP, Inc.|
-|10|103.1.50.48|3125|Hong Kong|Kwun Tong|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|67.43.112.129|8080|United States|Russellville|Wisper ISP, Inc.|
-|12|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
-|13|216.152.149.246|80|United States|Newark|GTHost|
-|14|193.33.157.18|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|15|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|16|110.39.156.195|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|17|91.144.30.93|8080|Syria|Aleppo|STE Public Data Network Backbone and LIR|
-|18|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|19|36.64.54.98|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|1|43.128.144.133|18080|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
+|3|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|4|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|5|182.52.149.67|80|Thailand|Bangkok|TOT Public Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|201.4.68.250|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|10|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|11|87.76.138.37|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|12|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|13|95.31.215.191|2080|Russia|Mineralnye Vody|CORBINA-BROADBAND|
+|14|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|15|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
+|16|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|17|125.25.167.199|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|216.152.149.246|80|United States|Newark|GTHost|
 
 
 
