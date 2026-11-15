@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|6|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|8|167.99.3.26|6865|United States|North Bergen|DigitalOcean, LLC|
-|9|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|10|205.164.46.6|3102|United States|Santa Clara|Grass Dataco LTD|
-|11|203.150.128.117|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|12|103.165.128.171|8080|Indonesia|Bandung|PT iForte Global Internet|
-|13|122.102.52.24|1082|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
-|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
-|19|89.251.21.165|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|20|216.152.152.44|80|United States|Los Angeles|GTHost|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|6|156.225.31.18|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|7|94.179.153.218|8081|Ukraine|Stepanivka|UKRTELECOM|
+|8|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|9|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
+|10|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
+|11|45.175.39.115|999|Venezuela|Caracas|TCA SERVICES C.A.|
+|12|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|13|93.185.68.82|8080|Kazakhstan|Atyrau|JSC "KazTransCom"|
+|14|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|15|95.31.215.191|2080|Russia|Mineralnye Vody|CORBINA-BROADBAND|
+|16|122.102.52.24|1082|Indonesia|Jakarta|PT MEGAXUS INFOTECH|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|188.132.150.204|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
 
 
 
