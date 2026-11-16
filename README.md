@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.148.17.137|9999|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|2|184.170.169.216|8888|United States|Westfield|Metronet|
-|3|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|4|159.65.120.129|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|6|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|7|103.170.22.44|8080|Indonesia|Alurbulu|PT Puskomedia Indonesia Kreatif|
-|8|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
-|9|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|10|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|11|103.173.141.10|8080|Indonesia|Ngawi|DIAZANETWORKS|
-|12|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|13|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|14|185.225.41.228|7890|Syria|Homs|sy-samaweb|
-|15|103.171.255.243|8086|Indonesia|Sleman|PT Zona Kolektif Indonesia|
-|16|180.191.152.7|8082|Philippines|Makati City|Globe Telecom|
-|17|93.118.120.60|8080|Iran|Tehran|Telecommunication Company of Iran|
-|18|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|19|216.152.149.246|80|United States|Newark|GTHost|
-|20|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|1|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|2|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|3|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|5|126.209.107.122|5050|Philippines|Manila|Infinivan Incorporated|
+|6|200.62.236.156|999|Peru|Cashapampa|America Movil Peru S.A.C.|
+|7|190.97.254.254|999|Venezuela|Higuerote|Viginet C.A|
+|8|119.93.158.162|9090|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|9|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|10|188.132.249.144|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|11|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|12|89.43.132.250|8080|Syria|Idlib|High Speed For Internet Services L.L.C|
+|13|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|14|49.151.187.115|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|15|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|16|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|19|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
+|20|91.210.108.19|8080|Netherlands|Amsterdam|BlueVPS OU|
 
 
 
