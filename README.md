@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.90.182.187|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|3|165.101.231.153|8080|Indonesia|Weru|PT Anugerah Cimanuk Raya|
-|4|216.152.152.44|80|United States|Los Angeles|GTHost|
-|5|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|6|111.68.122.154|8080|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
-|13|180.191.231.112|8082|Philippines|Talisay City|Globe Telecom|
-|14|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|15|180.191.136.92|8082|Philippines|Cebu City|Globe Telecom|
-|16|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|17|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|18|103.158.237.90|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
-|19|208.67.28.29|58090|United States|Lac du Flambeau|SonicNet Inc.|
-|20|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|3|216.152.152.44|80|United States|Los Angeles|GTHost|
+|4|180.190.84.213|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|5|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|6|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
+|8|193.187.148.198|8118|Germany|Frankfurt am Main|M247 Europe SRL|
+|9|154.27.196.4|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|10|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
+|11|122.52.184.149|8082|Philippines|San Agustin|Philippine Long Distance Telephone Co.|
+|12|78.134.20.48|8080|Italy|Campalto|NGI|
+|13|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|14|115.147.47.214|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|38.51.220.111|999|Venezuela|San Diego|Tecnoven Services C.A|
+|16|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|19|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
