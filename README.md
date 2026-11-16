@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
-|3|154.88.129.12|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|2|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|3|41.141.123.165|9000|Morocco|Casablanca|ADSL Maroc telecom|
 |4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
 |5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|7|184.170.169.216|8888|United States|Westfield|Metronet|
-|8|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|10|129.222.204.27|10000|Nigeria|Lagos|Space Exploration Technologies Corporation|
-|11|116.204.166.151|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|12|43.245.136.225|8080|India|Chennai|Nextra|
-|13|164.163.188.115|999|Mexico|Zacapu|Internet Telefonia Y TV De Michoacan SA De CV|
-|14|139.255.74.124|8080|Indonesia|Bekasi|PT. LINKNET|
-|15|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|17|45.4.200.67|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|6|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|5.200.72.60|3128|Iran|Tehran|Bahar Samaneh Shargh|
+|9|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|165.101.230.155|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|11|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
+|13|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|14|38.211.35.34|999|Peru|Satipo|Wimaxperu E.I.R.L.|
+|15|181.79.84.254|999|Colombia|Apartadó|Ufinet Panama S.A.|
+|16|58.69.248.180|8080|Philippines|Pateros|Philippine Long Distance Telephone Co.|
+|17|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
 |18|165.22.99.36|8013|Singapore|Singapore|DigitalOcean, LLC|
 |19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|184.170.169.216|8888|United States|Westfield|Metronet|
+|20|103.189.116.20|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
 
 
 
