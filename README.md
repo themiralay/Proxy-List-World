@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|3|105.159.133.160|9020|Morocco|Casablanca|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|2|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
+|3|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 |4|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|5|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 |6|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|9|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|36.64.44.51|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|12|190.110.34.20|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|13|149.2.82.197|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|14|89.43.134.69|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|15|20.33.10.79|80|South Africa|Johannesburg|Microsoft Corporation|
-|16|138.121.113.179|999|Argentina|Formosa|Refsa Telecomunicaciones|
-|17|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|187.44.188.238|4040|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|20|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|8|91.83.1.105|8080|Hungary|Budapest|HDSNET|
+|9|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|10|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|11|116.101.73.52|2080|Vietnam|Hanoi|Viettel Group|
+|12|79.98.32.112|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|13|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|14|188.246.186.54|8080|Russia|Moscow|OOO WestCall Ltd|
+|15|91.149.142.139|8080|Belarus|Minsk|Cosmos TV Jllc|
+|16|87.76.138.37|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|18|103.125.50.234|8080|Indonesia|West Jakarta|PT. Eka Mas Republik|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
