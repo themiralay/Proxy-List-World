@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
-|4|180.191.101.69|5050|Philippines|Makati City|Globe Telecom|
-|5|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|6|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
-|7|206.135.80.78|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|8|182.52.136.41|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
-|10|170.244.91.137|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|154.59.206.32|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|14|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|15|1.20.178.208|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
-|17|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|79.98.32.94|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|20|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|103.97.198.2|8080|Indonesia|Temanggung|PT Borneo Global Persada|
+|3|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|4|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
+|5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|34.43.46.91|443|United States|Mountain View|Google LLC|
+|9|180.211.93.91|8080|Indonesia|Bekasi|KINGS|
+|10|180.191.101.69|5050|Philippines|Makati City|Globe Telecom|
+|11|119.159.233.2|8080|Pakistan|Lahore|PTCL Triple Play Project|
+|12|91.210.117.184|8080|Ukraine|Odesa|Miratel Ltd|
+|13|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
+|14|190.94.199.241|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|103.178.194.133|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|89.43.132.219|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
+|17|182.53.202.220|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|148.222.227.186|999|Peru|Lima|Edgeuno S.A.C.|
+|19|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|20|217.219.83.186|2222|Iran|Tehran|Iran Telecommunication Company PJS|
 
 
 
