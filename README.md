@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|489|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|267|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2400|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|34.43.46.91|443|United States|Mountain View|Google LLC|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
-|5|184.170.169.216|8888|United States|Westfield|Metronet|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|104.129.203.246|10806|United States|San Jose|ZSCALER, INC.|
+|7|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|18.130.47.116|9080|United Kingdom|London|Amazon Technologies Inc.|
-|14|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|89.43.132.239|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|10|104.129.203.246|10806|United States|San Jose|ZSCALER, INC.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|104.129.203.246|10806|United States|San Jose|ZSCALER, INC.|
+|13|184.170.169.216|8888|United States|Westfield|Metronet|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|16|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|17|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|18|184.170.169.216|8888|United States|Westfield|Metronet|
+|19|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|20|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
