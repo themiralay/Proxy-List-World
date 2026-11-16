@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.43.46.91|443|United States|Mountain View|Google LLC|
-|2|103.81.86.170|8888|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
-|3|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|2|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|4|45.118.35.169|8080|India|Tirupur|Infonet Comm Enterprises|
+|5|136.228.129.86|8080|Cambodia|Phnom Penh|SIGROUPS|
 |6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|139.255.74.124|8080|Indonesia|Bekasi|PT. LINKNET|
-|12|157.15.40.253|7777|Indonesia|Madiun|PT Trisari Data Indonusa|
-|13|201.4.69.49|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|14|1.10.133.83|8081|Thailand|Tha Kham|TOT Public Company Limited|
-|15|116.196.150.180|17981|China|Hangzhou|JHWA|
-|16|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
-|17|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
-|18|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|19|45.198.11.162|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|20|103.165.155.112|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|13|36.93.163.219|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
+|14|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|14.241.133.207|8080|Vietnam|Ho Chi Minh City|VNPT|
+|17|103.251.232.2|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|18|185.8.148.81|8085|Italy|Portiglioni|DIGITAL TELECOMMUNICATION SERVICES 3th|
+|19|190.14.224.244|999|Colombia|Candelaria|Media Commerce Partners S.A|
+|20|157.10.97.37|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
 
 
 
