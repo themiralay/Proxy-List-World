@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3920** proxies at the latest update. Usable proxies are below.
+> Scraper found **3940** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|434|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|386|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2400|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
 |4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|61.130.176.21|17623|China|Lishui|Chinanet|
-|9|216.152.149.246|80|United States|Newark|GTHost|
-|10|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|7|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
+|8|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
+|9|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|216.152.149.246|80|United States|Newark|GTHost|
 |11|216.152.149.246|80|United States|Newark|GTHost|
-|12|202.179.188.6|8080|Indonesia|East Jakarta|PT. Telemedia Dinamika Sarana|
-|13|175.106.15.186|8080|Indonesia|West Jakarta|Quantum Dist Cyber|
-|14|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
-|15|165.101.230.155|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|16|103.67.85.150|3127|Indonesia|Padang Krajan|PT Tujuh Fondasi Teknologi|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|45.189.57.114|3129|Ecuador|Santa Rosa|Cbvision S.A.|
-|20|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
+|12|182.253.25.184|9091|Indonesia|West Jakarta|BIZNET|
+|13|74.62.179.122|8080|United States|Anaheim|Charter Communications Inc|
+|14|38.58.191.16|999|Venezuela|Pueblo Nuevo|NAVEGANTE NETWORK, C.A.|
+|15|115.247.115.38|8080|India|Indore|Reliance Jio Infocomm Limited|
+|16|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
+|17|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|89.135.59.71|8090|Hungary|Budapest|One Hungary Ltd.|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
 
 
 
