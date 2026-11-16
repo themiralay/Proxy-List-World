@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.33.142|3128|Japan|Tokyo|Alibaba.com LLC|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|2|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|64.226.99.133|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|12|45.198.10.131|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|13|175.106.15.186|8080|Indonesia|West Jakarta|Quantum Dist Cyber|
-|14|103.213.131.106|9090|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|16|151.253.146.146|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|17|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|18|164.163.188.115|999|Mexico|Zacapu|Internet Telefonia Y TV De Michoacan SA De CV|
-|19|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|20|8.213.37.17|8888|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|216.152.152.44|80|United States|Los Angeles|GTHost|
+|6|175.106.15.186|8080|Indonesia|West Jakarta|Quantum Dist Cyber|
+|7|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|8|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|213.171.212.110|8080|United Kingdom|Worcester|IONOS SE|
+|10|103.230.150.58|8080|India|Mharal Bk|Zess Networks Private Limited|
+|11|163.61.225.180|1111|Indonesia|Banjar Kangkaang|PT. Jaringan Internet Terpadu|
+|12|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|15|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|49.151.178.8|3128|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|18|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
+|19|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
