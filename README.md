@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|2|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|3|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|4|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|5|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
-|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|8|167.99.3.26|7080|United States|North Bergen|DigitalOcean, LLC|
-|9|157.20.208.250|8080|Indonesia|Pamekasan|PT Barokah Sistem Telematika|
+|1|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
+|2|164.163.188.115|999|Mexico|Zacapu|Internet Telefonia Y TV De Michoacan SA De CV|
+|3|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|7|183.88.214.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|103.147.135.17|8082|Indonesia|Gunungtengah|PT.MURNI MAKMUR ABADI|
 |10|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|79.98.32.82|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|14|34.43.46.91|443|United States|Mountain View|Google LLC|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|212.41.0.183|58080|Russia|Moscow|JSC Selectel|
-|17|216.152.152.44|80|United States|Los Angeles|GTHost|
-|18|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|19|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|12|38.9.184.137|999|Venezuela|Ocumare|Cogent Communications|
+|13|190.97.254.235|999|Venezuela|Higuerote|Viginet C.A|
+|14|45.183.11.246|8080|Brazil|Santa Helena de Minas|V1 Informática|
+|15|201.163.152.54|999|Mexico|Frontera|Alestra, S. de R.L. de C.V.|
+|16|103.146.170.17|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|17|34.43.46.91|443|United States|Mountain View|Google LLC|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
+|20|38.156.233.219|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
 
 
 
