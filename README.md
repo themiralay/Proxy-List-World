@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.194.3.119|8080|India|Noida|CtrlS|
-|2|144.79.181.39|8090|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
-|3|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
-|4|103.39.51.160|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|5|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|6|126.209.107.12|8080|Philippines|Manila|Infinivan Incorporated|
-|7|49.149.210.34|8082|Philippines|Balulang|Philippine Long Distance Telephone Co.|
-|8|125.25.167.199|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|181.74.82.91|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
-|10|182.53.202.228|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|12|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
-|13|216.152.149.246|80|United States|Newark|GTHost|
-|14|38.156.23.41|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
-|15|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|16|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|17|45.123.143.10|8080|Indonesia|Bayunglincir|PT Gelam Net Solusi|
-|18|194.124.36.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|176.105.212.219|8080|Ukraine|Poltava|RPC HomeNet Ltd.|
-|20|216.152.152.44|80|United States|Los Angeles|GTHost|
+|2|184.170.169.216|8888|United States|Westfield|Metronet|
+|3|182.53.202.228|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
+|5|94.183.6.226|9090|Iran|Tehran|Aria Shatel PJSC|
+|6|139.255.74.124|8080|Indonesia|Bekasi|PT. LINKNET|
+|7|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|8|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|9|42.114.236.34|3128|Vietnam|Hanoi|FPT Telecom Company|
+|10|49.149.210.34|8082|Philippines|Balulang|Philippine Long Distance Telephone Co.|
+|11|201.4.65.190|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|12|216.152.149.246|80|United States|Newark|GTHost|
+|13|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|14|167.99.3.26|8888|United States|North Bergen|DigitalOcean, LLC|
+|15|38.248.80.21|999|Dominican Republic|San Juan|GB TELECORP DOMINICANA, S.R.L|
+|16|125.25.167.208|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|167.250.23.189|9090|Brazil|Patrocínio|OnNet Telecomunicacoes LTDA|
+|18|27.147.156.174|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
 
 
 
