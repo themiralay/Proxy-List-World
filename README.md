@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4539** proxies at the latest update. Usable proxies are below.
+> Scraper found **4571** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|758|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|790|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|728|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2353|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|5|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
-|6|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|7|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
-|8|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|216.152.152.44|80|United States|Los Angeles|GTHost|
-|11|38.76.251.130|8080|Dominican Republic|Pizarrete|Cogent Communications|
-|12|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|13|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|2|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|202.145.5.208|8080|Indonesia|Semarang|PT Jala Lintas Media|
+|6|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|8|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|9|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|182.52.136.32|80|Thailand|Bangkok|TOT Public Company Limited|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|200.62.236.156|999|Peru|Cashapampa|America Movil Peru S.A.C.|
 |14|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|15|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
-|16|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|17|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|20|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|16|38.103.250.107|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|17|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|18|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|19|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|20|103.124.197.227|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
