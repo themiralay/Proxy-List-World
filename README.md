@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|2|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|206.135.12.152|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|5|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|6|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|7|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
-|8|42.116.10.198|514|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|103.145.176.162|8080|Indonesia|South Tangerang|PT. Indonesia Comnets Plus|
-|10|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|12|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|13|210.87.124.215|1111|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|14|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|15|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|148.224.12.147|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|45.190.85.5|999|Venezuela|Caricuao|TELECOM.CORPORATIVAS TELECORP, C.A|
+|7|119.93.178.99|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|138.84.65.187|9090|Philippines|Marilao|Globe Telecom|
+|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|13|45.65.226.173|999|Argentina|Buenos Aires|Solution LAN S.A|
+|14|125.25.167.208|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|178.251.111.24|8080|Ukraine|Berdychiv|Dataline LLC|
 |16|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|17|103.122.64.117|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|18|103.227.187.11|6090|Indonesia|Wirodayan|PT Master Star Network|
-|19|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|36.50.56.237|8080|Indonesia|Cibinong|PT Andromega Data Nusantara|
+|17|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|19|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
