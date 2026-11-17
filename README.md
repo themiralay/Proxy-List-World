@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4490** proxies at the latest update. Usable proxies are below.
+> Scraper found **4598** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|926|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|641|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|749|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2223|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
-|5|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|6|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|7|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
-|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|12|200.107.205.200|999|Dominican Republic|Santiago de los Caballeros|DLD SERVICIO SRL|
-|13|124.106.122.97|8086|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
-|15|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|180.211.93.91|8080|Indonesia|Bekasi|KINGS|
-|17|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|18|103.18.77.156|3125|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|3|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|4|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|6|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
+|7|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|8|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|9|38.76.228.240|8088|Brazil|Sucupira do Norte|EWERTON DA SILVA LOPES TELECOMUNICAÇÕES|
+|10|188.132.249.157|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|11|88.204.19.8|7080|Russia|Tomsk|JSC "ER-Telecom Holding"|
+|12|167.250.50.86|999|Venezuela|Caracas|CORPORACIÓN GALA IT, C.A.|
+|13|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|181.188.238.195|999|Ecuador|Quito|Otecel S.A|
+|19|103.227.187.11|6090|Indonesia|Wirodayan|PT Master Star Network|
+|20|104.36.237.230|8080|United States|Kennewick|Desert Winds Wireless|
 
 
 
