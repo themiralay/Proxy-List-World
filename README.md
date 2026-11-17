@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|2|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|1|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
 |3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|6|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
-|7|45.174.108.141|999|Mexico|Almoloya del Río|Iptvtel Comunicaciones S De RL De CV|
-|8|182.52.136.73|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|10|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|11|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
-|12|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|13|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|14|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|15|54.170.17.171|8888|Ireland|Dublin|Amazon.com, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|113.53.29.74|8080|Thailand|Phuket|TOT Public Company Limited|
-|19|180.93.102.159|40002|Vietnam|Quận Bốn|SPT|
-|20|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|216.152.152.44|80|United States|Los Angeles|GTHost|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|10|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|11|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|181.209.118.250|999|Argentina|General Guemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|165.0.136.30|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
+|15|49.147.46.158|8082|Philippines|Silay|Philippine Long Distance Telephone Co.|
+|16|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|17|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|18|103.165.128.171|8080|Indonesia|Bandung|PT iForte Global Internet|
+|19|38.188.97.30|999|Venezuela|Caracas|Inversiones Smartbyte C.A|
+|20|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
