@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
-|11|165.154.236.164|3128|Singapore|Singapore|Scloud Pte Ltd|
-|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|3|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|7|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|8|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|9|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|173.212.234.174|3128|France|Lauterbourg|Contabo GmbH|
+|11|188.166.178.163|3129|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|14|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|14|5.83.158.2|1080|The Netherlands|Amsterdam|Krottisrv-Wartenstein|
 |15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|16|103.43.191.71|8888|Hong Kong|Kwai Chung|West263 International Limited|
-|17|202.84.39.103|8674|Bangladesh|Dhaka|Bangladesh Online Ltd.|
-|18|216.152.149.246|80|United States|Newark|GTHost|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|79.98.32.73|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|16|36.93.173.108|8118|Indonesia|West Jakarta|Telekomunikasi Indonesia|
+|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|18|85.132.108.42|3128|Azerbaijan|Baku|AzerSat|
+|19|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
