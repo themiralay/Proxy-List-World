@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4205** proxies at the latest update. Usable proxies are below.
+> Scraper found **4293** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|729|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|641|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2223|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|3|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
 |4|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|5|103.67.84.131|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
-|6|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|11|151.158.121.73|8080|Bangladesh|Dhaka|Winer Communication|
-|12|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|13|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|14|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|15|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|216.152.149.246|80|United States|Newark|GTHost|
-|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|18|176.118.150.178|8080|Ukraine|Lityn|VINASTERISK, PP|
-|19|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|20|20.33.10.79|80|South Africa|Johannesburg|Microsoft Corporation|
+|5|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|10|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|11|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|13|45.65.226.173|999|Argentina|Buenos Aires|Solution LAN S.A|
+|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|15|147.15.126.122|28080|Brazil|São Paulo|Oracle Corporation|
+|16|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|17|216.152.149.246|80|United States|Newark|GTHost|
+|18|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|19|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
+|20|151.243.153.157|8118|United States|Seattle|Black Apple|
 
 
 
