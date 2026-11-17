@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|2|103.227.187.3|6090|Indonesia|Wirodayan|PT Master Star Network|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|5|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|6|152.53.120.85|8080|Germany|Nuremberg|netcup GmbH|
-|7|122.102.126.74|8080|India|Chennai|Arjun Wireless Solutions Private Limited|
-|8|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|10|116.254.113.83|8080|Indonesia|Semarang|PT Media Sarana Data|
-|11|103.155.130.94|8080|India|Mumbai|Haash Media|
-|12|126.209.107.122|5050|Philippines|Manila|Infinivan Incorporated|
-|13|14.143.130.210|1111|India|Chennai|Tata Communications Limited|
-|14|216.152.149.246|80|United States|Newark|GTHost|
-|15|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|182.53.202.218|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|103.39.51.160|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|18|45.65.226.171|999|Argentina|Buenos Aires|Solution LAN S.A|
-|19|74.214.254.17|8080|United States|Price|Emery Telcom|
-|20|182.252.89.134|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|1|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|114.141.54.2|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|4|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|5|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|6|182.252.89.134|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|7|38.196.176.133|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
+|8|103.155.130.94|8080|India|Mumbai|Haash Media|
+|9|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|10|180.191.21.49|8081|Philippines|Cabanatuan City|Globe Telecom|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|13|103.189.138.254|8080|Indonesia|Bandung|PT. Nexa Media Pratama|
+|14|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|15|79.98.32.68|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|182.253.221.147|8080|Indonesia|Surabaya|Biznet Networks|
+|18|193.43.140.220|7890|Syria|Zākīyah|Syrian Telecom|
+|19|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|20|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
 
 
 
