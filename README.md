@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|7|121.101.129.131|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|9|45.198.10.169|9191|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|10|5.200.72.61|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|11|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|12|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|13|36.94.246.17|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|16|103.171.240.170|8090|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
-|17|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|18|222.167.236.73|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|19|200.107.205.200|999|Dominican Republic|Santiago de los Caballeros|DLD SERVICIO SRL|
-|20|185.167.120.183|8080|Russia|Moscow|Maloe Innovacionnoe Predpriyatie Bonch IT LLC|
+|4|165.101.231.68|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|5|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|8|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|9|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|10|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|11|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|13|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|15|103.112.163.131|8080|Indonesia|Jakarta|24AS|
+|16|176.118.150.178|8080|Ukraine|Lityn|VINASTERISK, PP|
+|17|201.7.31.122|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|18|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|19|157.20.208.250|8080|Indonesia|Pamekasan|PT Barokah Sistem Telematika|
+|20|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
 
 
 
