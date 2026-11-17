@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|3|119.93.64.216|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|4|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|5|103.176.96.179|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|6|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|190.235.185.47|999|Peru|Lima|TDP-GRS|
-|12|103.124.137.193|8181|Indonesia|Pandaan|Global Media Data Prima|
-|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|14|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|16|162.4.96.92|2001|Indonesia|Pasuruan|PT Azvi Multi Teknologi|
-|17|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
+|3|115.178.55.221|8080|Indonesia|Subang|NOC SIMAYA|
+|4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|103.176.96.179|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|180.93.102.159|40014|Vietnam|Quận Bốn|SPT|
+|10|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|11|160.19.112.15|8080|South Africa|Cape Town|Interworks|
+|12|79.98.32.73|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|13|190.14.251.202|8080|Colombia|Bogotá|Media Commerce Partners S.A|
+|14|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|15|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|16|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|190.235.185.47|999|Peru|Lima|TDP-GRS|
+|19|61.130.176.21|19036|China|Lishui|Chinanet|
+|20|38.51.243.189|999|Colombia|Túquerres|Intercomm de Narino|
 
 
 
