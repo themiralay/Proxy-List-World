@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
-|6|170.244.91.144|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|7|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
-|8|45.198.20.224|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|9|38.7.23.106|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
+|1|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
+|4|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
+|5|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|7|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
+|8|209.14.120.25|999|Colombia|Soacha|Cogent Communications|
+|9|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|38.210.160.159|8080|Costa Rica|San José|Comunicaciones Metropolitanas METROCOM, S.A.|
-|13|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|181.205.205.170|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|45.123.143.10|8080|Indonesia|Bayunglincir|PT Gelam Net Solusi|
-|16|103.88.239.122|84|India|Hyderabad|Mana Communications|
-|17|45.175.39.95|999|Venezuela|Caracas|TCA SERVICES C.A.|
-|18|170.254.228.90|999|Colombia|Aguazul|Media Commerce Partners S.A|
-|19|89.43.133.102|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
-|20|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|182.53.202.238|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|118.179.84.131|81|Bangladesh|Dhaka|AmberIT Limited|
+|14|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|15|212.200.223.89|8080|Serbia|Novi Sad|TELEKOM SRBIJA a.d.|
+|16|89.43.133.102|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
+|17|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|18|190.97.232.128|999|Venezuela|Barrancas|Viginet C.A|
+|19|38.183.146.122|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|20|103.173.163.199|8818|Indonesia|Jatibarang|Paket Data Andal|
 
 
 
