@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4493** proxies at the latest update. Usable proxies are below.
+> Scraper found **4416** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|821|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|749|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2223|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|103.67.84.131|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
-|6|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|200.107.205.200|999|Dominican Republic|Santiago de los Caballeros|DLD SERVICIO SRL|
-|9|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|10|178.134.242.26|8080|Georgia|Batumi|JSC "Silknet"|
-|11|118.137.63.115|8080|Indonesia|Surabaya|Linknet-Fastnet ASN|
-|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|13|157.15.40.219|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|14|45.4.202.146|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|41.93.63.66|8080|Tanzania|Dar es Salaam|Tanzania Education And Research Network|
-|16|197.248.210.41|8080|Kenya|Nairobi|Safaricom Limited|
-|17|177.234.217.45|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|216.152.149.246|80|United States|Newark|GTHost|
-|20|177.136.32.202|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|1.10.248.195|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|9|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|138.118.106.237|999|Guatemala|San José Pinula|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|13|171.103.19.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|15|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|16|167.99.3.26|6117|United States|North Bergen|DigitalOcean, LLC|
+|17|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|20|36.95.61.186|8080|Indonesia|Sukabumi|PT. Telekomunikasi Indonesia|
 
 
 
