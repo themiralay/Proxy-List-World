@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|216.152.152.44|80|United States|Los Angeles|GTHost|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
 |6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|82.41.42.243|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|103.154.152.104|8090|Indonesia|Bekasi|MORATELINDONAP|
-|11|103.19.78.125|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
-|12|177.55.68.68|8080|Brazil|Canaã dos Carajás|IR Tecnologia (Fibralink)|
-|13|38.191.217.254|999|Colombia|San Vicente de Chucurí|Rednet Group SAS|
-|14|1.4.141.80|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|15|151.243.153.157|8118|United States|Seattle|Black Apple|
-|16|103.157.78.63|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|19|38.188.63.169|8080|Indonesia|Margasari|PT Nesta Indo Media|
-|20|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
+|7|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|9|49.151.178.8|3128|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|10|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|11|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|12|185.174.208.195|8080|Kosovo|Vushtrri|Podujeve-Broadband|
+|13|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|180.191.100.135|8082|Philippines|Makati City|Globe Telecom|
+|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|18|216.152.152.44|80|United States|Los Angeles|GTHost|
+|19|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|20|176.118.150.178|8080|Ukraine|Lityn|VINASTERISK, PP|
 
 
 
