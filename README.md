@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
-|5|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|125.25.167.202|80|Thailand|Bangkok|TOT Public Company Limited|
-|8|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|11|188.132.249.99|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|12|180.180.217.53|80|Thailand|Chon Buri|TOT Public Company Limited|
-|13|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|14|103.160.205.12|8081|Indonesia|Gerung|PRIME|
-|15|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
-|16|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
-|17|170.244.91.137|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|18|181.204.81.180|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|19|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|20|190.60.39.226|999|Colombia|San Alberto|Ufinet Panama S.A.|
+|2|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|5|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
+|6|180.194.237.219|5002|Philippines|Dayapan|Philippine Long Distance Telephone Co.|
+|7|151.158.133.163|8080|Indonesia|Karawang|PT SANET MEDIA TEKNOLOGI|
+|8|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
+|9|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|11|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|12|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|13|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|16|119.159.251.98|8080|Pakistan|Kotla Arab Ali Khan|Pakistan Telecommuication company limited|
+|17|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|18|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
+|20|87.192.231.122|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
