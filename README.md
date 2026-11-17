@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|6|188.136.208.242|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|9|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
-|11|157.15.64.181|8080|Indonesia|Kendal|PT Cynet Indonesia Networks|
-|12|187.110.232.118|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|13|181.232.190.121|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|14|45.65.226.173|999|Argentina|Buenos Aires|Solution LAN S.A|
-|15|190.61.80.68|999|Honduras|Yorito|Ufinet Panama S.A.|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|38.224.32.186|999|Venezuela|Valera|SPEEDNET, C.A|
-|18|178.251.111.24|8080|Ukraine|Berdychiv|Dataline LLC|
-|19|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
+|4|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
+|5|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
+|6|45.167.126.43|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|8|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|9|103.160.205.244|8181|Indonesia|Pendaleman|PRIME|
+|10|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|11|181.209.122.115|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
+|13|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|14|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|15|201.230.121.228|999|Peru|Puno|Telefonica Del Peru|
+|16|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
+|17|43.251.215.2|8080|India|New Delhi|World Phone Infrastructure services private ltd|
+|18|125.25.167.202|80|Thailand|Bangkok|TOT Public Company Limited|
+|19|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|20|84.22.48.28|8080|Albania|Tirana|Artmotion Sh.P.K.|
 
 
 
