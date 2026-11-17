@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4144** proxies at the latest update. Usable proxies are below.
+> Scraper found **4162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|441|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2464|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.198.32.137|8080|Indonesia|Percut|PT Global Media Data Prima|
-|6|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
+|5|118.179.191.167|81|Bangladesh|Khulna|Amber IT Limited|
+|6|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.68.215.117|8080|Indonesia|Sepatan|PT Media Grasi Internet|
 |8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|126.209.106.104|8080|Philippines|Manila|Infinivan Incorporated|
-|12|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|13|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|216.152.149.246|80|United States|Newark|GTHost|
-|19|216.152.152.44|80|United States|Los Angeles|GTHost|
-|20|177.93.44.34|999|Colombia|Almeida|TV AZTECA SUCURSAL COLOMBIA|
+|9|165.99.194.184|8080|Indonesia|Guyangan|PT Network Bumi Saridin|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|12|74.62.179.122|8080|United States|Anaheim|Charter Communications Inc|
+|13|172.85.99.63|16062|United States|Atlanta|Host Wagon LLC|
+|14|182.52.136.73|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|103.160.69.161|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
+|16|202.169.250.146|8111|Indonesia|Jakarta|PT. Rabik Bangun Pertiwi|
+|17|216.152.152.44|80|United States|Los Angeles|GTHost|
+|18|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|128.0.7.126|8080|Syria|Jarābulus|High Speed For Internet Services L.L.C|
 
 
 
