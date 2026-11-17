@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4496** proxies at the latest update. Usable proxies are below.
+> Scraper found **4428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|932|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|864|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|641|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2223|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|5|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
-|6|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|7|1.10.248.195|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|103.102.14.48|1111|Indonesia|Rembang|FISNET|
-|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|13|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|14|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|15|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
-|16|185.202.165.1|53281|Spain|Mijas|AVATEL TELECOM, SA|
-|17|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
-|19|190.237.238.94|999|Peru|Lima|TDP-GRS|
-|20|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|1.10.248.195|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|6|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|7|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|11|113.160.115.254|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|14|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|15|64.226.100.93|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.245.16.133|8080|Indonesia|Utan|PT Quantum Tera Network|
+|17|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
+|18|216.152.149.246|80|United States|Newark|GTHost|
+|19|181.63.33.136|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|123.253.136.159|1256|Philippines|Cadlan|ComClark Network & Technology Corp|
 
 
 
