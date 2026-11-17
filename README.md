@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|3|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|1|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|2|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
+|3|45.175.39.95|999|Venezuela|Caracas|TCA SERVICES C.A.|
 |4|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|5|149.2.82.196|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|6|115.236.37.105|2411|China|Hangzhou|Chinanet|
-|7|181.204.81.180|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|8|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
-|9|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
-|10|90.146.196.18|8080|Austria|Traun|LIWEST Kabelmedien GmbH|
-|11|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|12|103.119.101.59|8080|Bangladesh|Dhaka|Dot Internet|
-|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|14|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|15|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|16|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
-|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|45.174.242.147|999|Mexico|San Pablo Pixtún|Sistemas Y Soluciones De Campeche SAS De CV|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|6|202.169.250.146|8111|Indonesia|Jakarta|PT. Rabik Bangun Pertiwi|
+|7|119.93.170.95|8085|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|89.135.59.71|8090|Hungary|Budapest|One Hungary Ltd.|
+|9|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|10|103.124.110.101|8090|Bangladesh|Farīdpur|Delta Software and Communication Limited|
+|11|181.119.84.134|8080|Colombia|Pradera|IFX Networks Argentina S.R.L|
+|12|177.136.32.202|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|13|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|14|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|89.43.134.69|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|17|103.82.23.129|8888|Vietnam|Dich Vong|INETACADEMY|
+|18|102.0.18.120|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|38.191.149.221|999|Mexico|Santa Cruz de Rosales|GRIDNED|
+|20|103.134.222.170|1111|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
 
 
 
