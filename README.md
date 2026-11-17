@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|1|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|43.249.227.186|82|India|Hyderabad|Pioneer Elabs Ltd.|
-|4|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|5|121.101.129.103|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|6|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|7|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
-|8|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|3|103.125.212.130|8080|Indonesia|West Jakarta|SOLUSINET|
+|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|10|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|11|91.126.244.112|8080|Spain|Sant Fost de Campsentelles|Adamo Telecom Iberia S.A Catalonia|
 |12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|119.93.158.162|9090|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|17|103.125.212.130|8080|Indonesia|West Jakarta|SOLUSINET|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|182.252.89.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
+|14|190.97.226.89|999|Venezuela|Rubio|Viginet C.A|
+|15|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|24.173.217.114|55443|United States|Balch Springs|Spectrum|
+|17|151.242.173.217|8080|Indonesia|Jakarta|PT Mahawira Nusantara Grup|
+|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|19|125.25.167.199|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|188.246.186.54|8080|Russia|Moscow|OOO WestCall Ltd|
 
 
 
