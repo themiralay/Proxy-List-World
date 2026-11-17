@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|168.138.114.90|7890|India|Mumbai|Oracle Corporation|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|124.105.196.148|8081|Philippines|Paco|Philippine Long Distance Telephone Co.|
+|3|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|4|168.138.114.90|7890|India|Mumbai|Oracle Corporation|
 |5|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|157.15.63.48|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|9|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|10|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|11|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|118.179.84.131|81|Bangladesh|Dhaka|AmberIT Limited|
-|13|172.235.147.5|3128|United States|Miami|Akamai Technologies, Inc.|
-|14|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|191.5.126.28|8080|Brazil|Olímpia|Via Fibra Internet Banda Larga EIRELI|
-|16|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|18|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|19|103.134.222.170|1111|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|20|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
+|7|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|8|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|87.76.138.37|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|11|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|12|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|14|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|38.191.204.103|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|17|188.132.249.148|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|18|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|45.198.20.224|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|20|46.122.16.54|8080|Slovenia|Ljubljana|A1 Slovenija|
 
 
 
