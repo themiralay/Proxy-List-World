@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|1|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|34.43.46.91|80|United States|Mountain View|Google LLC|
 |3|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|216.152.152.44|80|United States|Los Angeles|GTHost|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|10|49.13.48.65|8443|Germany|Falkenstein|Hetzner Online GmbH|
-|11|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|181.209.118.250|999|Argentina|General Guemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|165.0.136.30|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
-|15|49.147.46.158|8082|Philippines|Silay|Philippine Long Distance Telephone Co.|
-|16|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|17|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
-|18|103.165.128.171|8080|Indonesia|Bandung|PT iForte Global Internet|
-|19|38.188.97.30|999|Venezuela|Caracas|Inversiones Smartbyte C.A|
-|20|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
+|4|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|5|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|6|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|103.162.16.7|8080|Indonesia|Winong|PT Mega Data Perkasa|
+|8|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|9|101.96.96.241|8080|Vietnam|Hanoi|NetNam Corporation|
+|10|200.8.121.121|8080|Venezuela|Valencia|Corporación Telemic C.A.|
+|11|91.224.77.229|8090|Russia|Moscow|LLC Telecom MPK|
+|12|103.48.71.54|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
+|13|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|216.152.152.44|80|United States|Los Angeles|GTHost|
+|16|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
+|17|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|124.106.122.97|8086|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|202.51.121.59|80|Indonesia|West Jakarta|PT iForte Global Internet|
+|20|14.241.133.207|8080|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
