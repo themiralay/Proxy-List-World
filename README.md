@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4056** proxies at the latest update. Usable proxies are below.
+> Scraper found **4069** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|495|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2464|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|9|113.160.115.254|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|10|210.87.125.57|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|11|183.88.218.225|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|12|188.191.18.66|15212|Russia|Sochi|CrimeaCom South LLC|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|15|45.198.11.190|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|16|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|17|202.5.47.60|1080|Bangladesh|Chittagong|BBTS-NEW|
-|18|103.147.77.212|8080|Indonesia|Madiun|TRIDATA|
-|19|115.178.50.122|8080|Indonesia|Pameungpeuk|NOC SIMAYA|
-|20|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
+|1|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|146.190.60.147|8002|United States|Santa Clara|DigitalOcean, LLC|
+|3|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|5|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
+|6|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|10|186.148.180.132|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
+|12|79.98.32.85|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|13|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|216.152.149.246|80|United States|Newark|GTHost|
+|15|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|113.53.29.74|8080|Thailand|Phuket|TOT Public Company Limited|
+|17|38.19.41.157|999|Colombia|Soacha|Super Redes S.A.S|
+|18|193.43.140.240|8080|Syria|Damascus|Syrian Telecom|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
