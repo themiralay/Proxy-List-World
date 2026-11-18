@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|5|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|69.171.214.160|999|United States|Dallas|Ipxo LLC|
-|8|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
-|9|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|10|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
-|14|1.10.248.249|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|124.105.111.84|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|17|206.42.12.58|3132|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
-|18|217.219.83.186|2222|Iran|Tehran|Iran Telecommunication Company PJS|
-|19|201.4.69.240|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|20|154.27.196.249|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|4|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|8|206.135.80.94|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|9|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|10|144.124.251.24|10136|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|31.135.214.17|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|13|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|14|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|103.67.84.130|80|Indonesia|Muncar|PT Tujuh Fondasi Teknologi|
+|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|19|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|144.124.251.24|10136|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
