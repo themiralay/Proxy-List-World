@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5147** proxies at the latest update. Usable proxies are below.
+> Scraper found **4936** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|833|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|626|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2988|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|2|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|4|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|5|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|6|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|7|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|8|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|9|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|10|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|11|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|12|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|13|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|14|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|15|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|16|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|17|222.127.54.16|8080|Philippines|Lahug|INNOVE|
-|18|165.225.112.6|10819|Singapore|Singapore|ZSCALER, INC.|
-|19|165.225.113.220|10462|Singapore|Singapore|ZSCALER, INC.|
-|20|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|36.92.140.113|80|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|3|216.152.152.44|80|United States|Los Angeles|GTHost|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
+|7|113.197.55.156|8080|Pakistan|Islamabad|National Telecom Corporation|
+|8|124.16.100.195|7890|China|Beijing|CNIC-CAS|
+|9|182.52.113.74|80|Thailand|Bangkok|TOT Public Company Limited|
+|10|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|13|38.191.204.113|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|181.176.2.246|8443|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|15|38.236.240.198|999|Colombia|Florencia|Cogent Communications|
+|16|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|17|180.180.156.126|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|190.237.238.102|999|Peru|Lima|TDP-GRS|
+|19|49.151.178.115|3128|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|20|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
