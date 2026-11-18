@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
-|5|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|6|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|112.204.117.49|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|9|180.180.156.126|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|157.15.62.74|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|11|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
-|12|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|14|103.68.215.115|8181|Indonesia|Sepatan|PT Media Grasi Internet|
-|15|103.173.163.199|8818|Indonesia|Jatibarang|Paket Data Andal|
-|16|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|182.52.113.109|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
-|19|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|20|1.10.248.249|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|47.77.214.110|80|United States|Minkler|Alibaba.com LLC|
+|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|8|101.255.45.46|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|9|38.156.23.41|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|10|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|11|103.69.107.70|8181|Indonesia|Ciruas|PT. Berkat Dunia Digital Cikande|
+|12|119.17.211.204|8080|Vietnam|Hanoi|Netnam Corporation|
+|13|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|203.99.183.197|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|15|152.53.120.85|8080|Germany|Nuremberg|netcup GmbH|
+|16|119.159.251.98|8080|Pakistan|Kotla Arab Ali Khan|Pakistan Telecommuication company limited|
+|17|38.156.23.225|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|18|157.66.3.20|1111|Indonesia|Bekasi Regency|PT Ashyla Karya Abadi|
+|19|1.20.101.19|443|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|20|179.1.182.25|999|Colombia|Villavieja|Internexa S.a. E.S.P|
 
 
 
