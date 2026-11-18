@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.99.121.31|18080|Singapore|Singapore|OVH SAS|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|4|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|193.233.210.148|8080|The Netherlands|Amsterdam|Aeza Group LLC|
-|8|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|11|182.52.136.73|80|Thailand|Bangkok|TOT Public Company Limited|
-|12|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|34.43.46.91|80|United States|Mountain View|Google LLC|
-|15|122.166.79.199|80|India|Hubballi|Bharti Airtel Ltd.|
-|16|216.152.149.246|80|United States|Newark|GTHost|
-|17|206.42.16.94|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
-|18|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|19|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
-|20|1.4.141.44|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|10|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|11|2.139.41.14|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|12|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|13|193.233.210.148|8080|The Netherlands|Amsterdam|Aeza Group LLC|
+|14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|15|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|16|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|58.69.208.243|8081|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
+|18|165.101.25.186|8080|Indonesia|Boyolali|PT ALPHA DATA CONNECSINDO|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|91.149.142.139|8080|Belarus|Minsk|Cosmos TV Jllc|
 
 
 
