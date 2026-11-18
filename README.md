@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1096|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1096|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1096|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.225.113.220|11698|Singapore|Singapore|ZSCALER, INC.|
+|1|165.225.113.220|10576|Singapore|Singapore|ZSCALER, INC.|
 |2|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|3|165.225.113.220|10576|Singapore|Singapore|ZSCALER, INC.|
 |4|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|5|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|6|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|7|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|5|104.129.203.245|18080|United States|San Jose|ZSCALER, INC.|
+|6|104.129.203.245|18080|United States|San Jose|ZSCALER, INC.|
+|7|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
 |8|104.129.203.248|11368|United States|San Jose|ZSCALER, INC.|
-|9|165.225.113.220|11698|Singapore|Singapore|ZSCALER, INC.|
+|9|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
 |10|104.129.203.247|10819|United States|San Jose|ZSCALER, INC.|
-|11|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|12|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
+|11|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|12|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |13|104.129.203.247|10819|United States|San Jose|ZSCALER, INC.|
-|14|104.129.203.247|10819|United States|San Jose|ZSCALER, INC.|
+|14|104.129.203.245|18080|United States|San Jose|ZSCALER, INC.|
 |15|104.129.203.247|10819|United States|San Jose|ZSCALER, INC.|
-|16|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|17|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|18|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|16|104.129.203.247|10819|United States|San Jose|ZSCALER, INC.|
+|17|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|18|104.129.203.245|18080|United States|San Jose|ZSCALER, INC.|
 |19|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|20|104.129.203.248|11368|United States|San Jose|ZSCALER, INC.|
+|20|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
 
 
 
