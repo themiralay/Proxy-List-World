@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4216** proxies at the latest update. Usable proxies are below.
+> Scraper found **4563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|803|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|503|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2557|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|124.107.173.219|8082|Philippines|Marikina City|Philippine Long Distance Telephone Co.|
-|3|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|130.250.199.73|999|Mexico|Hermosillo|NGX Networks|
-|6|1.10.133.83|8081|Thailand|Tha Kham|TOT Public Company Limited|
-|7|103.179.84.185|8089|Indonesia|Boyolali|PT CYB Media Group|
-|8|36.89.82.54|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|10|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|4|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|7|180.191.121.220|8181|Philippines|Quezon City|Globe Telecom|
+|8|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|9|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 |11|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|12|216.152.152.44|80|United States|Los Angeles|GTHost|
-|13|38.236.240.202|999|Colombia|Florencia|Cogent Communications|
-|14|123.20.143.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|92.86.207.198|8080|Romania|Vaideeni|Romtelecom|
-|16|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|17|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
-|18|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|19|187.190.58.152|8081|Mexico|Mazatlán|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|20|182.52.136.73|80|Thailand|Bangkok|TOT Public Company Limited|
+|12|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|13|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|14|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
+|15|216.152.152.44|80|United States|Los Angeles|GTHost|
+|16|45.65.224.125|999|Argentina|Buenos Aires|Solution LAN S.A|
+|17|216.152.149.246|80|United States|Newark|GTHost|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|20|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
 
 
 
