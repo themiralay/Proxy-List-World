@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|112.215.62.81|8080|Indonesia|Denpasar|XL-AXIATA Tbk GSM|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|5|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|6|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
-|7|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
-|8|154.18.255.115|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|10|103.74.144.34|83|India|New Delhi|Airmax Internet Private Limited|
-|11|124.105.110.52|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|103.247.23.204|8080|Indonesia|Ngawi|PT wifian Solution|
-|13|103.172.71.203|8080|Indonesia|Karangampel|AZNET|
-|14|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|16|191.44.71.208|8080|The Netherlands|Amsterdam|High Speed For Internet Services L.L.C|
-|17|125.25.167.188|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.61.226.182|8080|Indonesia|Cikampek|PT Pusat Fiber Indonesia|
-|19|46.23.61.97|8080|Czechia|Klatovy|MAXTEL s.r.o. 1|
-|20|148.224.14.251|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|1|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|154.58.138.231|8088|Indonesia|Purbalingga|Cogent Communications|
+|4|154.18.255.115|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|6|201.163.152.54|999|Mexico|Frontera|Alestra, S. de R.L. de C.V.|
+|7|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|8|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|9|149.86.140.210|8080|Türkiye|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|10|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|11|85.92.127.42|999|Mexico|Huixtla|Roger Edwin Monzon Mejia|
+|12|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|151.243.153.157|8118|United States|Seattle|Black Apple|
+|16|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|19|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|20|103.51.205.94|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
 
 
 
