@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|8|138.68.183.71|10000|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|210.87.92.54|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|18|200.116.198.222|9812|Colombia|Manizales|UNE EPM TELECOMUNICACIONES S.A|
-|19|216.152.152.44|80|United States|Los Angeles|GTHost|
-|20|182.160.101.54|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|182.160.101.54|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|13|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|216.152.152.44|80|United States|Los Angeles|GTHost|
+|16|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|17|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|173.212.234.174|3128|France|Lauterbourg|Contabo GmbH|
+|19|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
 
 
 
