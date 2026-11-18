@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4984** proxies at the latest update. Usable proxies are below.
+> Scraper found **5256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|626|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|770|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2988|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|3|216.152.152.44|80|United States|Los Angeles|GTHost|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|6|91.26.188.170|8080|Germany|Cochem|Deutsche Telekom AG|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|116.101.73.161|2080|Vietnam|Hanoi|Viettel Group|
+|4|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
 |7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|147.161.247.20|10815|Switzerland|Zurich|Zscaler ZRH1|
-|9|147.161.247.20|10815|Switzerland|Zurich|Zscaler ZRH1|
-|10|147.161.247.20|10815|Switzerland|Zurich|Zscaler ZRH1|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|12|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|185.145.4.8|8080|Estonia|Tartu|Geenet ldt.|
-|18|193.43.140.240|8080|Syria|Damascus|Syrian Telecom|
-|19|38.7.23.105|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|20|36.92.140.113|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|8|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|116.204.166.202|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
+|13|89.43.132.219|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
+|14|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|17|36.92.140.113|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|19|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|144.124.251.24|10064|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
