@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|1|45.194.3.108|8080|India|Noida|CtrlS|
+|2|103.68.215.115|8181|Indonesia|Sepatan|PT Media Grasi Internet|
 |3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|5|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
-|6|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|7|45.194.3.108|8080|India|Noida|CtrlS|
-|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|45.194.3.204|8080|India|Noida|CtrlS|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|10|119.93.172.191|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|160.19.19.148|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|12|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|36.92.61.75|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|180.191.233.16|8085|Philippines|Marilao|Globe Telecom|
-|16|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|17|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|18|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
-|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|20|103.46.8.85|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|10|103.210.123.197|8080|Indonesia|Makassar|JNETWORK|
+|11|61.130.176.21|20043|China|Lishui|Chinanet|
+|12|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
+|13|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|14|182.176.111.188|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|15|113.23.230.90|8080|Malaysia|Johor Bahru|Extreme Broadband|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|62.220.129.81|8080|Switzerland|Lausanne|Saitis Network, N.Desir|
+|19|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|20|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
