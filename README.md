@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|929|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|929|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|929|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
-|4|216.152.152.44|80|United States|Los Angeles|GTHost|
-|5|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
-|6|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
-|7|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
+|1|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|2|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
+|3|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|6|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
+|7|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |8|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|9|165.225.113.220|10815|Singapore|Singapore|ZSCALER, INC.|
-|10|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|11|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|9|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|10|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
+|11|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
 |12|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|13|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|14|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
-|15|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
-|16|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|17|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|18|103.230.150.58|8080|India|Mharal Bk|Zess Networks Private Limited|
-|19|202.5.47.60|1080|Bangladesh|Chittagong|BBTS-NEW|
-|20|182.48.82.33|8090|Bangladesh|Rajshahi|Corporate Office|
+|13|165.225.113.220|11847|Singapore|Singapore|ZSCALER, INC.|
+|14|112.204.117.49|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|15|216.152.152.44|80|United States|Los Angeles|GTHost|
+|16|103.103.8.222|8080|India|Chennai|F2h Networks Pvt Ltd|
+|17|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|18|165.225.112.6|10000|Singapore|Singapore|ZSCALER, INC.|
+|19|167.99.3.26|6800|United States|North Bergen|DigitalOcean, LLC|
+|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 
 
 
