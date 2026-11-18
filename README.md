@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.99.36|8017|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
 |2|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.113.220|11175|Singapore|Singapore|ZSCALER, INC.|
-|4|165.225.113.220|11175|Singapore|Singapore|ZSCALER, INC.|
-|5|165.225.113.220|11175|Singapore|Singapore|ZSCALER, INC.|
+|3|165.225.113.220|11694|Singapore|Singapore|ZSCALER, INC.|
+|4|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
+|5|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
 |6|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|7|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|8|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
-|9|104.129.203.246|11361|United States|San Jose|ZSCALER, INC.|
-|10|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
+|7|165.225.113.220|11694|Singapore|Singapore|ZSCALER, INC.|
+|8|165.225.113.220|11694|Singapore|Singapore|ZSCALER, INC.|
+|9|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
+|10|104.129.203.246|12860|United States|San Jose|ZSCALER, INC.|
 |11|104.129.203.248|10814|United States|San Jose|ZSCALER, INC.|
 |12|104.129.203.248|10814|United States|San Jose|ZSCALER, INC.|
-|13|104.129.203.248|10814|United States|San Jose|ZSCALER, INC.|
-|14|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
-|15|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|16|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
+|13|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
+|14|104.129.203.248|10814|United States|San Jose|ZSCALER, INC.|
+|15|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
+|16|104.129.203.247|8800|United States|San Jose|ZSCALER, INC.|
 |17|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|18|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
-|19|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|20|104.129.203.246|11361|United States|San Jose|ZSCALER, INC.|
+|18|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
+|19|104.129.203.246|12860|United States|San Jose|ZSCALER, INC.|
+|20|104.129.203.248|10814|United States|San Jose|ZSCALER, INC.|
 
 
 
