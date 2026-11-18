@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|180.191.136.92|8082|Philippines|Cebu City|Globe Telecom|
-|3|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|4|160.19.16.148|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|7|182.52.113.61|80|Thailand|Bangkok|TOT Public Company Limited|
-|8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|11|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
-|12|139.198.113.42|10023|Hong Kong|Hong Kong|Yunify Technologies Inc|
-|13|139.5.75.83|8080|Nepal|Patan|WLINK|
-|14|119.93.151.254|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
-|16|1.20.101.27|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|17|182.52.136.70|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|170.244.91.33|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|20|186.96.72.102|999|Venezuela|Caracas|Gold Data USA Inc|
+|2|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|1.20.178.212|80|Thailand|Bangkok|TOT Public Company Limited|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|6|1.10.185.111|8080|Thailand|Suphan Buri|TOT Public Company Limited|
+|7|180.180.217.53|80|Thailand|Chon Buri|TOT Public Company Limited|
+|8|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|10|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|11|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|13|49.0.26.97|8080|Indonesia|Kebomas|SIMS Jabar Banten Medianet|
+|14|115.127.166.86|8080|Bangladesh|Dhaka|BRACNet Limited|
+|15|182.52.149.42|443|Thailand|Bangkok|TOT Public Company Limited|
+|16|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
+|17|222.167.236.151|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|18|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
+|19|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|20|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
 
 
 
