@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|2|1.20.101.32|8080|Thailand|Phibun Mangsahan|TOT Public Company Limited|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|5|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|6|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
 |7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|182.253.151.24|8080|Indonesia|Sukabumi|BIZNET|
+|9|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |12|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|13|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|14|182.53.202.220|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|16|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|17|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|18|36.64.44.51|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|19|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|20|187.190.127.212|80|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|13|200.48.64.107|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
+|14|219.148.171.178|9445|China|Hechi|Chinanet|
+|15|37.32.26.209|10809|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|36.64.44.51|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|18|206.135.80.94|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|19|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
