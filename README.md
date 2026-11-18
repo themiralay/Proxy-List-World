@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|755|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|755|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|755|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|795|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|795|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|795|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|180.190.84.60|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|3|104.129.203.247|10101|United States|San Jose|ZSCALER, INC.|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|1.20.101.22|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|6|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|8|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|45.126.250.122|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
-|10|180.191.231.112|8082|Philippines|Talisay City|Globe Telecom|
-|11|103.112.163.131|8080|Indonesia|Jakarta|24AS|
-|12|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
-|13|216.152.152.44|80|United States|Los Angeles|GTHost|
-|14|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|16|172.245.64.104|8888|United States|Elk Grove Village|HostPapa|
-|17|185.27.144.74|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|202.154.17.18|8080|Indonesia|Krian|PT Eno Cyber Sentinel|
-|20|177.93.48.137|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
+|3|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
+|4|104.129.203.247|10101|United States|San Jose|ZSCALER, INC.|
+|5|103.90.27.126|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
+|6|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|8|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|9|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|79.98.32.97|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|11|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|12|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|13|103.25.195.121|8181|Indonesia|Karawang|UNINA|
+|14|115.147.47.214|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|37.230.57.239|999|Paraguay|San Ignacio|Startelecom S.A.|
+|16|38.252.110.183|999|Venezuela|Maracay|Novopos C.A|
+|17|157.100.12.149|999|Ecuador|Guayaquil|Telconet S.A|
+|18|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
+|19|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|20|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
