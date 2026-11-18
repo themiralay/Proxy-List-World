@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|187.251.134.179|999|Mexico|Manzanillo|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|4|27.147.152.53|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|8|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|11|119.159.251.98|8080|Pakistan|Kotla Arab Ali Khan|Pakistan Telecommuication company limited|
-|12|197.248.59.159|8082|Kenya|Nairobi|Safaricom Limited|
-|13|144.31.111.155|8081|The Netherlands|Eygelshoven|LLC "HOSTOFF CSL"|
-|14|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|15|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|16|79.175.100.126|6666|Serbia|Belgrade|OT 100|
-|17|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
-|18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|19|181.233.88.218|999|Venezuela|Cabimas|Colnetwork C.A.|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|5|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|6|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|202.69.38.82|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|12|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
+|13|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|201.165.162.54|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
+|16|122.166.79.199|80|India|Hubballi|Bharti Airtel Ltd.|
+|17|103.165.128.171|8080|Indonesia|Bandung|PT iForte Global Internet|
+|18|185.174.208.195|8080|Kosovo|Vushtrri|Podujeve-Broadband|
+|19|216.152.149.246|80|United States|Newark|GTHost|
+|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 
 
 
