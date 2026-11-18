@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|2|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|3|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
-|4|180.190.188.49|8080|Philippines|Lahug|Globe Telecom|
-|5|200.48.64.107|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
-|6|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|36.253.25.10|8181|Nepal|Kathmandu|Ncell Pty. Ltd.|
-|10|103.134.222.170|1111|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|11|121.101.133.96|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|182.52.113.84|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|103.227.187.3|6090|Indonesia|Wirodayan|PT Master Star Network|
-|14|58.65.202.159|808|Pakistan|Karachi|Cyber Internet Services Pakistan|
-|15|45.65.226.169|999|Argentina|Buenos Aires|Solution LAN S.A|
-|16|77.163.47.213|3128|The Netherlands|Houten|KPN B.V.|
-|17|45.70.52.248|8080|Brazil|São João de Meriti|NC BRASIL TELECOM E SERVICOS LTDA- ME|
-|18|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|19|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|3|180.190.84.60|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|4|27.147.142.156|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|151.243.153.157|8118|United States|Seattle|Black Apple|
+|6|103.134.222.170|1111|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|7|45.198.20.224|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|8|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|9|38.236.240.87|999|Colombia|Florencia|Cogent Communications|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|12|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|13|45.70.52.248|8080|Brazil|São João de Meriti|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|14|1.20.101.17|8080|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|15|58.69.248.180|8080|Philippines|Pateros|Philippine Long Distance Telephone Co.|
+|16|143.208.57.165|999|Guatemala|Tecpán Guatemala|Comunicaciones Metropolitanas Cablecolor|
+|17|38.253.85.3|999|Dominican Republic|Maimón|Cogent Communications|
+|18|38.103.250.83|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|19|180.191.231.112|8082|Philippines|Talisay City|Globe Telecom|
+|20|160.19.18.216|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
 
 
 
