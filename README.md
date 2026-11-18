@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|2|165.225.113.220|11714|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|4|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|5|165.225.112.6|10443|Singapore|Singapore|ZSCALER, INC.|
-|6|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
-|7|45.198.11.162|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|9|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
-|10|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|11|182.52.113.74|80|Thailand|Bangkok|TOT Public Company Limited|
-|12|180.191.101.69|5050|Philippines|Makati City|Globe Telecom|
-|13|101.255.45.44|8080|Indonesia|East Jakarta|PT Remala Abadi|
-|14|147.161.247.20|8800|Switzerland|Zurich|Zscaler ZRH1|
-|15|147.161.247.20|8800|Switzerland|Zurich|Zscaler ZRH1|
-|16|182.52.136.59|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|147.161.247.20|8800|Switzerland|Zurich|Zscaler ZRH1|
-|18|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|19|147.161.247.20|8800|Switzerland|Zurich|Zscaler ZRH1|
-|20|147.161.247.20|8800|Switzerland|Zurich|Zscaler ZRH1|
+|1|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
+|2|157.20.208.84|8080|Indonesia|Pamekasan|PT Barokah Sistem Telematika|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|6|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|7|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|8|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|9|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
+|10|147.161.246.246|15001|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|11|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
+|12|147.161.246.246|15001|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|27.147.169.75|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|147.161.246.246|15001|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|16|36.92.140.113|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|18|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|19|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|20|27.147.177.74|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
