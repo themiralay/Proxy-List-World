@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.214.110|80|United States|Minkler|Alibaba.com LLC|
-|2|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|1|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|2|47.77.214.110|80|United States|Minkler|Alibaba.com LLC|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|4|45.194.3.204|8080|India|Noida|CtrlS|
 |5|24.144.86.14|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|7|170.244.91.33|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|8|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
-|9|61.130.176.21|20043|China|Lishui|Chinanet|
-|10|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|13|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|14|91.185.193.115|8080|Slovenia|Ljubljana|TELEMACH|
-|15|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|16|103.174.122.120|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|17|180.148.25.46|8181|Indonesia|Ngamprah|PT GIGA NETWORK INDONESIA|
-|18|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
-|19|191.5.126.28|8080|Brazil|Olímpia|Via Fibra Internet Banda Larga EIRELI|
-|20|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|6|58.69.248.180|8080|Philippines|Pateros|Philippine Long Distance Telephone Co.|
+|7|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
+|8|61.130.176.21|20043|China|Lishui|Chinanet|
+|9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|10|1.2.248.34|80|Thailand|Bang Khen|TOT Public Company Limited|
+|11|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|12|179.63.6.239|999|Peru|Lima|RED AMONES S.A.C.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|216.152.152.44|80|United States|Los Angeles|GTHost|
+|15|183.88.214.84|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|16|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|45.174.243.232|999|Mexico|Candelaria|Sistemas Y Soluciones De Campeche SAS De CV|
+|18|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|182.52.229.165|8080|Thailand|Ban Fang Tuen|TOT Public Company Limited|
+|20|191.44.71.208|8080|The Netherlands|Amsterdam|High Speed For Internet Services L.L.C|
 
 
 
