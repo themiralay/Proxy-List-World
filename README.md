@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|1|49.151.178.115|3128|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|210.87.92.107|3125|Indonesia|Jepara|PT Indo Telemedia Solusi|
+|3|124.105.111.84|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |4|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|5|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|5|182.52.136.32|80|Thailand|Bangkok|TOT Public Company Limited|
 |6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|7|193.233.210.148|8080|The Netherlands|Amsterdam|Aeza Group LLC|
-|8|38.41.0.87|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|9|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|10|183.236.232.160|8080|China|Guangzhou|China Mobile communications corporation|
-|11|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|12|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|13|49.151.178.115|3128|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|14|182.52.113.106|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
-|16|101.255.104.117|8181|Indonesia|West Jakarta|PT Remala Abadi|
-|17|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|19|190.237.238.102|999|Peru|Lima|TDP-GRS|
-|20|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|7|200.106.116.105|999|Peru|San Borja|Telefonica del Peru|
+|8|193.233.210.148|8080|The Netherlands|Amsterdam|Aeza Group LLC|
+|9|182.52.113.61|80|Thailand|Bangkok|TOT Public Company Limited|
+|10|157.20.252.203|8080|Indonesia|Pati|PT.Global Media Data Prima|
+|11|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|14|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
+|15|190.61.37.142|999|Honduras|La Entrada|Ufinet Panama S.A.|
+|16|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
+|18|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|19|75.109.189.86|8080|United States|Nacogdoches|Suddenlink Communications|
+|20|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
 
 
 
