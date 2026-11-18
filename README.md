@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1028|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1028|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1028|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|872|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|872|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|872|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|2|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|3|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|4|165.225.112.6|9443|Singapore|Singapore|ZSCALER, INC.|
-|5|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|6|104.129.203.248|10802|United States|San Jose|ZSCALER, INC.|
-|7|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|8|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|9|104.129.203.247|11096|United States|San Jose|ZSCALER, INC.|
-|10|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|11|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
-|12|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
-|13|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|14|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
-|15|104.129.203.244|10985|United States|San Jose|ZSCALER, INC.|
-|16|165.225.112.6|9443|Singapore|Singapore|ZSCALER, INC.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|49.0.26.43|1080|Indonesia|Bean|SIMS Jabar Banten Medianet|
+|4|104.129.203.247|80|United States|San Jose|ZSCALER, INC.|
+|5|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
+|6|104.129.203.245|12000|United States|San Jose|ZSCALER, INC.|
+|7|165.225.112.6|9443|Singapore|Singapore|ZSCALER, INC.|
+|8|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|9|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|10|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|11|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|12|104.129.203.246|33333|United States|San Jose|ZSCALER, INC.|
+|13|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|14|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|15|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|16|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
 |17|165.225.112.6|9443|Singapore|Singapore|ZSCALER, INC.|
-|18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|19|104.129.203.246|33333|United States|San Jose|ZSCALER, INC.|
-|20|165.225.113.220|11716|Singapore|Singapore|ZSCALER, INC.|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|165.225.113.220|11748|Singapore|Singapore|ZSCALER, INC.|
+|20|147.161.246.246|12320|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
