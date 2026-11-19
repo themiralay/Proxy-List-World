@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|2|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
-|3|103.172.71.172|1111|Indonesia|Tangerang|AZNET|
-|4|103.46.11.129|8090|Indonesia|Sukoanyar|Lintas Data Prima, PT|
-|5|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|6|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.38.7.149|18000|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
-|11|206.135.80.94|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|12|103.156.74.36|8181|Indonesia|Biaslantang Kaler|PT Trika Global Media|
-|13|36.67.194.162|8042|Indonesia|West Jakarta|PT. Telekomunikasi Indonesia|
-|14|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
-|15|179.1.182.25|999|Colombia|Villavieja|Internexa S.a. E.S.P|
-|16|94.130.50.22|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|17|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|61.130.176.21|19016|China|Lishui|Chinanet|
-|19|42.116.10.198|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
+|1|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
+|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|7|165.101.231.153|8080|Indonesia|Weru|PT Anugerah Cimanuk Raya|
+|8|154.19.39.50|80|Indonesia|Tangerang|PT Lintas Network Solusi|
+|9|110.76.147.31|8080|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|10|36.67.194.162|8042|Indonesia|West Jakarta|PT. Telekomunikasi Indonesia|
+|11|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
+|12|118.179.191.167|81|Bangladesh|Khulna|Amber IT Limited|
+|13|213.169.33.7|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
+|14|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
+|15|104.251.93.55|16062|United States|Las Vegas|BraveWay LLC|
+|16|188.132.249.157|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|18|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
+|19|103.48.71.6|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
+|20|103.177.104.121|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
