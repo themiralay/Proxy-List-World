@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4630** proxies at the latest update. Usable proxies are below.
+> Scraper found **4445** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|659|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|474|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|49.48.66.110|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
-|3|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|41.90.103.85|8080|Kenya|Nairobi|Safaricom Limited|
-|7|40.160.73.206|8080|United States|Warrenton|OVH SAS|
-|8|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|9|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|218.100.23.130|8080|New Zealand|Te Aro|Vital Data Ltd|
-|11|130.250.199.73|999|Mexico|Hermosillo|NGX Networks|
-|12|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|15|217.219.83.186|2222|Iran|Tehran|Iran Telecommunication Company PJS|
-|16|182.160.100.142|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|18|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|19|181.78.44.63|999|Honduras|La Unión|Ufinet Panama S.A.|
-|20|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|4|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|38.51.233.102|999|Colombia|Pasto|SP SISTEMAS PALACIOS|
+|10|45.236.107.106|808|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|12|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
+|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|14|147.161.246.34|9443|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|16|130.250.199.73|999|Mexico|Hermosillo|NGX Networks|
+|17|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|18|216.152.152.44|80|United States|Los Angeles|GTHost|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
 
 
 
