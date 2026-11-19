@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
-|4|45.194.3.119|8080|India|Noida|CtrlS|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
 |6|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
 |7|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|8|182.160.101.54|3128|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
 |9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|10|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |12|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|13|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|14|27.147.157.125|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|14|45.194.3.204|8080|India|Noida|CtrlS|
 |15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|16|200.10.31.42|8081|Colombia|Pereira|Super Redes S.A.S|
+|16|182.52.113.85|443|Thailand|Bangkok|TOT Public Company Limited|
 |17|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|18|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 |19|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|20|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|20|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
