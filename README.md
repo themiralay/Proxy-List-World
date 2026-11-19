@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4509** proxies at the latest update. Usable proxies are below.
+> Scraper found **4547** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|456|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|3|34.65.99.32|3128|Switzerland|Zurich|Google LLC|
-|4|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
-|5|216.152.152.44|80|United States|Los Angeles|GTHost|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|206.135.80.78|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|146.190.60.147|8008|United States|Santa Clara|DigitalOcean, LLC|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|45.194.3.108|8080|India|Noida|CtrlS|
+|6|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|103.82.23.129|8888|Vietnam|Dich Vong|INETACADEMY|
+|10|157.15.139.55|8090|Indonesia|Purworejo|PT Ring Media Nusantara|
+|11|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |12|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|15|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|16|205.164.46.6|3083|United States|Santa Clara|Grass Dataco LTD|
-|17|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
-|18|103.172.42.221|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
-|19|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|20|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|13|184.170.169.216|8888|United States|Westfield|Metronet|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|38.10.71.91|8080|Turkey|Karaköprü|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|17|147.161.246.34|12702|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
+|19|103.178.3.243|8818|Indonesia|Majalengka|RSTNET|
+|20|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
 
 
 
