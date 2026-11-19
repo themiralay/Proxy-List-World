@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|757|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|757|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|757|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|216.152.152.44|80|United States|Los Angeles|GTHost|
-|4|45.194.3.108|8080|India|Noida|CtrlS|
-|5|45.194.90.225|8080|India|Noida|Shanxi Liyun Breeding Co|
-|6|182.52.136.68|80|Thailand|Bangkok|TOT Public Company Limited|
-|7|1.10.248.236|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|101.255.211.46|8181|Indonesia|Depok|PT Remala Abadi|
-|9|36.95.169.154|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|1.20.101.34|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|12|103.147.77.212|8080|Indonesia|Madiun|TRIDATA|
-|13|36.93.163.219|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|14|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|15|49.149.23.163|8081|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|16|102.209.18.248|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|17|103.213.131.106|9090|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|18|193.33.157.195|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|19|38.191.217.254|999|Colombia|San Vicente de Chucurí|Rednet Group SAS|
-|20|38.250.183.132|8069|Peru|Tacna|Desarrollo De Infraestructura De Telecomunicaciones Peru S.A.C.|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
+|3|5.104.81.203|8080|Japan|Chiyoda City|Contabo Asia Private Limited|
+|4|38.226.243.163|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|5|112.65.132.182|3128|China|Shanghai|China Unicom CHINA169 Shanghai Province Network|
+|6|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|7|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|8|118.137.63.115|8080|Indonesia|Surabaya|Linknet-Fastnet ASN|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|194.31.107.138|3128|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|36.95.169.154|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|12|190.237.238.102|999|Peru|Lima|TDP-GRS|
+|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|14|160.22.222.135|8097|Indonesia|Tegal|PT Juara Network Tegal|
+|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|16|101.109.44.190|8080|Thailand|Suan Luang|TOT Public Company Limited|
+|17|103.76.108.158|8090|Indonesia|Kalipuro|PT Mahawira Nusantara Grup|
+|18|186.167.114.146|999|Venezuela|Valencia|Corporacion Digitel C.A|
+|19|103.82.246.19|6080|Indonesia|Tulangan Utara|PT Master Star Network|
+|20|89.135.59.71|8090|Hungary|Budapest|One Hungary Ltd.|
 
 
 
