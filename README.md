@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|797|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|797|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|797|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|838|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|838|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|838|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|1|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 |2|49.151.189.87|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|3|45.194.3.108|8080|India|Noida|CtrlS|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|6|38.199.250.2|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
-|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|9|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
-|10|103.213.131.79|8085|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|11|113.192.31.182|8080|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|12|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|13|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|14|92.86.207.198|8080|Romania|Vaideeni|Romtelecom|
-|15|113.53.29.142|8080|Thailand|Phuket|TOT Public Company Limited|
-|16|103.156.249.19|8181|Indonesia|Gambor Krajan|Trans Media Telekomunikasi|
-|17|180.190.84.60|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|18|219.148.171.178|9445|China|Hechi|Chinanet|
-|19|204.199.201.133|999|Mexico|Mexico City|Cirion Technologies Solutions|
-|20|1.2.248.41|80|Thailand|Bang Khen|TOT Public Company Limited|
+|3|101.109.44.190|8080|Thailand|Suan Luang|TOT Public Company Limited|
+|4|103.173.162.3|8818|Indonesia|Jatiwangi|Paket Data Andal|
+|5|103.156.249.19|8181|Indonesia|Gambor Krajan|Trans Media Telekomunikasi|
+|6|118.137.63.115|8080|Indonesia|Surabaya|Linknet-Fastnet ASN|
+|7|184.82.210.145|8080|Thailand|Bangkok|AIS-Fibre|
+|8|45.194.3.108|8080|India|Noida|CtrlS|
+|9|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|167.99.8.113|8003|United States|North Bergen|DigitalOcean, LLC|
+|12|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
+|13|38.199.250.2|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
+|14|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
+|15|103.239.41.185|8080|Indonesia|Jakarta|PT Data Telematika Indonesia|
+|16|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|17|88.156.178.59|1122|Poland|Warsaw|Vectra S.A|
+|18|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
+|19|103.61.226.182|8080|Indonesia|Cikampek|PT Pusat Fiber Indonesia|
+|20|184.82.160.242|8080|Thailand|Chum Phae|AIS-Fibre|
 
 
 
