@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5068** proxies at the latest update. Usable proxies are below.
+> Scraper found **5114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1002|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1048|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|622|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|2|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|3|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|4|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|5.200.72.61|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|7|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|216.152.149.246|80|United States|Newark|GTHost|
-|11|2.177.39.97|8080|Iran|Tehran|Information Technology Company|
-|12|147.161.246.34|11727|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|157.15.64.181|8080|Indonesia|Kendal|PT Cynet Indonesia Networks|
-|14|185.147.157.135|3128|United States|Los Angeles|Advin Services LLC|
-|15|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|16|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|147.161.246.34|11727|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|3|103.156.249.19|8181|Indonesia|Gambor Krajan|Trans Media Telekomunikasi|
+|4|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|5|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|6|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
+|7|45.222.101.111|8080|Nigeria|Obalende|Zeta-WEB|
+|8|58.69.208.243|8081|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
+|9|148.224.7.82|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|10|38.9.213.86|999|Colombia|Soledad|Cogent Communications|
+|11|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|12|103.166.158.213|8080|Indonesia|Penajam|PT Timor Lintas Nusantara|
+|13|103.39.51.170|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|14|103.204.46.2|8090|Indonesia|Pacitan|PT Wifa Lintas Data|
+|15|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|18|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
+|19|41.78.170.178|8040|Tanzania|Arusha|Habari Node Public Limited|
+|20|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
 
 
 
